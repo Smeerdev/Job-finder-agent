@@ -1,10 +1,10 @@
-# Indian Tech Internships
+# Indian Tech Roles (2026 Graduates)
 
 [![CI](https://github.com/Rohan-droid7341/internship-engine-india/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohan-droid7341/internship-engine-india/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Frohan-droid7341.github.io%2Finternship-engine-india%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://rohan-droid7341.github.io/internship-engine-india/feed.xml)
 
-A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
+A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**5 open roles · 3 new this week · 4,817 companies tracked · updated Aug 16, 2026 at 03:47 UTC**
+**17 open roles · 15 new this week · 4,817 companies tracked · updated Aug 16, 2026 at 08:23 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,17 +13,29 @@ A self-updating engine that tracks tech internships so you don't have to. Instea
 **🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7341.github.io/internship-engine-india/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7341%2Finternship-engine-india%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## Summer 2027 (International)  (5 open)
+## 2026 Graduates (International)  (17 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| BlackRock | Associate - Power Bi Developer, Data Analytics ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai, India | Aug 13, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Analyst--Data-Analytics_R263882) |
+| Quantum | Graduate Data Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | London (hybrid) | Aug 13, 2026 | [Apply](https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6) |
+| Cigna Group | Software Engineering Associate Advisor - HIH - Evernorth ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Aug 11, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_26001226) |
 | Ancestry | Machine Learning Engineer, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Aug 11, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
 | Cambium Learning Group | Machine Learning Intern ~ | Data & ML/AI | PhD | Remote | Aug 11, 2026 | [Apply](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561) |
-| RRS Group | 2027 Software Engineer Intern - Placement Year | Software | B.Tech/BS | San Francisco, XX (Remote) | Aug 09, 2026 | [Apply](https://jobs.smartrecruiters.com/RRSGroup/744000142513209) |
+| Oaktree Capital Management | Associate, Workday Financial Developer (L3) ~ 🆕 | Software | — | Hyderabad | Aug 04, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236) |
+| HEXAWARE | Java Full Stack Engineer - Associate ~ 🆕 | Software | — | India | Aug 01, 2026 | [Apply](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/626568) |
+| Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) 🆕 | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Jul 31, 2026 | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) |
+| Ares Management | Associate Developer - HR Tech (Workday) ~ 🆕 | Software | B.Tech/BS | Mumbai, India | Jul 31, 2026 | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623) |
 | Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer ~ | Software | 0-1 Yr<br>B.Tech/BS | India, Bangalore | Jul 30, 2026 | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255) |
+| AffirmedRx | Associate, Data Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Jul 28, 2026 | [Apply](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) |
+| Priceline | Associate Software Engineer ~ 🆕 | Software | B.Tech/BS | Mumbai | Jul 21, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5752-1) |
+| ReliaQuest | Associate Software Engineer ~ 🆕 | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
+| Oaktree Capital Management | Associate - Workday reporting developer ~ 🆕 | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
+| Genworth Financial | Associate Application Development Analyst (.Net Developer) ~ 🆕 | Software | B.Tech/BS | Remote India | Oct 21, 2025 | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Remote-India/Associate-Application-Development-Analyst--Net-Developer-_REQ-250458) |
+| Amgen | Associate PLM Software Engineer ~ 🆕 | Software | B.Tech/BS | India - Hyderabad | Sep 30, 2025 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973) |
 | Valeo | Intern - AI ~ | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (4 of 5)._
+_~ = the title doesn't state a year; bucketed here from its posting date (16 of 17)._
 
 ## What this is
 
@@ -41,7 +53,7 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 
 - **Roles:** Software Engineering, Data Science & Machine Learning (and closely related technical internships)
 - **Region:** United States
-- **Cycles:** Summer 2027 and Fall 2026
+- **Cycles:** 2026 Graduates
 
 ## About
 
@@ -59,7 +71,7 @@ I built this engine to automate tracking for top-tier tech internships across In
 
 <a id="drop-radar"></a>
 
-## 📅 Drop Radar — when companies usually post for Summer 2027
+## 📅 Drop Radar — when companies usually post for 2026 Graduates
 
 Stop refreshing career pages. Every date here is **real or verified** — no third-party list. 🎯 = the engine **saw the drop itself** from the company's own careers API; the rest are hand-checked typical opening windows for marquee names. ✅ = already live in the list above.
 
@@ -67,67 +79,38 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 
 | Company | Typical opening | Expected this cycle | Status |
 |---|---|---|---|
-| Citadel | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Citadel Securities | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Databricks | ~Aug | ~Aug · any day now | ⏳ waiting |
-| DoorDash | ~Aug | ~Aug · any day now | ⏳ waiting |
-| DRW | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Google | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Jane Street | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Meta | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Optiver | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Pinterest | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Salesforce | ~Aug | ~Aug · any day now | ⏳ waiting |
-| SIG | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Snowflake | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Uber | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Adobe | ~Sep | ~Sep · in ~16d | ⏳ waiting |
-| Airbnb | ~Sep | ~Sep · in ~16d | ⏳ waiting |
-| Bloomberg | ~Sep | ~Sep · in ~16d | ⏳ waiting |
-| Dropbox | ~Sep | ~Sep · in ~16d | ⏳ waiting |
-| Plaid | ~Sep | ~Sep · in ~16d | ⏳ waiting |
-| Point72 | ~Sep | ~Sep · in ~16d | ⏳ waiting |
-| Robinhood | ~Sep | ~Sep · in ~16d | ⏳ waiting |
-| Roblox | ~Sep | ~Sep · in ~16d | ⏳ waiting |
-| Stripe | ~Sep | ~Sep · in ~16d | ⏳ waiting |
-| D.E. Shaw | ~Oct | ~Oct | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec | ⏳ waiting |
-| Ramp | ~Dec | ~Dec | ⏳ waiting |
-| Two Sigma | ~Dec | ~Dec | ⏳ waiting |
-| Apple | rolling | year-round | ⏳ waiting |
-| Datadog | rolling | year-round | ⏳ waiting |
-| Jump Trading | rolling | year-round | ⏳ waiting |
+| Adobe | — | — | ⏳ waiting |
+| Airbnb | — | — | ⏳ waiting |
+| Akuna Capital | — | — | ⏳ waiting |
+| Amazon | — | — | ⏳ waiting |
+| Bloomberg | — | — | ⏳ waiting |
+| Citadel | — | — | ⏳ waiting |
+| Citadel Securities | — | — | ⏳ waiting |
+| Coinbase | — | — | ⏳ waiting |
+| D.E. Shaw | — | — | ⏳ waiting |
+| Databricks | — | — | ⏳ waiting |
+| DoorDash | — | — | ⏳ waiting |
+| Dropbox | — | — | ⏳ waiting |
+| DRW | — | — | ⏳ waiting |
+| Five Rings | — | — | ⏳ waiting |
+| Google | — | — | ⏳ waiting |
+| Hudson River Trading | — | — | ⏳ waiting |
+| Jane Street | — | — | ⏳ waiting |
+| Meta | — | — | ⏳ waiting |
+| Optiver | — | — | ⏳ waiting |
+| Pinterest | — | — | ⏳ waiting |
+| Plaid | — | — | ⏳ waiting |
+| Point72 | — | — | ⏳ waiting |
+| Ramp | — | — | ⏳ waiting |
+| Robinhood | — | — | ⏳ waiting |
+| Roblox | — | — | ⏳ waiting |
+| Salesforce | — | — | ⏳ waiting |
+| SIG | — | — | ⏳ waiting |
+| Snowflake | — | — | ⏳ waiting |
+| Stripe | — | — | ⏳ waiting |
+| Tower Research Capital | — | — | ⏳ waiting |
 
-_60 companies on the [full radar](https://rohan-droid7341.github.io/internship-engine-india/#radar). **25** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
-
-<details>
-<summary><strong>Recently closed</strong> — 21 roles taken down in the last 14 days</summary>
-
-| Company | Role | Cycle | Closed |
-|---|---|---|---|
-| Unisys | AI Engineering Intern | Summer 2027 | 2026-08-15 |
-| GSK | Intern Bios Programming | Summer 2027 | 2026-08-14 |
-| Novartis | Intern AI & DS Engineering | Summer 2027 | 2026-08-14 |
-| Novartis | Intern QMS AI & Automation | Summer 2027 | 2026-08-14 |
-| Unisys | AI Use Case Prototyping Intern | Summer 2027 | 2026-08-14 |
-| Unisys | AI Strategy Intern | Summer 2027 | 2026-08-14 |
-| eBay | Software Engineer Intern | Summer 2027 | 2026-08-14 |
-| Scopely | Intern - Gen. AI Art | Summer 2027 | 2026-08-14 |
-| Ancestry | Data Science - AI Document Understanding, Co-op | Summer 2027 | 2026-08-11 |
-| Ancestry | Machine Learning Engineer, Co-op | Summer 2027 | 2026-08-11 |
-| NatWest Group | AI ML Intern (2026 Graduates, 6-Month Internship) | Fall 2026 | 2026-08-10 |
-| Stripe | Software Engineer, Intern | Summer 2027 | 2026-08-10 |
-| Epicor | AI QA Developer Intern | Summer 2027 | 2026-08-07 |
-| GlobalFoundries | Intern - Compact Modeling Flow using AI/ML/Automation | Summer 2027 | 2026-08-06 |
-| GE Aerospace | Applied AI Engineering Intern (m/f/d) | Fall 2026 | 2026-08-05 |
-| Unisys | AI Engineering Intern | Summer 2027 | 2026-08-04 |
-| Ralliant | DevOps - Intern | Summer 2027 | 2026-08-04 |
-| Unisys | AI Engineering Intern | Summer 2027 | 2026-08-04 |
-| Criteo | Data Analyst- Intern | Summer 2027 | 2026-08-03 |
-| Epifi | Ai Engg Intern | Summer 2027 | 2026-08-03 |
-| IMC Trading | 2027 - Software Engineering Intern - BITS Pilani | Summer 2027 | 2026-08-02 |
-
-</details>
+_43 companies on the [full radar](https://rohan-droid7341.github.io/internship-engine-india/#radar). **1** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 ---
 
@@ -144,7 +127,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,817 companies across 24 ATS platforms · 100% fetch success · completed in 295.5s · median detection latency 637 min · real posted dates on 100% of open roles._
+_Engine (last run): 4,817 companies across 24 ATS platforms · 99% fetch success · completed in 391.7s · median detection latency 668 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 

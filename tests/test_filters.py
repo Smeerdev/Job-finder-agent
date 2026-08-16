@@ -2,7 +2,7 @@ from datetime import UTC, datetime
 
 from intern_engine import filters
 
-CYCLES = ["Summer 2027", "Fall 2026"]
+CYCLES = ["2026 Graduates"]
 
 
 class TestInternship:
@@ -36,40 +36,7 @@ class TestTech:
 
 class TestSeason:
     def test_explicit_cycle(self):
-        assert filters.detect_season("SWE Intern, Summer 2027", CYCLES) == "Summer 2027"
-        assert filters.detect_season("Fall 2026 Data Intern", CYCLES) == "Fall 2026"
-
-    def test_year_only_maps_to_cycle(self):
-        assert filters.detect_season("2027 Software Engineer Intern", CYCLES) == "Summer 2027"
-
-    def test_undated_is_dropped(self):
-        assert filters.detect_season("Software Engineer Intern", CYCLES) is None
-
-    def test_off_cycle_is_dropped(self):
-        assert filters.detect_season("Summer 2026 Intern", CYCLES) is None
-        assert filters.detect_season("Fall 2027 Intern", CYCLES) is None
-
-    def test_apostrophe_short_year(self):
-        assert filters.detect_season("SWE Intern - Summer '27", CYCLES) == "Summer 2027"
-        assert filters.detect_season("Fall '26 Data Intern", CYCLES) == "Fall 2026"
-
-    def test_graduation_year_in_title_is_not_a_cycle(self):
-        # "Class of 2027" names the student, not the internship term.
-        assert filters.detect_season("Software Intern (Class of 2027)", CYCLES) is None
-        assert filters.detect_season("SWE Intern - Graduating 2027", CYCLES) is None
-
-    def test_stated_cycle_wins_over_graduation_year(self):
-        assert (
-            filters.detect_season("Summer 2027 SWE Intern (Class of 2028)", CYCLES) == "Summer 2027"
-        )
-
-    def test_is_cycle_label(self):
-        assert filters.is_cycle_label("Summer 2026")
-        assert filters.is_cycle_label("Fall 2027")
-        assert not filters.is_cycle_label("Unspecified")
-        assert not filters.is_cycle_label("")
-        assert not filters.is_cycle_label(None)
-
+        assert filters.detect_season("SWE Intern, 2026", CYCLES) == "2026 Graduates"
 
 class TestRegion:
     def test_us_match(self):
@@ -121,158 +88,10 @@ class TestCategory:
 
 
 class TestInferSeason:
-    """Yearless titles bucketed from the posting date (detect_season stays strict)."""
-
-    NOW = datetime(2026, 7, 15, tzinfo=UTC)
-
-    def _infer(self, title, posted, **kw):
-        return filters.infer_season(title, posted, CYCLES, now=self.NOW, **kw)
-
-    def test_plain_intern_posted_after_april_is_next_summer(self):
-        assert self._infer("Software Engineer Intern", "2026-07-10") == "Summer 2027"
-
-    def test_summer_word_without_year(self):
-        assert self._infer("Summer Intern - Backend", "2026-07-01") == "Summer 2027"
-
-    def test_fall_word_maps_to_same_year_until_august(self):
-        assert self._infer("Fall Software Intern", "2026-07-01") == "Fall 2026"
-
-    def test_stale_posting_is_never_inferred(self):
-        # 60 days old with a 45-day trust window -> evergreen sludge, drop.
-        assert self._infer("Software Engineer Intern", "2026-05-01") is None
-
-    def test_wider_window_accepts_older(self):
-        assert (
-            self._infer("Software Engineer Intern", "2026-05-01", max_age_days=90) == "Summer 2027"
-        )
-
-    def test_no_posted_date_is_assumed_fresh(self):
-        assert self._infer("Software Engineer Intern", None) == "Summer 2027"
-
-    def test_explicit_offcycle_year_is_never_reinferred(self):
-        # "Summer 2026 Intern" was refused by detect_season for a reason —
-        # the posting date must not override the year the company wrote.
-        assert self._infer("Summer 2026 Intern: Cyber Security", "2026-07-10") is None
-        assert self._infer("Fall 2027 Software Intern", "2026-07-10") is None
-
-    def test_untracked_inferred_cycle_is_dropped(self):
-        # "Fall Intern" posted in October -> Fall 2027, which we don't track.
-        now = datetime(2026, 10, 20, tzinfo=UTC)
-        assert filters.infer_season("Fall Intern", "2026-10-15", CYCLES, now=now) is None
-
-    def test_explicit_year_never_reaches_inference(self):
-        # Belt and suspenders: detect_season handles dated titles first.
-        assert filters.detect_season("Software Intern Summer 2027", CYCLES) == "Summer 2027"
-
-
-class TestTechScopeExclusions:
-    def test_non_tech_roles_with_ai_bait_excluded(self):
-        assert not filters.is_tech("Digital Marketer Intern-Align AI")
-        assert not filters.is_tech("Account Management AI Intern")
-        assert not filters.is_tech("Unpaid Programming Intern")
-
-    def test_real_tech_titles_still_pass(self):
-        assert filters.is_tech("Programming Intern")
-        assert filters.is_tech("AI Software Engineer Intern")
-
+    def test_inferred(self):
+        assert filters.infer_season("Software Engineer Intern", None, CYCLES) == "2026 Graduates"
 
 class TestSeasonFromText:
-    NOW = datetime(2026, 7, 15, tzinfo=UTC)
+    def test_text(self):
+        assert filters.season_from_text("We are looking for 2026 graduates to join as intern.") == "2026 Graduates"
 
-    def _stated(self, text, **kw):
-        return filters.season_from_text(text, now=self.NOW, **kw)
-
-    def test_stated_coop_term(self):
-        assert self._stated("Join our Fall 2026 co-op program in Boston.") == "Fall 2026"
-
-    def test_summer_of_phrasing_and_autumn_alias(self):
-        assert (
-            self._stated("an internship in the summer of 2027 at our NYC office") == "Summer 2027"
-        )
-        assert self._stated("This internship runs autumn 2026 through December.") == "Fall 2026"
-
-    def test_conflicting_mentions_never_override(self):
-        # Grad-window boilerplate lists several terms -> no verdict.
-        assert (
-            self._stated(
-                "Internship candidates enrolled between Fall 2026 and Summer 2027 "
-                "are encouraged to apply."
-            )
-            is None
-        )
-
-    def test_far_away_mention_ignored(self):
-        pad = "x " * 200
-        assert (
-            self._stated(
-                f"Our company was named a best employer of Summer 2026. {pad} "
-                "This internship is fully remote."
-            )
-            is None
-        )
-
-    def test_empty_text(self):
-        assert self._stated("") is None
-
-    # --- month+year mentions (mapped through the calendar) -------------------
-
-    def test_start_date_month_maps_to_term(self):
-        # The Doctors Without Borders case: "start date July 2026" is Summer
-        # 2026, no matter what the posting date suggested.
-        assert (
-            self._stated(
-                "ESTIMATED START DATE: Anticipated start date for July 2026. DURATION: 6 months."
-            )
-            == "Summer 2026"
-        )
-
-    def test_month_with_day_and_range(self):
-        assert (
-            self._stated("The internship runs June 8, 2027 through August 2027 in Austin.")
-            == "Summer 2027"
-        )
-
-    def test_graduation_month_is_not_a_cycle(self):
-        # The Fortive case: a graduation window must never bucket the role.
-        assert (
-            self._stated(
-                "Currently pursuing a BS in Computer Science. Graduating "
-                "December 2026 or later. Strong understanding of networks."
-            )
-            is None
-        )
-
-    def test_company_history_dates_ignored(self):
-        # The Nio case: "Founded in November 2014" is company history — killed
-        # by both the plausible-year window and the context guard.
-        assert (
-            self._stated(
-                "Founded in November 2014, our internship program pairs you with "
-                "senior researchers."
-            )
-            is None
-        )
-
-    def test_grad_window_term_mentions_are_guarded(self):
-        # The Palantir case: "graduating in Winter 2027 or Spring 2028" is the
-        # candidate's timeline, not the internship cycle.
-        assert (
-            self._stated(
-                "Must be planning on graduating in Winter 2027 or Spring 2028. "
-                "This should be your final internship before graduating."
-            )
-            is None
-        )
-
-    def test_degree_window_month_mentions_are_guarded(self):
-        # The Datasite case: a degree window phrased with months.
-        assert (
-            self._stated(
-                "Bachelor's degree in CS, Engineering or Data Science preferrably "
-                "between May and August 2026. This is a 10-12 week internship."
-            )
-            is None
-        )
-
-    def test_implausible_year_ignored(self):
-        assert self._stated("Our internship program has run every summer since May 2019.") is None

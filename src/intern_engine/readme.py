@@ -155,7 +155,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int) -> list[s
     repo = config.repo_slug()
     stats_url = quote(f"{pages}/api/stats.json", safe="")
     return [
-        "# Indian Tech Internships",
+        "# Indian Tech Roles (2026 Graduates)",
         "",
         f"[![CI](https://github.com/{repo}/actions/workflows/ci.yml/badge.svg)]"
         f"(https://github.com/{repo}/actions/workflows/ci.yml) "
@@ -164,7 +164,7 @@ def _header(cfg: dict, total_open: int, companies: int, new_week: int) -> list[s
         "![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950) "
         f"[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)]({pages}/feed.xml)",
         "",
-        "A self-updating engine that tracks tech internships so you don't have to. "
+        "A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. "
         "Instead of refreshing a dozen career pages by hand, it reads company hiring "
         "feeds directly and keeps one live list, newest roles on top, refreshed "
         "automatically throughout the day.",

@@ -9,8 +9,11 @@ from __future__ import annotations
 import re
 from datetime import UTC, datetime
 
-# --- internship detection (whole words, never substrings) --------------------
-_INTERN_RE = re.compile(r"\b(intern|interns|internship|co[\s-]?op)\b", re.IGNORECASE)
+# --- internship/new-grad detection (whole words, never substrings) -----------
+_INTERN_RE = re.compile(
+    r"\b(intern|interns|internship|co[\s-]?op|new\s*grad|new\s*graduate|fresher|entry\s*level|graduate|2026\s*grad|2026\s*graduate|associate)\b", 
+    re.IGNORECASE
+)
 _SENIOR_RE = re.compile(
     r"\b(senior|sr|staff|principal|manager|director|\blead\b|vp|head)\b",
     re.IGNORECASE,
@@ -58,12 +61,6 @@ _EXCLUDE_RE = re.compile(
 _YEAR_RE = re.compile(r"\b(20\d\d)\b")
 # "Summer '27" / "SWE Intern '27": two-digit years behind an apostrophe.
 _SHORT_YEAR_RE = re.compile(r"['’](\d{2})\b")
-# A graduation year in a title ("Class of 2027", "Graduating 2027") names the
-# student, not the internship cycle — those years must not bucket the role.
-_TITLE_GRAD_RE = re.compile(
-    r"\b(?:class\s+of|grad(?:uating|uation)?(?:\s+(?:date|year))?:?(?:\s+in)?)\s+['’]?(?:20)?\d{2}\b",
-    re.IGNORECASE,
-)
 
 
 def is_internship(title: str) -> bool:
@@ -77,75 +74,34 @@ def is_tech(title: str) -> bool:
     return bool(_INCLUDE_RE.search(title))
 
 
-_CYCLE_RE = re.compile(r"(Summer|Fall|Spring|Winter)\s+(\d{4})", re.IGNORECASE)
+_CYCLE_RE = re.compile(r"(2026 Graduates)", re.IGNORECASE)
 
 
 def is_cycle_label(value) -> bool:
-    """True for a well-formed "<Term> <Year>" label (tracked or not)."""
+    """True for a well-formed cycle label (tracked or not)."""
     return bool(value) and bool(_CYCLE_RE.fullmatch(str(value).strip()))
 
 
 def states_explicit_year(title: str) -> bool:
-    """True when the title names a year (graduation years don't count).
+    """True when the title names a year.
 
     Used as a hard stop: when detect_season refused a year-stating title, that
     year is off-cycle — the role must not be rescued by a sticky stored season
-    or a posting-date inference ("Summer 2026 Intern" stays out, period).
+    or a posting-date inference.
     """
-    scannable = _TITLE_GRAD_RE.sub(" ", title)
-    return bool(_YEAR_RE.search(scannable) or _SHORT_YEAR_RE.search(scannable))
+    return bool(_YEAR_RE.search(title) or _SHORT_YEAR_RE.search(title))
 
 
-def detect_season(title: str, cycles=("Summer 2027", "Fall 2026"), *_ignored) -> str | None:
+def detect_season(title: str, cycles=("2026 Graduates",), *_ignored) -> str | None:
     """Bucket a title into a cycle ONLY if the year is explicit in the title.
-
-    This is strict on purpose: a role must actually state its year (e.g. "2027"
-    or "Fall 2026"). Titles with no year fall through to `infer_season`, which
-    reasons from the posting date instead and marks the result as inferred —
-    a stated year always wins over an inference.
-
-    Examples (cycles = Summer 2027, Fall 2026):
-      "Software Engineer Intern, Summer 2027"  -> "Summer 2027"
-      "2027 Software Engineer Intern"          -> "Summer 2027"  (year explicit)
-      "Fall 2026 Data Science Intern"          -> "Fall 2026"
-      "Software Engineer Intern"               -> None  (no year -> drop)
-      "Summer 2026 Intern"                     -> None  (past -> drop)
-      "Fall 2027 Intern"                       -> None  (cycle not tracked)
     """
-    parsed = []  # (term, year, label)
-    for label in cycles:
-        m = _CYCLE_RE.match(label.strip())
-        if m:
-            parsed.append((m.group(1).capitalize(), m.group(2), label))
-
-    scannable = _TITLE_GRAD_RE.sub(" ", title)  # drop graduation-year phrases
-    years = set(_YEAR_RE.findall(scannable))
-    years |= {f"20{d}" for d in _SHORT_YEAR_RE.findall(scannable)}
+    years = set(_YEAR_RE.findall(title))
+    years |= {f"20{d}" for d in _SHORT_YEAR_RE.findall(title)}
     if not years:
         return None  # no explicit year in the title -> drop
 
-    t = title.lower()
-    if "summer" in t:
-        term = "Summer"
-    elif "fall" in t or "autumn" in t:
-        term = "Fall"
-    elif "spring" in t:
-        term = "Spring"
-    elif "winter" in t:
-        term = "Winter"
-    else:
-        term = None
-
-    # 1) exact term + year match (e.g. "Summer 2027")
-    for cterm, cyear, label in parsed:
-        if cyear in years and term == cterm:
-            return label
-    # 2) year matches a tracked cycle and the title has no conflicting term
-    #    (e.g. "2027 Software Engineer Intern" -> the 2027 cycle)
-    for _cterm, cyear, label in parsed:
-        if cyear in years and term is None:
-            return label
-    # year stated but term conflicts (e.g. "Fall 2027") -> not a tracked cycle
+    if "2026" in years and "2026 Graduates" in cycles:
+        return "2026 Graduates"
     return None
 
 
@@ -159,56 +115,34 @@ _TERM_ROLLOVER_MONTH = {"Summer": 4, "Fall": 8, "Spring": 2, "Winter": 10}
 def infer_season(
     title: str,
     posted_at: str | None,
-    cycles=("Summer 2027", "Fall 2026"),
+    cycles=("2026 Graduates",),
     max_age_days: int = 45,
     now: datetime | None = None,
 ) -> str | None:
     """Best-effort cycle for a title with NO explicit year, from its posting date.
-
-    `detect_season` stays strict (a stated year always wins and never lands
-    here). This handles the measured majority of real postings whose titles
-    just say "Software Engineer Intern": a role *posted recently* is recruiting
-    for the next upcoming cycle of its term (default term: Summer, the dominant
-    intern cycle). Recency is what makes the guess sound, so postings older
+    Recency is what makes the guess sound, so postings older
     than `max_age_days` — evergreen/stale listings — are never inferred.
 
     Returns a tracked cycle label, or None (leave the role dropped).
     """
     if states_explicit_year(title):
-        # The title states a year and detect_season still refused it — that's
-        # an explicit OFF-cycle role ("Summer 2026 Intern"). Guessing a cycle
-        # from the posting date would override what the company wrote.
         return None
     now = now or datetime.now(UTC)
     
     if not posted_at:
-        # For scrapers that can't easily extract a precise date (LinkedIn, Naukri, etc.),
-        # assume the posting is fresh since it is currently actively listed.
         posted = now
     else:
         try:
             posted = datetime.strptime(posted_at[:10], "%Y-%m-%d").replace(tzinfo=UTC)
             age_days = (now - posted).days
-            if not (-1 <= age_days <= max_age_days):  # -1 tolerates feed timezone skew
+            if not (-1 <= age_days <= max_age_days):
                 return None
         except ValueError:
             posted = now
 
-    t = title.lower()
-    if "summer" in t:
-        term = "Summer"
-    elif "fall" in t or "autumn" in t:
-        term = "Fall"
-    elif "spring" in t:
-        term = "Spring"
-    elif "winter" in t:
-        term = "Winter"
-    else:
-        term = "Summer"
-
-    year = posted.year if posted.month <= _TERM_ROLLOVER_MONTH[term] else posted.year + 1
-    label = f"{term} {year}"
-    return label if label in cycles else None
+    if "2026 Graduates" in cycles:
+        return "2026 Graduates"
+    return None
 
 
 # --- season stated in posting TEXT (verifies date-inferred cycles) ------------
@@ -262,60 +196,26 @@ _MONTH_TERM = {
     12: "Winter",
 }
 _INTERNISH_RE = re.compile(
-    r"\b(intern(?:ship)?s?|co[\s-]?op|start\s+date|program|term|semester)\b", re.I
+    r"\b(intern(?:ship)?s?|co[\s-]?op|start\s+date|program|graduat\w*|class\s+of|degree|fresher|new\s+grad)\b", re.I
 )
-# A date in these contexts describes the candidate or the company, not the
-# internship cycle ("graduating in December 2027", "founded in November 2014").
-# Same-sentence only: a period/!/?/; between the keyword and the date resets it.
 _NOT_CYCLE_BACK_RE = re.compile(
-    r"\b(?:graduat\w*|class\s+of|degree|diploma|founded|established|commencement)\b[^.!?;]*$",
+    r"\b(?:founded|established)\b[^.!?;]*$",
     re.I,
 )
 
 
 def season_from_text(text: str, near: int = 90, now: datetime | None = None) -> str | None:
-    """The cycle a posting's own text states, or None.
-
-    Precision-first, mirroring detect_season's ethos. A mention counts only when
-    ALL of these hold, and a verdict is returned only when every counted mention
-    agrees — a posting listing several terms (grad-window boilerplate) never
-    overrides the date inference:
-
-      - "<term> <year>" or "<month> [day,] <year>" (month mapped via calendar)
-      - internship-ish words within `near` characters (skips stray dates)
-      - the year is plausible for a live posting (this year .. +2), which kills
-        "founded in November 2014"-style company history
-      - the same sentence doesn't frame it as a graduation/company date
-        ("graduating in December 2027" is the candidate, not the cycle)
-    """
     if not text:
         return None
-    now = now or datetime.now(UTC)
-    year_lo, year_hi = now.year, now.year + 2
-
-    def _counted(m: re.Match, label: str, year: int) -> str | None:
-        if not (year_lo <= year <= year_hi):
-            return None
+    
+    year_re = re.compile(r"\b2026\b")
+    for m in year_re.finditer(text):
         lo = max(0, m.start() - near)
-        if not _INTERNISH_RE.search(text[lo : m.end() + near]):
-            return None
-        if _NOT_CYCLE_BACK_RE.search(text[lo : m.start()]):
-            return None
-        return label
-
-    labels = set()
-    for m in _TEXT_CYCLE_RE.finditer(text):
-        term = m.group(1).capitalize()
-        term = "Fall" if term == "Autumn" else term
-        label = _counted(m, f"{term} {m.group(2)}", int(m.group(2)))
-        if label:
-            labels.add(label)
-    for m in _TEXT_MONTH_RE.finditer(text):
-        term = _MONTH_TERM[_MONTH_NUM[m.group(1).lower().rstrip(".")]]
-        label = _counted(m, f"{term} {m.group(2)}", int(m.group(2)))
-        if label:
-            labels.add(label)
-    return labels.pop() if len(labels) == 1 else None
+        if _INTERNISH_RE.search(text[lo : m.end() + near]):
+            if not _NOT_CYCLE_BACK_RE.search(text[lo : m.start()]):
+                return "2026 Graduates"
+            
+    return None
 
 
 # --- location: US / Canada detection -----------------------------------------

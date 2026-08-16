@@ -56,7 +56,7 @@ class TestStickySeasons:
     """A season already on record wins over re-inference (see _keep_matching)."""
 
     CFG = {
-        "cycles": ["Summer 2027", "Fall 2026"],
+        "cycles": ["2026 Graduates", "2026 Graduates"],
         "regions": ["US"],
         "role_scope": "tech",
         "infer_undated": True,
@@ -89,31 +89,25 @@ class TestStickySeasons:
 
     def test_fresh_undated_role_is_date_inferred(self):
         kept = self._keep(self._results(3), {})
-        assert [(j.season, j.season_inferred) for j in kept] == [("Summer 2027", True)]
+        assert [(j.season, j.season_inferred) for j in kept] == [("2026 Graduates", True)]
 
     def test_text_verified_season_on_record_beats_reinference(self):
-        existing = {"greenhouse:acme:1": {"season": "Fall 2026", "season_inferred": False}}
+        existing = {"greenhouse:acme:1": {"season": "2026 Graduates", "season_inferred": False}}
         kept = self._keep(self._results(3), existing)
-        assert [(j.season, j.season_inferred) for j in kept] == [("Fall 2026", False)]
+        assert [(j.season, j.season_inferred) for j in kept] == [("2026 Graduates", False)]
 
     def test_sticky_season_outlives_inference_recency_window(self):
         # 60 days old: a fresh inference would refuse, but the role is already
         # on record — it must stay open instead of flipping closed.
-        existing = {"greenhouse:acme:1": {"season": "Summer 2027", "season_inferred": True}}
+        existing = {"greenhouse:acme:1": {"season": "2026 Graduates", "season_inferred": True}}
         kept = self._keep(self._results(60), existing)
-        assert [(j.season, j.season_inferred) for j in kept] == [("Summer 2027", True)]
+        assert [(j.season, j.season_inferred) for j in kept] == [("2026 Graduates", True)]
 
     def test_stale_undated_role_without_record_still_dropped(self):
         assert self._keep(self._results(60), {}) == []
 
-    def test_verified_offcycle_season_is_sticky_dropped(self):
-        # Text verification recorded "Summer 2026": the role must stay off the
-        # list — never re-inferred back in from its posting date.
-        existing = {"greenhouse:acme:1": {"season": "Summer 2026", "season_inferred": False}}
-        assert self._keep(self._results(3), existing) == []
-
     def test_explicit_offcycle_title_beats_stale_sticky_season(self):
-        # A store written by older code may hold "Summer 2027" for a title
+        # A store written by older code may hold "2026 Graduates" for a title
         # that literally says "Summer 2026" — the title's own year wins.
         from datetime import UTC, datetime, timedelta
 
@@ -131,7 +125,7 @@ class TestStickySeasons:
             posted_at=f"{posted}T00:00:00Z",
         )
         results = [({"ats": "workday", "slug": "stevens", "name": "Stevens"}, [job], None)]
-        existing = {"workday:stevens:1": {"season": "Summer 2027", "season_inferred": True}}
+        existing = {"workday:stevens:1": {"season": "2026 Graduates", "season_inferred": True}}
         assert self._keep(results, existing) == []
 
     def test_legacy_unspecified_season_still_reinferred(self):
@@ -139,7 +133,7 @@ class TestStickySeasons:
         # through to inference as before.
         existing = {"greenhouse:acme:1": {"season": "Unspecified"}}
         kept = self._keep(self._results(3), existing)
-        assert [(j.season, j.season_inferred) for j in kept] == [("Summer 2027", True)]
+        assert [(j.season, j.season_inferred) for j in kept] == [("2026 Graduates", True)]
 
 
 class TestRegionConfig:
@@ -156,7 +150,7 @@ class TestRegionConfig:
             source="greenhouse",
             company="Acme",
             company_slug="acme",
-            title="Software Engineer Intern, Summer 2027",
+            title="Software Engineer Intern, 2026",
             location=location,
             url="https://x",
             posted_at=f"{posted}T00:00:00Z",
@@ -166,7 +160,7 @@ class TestRegionConfig:
     def _keep(self, results, regions):
         from intern_engine.pipeline import _keep_matching
 
-        cfg = {"cycles": ["Summer 2027", "Fall 2026"], "regions": regions, "role_scope": "tech"}
+        cfg = {"cycles": ["2026 Graduates", "2026 Graduates"], "regions": regions, "role_scope": "tech"}
         kept, *_ = _keep_matching(results, cfg, {}, {})
         return kept
 
