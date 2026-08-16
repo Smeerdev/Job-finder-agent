@@ -1,16 +1,16 @@
 # Indian Tech Roles (2026 Graduates)
 
-[![CI](https://github.com/Rohan-droid7341/internship-engine-india/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohan-droid7341/internship-engine-india/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Frohan-droid7341.github.io%2Finternship-engine-india%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://rohan-droid7341.github.io/internship-engine-india/feed.xml)
+[![CI](https://github.com/Smeerdev/Job-finder-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Smeerdev/Job-finder-agent/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fsmeerdev.github.io%2FJob-finder-agent%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://smeerdev.github.io/Job-finder-agent/feed.xml)
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**17 open roles · 15 new this week · 4,817 companies tracked · updated Aug 16, 2026 at 08:23 UTC**
+**17 open roles · 17 new this week · 4,817 companies tracked · updated Aug 16, 2026 at 09:28 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
-**Live:** [dashboard](https://rohan-droid7341.github.io/internship-engine-india/) · [RSS feed](https://rohan-droid7341.github.io/internship-engine-india/feed.xml) (instant alerts in any RSS app) · [JSON API](https://rohan-droid7341.github.io/internship-engine-india/api/jobs.json)
+**Live:** [dashboard](https://smeerdev.github.io/Job-finder-agent/) · [RSS feed](https://smeerdev.github.io/Job-finder-agent/feed.xml) (instant alerts in any RSS app) · [JSON API](https://smeerdev.github.io/Job-finder-agent/api/jobs.json)
 
-**🔔 New roles in your inbox:** [subscribe by email](https://rohan-droid7341.github.io/internship-engine-india/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FRohan-droid7341%2Finternship-engine-india%2Fmain%2Fdocs%2Ffeed.xml).)
+**🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
 ## 2026 Graduates (International)  (17 open)
@@ -19,21 +19,21 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 |---|---|---|---|---|---|---|
 | BlackRock | Associate - Power Bi Developer, Data Analytics ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai, India | Aug 13, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Analyst--Data-Analytics_R263882) |
 | Quantum | Graduate Data Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | London (hybrid) | Aug 13, 2026 | [Apply](https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6) |
+| Ancestry | Machine Learning Engineer, Co-op ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Aug 11, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
+| Cambium Learning Group | Machine Learning Intern ~ 🆕 | Data & ML/AI | PhD | Remote | Aug 11, 2026 | [Apply](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561) |
 | Cigna Group | Software Engineering Associate Advisor - HIH - Evernorth ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Aug 11, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_26001226) |
-| Ancestry | Machine Learning Engineer, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Aug 11, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
-| Cambium Learning Group | Machine Learning Intern ~ | Data & ML/AI | PhD | Remote | Aug 11, 2026 | [Apply](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561) |
 | Oaktree Capital Management | Associate, Workday Financial Developer (L3) ~ 🆕 | Software | — | Hyderabad | Aug 04, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236) |
 | HEXAWARE | Java Full Stack Engineer - Associate ~ 🆕 | Software | — | India | Aug 01, 2026 | [Apply](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/626568) |
 | Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) 🆕 | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Jul 31, 2026 | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) |
 | Ares Management | Associate Developer - HR Tech (Workday) ~ 🆕 | Software | B.Tech/BS | Mumbai, India | Jul 31, 2026 | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623) |
-| Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer ~ | Software | 0-1 Yr<br>B.Tech/BS | India, Bangalore | Jul 30, 2026 | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255) |
+| Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer ~ 🆕 | Software | 0-1 Yr<br>B.Tech/BS | India, Bangalore | Jul 30, 2026 | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255) |
 | AffirmedRx | Associate, Data Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Jul 28, 2026 | [Apply](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) |
 | Priceline | Associate Software Engineer ~ 🆕 | Software | B.Tech/BS | Mumbai | Jul 21, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5752-1) |
 | ReliaQuest | Associate Software Engineer ~ 🆕 | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
 | Oaktree Capital Management | Associate - Workday reporting developer ~ 🆕 | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
 | Genworth Financial | Associate Application Development Analyst (.Net Developer) ~ 🆕 | Software | B.Tech/BS | Remote India | Oct 21, 2025 | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Remote-India/Associate-Application-Development-Analyst--Net-Developer-_REQ-250458) |
 | Amgen | Associate PLM Software Engineer ~ 🆕 | Software | B.Tech/BS | India - Hyderabad | Sep 30, 2025 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973) |
-| Valeo | Intern - AI ~ | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
+| Valeo | Intern - AI ~ 🆕 | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 
 _~ = the title doesn't state a year; bucketed here from its posting date (16 of 17)._
 
@@ -45,8 +45,8 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 
 - **📅 [Drop Radar](#drop-radar)** - the only list that shows **what's coming**: each marquee company's typical opening window, then confirmed with the real drop date the moment the engine catches it live.
 - **Real posted dates on every role** - pulled from each job portal itself, so newest-first actually means newest.
-- **Skill tags + pay, extracted** - every posting's text is scanned for the stack it wants (Python, C++, PyTorch, ...) and the pay it states - searchable on the [dashboard](https://rohan-droid7341.github.io/internship-engine-india/), included in the CSV and API.
-- **Alerts your way** - [email digests](https://rohan-droid7341.github.io/internship-engine-india/#subscribe), [RSS](https://rohan-droid7341.github.io/internship-engine-india/feed.xml), or Discord - plus a [live dashboard](https://rohan-droid7341.github.io/internship-engine-india/) with search and custom filters.
+- **Skill tags + pay, extracted** - every posting's text is scanned for the stack it wants (Python, C++, PyTorch, ...) and the pay it states - searchable on the [dashboard](https://smeerdev.github.io/Job-finder-agent/), included in the CSV and API.
+- **Alerts your way** - [email digests](https://smeerdev.github.io/Job-finder-agent/#subscribe), [RSS](https://smeerdev.github.io/Job-finder-agent/feed.xml), or Discord - plus a [live dashboard](https://smeerdev.github.io/Job-finder-agent/) with search and custom filters.
 - **An engine, not a spreadsheet** - polled every hour across multiple ATS platforms with full source in this repo.
 
 ## Scope
@@ -110,7 +110,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Stripe | — | — | ⏳ waiting |
 | Tower Research Capital | — | — | ⏳ waiting |
 
-_43 companies on the [full radar](https://rohan-droid7341.github.io/internship-engine-india/#radar). **1** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_43 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **1** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 ---
 
@@ -127,7 +127,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,817 companies across 24 ATS platforms · 99% fetch success · completed in 391.7s · median detection latency 668 min · real posted dates on 100% of open roles._
+_Engine (last run): 4,817 companies across 24 ATS platforms · 93% fetch success · completed in 406.5s · median detection latency 7768 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 

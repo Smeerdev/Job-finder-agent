@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-16T08:23:27Z",
- "source": "https://github.com/Rohan-droid7341/internship-engine-india",
+ "generated_at": "2026-08-16T09:28:21Z",
+ "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 17,
  "jobs": [
   {
@@ -13,7 +13,7 @@
    "location": "Mumbai, India",
    "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Analyst--Data-Analytics_R263882",
    "posted_at": "2026-08-13T00:00:00Z",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "SQL",
@@ -32,37 +32,13 @@
    "location": "London (hybrid)",
    "url": "https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6",
    "posted_at": "2026-08-13T13:09:38.437+00:00",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "Python",
     "SQL"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "workday:cigna:/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_26001226",
-   "company": "Cigna Group",
-   "title": "Software Engineering Associate Advisor - HIH - Evernorth",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_26001226",
-   "posted_at": "2026-08-11T00:00:00Z",
-   "first_seen_at": "2026-08-16T08:23:27Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "JavaScript",
-    "SQL",
-    "PyTorch",
-    "TensorFlow",
-    "LLMs",
-    "React",
-    "Node.js"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
@@ -74,7 +50,7 @@
    "location": "Remote",
    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
    "posted_at": "2026-08-11T00:00:00Z",
-   "first_seen_at": "2026-08-11T23:37:58Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "Python",
@@ -97,10 +73,34 @@
    "location": "Remote",
    "url": "https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561",
    "posted_at": "2026-08-11T00:00:00Z",
-   "first_seen_at": "2026-08-11T20:55:48Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "Python"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:cigna:/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_26001226",
+   "company": "Cigna Group",
+   "title": "Software Engineering Associate Advisor - HIH - Evernorth",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_26001226",
+   "posted_at": "2026-08-11T00:00:00Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "JavaScript",
+    "SQL",
+    "PyTorch",
+    "TensorFlow",
+    "LLMs",
+    "React",
+    "Node.js"
    ],
    "source": "workday"
   },
@@ -114,7 +114,7 @@
    "location": "Hyderabad",
    "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
    "posted_at": "2026-08-04T00:00:00Z",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [],
    "source": "workday"
@@ -129,7 +129,7 @@
    "location": "India",
    "url": "https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/626568",
    "posted_at": "2026-08-01",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "Java",
@@ -147,7 +147,7 @@
    "location": "Remote - Multiple Locations",
    "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
    "posted_at": "2026-07-31T23:57:14.341+00:00",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "Python",
@@ -171,7 +171,7 @@
    "location": "Mumbai, India",
    "url": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623",
    "posted_at": "2026-07-31T00:00:00Z",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [],
    "source": "workday"
@@ -186,7 +186,7 @@
    "location": "India, Bangalore",
    "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
    "posted_at": "2026-07-30T00:00:00Z",
-   "first_seen_at": "2026-07-30T15:53:40Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [],
    "source": "workday"
@@ -201,7 +201,7 @@
    "location": "Remote",
    "url": "https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008",
    "posted_at": "2026-07-28T13:00:02-04:00",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "Python",
@@ -220,7 +220,7 @@
    "location": "Mumbai",
    "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5752-1",
    "posted_at": "2026-07-21T00:00:00Z",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "Java",
@@ -243,7 +243,7 @@
    "location": "Pune India Office",
    "url": "https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032",
    "posted_at": "2026-07-15T00:00:00Z",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "Java",
@@ -267,7 +267,7 @@
    "location": "Hyderabad",
    "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337",
    "posted_at": "2026-06-30T00:00:00Z",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [],
    "source": "workday"
@@ -282,7 +282,7 @@
    "location": "Remote India",
    "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Remote-India/Associate-Application-Development-Analyst--Net-Developer-_REQ-250458",
    "posted_at": "2025-10-21T00:00:00Z",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "SQL",
@@ -302,7 +302,7 @@
    "location": "India - Hyderabad",
    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
    "posted_at": "2025-09-30T00:00:00Z",
-   "first_seen_at": "2026-08-16T08:23:27Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [
     "Git"
@@ -319,7 +319,7 @@
    "location": "Chennai",
    "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
    "posted_at": "2025-08-06T00:00:00Z",
-   "first_seen_at": "2026-07-26T22:23:07Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [],
    "source": "workday"
