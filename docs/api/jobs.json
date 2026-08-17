@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-17T09:40:30Z",
+ "generated_at": "2026-08-17T10:31:09Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 22,
+ "count": 21,
  "jobs": [
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer_2026-113",
@@ -89,24 +89,6 @@
     "Tableau"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "ashby:quantum:4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6",
-   "company": "Quantum",
-   "title": "Graduate Data Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "London (hybrid)",
-   "url": "https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6",
-   "posted_at": "2026-08-13T13:09:38.437+00:00",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL"
-   ],
-   "source": "ashby"
   },
   {
    "id": "workday:blackrock:/job/Mumbai-India/Analyst--Data-Analytics_R263882",
