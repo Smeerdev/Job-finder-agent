@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-08-17T05:35:18Z",
+ "generated_at": "2026-08-17T06:48:41Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 17,
+ "count": 18,
  "jobs": [
+  {
+   "id": "oracle:jpmc.fa.oraclecloud.com:210780571",
+   "company": "JPMorganChase",
+   "title": "Data Scientist Associate - Customer Analytics",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210780571",
+   "posted_at": "2026-08-17",
+   "first_seen_at": "2026-08-17T06:48:41Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "ashby:quantum:4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6",
    "company": "Quantum",
