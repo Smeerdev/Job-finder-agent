@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T10:31:09Z",
+ "generated_at": "2026-08-17T11:25:31Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 21,
  "jobs": [
@@ -70,25 +70,6 @@
     "Angular"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:jpmc.fa.oraclecloud.com:210780571",
-   "company": "JPMorganChase",
-   "title": "Data Scientist Associate - Customer Analytics",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210780571",
-   "posted_at": "2026-08-17",
-   "first_seen_at": "2026-08-17T06:48:41Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Tableau"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:blackrock:/job/Mumbai-India/Analyst--Data-Analytics_R263882",
@@ -278,6 +259,25 @@
     "Azure"
    ],
    "source": "greenhouse"
+  },
+  {
+   "id": "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:145146",
+   "company": "Zensar",
+   "title": "ESaaS - MSD -Technical- D365 CE Developer Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146",
+   "posted_at": "2026-07-25",
+   "first_seen_at": "2026-08-17T11:25:31Z",
+   "salary": null,
+   "skills": [
+    "JavaScript",
+    "SQL",
+    "Azure"
+   ],
+   "source": "oracle"
   },
   {
    "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5752-1",

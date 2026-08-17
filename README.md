@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**21 open roles · 21 new this week · 4,817 companies tracked · updated Aug 17, 2026 at 10:31 UTC**
+**21 open roles · 21 new this week · 4,817 companies tracked · updated Aug 17, 2026 at 11:25 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -21,7 +21,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Novartis | Intern AI & DS Engineering ~ 🆕 | Data & ML/AI | — | Hyderabad (Office) | Aug 17, 2026 | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-AI---DS-Engineering_REQ-10085515) |
 | Novartis | Intern Data Analyst ~ 🆕 | Data & ML/AI | — | Hyderabad (Office) | Aug 17, 2026 | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Analyst_REQ-10085942) |
 | Oaktree Capital Management | Associate, ServiceNow Developer ~ 🆕 | Software | — | Hyderabad | Aug 17, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--ServiceNow-Developer_2026-85) |
-| JPMorganChase | Data Scientist Associate - Customer Analytics ~ 🆕 | Data & ML/AI | — | Hyderabad, Telangana, India | Aug 17, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210780571) |
 | BlackRock | Associate - Power Bi Developer, Data Analytics ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai, India | Aug 13, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Analyst--Data-Analytics_R263882) |
 | Ancestry | Machine Learning Engineer, Co-op ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Aug 11, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
 | Cambium Learning Group | Machine Learning Intern ~ 🆕 | Data & ML/AI | PhD | Remote | Aug 11, 2026 | [Apply](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561) |
@@ -32,6 +31,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Ares Management | Associate Developer - HR Tech (Workday) ~ 🆕 | Software | B.Tech/BS | Mumbai, India | Jul 31, 2026 | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623) |
 | Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer ~ 🆕 | Software | 0-1 Yr<br>B.Tech/BS | India, Bangalore | Jul 30, 2026 | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255) |
 | AffirmedRx | Associate, Data Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Jul 28, 2026 | [Apply](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) |
+| Zensar | ESaaS - MSD -Technical- D365 CE Developer Associate ~ 🆕 | Software | B.Tech/BS | Pune, Maharashtra, India | Jul 25, 2026 | [Apply](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146) |
 | Priceline | Associate Software Engineer ~ 🆕 | Software | B.Tech/BS | Mumbai | Jul 21, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5752-1) |
 | ReliaQuest | Associate Software Engineer ~ 🆕 | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
 | Oaktree Capital Management | Associate - Workday reporting developer ~ 🆕 | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
@@ -117,10 +117,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _43 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **1** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 1 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 2 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| JPMorganChase | Data Scientist Associate - Customer Analytics | 2026 Graduates | 2026-08-17 |
 | Quantum | Graduate Data Engineer | 2026 Graduates | 2026-08-17 |
 
 </details>
@@ -140,7 +141,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,817 companies across 24 ATS platforms · 99% fetch success · completed in 277.4s · median detection latency 2340 min · real posted dates on 100% of open roles._
+_Engine (last run): 4,817 companies across 24 ATS platforms · 98% fetch success · completed in 329.9s · median detection latency 2340 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
