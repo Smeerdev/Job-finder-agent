@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-17T17:26:28Z",
+ "generated_at": "2026-08-17T18:35:14Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 21,
+ "count": 19,
  "jobs": [
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer_2026-113",
@@ -14,40 +14,6 @@
    "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer_2026-113",
    "posted_at": "2026-08-17T00:00:00Z",
    "first_seen_at": "2026-08-17T09:40:30Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:novartis:/job/Hyderabad-Office/Intern-AI---DS-Engineering_REQ-10085515",
-   "company": "Novartis",
-   "title": "Intern AI & DS Engineering",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-AI---DS-Engineering_REQ-10085515",
-   "posted_at": "2026-08-17T00:00:00Z",
-   "first_seen_at": "2026-08-17T08:40:34Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs",
-    "Git"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:novartis:/job/Hyderabad-Office/Intern-Data-Analyst_REQ-10085942",
-   "company": "Novartis",
-   "title": "Intern Data Analyst",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Analyst_REQ-10085942",
-   "posted_at": "2026-08-17T00:00:00Z",
-   "first_seen_at": "2026-08-17T08:40:34Z",
    "salary": null,
    "skills": [],
    "source": "workday"
