@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-18T15:31:13Z",
+ "generated_at": "2026-08-18T22:30:39Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 19,
+ "count": 18,
  "jobs": [
   {
    "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299",
@@ -77,29 +77,6 @@
     "SQL",
     "Azure",
     "Tableau"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
-   "company": "Ancestry",
-   "title": "Machine Learning Engineer, Co-op",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
-   "posted_at": "2026-08-11T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "LLMs",
-    "Node.js"
    ],
    "source": "workday"
   },
