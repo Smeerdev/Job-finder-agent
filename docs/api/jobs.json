@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T14:31:58Z",
+ "generated_at": "2026-08-18T15:31:13Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 19,
  "jobs": [
@@ -251,29 +251,6 @@
    "source": "greenhouse"
   },
   {
-   "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5752-1",
-   "company": "Priceline",
-   "title": "Associate Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Mumbai",
-   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5752-1",
-   "posted_at": "2026-07-21T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "GraphQL",
-    "Git"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "workday:reliaquest:/job/Pune-India-Office/Associate-Software-Engineer_R15032",
    "company": "ReliaQuest",
    "title": "Associate Software Engineer",
@@ -294,6 +271,25 @@
     "AWS",
     "GCP",
     "Azure"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:priceline:/job/Mumbai/Associate-Data-Engineer_R5635",
+   "company": "Priceline",
+   "title": "Associate Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Mumbai",
+   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Data-Engineer_R5635",
+   "posted_at": "2026-07-10T00:00:00Z",
+   "first_seen_at": "2026-08-18T15:31:13Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "SQL",
+    "Spring"
    ],
    "source": "workday"
   },

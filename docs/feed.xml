@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-18T14:31:58Z</updated>
+  <updated>2026-08-18T15:31:13Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Data-Engineer_R5635</id>
+    <title>Priceline: Associate Software Engineer</title>
+    <link href="https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Data-Engineer_R5635"/>
+    <updated>2026-08-18T15:31:13Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Mumbai · Java, SQL, Spring</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299</id>
     <title>Cigna Group: Machine Learning Associate Advisor - HIH - Evernorth</title>
@@ -133,14 +141,6 @@
     <updated>2026-08-16T09:28:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5752-1</id>
-    <title>Priceline: Associate Software Engineer</title>
-    <link href="https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5752-1"/>
-    <updated>2026-08-16T09:28:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Mumbai · Java, TypeScript, JavaScript, React, Node.js</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:reliaquest:/job/Pune-India-Office/Associate-Software-Engineer_R15032</id>

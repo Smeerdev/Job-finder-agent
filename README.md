@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**19 open roles · 19 new this week · 4,862 companies tracked · updated Aug 18, 2026 at 14:31 UTC**
+**19 open roles · 19 new this week · 4,862 companies tracked · updated Aug 18, 2026 at 15:31 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -30,8 +30,8 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Ares Management | Associate Developer - HR Tech (Workday) ~ | Software | B.Tech/BS | Mumbai, India | Jul 31, 2026 | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623) |
 | Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer ~ | Software | 0-1 Yr<br>B.Tech/BS | India, Bangalore | Jul 30, 2026 | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255) |
 | AffirmedRx | Associate, Data Engineer ~ | Data & ML/AI | B.Tech/BS | Remote | Jul 28, 2026 | [Apply](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) |
-| Priceline | Associate Software Engineer ~ | Software | B.Tech/BS | Mumbai | Jul 21, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5752-1) |
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
+| Priceline | Associate Software Engineer ~ 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Jul 10, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Data-Engineer_R5635) |
 | Oaktree Capital Management | Associate - Workday reporting developer ~ | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
 | Genworth Financial | Associate Application Development Analyst (.Net Developer) ~ | Software | B.Tech/BS | Remote India | Oct 21, 2025 | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Remote-India/Associate-Application-Development-Analyst--Net-Developer-_REQ-250458) |
 | Amgen | Associate PLM Software Engineer ~ | Software | B.Tech/BS | India - Hyderabad | Sep 30, 2025 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973) |
@@ -115,10 +115,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _43 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **1** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 5 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 6 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Priceline | Associate Software Engineer | 2026 Graduates | 2026-08-18 |
 | Zensar | ESaaS - MSD -Technical- D365 CE Developer Associate | 2026 Graduates | 2026-08-18 |
 | Novartis | Intern AI & DS Engineering | 2026 Graduates | 2026-08-17 |
 | Novartis | Intern Data Analyst | 2026 Graduates | 2026-08-17 |
@@ -142,7 +143,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,862 companies across 24 ATS platforms · 98% fetch success · completed in 285.8s · median detection latency 580 min · real posted dates on 100% of open roles._
+_Engine (last run): 4,862 companies across 24 ATS platforms · 100% fetch success · completed in 309.2s · median detection latency 580 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
