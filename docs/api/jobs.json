@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-08-18T06:38:05Z",
+ "generated_at": "2026-08-18T07:39:31Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 18,
+ "count": 19,
  "jobs": [
+  {
+   "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299",
+   "company": "Cigna Group",
+   "title": "Machine Learning Associate Advisor - HIH - Evernorth",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, India",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299",
+   "posted_at": "2026-08-18T00:00:00Z",
+   "first_seen_at": "2026-08-18T07:39:31Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "JavaScript",
+    "PyTorch",
+    "LLMs",
+    "React",
+    "AWS",
+    "Kubernetes",
+    "Terraform"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer_2026-113",
    "company": "Oaktree Capital Management",

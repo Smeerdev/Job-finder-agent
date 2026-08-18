@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-18T06:38:05Z</updated>
+  <updated>2026-08-18T07:39:31Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299</id>
+    <title>Cigna Group: Machine Learning Associate Advisor - HIH - Evernorth</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299"/>
+    <updated>2026-08-18T07:39:31Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, India · Python, JavaScript, PyTorch, LLMs, React</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer_2026-113</id>
     <title>Oaktree Capital Management: Associate, Workday Financials Developer(L2)</title>
