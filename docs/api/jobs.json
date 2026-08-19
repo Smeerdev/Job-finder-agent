@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-08-19T06:40:58Z",
+ "generated_at": "2026-08-19T19:43:35Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 18,
+ "count": 15,
  "jobs": [
+  {
+   "id": "workday:cigna:/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26007767",
+   "company": "Cigna Group",
+   "title": "Software Engineering Associate Advisor - HIH - Evernorth",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26007767",
+   "posted_at": "2026-08-19T00:00:00Z",
+   "first_seen_at": "2026-08-19T19:43:34Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "LLMs",
+    "AWS",
+    "Terraform",
+    "Git",
+    "Kafka"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299",
    "company": "Cigna Group",
@@ -43,25 +67,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:oaktree:/job/Hyderabad/Associate--ServiceNow-Developer_2026-85",
-   "company": "Oaktree Capital Management",
-   "title": "Associate, ServiceNow Developer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--ServiceNow-Developer_2026-85",
-   "posted_at": "2026-08-17T00:00:00Z",
-   "first_seen_at": "2026-08-17T08:40:34Z",
-   "salary": null,
-   "skills": [
-    "JavaScript",
-    "React",
-    "Angular"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "workday:blackrock:/job/Mumbai-India/Analyst--Data-Analytics_R263882",
    "company": "BlackRock",
    "title": "Associate - Power Bi Developer, Data Analytics",
@@ -94,30 +99,6 @@
    "salary": null,
    "skills": [
     "Python"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:cigna:/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_26001226",
-   "company": "Cigna Group",
-   "title": "Software Engineering Associate Advisor - HIH - Evernorth",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Associate-Advisor---HIH---Evernorth_26001226",
-   "posted_at": "2026-08-11T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "JavaScript",
-    "SQL",
-    "PyTorch",
-    "TensorFlow",
-    "LLMs",
-    "React",
-    "Node.js"
    ],
    "source": "workday"
   },
@@ -177,21 +158,6 @@
     "Docker"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "workday:aresmgmt:/job/Mumbai-India/Business-Analyst---Workday_R7623",
-   "company": "Ares Management",
-   "title": "Associate Developer - HR Tech (Workday)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Mumbai, India",
-   "url": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623",
-   "posted_at": "2026-07-31T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:epicorsoftware:/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
@@ -302,23 +268,6 @@
     ".NET",
     "AWS",
     "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
-   "company": "Amgen",
-   "title": "Associate PLM Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India - Hyderabad",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
-   "posted_at": "2025-09-30T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Git"
    ],
    "source": "workday"
   },
