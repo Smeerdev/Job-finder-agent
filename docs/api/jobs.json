@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-08-19T20:25:12Z",
+ "generated_at": "2026-08-20T03:26:22Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 15,
  "jobs": [
+  {
+   "id": "workday:geisinger:/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883",
+   "company": "Geisinger",
+   "title": "Business Intelligence Developer Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Work from Home",
+   "url": "https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883",
+   "posted_at": "2026-08-20T00:00:00Z",
+   "first_seen_at": "2026-08-20T03:26:21Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "workday:cigna:/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26007767",
    "company": "Cigna Group",
@@ -82,23 +97,6 @@
     "SQL",
     "Azure",
     "Tableau"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:cambiumlearning:/job/Remote/Machine-Learning-Intern_REQ-4561",
-   "company": "Cambium Learning Group",
-   "title": "Machine Learning Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561",
-   "posted_at": "2026-08-11T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Python"
    ],
    "source": "workday"
   },

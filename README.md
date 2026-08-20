@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**15 open roles · 15 new this week · 4,878 companies tracked · updated Aug 19, 2026 at 20:25 UTC**
+**15 open roles · 15 new this week · 4,878 companies tracked · updated Aug 20, 2026 at 03:26 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,11 +17,11 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Geisinger | Business Intelligence Developer Associate ~ 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Work from Home | Aug 20, 2026 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883) |
 | Cigna Group | Software Engineering Associate Advisor - HIH - Evernorth ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Aug 19, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26007767) |
 | Cigna Group | Machine Learning Associate Advisor - HIH - Evernorth ~ 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad, India | Aug 18, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299) |
 | Oaktree Capital Management | Associate, Workday Financials Developer(L2) ~ | Software | — | Hyderabad | Aug 17, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer_2026-113) |
 | BlackRock | Associate - Power Bi Developer, Data Analytics ~ | Data & ML/AI | B.Tech/BS | Mumbai, India | Aug 13, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Analyst--Data-Analytics_R263882) |
-| Cambium Learning Group | Machine Learning Intern ~ | Data & ML/AI | PhD | Remote | Aug 11, 2026 | [Apply](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561) |
 | Oaktree Capital Management | Associate, Workday Financial Developer (L3) ~ | Software | — | Hyderabad | Aug 04, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236) |
 | HEXAWARE | Java Full Stack Engineer - Associate ~ | Software | — | India | Aug 01, 2026 | [Apply](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/626568) |
 | Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Jul 31, 2026 | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) |
@@ -111,10 +111,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _43 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **1** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 11 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 12 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cambium Learning Group | Machine Learning Intern | 2026 Graduates | 2026-08-20 |
 | Amgen | Associate PLM Software Engineer | 2026 Graduates | 2026-08-19 |
 | Ares Management | Associate Developer - HR Tech (Workday) | 2026 Graduates | 2026-08-19 |
 | Cigna Group | Software Engineering Associate Advisor - HIH - Evernorth | 2026 Graduates | 2026-08-19 |
@@ -144,7 +145,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,878 companies across 24 ATS platforms · 99% fetch success · completed in 305.1s · median detection latency 882 min · real posted dates on 100% of open roles._
+_Engine (last run): 4,878 companies across 24 ATS platforms · 99% fetch success · completed in 358.9s · median detection latency 580 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
