@@ -1,8 +1,30 @@
 {
- "generated_at": "2026-08-20T12:41:52Z",
+ "generated_at": "2026-08-20T13:46:46Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 15,
  "jobs": [
+  {
+   "id": "greenhouse:towerresearchcapital:8143756",
+   "company": "Tower Research Capital",
+   "title": "Intern - AI/ML",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "gurgaon",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
+   "posted_at": "2026-08-20T08:57:42-04:00",
+   "first_seen_at": "2026-08-20T13:46:46Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "PyTorch",
+    "TensorFlow",
+    "Linux",
+    "Git"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "workday:geisinger:/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883",
    "company": "Geisinger",
@@ -251,23 +273,6 @@
     ".NET",
     "AWS",
     "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
-   "company": "Amgen",
-   "title": "Associate PLM Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India - Hyderabad",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
-   "posted_at": "2025-09-30T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Git"
    ],
    "source": "workday"
   },
