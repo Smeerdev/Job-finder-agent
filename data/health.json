@@ -1214,14 +1214,9 @@
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://amplify.wd1.myworkdayjobs.com/wday/cxs/amplify/Amplify_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
-  "workday:baldwin": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-20T22:26:10Z",
-    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://baldwin.wd1.myworkdayjobs.com/wday/cxs/baldwin/MSI/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
-  },
   "workday:boarshead": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-08-18T22:30:39Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-08-20T23:25:58Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://boarshead.wd1.myworkdayjobs.com/wday/cxs/boarshead/BHC/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workday:cambiahealth": {
@@ -1289,6 +1284,11 @@
     "last_attempt_at": "2026-08-19T02:22:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/dxcjobs/jobs'\nFor more information check: https://developer.mozilla.or"
   },
+  "workday:embryriddle": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T23:25:58Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://embryriddle.wd1.myworkdayjobs.com/wday/cxs/embryriddle/External/jobs'\nFor more information check: https://developer.mozilla.org/e"
+  },
   "workday:entegris": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-08-19T02:22:05Z",
@@ -1299,6 +1299,16 @@
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://evrazna.wd5.myworkdayjobs.com/wday/cxs/evrazna/EVRAZ/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
+  "workday:fau": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T23:25:58Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://fau.wd1.myworkdayjobs.com/wday/cxs/fau/FAU/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
+  "workday:fhlbatl": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T23:25:58Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://fhlbatl.wd1.myworkdayjobs.com/wday/cxs/fhlbatl/fhlbatl/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+  },
   "workday:fragomen": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
@@ -1308,6 +1318,11 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://fugro.wd3.myworkdayjobs.com/wday/cxs/fugro/broadbean_external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
+  },
+  "workday:geico": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T23:25:58Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://geico.wd1.myworkdayjobs.com/wday/cxs/geico/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "workday:goldmansachs": {
     "consecutive_failures": 7,
@@ -1323,6 +1338,11 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "KeyError: 'wd'"
+  },
+  "workday:hcsc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T23:25:58Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://hcsc.wd1.myworkdayjobs.com/wday/cxs/hcsc/HCSC_External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "workday:idexx": {
     "consecutive_failures": 7,
@@ -1363,6 +1383,11 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://lithia.wd5.myworkdayjobs.com/wday/cxs/lithia/LithiaCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-"
+  },
+  "workday:lsu": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T23:25:58Z",
+    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://lsu.wd1.myworkdayjobs.com/wday/cxs/lsu/LSU/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/520"
   },
   "workday:microsoft": {
     "consecutive_failures": 7,
