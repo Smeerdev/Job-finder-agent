@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**15 open roles · 15 new this week · 4,887 companies tracked · updated Aug 20, 2026 at 14:36 UTC**
+**15 open roles · 15 new this week · 4,887 companies tracked · updated Aug 20, 2026 at 15:32 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -28,7 +28,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer ~ | Software | 0-1 Yr<br>B.Tech/BS | India, Bangalore | Jul 30, 2026 | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255) |
 | AffirmedRx | Associate, Data Engineer ~ | Data & ML/AI | B.Tech/BS | Remote | Jul 28, 2026 | [Apply](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) |
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
-| Priceline | Associate Software Engineer ~ 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Jul 10, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Data-Engineer_R5635) |
+| Priceline | Associate Software Engineer ~ | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Jul 10, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Data-Engineer_R5635) |
 | Oaktree Capital Management | Associate - Workday reporting developer ~ | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
 | Genworth Financial | Associate Application Development Analyst (.Net Developer) ~ | Software | B.Tech/BS | Remote India | Oct 21, 2025 | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Remote-India/Associate-Application-Development-Analyst--Net-Developer-_REQ-250458) |
 | Valeo | Intern - AI ~ | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
@@ -146,7 +146,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,887 companies across 24 ATS platforms · 99% fetch success · completed in 385.6s · median detection latency 550 min · real posted dates on 100% of open roles._
+_Engine (last run): 4,887 companies across 24 ATS platforms · 99% fetch success · completed in 266.8s · median detection latency 550 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
