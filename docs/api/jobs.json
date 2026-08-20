@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-08-20T17:28:25Z",
+ "generated_at": "2026-08-20T18:34:54Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 16,
+ "count": 17,
  "jobs": [
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214443",
+   "company": "DTCC",
+   "title": "Software Development Test Engineering Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214443",
+   "posted_at": "2026-08-20",
+   "first_seen_at": "2026-08-20T18:34:54Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "SQL",
+    "Git"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "greenhouse:towerresearchcapital:8143756",
    "company": "Tower Research Capital",
