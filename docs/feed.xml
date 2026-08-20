@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-20T15:32:31Z</updated>
+  <updated>2026-08-20T16:34:40Z</updated>
   <entry>
     <id>urn:intern-engine:greenhouse:towerresearchcapital:8143756</id>
     <title>Tower Research Capital: Intern - AI/ML</title>
@@ -69,6 +69,14 @@
     <updated>2026-08-16T09:28:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · India · Java, Spring</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973</id>
+    <title>Amgen: Associate PLM Software Engineer</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973"/>
+    <updated>2026-08-16T09:28:21Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · India - Hyderabad · Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:blackrock:/job/Mumbai-India/Analyst--Data-Analytics_R263882</id>

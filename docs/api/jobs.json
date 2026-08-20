@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-20T15:32:31Z",
+ "generated_at": "2026-08-20T16:34:40Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 15,
+ "count": 16,
  "jobs": [
   {
    "id": "greenhouse:towerresearchcapital:8143756",
@@ -273,6 +273,23 @@
     ".NET",
     "AWS",
     "Azure"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
+   "company": "Amgen",
+   "title": "Associate PLM Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India - Hyderabad",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
+   "posted_at": "2025-09-30T00:00:00Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
+   "salary": null,
+   "skills": [
+    "Git"
    ],
    "source": "workday"
   },
