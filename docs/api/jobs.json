@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-21T22:23:05Z",
+ "generated_at": "2026-08-21T23:22:39Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 17,
+ "count": 18,
  "jobs": [
   {
    "id": "workday:cisco:/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
@@ -301,6 +301,23 @@
     ".NET",
     "AWS",
     "Azure"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
+   "company": "Amgen",
+   "title": "Associate PLM Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India - Hyderabad",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
+   "posted_at": "2025-09-30T00:00:00Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
+   "salary": null,
+   "skills": [
+    "Git"
    ],
    "source": "workday"
   },
