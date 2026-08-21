@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-08-21T07:43:49Z",
+ "generated_at": "2026-08-21T08:38:32Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 16,
+ "count": 17,
  "jobs": [
+  {
+   "id": "workday:cisco:/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
+   "company": "Cisco",
+   "title": "Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore, India",
+   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
+   "posted_at": "2026-08-21T00:00:00Z",
+   "first_seen_at": "2026-08-21T08:38:32Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "LLMs",
+    "React",
+    "AWS",
+    "GCP",
+    "Azure"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:millerknoll:/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2",
    "company": "MillerKnoll",
