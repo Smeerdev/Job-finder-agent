@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-21T06:43:15Z",
+ "generated_at": "2026-08-21T07:43:49Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 18,
+ "count": 16,
  "jobs": [
   {
    "id": "workday:millerknoll:/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2",
@@ -139,21 +139,6 @@
     "Azure",
     "Tableau"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
-   "company": "Oaktree Capital Management",
-   "title": "Associate, Workday Financial Developer (L3)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
-   "posted_at": "2026-08-04T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [],
    "source": "workday"
   },
   {
@@ -307,23 +292,6 @@
     ".NET",
     "AWS",
     "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
-   "company": "Amgen",
-   "title": "Associate PLM Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India - Hyderabad",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
-   "posted_at": "2025-09-30T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Git"
    ],
    "source": "workday"
   },

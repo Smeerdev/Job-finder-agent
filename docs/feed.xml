@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-21T06:43:15Z</updated>
+  <updated>2026-08-21T07:43:49Z</updated>
   <entry>
     <id>urn:intern-engine:workday:millerknoll:/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2</id>
     <title>MillerKnoll: Associate Web Analytics Engineer</title>
@@ -87,14 +87,6 @@
     <summary>2026 Graduates · Software · India · Java, Spring</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973</id>
-    <title>Amgen: Associate PLM Software Engineer</title>
-    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973"/>
-    <updated>2026-08-16T09:28:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · India - Hyderabad · Git</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:blackrock:/job/Mumbai-India/Analyst--Data-Analytics_R263882</id>
     <title>BlackRock: Associate - Power Bi Developer, Data Analytics</title>
     <link href="https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Analyst--Data-Analytics_R263882"/>
@@ -122,14 +114,6 @@
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate---Workday-reporting-developer_2026-337</id>
     <title>Oaktree Capital Management: Associate - Workday reporting developer</title>
     <link href="https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337"/>
-    <updated>2026-08-16T09:28:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236</id>
-    <title>Oaktree Capital Management: Associate, Workday Financial Developer (L3)</title>
-    <link href="https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236"/>
     <updated>2026-08-16T09:28:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad</summary>
