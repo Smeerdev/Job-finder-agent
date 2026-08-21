@@ -1,26 +1,8 @@
 {
- "generated_at": "2026-08-21T20:24:49Z",
+ "generated_at": "2026-08-21T21:23:05Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 18,
+ "count": 17,
  "jobs": [
-  {
-   "id": "workday:workday:/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537",
-   "company": "Workday",
-   "title": "Software Development Engineer - Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "IND.Chennai",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537",
-   "posted_at": "2026-08-21T00:00:00Z",
-   "first_seen_at": "2026-08-21T11:26:19Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "C#"
-   ],
-   "source": "workday"
-  },
   {
    "id": "workday:cisco:/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
    "company": "Cisco",
