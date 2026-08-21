@@ -1,25 +1,8 @@
 {
- "generated_at": "2026-08-21T14:34:23Z",
+ "generated_at": "2026-08-21T15:33:01Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 22,
+ "count": 19,
  "jobs": [
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:156362",
-   "company": "Honeywell",
-   "title": "Intern Masters Embedded Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/156362",
-   "posted_at": "2026-08-21",
-   "first_seen_at": "2026-08-21T12:40:08Z",
-   "salary": null,
-   "skills": [
-    "C++"
-   ],
-   "source": "oracle"
-  },
   {
    "id": "workday:workday:/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537",
    "company": "Workday",
@@ -37,25 +20,6 @@
     "C#"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:156359",
-   "company": "Honeywell",
-   "title": "Intern Masters Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/156359",
-   "posted_at": "2026-08-21",
-   "first_seen_at": "2026-08-21T10:29:13Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:cisco:/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
@@ -370,23 +334,6 @@
     ".NET",
     "AWS",
     "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
-   "company": "Amgen",
-   "title": "Associate PLM Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India - Hyderabad",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
-   "posted_at": "2025-09-30T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Git"
    ],
    "source": "workday"
   },
