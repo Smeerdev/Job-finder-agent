@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-21T18:33:55Z</updated>
+  <updated>2026-08-21T19:26:59Z</updated>
   <entry>
     <id>urn:intern-engine:workday:workday:/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537</id>
     <title>Workday: Software Development Engineer - Intern</title>
@@ -53,14 +53,6 @@
     <updated>2026-08-20T13:46:46Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · gurgaon · Python, SQL, PyTorch, TensorFlow, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:geisinger:/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883</id>
-    <title>Geisinger: Business Intelligence Developer Associate</title>
-    <link href="https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883"/>
-    <updated>2026-08-20T03:26:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Work from Home</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26007767</id>

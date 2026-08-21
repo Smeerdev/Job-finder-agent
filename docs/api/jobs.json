@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-21T18:33:55Z",
+ "generated_at": "2026-08-21T19:26:59Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 19,
+ "count": 18,
  "jobs": [
   {
    "id": "workday:workday:/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537",
@@ -100,21 +100,6 @@
     "Git"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:geisinger:/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883",
-   "company": "Geisinger",
-   "title": "Business Intelligence Developer Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Work from Home",
-   "url": "https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883",
-   "posted_at": "2026-08-20T00:00:00Z",
-   "first_seen_at": "2026-08-20T03:26:21Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:cigna:/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26007767",
