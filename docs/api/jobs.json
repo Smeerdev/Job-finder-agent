@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-21T08:38:32Z",
+ "generated_at": "2026-08-21T09:36:28Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 17,
+ "count": 18,
  "jobs": [
   {
    "id": "workday:cisco:/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
@@ -333,6 +333,21 @@
    "salary": null,
    "skills": [],
    "source": "workday"
+  },
+  {
+   "id": "instahyre:oneturetechnologies:390123",
+   "company": "Oneture Technologies",
+   "title": "AI / ML Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Mumbai",
+   "url": "https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/",
+   "posted_at": null,
+   "first_seen_at": "2026-08-21T09:36:28Z",
+   "salary": null,
+   "skills": [],
+   "source": "instahyre"
   }
  ]
 }
