@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-21T10:29:13Z</updated>
+  <updated>2026-08-21T11:26:20Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:workday:/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537</id>
+    <title>Workday: Software Development Engineer - Intern</title>
+    <link href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537"/>
+    <updated>2026-08-21T11:26:19Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · IND.Chennai · Java, C#</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:156359</id>
     <title>Honeywell: Intern Masters Software Eng</title>
