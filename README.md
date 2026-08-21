@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**17 open roles · 17 new this week · 4,887 companies tracked · updated Aug 21, 2026 at 03:49 UTC**
+**18 open roles · 18 new this week · 4,887 companies tracked · updated Aug 21, 2026 at 04:37 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,10 +13,11 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (17 open)
+## 2026 Graduates (International)  (18 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| MillerKnoll | Associate Web Analytics Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | India - Bengaluru | Aug 21, 2026 | [Apply](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2) |
 | DTCC | Software Development Test Engineering Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Aug 20, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214443) |
 | Tower Research Capital | Intern - AI/ML ~ 🆕 | Data & ML/AI | PhD | gurgaon | Aug 20, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 | Geisinger | Business Intelligence Developer Associate ~ 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Work from Home | Aug 20, 2026 | [Apply](https://geisinger.wd5.myworkdayjobs.com/geisingerexternal/job/Work-from-Home/Business-Intelligence-Developer-Associate_R-95883) |
@@ -35,7 +36,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Amgen | Associate PLM Software Engineer ~ | Software | B.Tech/BS | India - Hyderabad | Sep 30, 2025 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973) |
 | Valeo | Intern - AI ~ | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (16 of 17)._
+_~ = the title doesn't state a year; bucketed here from its posting date (17 of 18)._
 
 ## What this is
 
@@ -147,7 +148,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,887 companies across 24 ATS platforms · 99% fetch success · completed in 262.1s · median detection latency 580 min · real posted dates on 100% of open roles._
+_Engine (last run): 4,887 companies across 24 ATS platforms · 98% fetch success · completed in 269.1s · median detection latency 550 min · real posted dates on 100% of open roles._
 
 ## Platforms Scraped
 
