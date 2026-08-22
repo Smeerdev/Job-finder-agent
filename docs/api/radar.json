@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T23:22:39Z",
+ "generated_at": "2026-08-22T00:58:35Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -12,7 +12,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -21,
+   "days_until": -22,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
    "note": ""
