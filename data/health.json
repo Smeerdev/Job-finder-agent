@@ -295,8 +295,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/arine/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:artefactus": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-08-21T01:02:32Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/artefactus/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:atlassian": {
@@ -1074,6 +1074,316 @@
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "RuntimeError: Naukri rate limited or returned 0 jobs on page 1"
   },
+  "oracle:ebcs.fa.em2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://ebcs.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
+  },
+  "oracle:ebwh.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ebwh.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ecge.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ecge.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ecsr.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ecsr.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ecvz.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ecvz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:eczd.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://eczd.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:eczy.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://eczy.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:edbz.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://edbz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:edmn.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://edmn.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:edyy.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://edyy.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:eedu.fa.em3.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://eedu.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:eeik.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://eeik.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:eevd.fa.us6.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://eevd.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:efds.fa.em5.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://efds.fa.em5.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:efet.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://efet.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:egay.fa.us6.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://egay.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:egud.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://egud.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:egug.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ehif.fa.em2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ehif.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ehtc.fa.ca2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ehtc.fa.ca2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ehth.fa.em2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ehth.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:eimy.fa.us6.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://eimy.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ejcu.fa.us6.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ejcu.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ejko.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ejko.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ejrz.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ejrz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ejta.fa.us6.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ejta.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ekkh.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ekkh.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:elar.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://elar.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
+  },
+  "oracle:emit.fa.ca3.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://emit.fa.ca3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:emje.fa.us6.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://emje.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:eofd.fa.us6.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://eofd.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:eofe.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://eofe.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:eppr.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://eppr.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
+  },
+  "oracle:erqh.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://erqh.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:etgi.fa.us8.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://etgi.fa.us8.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
+  },
+  "oracle:etyy.fa.ap2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://etyy.fa.ap2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:ewij.fa.us8.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://ewij.fa.us8.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
+  },
+  "oracle:ewvl.fa.us8.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://ewvl.fa.us8.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
+  },
+  "oracle:fa-eomj-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-eomj-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-erjf-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-erjf-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&ex"
+  },
+  "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-exby-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-exew-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-exew-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:fa-exki-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+  },
+  "oracle:hccz.fa.em3.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hccz.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:hcgn.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hcgn.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:hckd.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hckd.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:hcog.fa.em2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hcog.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:hcut.fa.ap2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hcut.fa.ap2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:hdjq.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hdjq.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:hdks.fa.ca2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hdks.fa.ca2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
+  "oracle:hdpc.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hdpc.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
   "uber:uber": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
@@ -1204,11 +1514,6 @@
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zego/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
-  "workday:aaaie": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://aaaie.wd1.myworkdayjobs.com/wday/cxs/aaaie/CSAACareers2/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
   "workday:activision": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
@@ -1228,11 +1533,6 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T23:25:58Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://boarshead.wd1.myworkdayjobs.com/wday/cxs/boarshead/BHC/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
-  },
-  "workday:caa": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://caa.wd1.myworkdayjobs.com/wday/cxs/caa/Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workday:cambiahealth": {
     "consecutive_failures": 7,
@@ -1264,175 +1564,45 @@
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://cliftonlarsonallen.wd1.myworkdayjobs.com/wday/cxs/cliftonlarsonallen/CLA/jobs'\nFor more information check: https://developer.m"
   },
-  "workday:cna": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cna.wd1.myworkdayjobs.com/wday/cxs/cna/CNA_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
-  },
-  "workday:cognex": {
+  "workday:comcast": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cognex.wd1.myworkdayjobs.com/wday/cxs/cognex/External_Career_Site/jobs'\nFor more information check: https://developer.mozilla.org"
-  },
-  "workday:collectorsuniverse": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://collectorsuniverse.wd1.myworkdayjobs.com/wday/cxs/collectorsuniverse/collectors/jobs'\nFor more information check: https://develop"
-  },
-  "workday:comfortsystemsusa": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://comfortsystemsusa.wd1.myworkdayjobs.com/wday/cxs/comfortsystemsusa/Corpcareers/jobs'\nFor more information check: https://develope"
+    "last_attempt_at": "2026-08-22T02:18:55Z",
+    "last_error": "HTTPStatusError: Client error '401 Unauthorized' for url 'https://comcast.wd5.myworkdayjobs.com/wday/cxs/comcast/Comcast_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
   "workday:commercebank": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-22T00:58:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://commercebank.wd1.myworkdayjobs.com/wday/cxs/commercebank/CommerceJobs/jobs'\nFor more information check: https://developer.mozilla"
   },
-  "workday:conagrabrands": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://conagrabrands.wd1.myworkdayjobs.com/wday/cxs/conagrabrands/Careers_US/jobs'\nFor more information check: https://developer.mozilla"
-  },
   "workday:condenast": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://condenast.wd5.myworkdayjobs.com/wday/cxs/condenast/CondeCareers/jobs'\nFor more information check: https://developer.mozilla.or"
-  },
-  "workday:conocophillips": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://conocophillips.wd1.myworkdayjobs.com/wday/cxs/conocophillips/External/jobs'\nFor more information check: https://developer.mozilla"
-  },
-  "workday:convatec": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://convatec.wd1.myworkdayjobs.com/wday/cxs/convatec/convatec/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
   "workday:cooperstandard": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-21T22:23:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cooperstandard.wd1.myworkdayjobs.com/wday/cxs/cooperstandard/CooperStandard/jobs'\nFor more information check: https://developer.m"
   },
-  "workday:coorstek": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://coorstek.wd1.myworkdayjobs.com/wday/cxs/coorstek/CoorsTekCareers/jobs'\nFor more information check: https://developer.mozilla.org/"
-  },
-  "workday:coreandmain": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://coreandmain.wd1.myworkdayjobs.com/wday/cxs/coreandmain/coreandmain/jobs'\nFor more information check: https://developer.mozilla.or"
-  },
-  "workday:corebridgefinancial": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://corebridgefinancial.wd1.myworkdayjobs.com/wday/cxs/corebridgefinancial/CorebridgeFinancial/jobs'\nFor more information check: http"
-  },
   "workday:cornell": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-22T00:58:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cornell.wd1.myworkdayjobs.com/wday/cxs/cornell/cornellpositions/jobs'\nFor more information check: https://developer.mozilla.org/e"
-  },
-  "workday:costar": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/Costar_Campus/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
-  },
-  "workday:cox": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cox.wd1.myworkdayjobs.com/wday/cxs/cox/Cox_External_Career_Site_1/jobs'\nFor more information check: https://developer.mozilla.org"
-  },
-  "workday:creationtech": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://creationtech.wd1.myworkdayjobs.com/wday/cxs/creationtech/Creation/jobs'\nFor more information check: https://developer.mozilla.org"
-  },
-  "workday:crosscountrymortgage": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://crosscountrymortgage.wd1.myworkdayjobs.com/wday/cxs/crosscountrymortgage/CCMCareers/jobs'\nFor more information check: https://dev"
-  },
-  "workday:csl": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://csl.wd1.myworkdayjobs.com/wday/cxs/csl/CSL_External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
-  },
-  "workday:cubic": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cubic.wd1.myworkdayjobs.com/wday/cxs/cubic/cubic_USA_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
-  },
-  "workday:curtisswright": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://curtisswright.wd1.myworkdayjobs.com/wday/cxs/curtisswright/cw_external_career_site/jobs'\nFor more information check: https://deve"
   },
   "workday:cvshealth": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-22T00:58:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/CVS_Health_Careers/jobs'\nFor more information check: https://developer.mozilla"
   },
-  "workday:cw": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://cw.wd1.myworkdayjobs.com/wday/cxs/cw/external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
-  },
-  "workday:daikinapplied": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://daikinapplied.wd1.myworkdayjobs.com/wday/cxs/daikinapplied/Daikin-Careers/jobs'\nFor more information check: https://developer.moz"
-  },
-  "workday:dairynet": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dairynet.wd1.myworkdayjobs.com/wday/cxs/dairynet/DPCcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US"
-  },
-  "workday:dallascollege": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dallascollege.wd1.myworkdayjobs.com/wday/cxs/dallascollege/Dallas_College_Careers/jobs'\nFor more information check: https://devel"
-  },
   "workday:danaher": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-21T23:22:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://danaher.wd1.myworkdayjobs.com/wday/cxs/danaher/danaherjobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
-  "workday:datarobot": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://datarobot.wd1.myworkdayjobs.com/wday/cxs/datarobot/DataRobot_External_Careers/jobs'\nFor more information check: https://developer"
-  },
-  "workday:datasite": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://datasite.wd1.myworkdayjobs.com/wday/cxs/datasite/datasite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
-  },
-  "workday:daveandbusters": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://daveandbusters.wd1.myworkdayjobs.com/wday/cxs/daveandbusters/dave_and_busters_careers/jobs'\nFor more information check: https://d"
-  },
-  "workday:davidyurman": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://davidyurman.wd1.myworkdayjobs.com/wday/cxs/davidyurman/DavidYurmanCareers/jobs'\nFor more information check: https://developer.moz"
-  },
   "workday:davita": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-22T00:58:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/DKC_External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/d"
-  },
-  "workday:dell": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
-  },
-  "workday:denver": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://denver.wd1.myworkdayjobs.com/wday/cxs/denver/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs/jobs'\nFor mor"
   },
   "workday:denverhealth": {
     "consecutive_failures": 3,
@@ -1459,20 +1629,10 @@
     "last_attempt_at": "2026-08-22T00:58:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://doterra.wd1.myworkdayjobs.com/wday/cxs/doterra/doTERRACareers/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
-  "workday:dow": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dow.wd1.myworkdayjobs.com/wday/cxs/dow/ExternalCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
-  },
   "workday:dowjones": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-22T00:58:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dowjones.wd1.myworkdayjobs.com/wday/cxs/dowjones/Dow_Jones_Career/jobs'\nFor more information check: https://developer.mozilla.org"
-  },
-  "workday:draftkings": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://draftkings.wd1.myworkdayjobs.com/wday/cxs/draftkings/Campus_Career_Portal/jobs'\nFor more information check: https://developer.moz"
   },
   "workday:drivetime": {
     "consecutive_failures": 3,
@@ -1488,11 +1648,6 @@
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-22T00:58:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dutchbros.wd1.myworkdayjobs.com/wday/cxs/dutchbros/DBShops/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
-  },
-  "workday:dxctechnology": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/dxcjobs/jobs'\nFor more information check: https://developer.mozilla.or"
   },
   "workday:echo": {
     "consecutive_failures": 3,
@@ -1514,35 +1669,10 @@
     "last_attempt_at": "2026-08-22T00:58:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://embryriddle.wd1.myworkdayjobs.com/wday/cxs/embryriddle/External/jobs'\nFor more information check: https://developer.mozilla.org/e"
   },
-  "workday:entrust": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://entrust.wd1.myworkdayjobs.com/wday/cxs/entrust/entrustcareers/jobs'\nFor more information check: https://developer.mozilla.org/en-"
-  },
-  "workday:envista": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-21T13:46:00Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://envista.wd1.myworkdayjobs.com/wday/cxs/envista/envistacareers/jobs'\nFor more information check: https://developer.mozilla.org/en-"
-  },
-  "workday:eosenergystorage": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://eosenergystorage.wd1.myworkdayjobs.com/wday/cxs/eosenergystorage/eos/jobs'\nFor more information check: https://developer.mozilla."
-  },
   "workday:evrazna": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://evrazna.wd5.myworkdayjobs.com/wday/cxs/evrazna/EVRAZ/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
-  "workday:fanniemae": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs'\nFor more information check: https://developer.mozilla.o"
-  },
-  "workday:foxfactory": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://foxfactory.wd1.myworkdayjobs.com/wday/cxs/foxfactory/FOX/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workday:fragomen": {
     "consecutive_failures": 7,
@@ -1553,26 +1683,6 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://fugro.wd3.myworkdayjobs.com/wday/cxs/fugro/broadbean_external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
-  },
-  "workday:gaig": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://gaig.wd1.myworkdayjobs.com/wday/cxs/gaig/GAIG_External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
-  },
-  "workday:geico": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://geico.wd1.myworkdayjobs.com/wday/cxs/geico/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
-  },
-  "workday:globalfoundries": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs'\nFor more information check: https://developer.mozil"
-  },
-  "workday:gnw": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://gnw.wd1.myworkdayjobs.com/wday/cxs/gnw/GNW/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "workday:goldmansachs": {
     "consecutive_failures": 7,
@@ -1589,25 +1699,10 @@
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "KeyError: 'wd'"
   },
-  "workday:hitachi": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
-  },
-  "workday:hyvee": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://hyvee.wd1.myworkdayjobs.com/wday/cxs/hyvee/HyVeeCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
   "workday:idexx": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://idexx.wd1.myworkdayjobs.com/wday/cxs/idexx/IDEXX/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
-  },
-  "workday:illumina": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumina/illumina-careers/jobs'\nFor more information check: https://developer.mozilla.org"
   },
   "workday:infosys": {
     "consecutive_failures": 7,
@@ -1619,11 +1714,6 @@
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://insmed.wd5.myworkdayjobs.com/wday/cxs/insmed/EXTERNAL/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
-  "workday:invenergyllc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://invenergyllc.wd1.myworkdayjobs.com/wday/cxs/invenergyllc/invenergycareers/jobs'\nFor more information check: https://developer.moz"
-  },
   "workday:jpmorgan": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
@@ -1633,11 +1723,6 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://kar.wd1.myworkdayjobs.com/wday/cxs/kar/OPENLANE_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
-  },
-  "workday:kauai": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://kauai.wd1.myworkdayjobs.com/wday/cxs/kauai/Kauai_External_Career_Site/jobs'\nFor more information check: https://developer.mozilla"
   },
   "workday:kohls": {
     "consecutive_failures": 7,
@@ -1788,11 +1873,6 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "KeyError: 'wd'"
-  },
-  "workday:therapybrands": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T00:58:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://therapybrands.wd1.myworkdayjobs.com/wday/cxs/therapybrands/EnsoraHealth/jobs'\nFor more information check: https://developer.mozil"
   },
   "workday:vca": {
     "consecutive_failures": 7,
