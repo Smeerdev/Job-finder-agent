@@ -1559,11 +1559,6 @@
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://fugro.wd3.myworkdayjobs.com/wday/cxs/fugro/broadbean_external/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
-  "workday:gehc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-23T07:33:36Z",
-    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://gehc.wd5.myworkdayjobs.com/wday/cxs/gehc/GEHC_ExternalSite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
-  },
   "workday:goldmansachs": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
@@ -1768,6 +1763,11 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-20T08:37:24Z",
     "last_error": "KeyError: 'wd'"
+  },
+  "workday:travelers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-23T08:27:33Z",
+    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
   "workday:vca": {
     "consecutive_failures": 7,
