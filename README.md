@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**17 open roles · 17 new this week · 4,908 companies tracked · updated Aug 23, 2026 at 09:28 UTC**
+**17 open roles · 8 new this week · 4,908 companies tracked · updated Aug 23, 2026 at 10:23 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -33,7 +33,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Genworth Financial | Associate Application Development Analyst (.Net Developer) ~ | Software | B.Tech/BS | Remote India | Oct 21, 2025 | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Remote-India/Associate-Application-Development-Analyst--Net-Developer-_REQ-250458) |
 | Amgen | Associate PLM Software Engineer ~ | Software | B.Tech/BS | India - Hyderabad | Sep 30, 2025 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973) |
 | Valeo | Intern - AI ~ | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
-| Oneture Technologies | AI / ML Intern ~ 🆕 | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
+| Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
 _~ = the title doesn't state a year; bucketed here from its posting date (16 of 17)._
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,908 companies across 24 ATS platforms · 92% fetch success · completed in 355.8s · median detection latency 605 min · real posted dates on 94% of open roles._
+_Engine (last run): 4,908 companies across 24 ATS platforms · 99% fetch success · completed in 340.9s · median detection latency 605 min · real posted dates on 94% of open roles._
 
 ## Platforms Scraped
 
