@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-23T16:23:48Z",
- "duration_seconds": 321.1,
+ "generated_at": "2026-08-23T17:21:06Z",
+ "duration_seconds": 328.9,
  "companies_total": 4908,
  "companies_by_source": {
   "greenhouse": 1055,
@@ -32,7 +32,7 @@
  "fetched_ok": 4567,
  "fetch_errors": 1,
  "errors_by_source": {
-  "workable": 1
+  "workday": 1
  },
  "fetch_success_rate": 1.0,
  "roles_matched": 16,
