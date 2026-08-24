@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-24T17:30:31Z",
+ "generated_at": "2026-08-24T18:36:13Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 22,
+ "count": 21,
  "jobs": [
   {
    "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450",
@@ -89,25 +89,6 @@
    "salary": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214443",
-   "company": "DTCC",
-   "title": "Software Development Test Engineering Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214443",
-   "posted_at": "2026-08-20",
-   "first_seen_at": "2026-08-20T18:34:54Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "SQL",
-    "Git"
-   ],
-   "source": "oracle"
   },
   {
    "id": "greenhouse:towerresearchcapital:8143756",

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-24T17:30:31Z</updated>
+  <updated>2026-08-24T18:36:13Z</updated>
   <entry>
     <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450</id>
     <title>Cigna Group: Machine Learning Associate Analyst - HIH - Evernorth</title>
@@ -61,14 +61,6 @@
     <updated>2026-08-21T04:37:29Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · India - Bengaluru</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214443</id>
-    <title>DTCC: Software Development Test Engineering Associate</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214443"/>
-    <updated>2026-08-20T18:34:54Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India · Java, SQL, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:towerresearchcapital:8143756</id>
