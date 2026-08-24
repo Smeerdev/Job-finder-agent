@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-24T22:24:32Z</updated>
+  <updated>2026-08-24T23:22:29Z</updated>
   <entry>
     <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450</id>
     <title>Cigna Group: Machine Learning Associate Analyst - HIH - Evernorth</title>
@@ -45,14 +45,6 @@
     <updated>2026-08-21T09:36:28Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Mumbai</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cisco:/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1</id>
-    <title>Cisco: Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition</title>
-    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1"/>
-    <updated>2026-08-21T08:38:32Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bangalore, India · Python, Java, SQL, LLMs, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:millerknoll:/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2</id>

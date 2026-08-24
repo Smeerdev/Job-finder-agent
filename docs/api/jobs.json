@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-24T22:24:32Z",
+ "generated_at": "2026-08-24T23:22:29Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 21,
+ "count": 20,
  "jobs": [
   {
    "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450",
@@ -49,30 +49,6 @@
    "first_seen_at": "2026-08-24T08:45:53Z",
    "salary": null,
    "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:cisco:/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
-   "company": "Cisco",
-   "title": "Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
-   "posted_at": "2026-08-21T00:00:00Z",
-   "first_seen_at": "2026-08-21T08:38:32Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "LLMs",
-    "React",
-    "AWS",
-    "GCP",
-    "Azure"
-   ],
    "source": "workday"
   },
   {
