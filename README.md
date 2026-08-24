@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**21 open roles · 11 new this week · 4,908 companies tracked · updated Aug 24, 2026 at 12:42 UTC**
+**22 open roles · 12 new this week · 4,908 companies tracked · updated Aug 24, 2026 at 13:51 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,10 +13,11 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (21 open)
+## 2026 Graduates (International)  (22 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Cigna Group | Machine Learning Associate Analyst - HIH - Evernorth ~ 🆕 | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Hyderabad, India | Aug 24, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450) |
 | Revvity | AI Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai | Aug 24, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Intern_JR-045291) |
 | Oaktree Capital Management | Associate, Workday Integrations Developer ~ 🆕 | Software | — | Hyderabad | Aug 24, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254) |
 | Cisco | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition ~ | Software | B.Tech/BS | Bangalore, India | Aug 21, 2026 | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1) |
@@ -39,7 +40,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ 🆕 | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (20 of 21)._
+_~ = the title doesn't state a year; bucketed here from its posting date (21 of 22)._
 
 ## What this is
 
@@ -156,7 +157,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,908 companies across 24 ATS platforms · 98% fetch success · completed in 304.7s · median detection latency 605 min · real posted dates on 90% of open roles._
+_Engine (last run): 4,908 companies across 24 ATS platforms · 100% fetch success · completed in 347.4s · median detection latency 629 min · real posted dates on 90% of open roles._
 
 ## Platforms Scraped
 
