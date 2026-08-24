@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-08-24T07:59:06Z",
+ "generated_at": "2026-08-24T08:45:53Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 18,
+ "count": 20,
  "jobs": [
+  {
+   "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254",
+   "company": "Oaktree Capital Management",
+   "title": "Associate, Workday Integrations Developer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254",
+   "posted_at": "2026-08-24T00:00:00Z",
+   "first_seen_at": "2026-08-24T08:45:53Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "workday:cisco:/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
    "company": "Cisco",
@@ -148,6 +163,21 @@
     "Azure",
     "Tableau"
    ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
+   "company": "Oaktree Capital Management",
+   "title": "Associate, Workday Financial Developer (L3)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
+   "posted_at": "2026-08-04T00:00:00Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
+   "salary": null,
+   "skills": [],
    "source": "workday"
   },
   {
