@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-25T08:40:01Z</updated>
+  <updated>2026-08-25T09:36:14Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:gevernova:/job/Remote/Grid-Automation---Software-Intern_R5049276-1</id>
+    <title>Gevernova: Grid Automation &amp; Software Intern</title>
+    <link href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5049276-1"/>
+    <updated>2026-08-25T09:36:14Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Remote</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:LinkedIn3:744000145464965</id>
+    <title>LinkedIn: Software Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/LinkedIn3/744000145464965"/>
+    <updated>2026-08-25T09:36:14Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bengaluru, KA, India · Java, C++, C#</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:barrywehmiller:/job/Chennai-India/AI-Intern_R022521</id>
     <title>Barry-Wehmiller: AI Intern</title>
