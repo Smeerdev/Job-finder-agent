@@ -1,27 +1,8 @@
 {
- "generated_at": "2026-08-25T15:42:43Z",
+ "generated_at": "2026-08-25T16:35:28Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 21,
+ "count": 20,
  "jobs": [
-  {
-   "id": "smartrecruiters:LinkedIn3:744000145464965",
-   "company": "LinkedIn",
-   "title": "Software Engineering Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, KA, India",
-   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000145464965",
-   "posted_at": "2026-08-25T09:29:32.280Z",
-   "first_seen_at": "2026-08-25T09:36:14Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "C++",
-    "C#"
-   ],
-   "source": "smartrecruiters"
-  },
   {
    "id": "workday:gevernova:/job/Remote/Grid-Automation---Software-Intern_R5049276-1",
    "company": "Gevernova",
