@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**19 open roles · 10 new this week · 4,908 companies tracked · updated Aug 25, 2026 at 05:31 UTC**
+**18 open roles · 9 new this week · 4,908 companies tracked · updated Aug 25, 2026 at 06:41 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,11 +13,10 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (19 open)
+## 2026 Graduates (International)  (18 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Cigna Group | Machine Learning Associate Analyst - HIH - Evernorth ~ 🆕 | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Hyderabad, India | Aug 24, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450) |
 | Revvity | AI Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai | Aug 24, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Intern_JR-045291) |
 | Oaktree Capital Management | Associate, Workday Integrations Developer ~ 🆕 | Software | — | Hyderabad | Aug 24, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254) |
 | MillerKnoll | Associate Web Analytics Engineer ~ | Data & ML/AI | B.Tech/BS | India - Bengaluru | Aug 21, 2026 | [Apply](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2) |
@@ -37,7 +36,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ 🆕 | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (18 of 19)._
+_~ = the title doesn't state a year; bucketed here from its posting date (17 of 18)._
 
 ## What this is
 
@@ -115,10 +114,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _43 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **1** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 20 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 21 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cigna Group | Machine Learning Associate Analyst - HIH - Evernorth | 2026 Graduates | 2026-08-25 |
 | Amgen | Associate PLM Software Engineer | 2026 Graduates | 2026-08-25 |
 | Cisco | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition | 2026 Graduates | 2026-08-24 |
 | DTCC | Software Development Test Engineering Associate | 2026 Graduates | 2026-08-24 |
@@ -157,7 +157,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,908 companies across 24 ATS platforms · 100% fetch success · completed in 312.4s · median detection latency 629 min · real posted dates on 89% of open roles._
+_Engine (last run): 4,908 companies across 24 ATS platforms · 98% fetch success · completed in 333.5s · median detection latency 629 min · real posted dates on 88% of open roles._
 
 ## Platforms Scraped
 
