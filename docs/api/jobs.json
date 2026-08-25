@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-08-25T06:41:29Z",
+ "generated_at": "2026-08-25T07:45:55Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 18,
+ "count": 19,
  "jobs": [
+  {
+   "id": "workday:barrywehmiller:/job/Chennai-India/AI-Intern_R022521",
+   "company": "Barry-Wehmiller",
+   "title": "AI Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Chennai, India",
+   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Chennai-India/AI-Intern_R022521",
+   "posted_at": "2026-08-25T00:00:00Z",
+   "first_seen_at": "2026-08-25T07:45:55Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "workday:revvity:/job/Mumbai/AI-Intern_JR-045291",
    "company": "Revvity",
