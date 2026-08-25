@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-25T01:00:47Z</updated>
+  <updated>2026-08-25T02:20:23Z</updated>
   <entry>
     <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450</id>
     <title>Cigna Group: Machine Learning Associate Analyst - HIH - Evernorth</title>
@@ -101,14 +101,6 @@
     <updated>2026-08-16T09:28:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, SQL, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973</id>
-    <title>Amgen: Associate PLM Software Engineer</title>
-    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973"/>
-    <updated>2026-08-16T09:28:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · India - Hyderabad · Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:blackrock:/job/Mumbai-India/Analyst--Data-Analytics_R263882</id>
