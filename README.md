@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**21 open roles · 11 new this week · 4,921 companies tracked · updated Aug 25, 2026 at 09:36 UTC**
+**21 open roles · 11 new this week · 4,921 companies tracked · updated Aug 25, 2026 at 10:32 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,8 +17,8 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Gevernova | Grid Automation & Software Intern ~ 🆕 | Software | B.Tech/BS | Remote | Aug 25, 2026 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5049276-1) |
 | LinkedIn | Software Engineering Intern ~ 🆕 | Software | B.Tech/BS | Bengaluru, KA, India | Aug 25, 2026 | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000145464965) |
+| Gevernova | Grid Automation & Software Intern ~ 🆕 | Software | B.Tech/BS | Remote | Aug 25, 2026 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5049276-1) |
 | Barry-Wehmiller | AI Intern ~ 🆕 | Data & ML/AI | — | Chennai, India | Aug 25, 2026 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Chennai-India/AI-Intern_R022521) |
 | Revvity | AI Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai | Aug 24, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Intern_JR-045291) |
 | Oaktree Capital Management | Associate, Workday Integrations Developer ~ 🆕 | Software | — | Hyderabad | Aug 24, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254) |
@@ -160,7 +160,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,921 companies across 24 ATS platforms · 99% fetch success · completed in 410.4s · median detection latency 578 min · real posted dates on 90% of open roles._
+_Engine (last run): 4,921 companies across 24 ATS platforms · 98% fetch success · completed in 394.2s · median detection latency 578 min · real posted dates on 90% of open roles._
 
 ## Platforms Scraped
 
