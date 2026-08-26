@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-26T07:47:18Z</updated>
+  <updated>2026-08-26T08:42:01Z</updated>
   <entry>
     <id>urn:intern-engine:workday:philips:/job/Pune/Intern---Embedded-System_588498</id>
     <title>Philips: Intern - Embedded System</title>
@@ -29,14 +29,6 @@
     <updated>2026-08-25T07:45:55Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Chennai, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:revvity:/job/Mumbai/AI-Intern_JR-045291</id>
-    <title>Revvity: AI Intern</title>
-    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Intern_JR-045291"/>
-    <updated>2026-08-24T12:42:06Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Mumbai</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254</id>
