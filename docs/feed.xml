@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-26T13:56:58Z</updated>
+  <updated>2026-08-26T14:43:00Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:hdid.fa.us2.oraclecloud.com:4491</id>
     <title>Jefferies: Associate - C# (.net) Developer - Equity Technology</title>
@@ -85,14 +85,6 @@
     <updated>2026-08-20T13:46:46Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · gurgaon · Python, SQL, PyTorch, TensorFlow, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26007767</id>
-    <title>Cigna Group: Software Engineering Associate Advisor - HIH - Evernorth</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26007767"/>
-    <updated>2026-08-19T19:43:34Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India · Python, Java, SQL, LLMs, AWS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Data-Engineer_R5635</id>

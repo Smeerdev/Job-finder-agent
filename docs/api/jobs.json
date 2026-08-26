@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-26T13:56:58Z",
+ "generated_at": "2026-08-26T14:43:00Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 22,
+ "count": 21,
  "jobs": [
   {
    "id": "oracle:hdid.fa.us2.oraclecloud.com:4491",
@@ -127,30 +127,6 @@
     "Git"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:cigna:/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26007767",
-   "company": "Cigna Group",
-   "title": "Software Engineering Associate Advisor - HIH - Evernorth",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Lead-Analyst---HIH---Evernorth_26007767",
-   "posted_at": "2026-08-19T00:00:00Z",
-   "first_seen_at": "2026-08-19T19:43:34Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "LLMs",
-    "AWS",
-    "Terraform",
-    "Git",
-    "Kafka"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299",
