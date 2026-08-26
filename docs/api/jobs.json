@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-26T12:44:29Z",
+ "generated_at": "2026-08-26T13:56:58Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 23,
+ "count": 22,
  "jobs": [
   {
    "id": "oracle:hdid.fa.us2.oraclecloud.com:4491",
@@ -33,21 +33,6 @@
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Intern---Embedded-System_588498",
    "posted_at": "2026-08-26T00:00:00Z",
    "first_seen_at": "2026-08-26T07:47:18Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:gevernova:/job/Remote/Grid-Automation---Software-Intern_R5049276-1",
-   "company": "Gevernova",
-   "title": "Grid Automation & Software Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5049276-1",
-   "posted_at": "2026-08-25T00:00:00Z",
-   "first_seen_at": "2026-08-25T09:36:14Z",
    "salary": null,
    "skills": [],
    "source": "workday"
