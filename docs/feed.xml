@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-26T06:44:10Z</updated>
+  <updated>2026-08-26T07:47:18Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Pune/Intern---Embedded-System_588498</id>
+    <title>Philips: Intern - Embedded System</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Intern---Embedded-System_588498"/>
+    <updated>2026-08-26T07:47:18Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Pune</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:gevernova:/job/Remote/Grid-Automation---Software-Intern_R5049276-1</id>
     <title>Gevernova: Grid Automation &amp; Software Intern</title>
