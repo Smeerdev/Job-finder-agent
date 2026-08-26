@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-08-26T10:34:59Z",
+ "generated_at": "2026-08-26T11:28:40Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 22,
+ "count": 23,
  "jobs": [
+  {
+   "id": "oracle:hdid.fa.us2.oraclecloud.com:4491",
+   "company": "Jefferies",
+   "title": "Associate - C# (.net) Developer - Equity Technology",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune, India",
+   "url": "https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4491",
+   "posted_at": "2026-08-26",
+   "first_seen_at": "2026-08-26T11:28:40Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "SQL",
+    "Linux"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:philips:/job/Pune/Intern---Embedded-System_588498",
    "company": "Philips",

@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-26T10:34:59Z</updated>
+  <updated>2026-08-26T11:28:40Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:hdid.fa.us2.oraclecloud.com:4491</id>
+    <title>Jefferies: Associate - C# (.net) Developer - Equity Technology</title>
+    <link href="https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4491"/>
+    <updated>2026-08-26T11:28:40Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Pune, India · Java, SQL, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:concentric:4703940006</id>
     <title>Concentric: Internship, AI Workflow Optimization, Fall 2026 (Remote)</title>
