@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-08-27T13:42:49Z",
+ "generated_at": "2026-08-27T23:33:52Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 23,
  "jobs": [
+  {
+   "id": "smartrecruiters:AristaNetworks:744000145998379",
+   "company": "Arista Networks",
+   "title": "Intern Software Engineers - C/C++",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Poland - Remote, PL (Remote)",
+   "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000145998379",
+   "posted_at": "2026-08-27T14:09:48.754Z",
+   "first_seen_at": "2026-08-27T23:33:52Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "Linux",
+    "Git"
+   ],
+   "source": "smartrecruiters"
+  },
+  {
+   "id": "workday:harriscomputer:/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1",
+   "company": "Harris Computer",
+   "title": "Associate DevOps Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Remote Pune-Baroda, India",
+   "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1",
+   "posted_at": "2026-08-27T00:00:00Z",
+   "first_seen_at": "2026-08-27T23:33:52Z",
+   "salary": null,
+   "skills": [
+    "SQL",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "Linux",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "lever:aeratechnology:d9271f5c-b9f8-49ff-8895-3a118c464114",
    "company": "Aera Technology",
@@ -20,26 +62,6 @@
     "SQL"
    ],
    "source": "lever"
-  },
-  {
-   "id": "oracle:jpmc.fa.oraclecloud.com:210784126",
-   "company": "JPMorganChase",
-   "title": "Applied AI ML Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784126",
-   "posted_at": "2026-08-27",
-   "first_seen_at": "2026-08-27T13:42:49Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "scikit-learn",
-    "Pandas",
-    "LLMs"
-   ],
-   "source": "oracle"
   },
   {
    "id": "ashby:realmalliance:a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a",
@@ -112,30 +134,6 @@
    "first_seen_at": "2026-08-24T08:45:53Z",
    "salary": null,
    "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:cisco:/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
-   "company": "Cisco",
-   "title": "Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
-   "posted_at": "2026-08-21T00:00:00Z",
-   "first_seen_at": "2026-08-21T08:38:32Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "LLMs",
-    "React",
-    "AWS",
-    "GCP",
-    "Azure"
-   ],
    "source": "workday"
   },
   {

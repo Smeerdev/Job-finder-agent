@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**23 open roles · 12 new this week · 4,928 companies tracked · updated Aug 27, 2026 at 13:42 UTC**
+**23 open roles · 11 new this week · 4,952 companies tracked · updated Aug 27, 2026 at 23:33 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,13 +17,13 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Arista Networks | Intern Software Engineers - C/C++ ~ 🆕 | Software | — | Poland - Remote, PL (Remote) | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000145998379) |
+| Harris Computer | Associate DevOps Engineer ~ 🆕 | Software | — | Remote Pune-Baroda, India | Aug 27, 2026 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1) |
 | Aera Technology | Associate Data Scientist – Optimization & Operations Research ~ 🆕 | Data & ML/AI | — | Pune, India | Aug 27, 2026 | [Apply](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
-| JPMorganChase | Applied AI ML Associate ~ 🆕 | Data & ML/AI | PhD | Bengaluru, Karnataka, India | Aug 27, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784126) |
 | Realm | Software Engineer - Intern ~ 🆕 | Software | B.Tech/BS | Remote | Aug 26, 2026 | [Apply](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 | Jefferies | Associate - C# (.net) Developer - Equity Technology ~ 🆕 | Software | B.Tech/BS | Pune, India | Aug 26, 2026 | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4491) |
 | Barry-Wehmiller | AI Intern ~ | Data & ML/AI | — | Chennai, India | Aug 25, 2026 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Chennai-India/AI-Intern_R022521) |
 | Oaktree Capital Management | Associate, Workday Integrations Developer ~ | Software | — | Hyderabad | Aug 24, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254) |
-| Cisco | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition ~ | Software | B.Tech/BS | Bangalore, India | Aug 21, 2026 | [Apply](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1) |
 | MillerKnoll | Associate Web Analytics Engineer ~ | Data & ML/AI | B.Tech/BS | India - Bengaluru | Aug 21, 2026 | [Apply](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2) |
 | Tower Research Capital | Intern - AI/ML ~ | Data & ML/AI | PhD | gurgaon | Aug 20, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 | Cigna Group | Machine Learning Associate Advisor - HIH - Evernorth ~ | Data & ML/AI | B.Tech/BS | Hyderabad, India | Aug 18, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299) |
@@ -119,10 +119,12 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _44 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **2** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 26 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 28 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| JPMorganChase | Applied AI ML Associate | 2026 Graduates | 2026-08-27 |
+| Cisco | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition | 2026 Graduates | 2026-08-27 |
 | Philips | Intern - Embedded System | 2026 Graduates | 2026-08-27 |
 | Ancestry | Software Engineer – Observability, Co-op | 2026 Graduates | 2026-08-27 |
 | Cigna Group | Software Engineering Associate Advisor - HIH - Evernorth | 2026 Graduates | 2026-08-26 |
@@ -167,7 +169,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,928 companies across 24 ATS platforms · 99% fetch success · completed in 385.3s · median detection latency 578 min · real posted dates on 91% of open roles._
+_Engine (last run): 4,952 companies across 24 ATS platforms · 99% fetch success · completed in 329.1s · median detection latency 578 min · real posted dates on 91% of open roles._
 
 ## Platforms Scraped
 
