@@ -1,8 +1,46 @@
 {
- "generated_at": "2026-08-28T08:38:24Z",
+ "generated_at": "2026-08-28T20:43:02Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 25,
+ "count": 26,
  "jobs": [
+  {
+   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3003761",
+   "company": "TriNet",
+   "title": "Associate Data Scientist",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761",
+   "posted_at": "2026-08-28",
+   "first_seen_at": "2026-08-28T20:43:02Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:unisys:/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280",
+   "company": "Unisys",
+   "title": "AI Engineering Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore, KA, India",
+   "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280",
+   "posted_at": "2026-08-28T00:00:00Z",
+   "first_seen_at": "2026-08-28T20:43:02Z",
+   "salary": null,
+   "skills": [
+    "AWS",
+    "GCP",
+    "Azure",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Engineer-Associate-Engineer---AI---Automation-Engineer_JR105692",
    "company": "Micron Technology",
@@ -392,23 +430,6 @@
     ".NET",
     "AWS",
     "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
-   "company": "Amgen",
-   "title": "Associate PLM Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India - Hyderabad",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
-   "posted_at": "2025-09-30T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Git"
    ],
    "source": "workday"
   },

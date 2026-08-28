@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**25 open roles · 11 new this week · 4,952 companies tracked · updated Aug 28, 2026 at 08:38 UTC**
+**26 open roles · 12 new this week · 4,959 companies tracked · updated Aug 28, 2026 at 20:43 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,23 +13,25 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (25 open)
+## 2026 Graduates (International)  (26 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| TriNet | Associate Data Scientist ~ 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Aug 28, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761) |
+| Unisys | AI Engineering Intern ~ 🆕 | Data & ML/AI | M.Tech/MS | Bangalore, KA, India | Aug 28, 2026 | [Apply](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280) |
 | Micron Technology | Engineer/Associate Engineer – AI & Automation Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad - Phoenix Aquila, India | Aug 28, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer-Associate-Engineer---AI---Automation-Engineer_JR105692) |
 | Arista Networks | Intern Software Engineers - C/C++ ~ 🆕 | Software | — | Poland - Remote, PL (Remote) | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000145998379) |
 | Harris Computer | Associate DevOps Engineer ~ 🆕 | Software | — | Remote Pune-Baroda, India | Aug 27, 2026 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1) |
 | Aera Technology | Associate Data Scientist – Optimization & Operations Research ~ 🆕 | Data & ML/AI | — | Pune, India | Aug 27, 2026 | [Apply](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
-| Realm | Software Engineer - Intern ~ 🆕 | Software | B.Tech/BS | Remote | Aug 26, 2026 | [Apply](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
-| Jefferies | Associate - C# (.net) Developer - Equity Technology ~ 🆕 | Software | B.Tech/BS | Pune, India | Aug 26, 2026 | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4491) |
+| Realm | Software Engineer - Intern ~ | Software | B.Tech/BS | Remote | Aug 26, 2026 | [Apply](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
+| Jefferies | Associate - C# (.net) Developer - Equity Technology ~ | Software | B.Tech/BS | Pune, India | Aug 26, 2026 | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4491) |
 | Barry-Wehmiller | AI Intern ~ | Data & ML/AI | — | Chennai, India | Aug 25, 2026 | [Apply](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Chennai-India/AI-Intern_R022521) |
 | Oaktree Capital Management | Associate, Workday Integrations Developer ~ | Software | — | Hyderabad | Aug 24, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254) |
 | MillerKnoll | Associate Web Analytics Engineer ~ | Data & ML/AI | B.Tech/BS | India - Bengaluru | Aug 21, 2026 | [Apply](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2) |
 | Tower Research Capital | Intern - AI/ML ~ | Data & ML/AI | PhD | gurgaon | Aug 20, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 | Cigna Group | Machine Learning Associate Advisor - HIH - Evernorth ~ | Data & ML/AI | B.Tech/BS | Hyderabad, India | Aug 18, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299) |
 | BlackRock | Associate - Power Bi Developer, Data Analytics ~ | Data & ML/AI | B.Tech/BS | Mumbai, India | Aug 13, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Analyst--Data-Analytics_R263882) |
-| Concentric | Internship, AI Workflow Optimization, Fall 2026 (Remote) 🆕 | Data & ML/AI | B.Tech/BS | Remote | Aug 10, 2026 | [Apply](https://job-boards.greenhouse.io/concentric/jobs/4703940006) |
+| Concentric | Internship, AI Workflow Optimization, Fall 2026 (Remote) | Data & ML/AI | B.Tech/BS | Remote | Aug 10, 2026 | [Apply](https://job-boards.greenhouse.io/concentric/jobs/4703940006) |
 | Oaktree Capital Management | Associate, Workday Financial Developer (L3) ~ | Software | — | Hyderabad | Aug 04, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236) |
 | Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Jul 31, 2026 | [Apply](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db) |
 | Ares Management | Associate Developer - HR Tech (Workday) ~ | Software | B.Tech/BS | Mumbai, India | Jul 31, 2026 | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623) |
@@ -38,12 +40,11 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Priceline | Associate Software Engineer ~ | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Jul 10, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Data-Engineer_R5635) |
 | Oaktree Capital Management | Associate - Workday reporting developer ~ | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
 | Genworth Financial | Associate Application Development Analyst (.Net Developer) ~ | Software | B.Tech/BS | Remote India | Oct 21, 2025 | [Apply](https://gnw.wd1.myworkdayjobs.com/GNW/job/Remote-India/Associate-Application-Development-Analyst--Net-Developer-_REQ-250458) |
-| Amgen | Associate PLM Software Engineer ~ | Software | B.Tech/BS | India - Hyderabad | Sep 30, 2025 | [Apply](https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973) |
 | Valeo | Intern - AI ~ | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (23 of 25)._
+_~ = the title doesn't state a year; bucketed here from its posting date (24 of 26)._
 
 ## What this is
 
@@ -121,10 +122,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _44 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **2** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 27 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 28 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Amgen | Associate PLM Software Engineer | 2026 Graduates | 2026-08-28 |
 | AffirmedRx | Associate, Data Engineer | 2026 Graduates | 2026-08-28 |
 | JPMorganChase | Applied AI ML Associate | 2026 Graduates | 2026-08-27 |
 | Cisco | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition | 2026 Graduates | 2026-08-27 |
@@ -170,7 +172,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,952 companies across 24 ATS platforms · 99% fetch success · completed in 366.2s · median detection latency 576 min · real posted dates on 92% of open roles._
+_Engine (last run): 4,959 companies across 24 ATS platforms · 98% fetch success · completed in 415.1s · median detection latency 580 min · real posted dates on 92% of open roles._
 
 ## Platforms Scraped
 

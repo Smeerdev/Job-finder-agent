@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-28T08:38:24Z",
-  "duration_seconds": 366.2,
-  "companies_total": 4952,
+  "generated_at": "2026-08-28T20:43:02Z",
+  "duration_seconds": 415.1,
+  "companies_total": 4959,
   "companies_by_source": {
     "greenhouse": 1062,
-    "lever": 404,
-    "smartrecruiters": 806,
-    "workable": 136,
-    "ashby": 677,
+    "lever": 405,
+    "smartrecruiters": 807,
+    "workable": 137,
+    "ashby": 679,
     "recruitee": 9,
-    "workday": 1503,
+    "workday": 1505,
     "oracle": 145,
     "rippling": 142,
     "amazon": 1,
@@ -28,44 +28,43 @@
     "unstop": 5,
     "wellfound": 1
   },
-  "quarantined": 314,
-  "fetched_ok": 4618,
-  "fetch_errors": 20,
+  "quarantined": 318,
+  "fetched_ok": 4579,
+  "fetch_errors": 62,
   "errors_by_source": {
-    "rippling": 1,
-    "workday": 8,
-    "ashby": 1,
-    "workable": 10
+    "workday": 51,
+    "greenhouse": 2,
+    "workable": 9
   },
-  "fetch_success_rate": 0.996,
-  "roles_matched": 23,
-  "roles_cycle_inferred": 21,
-  "dropped_no_year_in_title": 481,
-  "dropped_offcycle_by_text": 211,
+  "fetch_success_rate": 0.987,
+  "roles_matched": 24,
+  "roles_cycle_inferred": 22,
+  "dropped_no_year_in_title": 475,
+  "dropped_offcycle_by_text": 218,
   "roles_by_source": {
     "lever": 1,
     "smartrecruiters": 1,
     "workday": 16,
     "greenhouse": 2,
-    "oracle": 1,
+    "oracle": 2,
     "ashby": 2
   },
   "roles_by_cycle": {
-    "2026 Graduates": 23
+    "2026 Graduates": 24
   },
   "roles_by_region": {
-    "India": 19,
+    "India": 20,
     "Remote": 4
   },
-  "posted_date_coverage": 0.92,
-  "enriched_this_run": 1,
-  "enrichment_detail_fetches": 1,
+  "posted_date_coverage": 0.923,
+  "enriched_this_run": 2,
+  "enrichment_detail_fetches": 2,
   "purged_this_run": 0,
-  "new_this_run": 1,
-  "open_total": 25,
+  "new_this_run": 2,
+  "open_total": 26,
   "detection_latency": {
-    "median_minutes": 576.2,
-    "sample_size": 35,
+    "median_minutes": 580.5,
+    "sample_size": 37,
     "window_days": 7
   },
   "posting_lifetime": {
