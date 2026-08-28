@@ -1,8 +1,25 @@
 {
- "generated_at": "2026-08-27T23:33:52Z",
+ "generated_at": "2026-08-28T08:38:24Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 23,
+ "count": 25,
  "jobs": [
+  {
+   "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Engineer-Associate-Engineer---AI---Automation-Engineer_JR105692",
+   "company": "Micron Technology",
+   "title": "Engineer/Associate Engineer – AI & Automation Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad - Phoenix Aquila, India",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer-Associate-Engineer---AI---Automation-Engineer_JR105692",
+   "posted_at": "2026-08-28T00:00:00Z",
+   "first_seen_at": "2026-08-28T08:38:24Z",
+   "salary": null,
+   "skills": [
+    "Python"
+   ],
+   "source": "workday"
+  },
   {
    "id": "smartrecruiters:AristaNetworks:744000145998379",
    "company": "Arista Networks",
@@ -271,6 +288,21 @@
    "source": "ashby"
   },
   {
+   "id": "workday:aresmgmt:/job/Mumbai-India/Business-Analyst---Workday_R7623",
+   "company": "Ares Management",
+   "title": "Associate Developer - HR Tech (Workday)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Mumbai, India",
+   "url": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623",
+   "posted_at": "2026-07-31T00:00:00Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
    "id": "workday:epicorsoftware:/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
    "company": "Epicor",
    "title": "Interns - Content Developer /Technical Writing/ Instructional Designer",
@@ -284,25 +316,6 @@
    "salary": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "greenhouse:affirmedrxpbc:5372829008",
-   "company": "AffirmedRx",
-   "title": "Associate, Data Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008",
-   "posted_at": "2026-07-28T13:00:02-04:00",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Azure"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:reliaquest:/job/Pune-India-Office/Associate-Software-Engineer_R15032",
@@ -379,6 +392,23 @@
     ".NET",
     "AWS",
     "Azure"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:amgen:/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
+   "company": "Amgen",
+   "title": "Associate PLM Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India - Hyderabad",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/India---Hyderabad/Associate-Software-Engineer_R-226973",
+   "posted_at": "2025-09-30T00:00:00Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
+   "salary": null,
+   "skills": [
+    "Git"
    ],
    "source": "workday"
   },
