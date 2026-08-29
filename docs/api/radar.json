@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T20:43:02Z",
+ "generated_at": "2026-08-29T03:07:12Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -12,23 +12,9 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -28,
+   "days_until": -29,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
-   "note": ""
-  },
-  {
-   "company": "Concentric",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-10",
-   "days_until": -18,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/concentric/jobs/4703940006",
    "note": ""
   },
   {
@@ -618,6 +604,20 @@
    "status": "waiting",
    "url": "",
    "note": "posts roles year-round"
+  },
+  {
+   "company": "Concentric",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-10",
+   "days_until": -19,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
  "count": 44

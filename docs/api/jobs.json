@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-28T20:43:02Z",
+ "generated_at": "2026-08-29T03:07:12Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 26,
+ "count": 25,
  "jobs": [
   {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3003761",
@@ -270,21 +270,6 @@
     "Tableau"
    ],
    "source": "workday"
-  },
-  {
-   "id": "greenhouse:concentric:4703940006",
-   "company": "Concentric",
-   "title": "Internship, AI Workflow Optimization, Fall 2026 (Remote)",
-   "season": "2026 Graduates",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://job-boards.greenhouse.io/concentric/jobs/4703940006",
-   "posted_at": "2026-08-10T18:56:27-04:00",
-   "first_seen_at": "2026-08-26T09:42:05Z",
-   "salary": null,
-   "skills": [],
-   "source": "greenhouse"
   },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
