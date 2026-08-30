@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**25 open roles · 11 new this week · 4,964 companies tracked · updated Aug 30, 2026 at 06:19 UTC**
+**25 open roles · 11 new this week · 4,964 companies tracked · updated Aug 30, 2026 at 12:35 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -19,7 +19,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 |---|---|---|---|---|---|---|
 | TriNet | Associate Data Scientist ~ 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Aug 28, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761) |
 | Unisys | AI Engineering Intern ~ 🆕 | Data & ML/AI | M.Tech/MS | Bangalore, KA, India | Aug 28, 2026 | [Apply](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280) |
-| Micron Technology | Engineer/Associate Engineer – AI & Automation Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad - Phoenix Aquila, India | Aug 28, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer-Associate-Engineer---AI---Automation-Engineer_JR105692) |
+| Micron Technology | Engineer/Associate Engineer – AI & Automation Engineer ~ | Data & ML/AI | B.Tech/BS | Hyderabad - Phoenix Aquila, India | Aug 28, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer-Associate-Engineer---AI---Automation-Engineer_JR105692) |
 | Arista Networks | Intern Software Engineers - C/C++ ~ | Software | — | Poland - Remote, PL (Remote) | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000145998379) |
 | Harris Computer | Associate DevOps Engineer ~ | Software | — | Remote Pune-Baroda, India | Aug 27, 2026 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1) |
 | Aera Technology | Associate Data Scientist – Optimization & Operations Research ~ | Data & ML/AI | — | Pune, India | Aug 27, 2026 | [Apply](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
@@ -172,7 +172,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,964 companies across 24 ATS platforms · 98% fetch success · completed in 330.1s · median detection latency 580 min · real posted dates on 92% of open roles._
+_Engine (last run): 4,964 companies across 24 ATS platforms · 99% fetch success · completed in 313.5s · median detection latency 580 min · real posted dates on 92% of open roles._
 
 ## Platforms Scraped
 
