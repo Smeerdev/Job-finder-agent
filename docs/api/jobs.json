@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-30T17:12:50Z",
+ "generated_at": "2026-08-30T20:28:19Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 25,
+ "count": 24,
  "jobs": [
   {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3003761",
@@ -320,21 +320,6 @@
    "location": "Mumbai, India",
    "url": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623",
    "posted_at": "2026-07-31T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:epicorsoftware:/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
-   "company": "Epicor",
-   "title": "Interns - Content Developer /Technical Writing/ Instructional Designer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India, Bangalore",
-   "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
-   "posted_at": "2026-07-30T00:00:00Z",
    "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [],
