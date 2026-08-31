@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-08-31T09:29:22Z",
+ "generated_at": "2026-08-31T17:27:05Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 23,
+ "count": 25,
  "jobs": [
+  {
+   "id": "workday:blackrock:/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073",
+   "company": "BlackRock",
+   "title": "Data Engineer, Aladdin Data, Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Mumbai, India",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073",
+   "posted_at": "2026-08-31T00:00:00Z",
+   "first_seen_at": "2026-08-31T17:27:05Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Azure",
+    "Kafka",
+    "Airflow"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1",
+   "company": "GE Healthcare",
+   "title": "Research Intern - AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1",
+   "posted_at": "2026-08-31T00:00:00Z",
+   "first_seen_at": "2026-08-31T17:27:05Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "LLMs",
+    "Computer Vision"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3003761",
    "company": "TriNet",
@@ -38,23 +80,6 @@
     "GCP",
     "Azure",
     "Git"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Engineer-Associate-Engineer---AI---Automation-Engineer_JR105692",
-   "company": "Micron Technology",
-   "title": "Engineer/Associate Engineer – AI & Automation Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad - Phoenix Aquila, India",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer-Associate-Engineer---AI---Automation-Engineer_JR105692",
-   "posted_at": "2026-08-28T00:00:00Z",
-   "first_seen_at": "2026-08-28T08:38:24Z",
-   "salary": null,
-   "skills": [
-    "Python"
    ],
    "source": "workday"
   },
@@ -296,6 +321,21 @@
    "location": "Mumbai, India",
    "url": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623",
    "posted_at": "2026-07-31T00:00:00Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "workday:epicorsoftware:/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
+   "company": "Epicor",
+   "title": "Interns - Content Developer /Technical Writing/ Instructional Designer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India, Bangalore",
+   "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
+   "posted_at": "2026-07-30T00:00:00Z",
    "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
    "skills": [],
