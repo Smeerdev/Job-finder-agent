@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**25 open roles · 10 new this week · 4,967 companies tracked · updated Aug 31, 2026 at 17:27 UTC**
+**25 open roles · 10 new this week · 4,967 companies tracked · updated Aug 31, 2026 at 22:22 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -121,7 +121,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _44 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **2** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 29 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 27 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -152,8 +152,6 @@ _44 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Ancestry | Machine Learning Engineer, Co-op | 2026 Graduates | 2026-08-18 |
 | Priceline | Associate Software Engineer | 2026 Graduates | 2026-08-18 |
 | Zensar | ESaaS - MSD -Technical- D365 CE Developer Associate | 2026 Graduates | 2026-08-18 |
-| Novartis | Intern AI & DS Engineering | 2026 Graduates | 2026-08-17 |
-| Novartis | Intern Data Analyst | 2026 Graduates | 2026-08-17 |
 
 </details>
 
@@ -172,7 +170,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,967 companies across 24 ATS platforms · 99% fetch success · completed in 345.6s · median detection latency 629 min · real posted dates on 92% of open roles._
+_Engine (last run): 4,967 companies across 24 ATS platforms · 99% fetch success · completed in 337.6s · median detection latency 629 min · real posted dates on 92% of open roles._
 
 ## Platforms Scraped
 
