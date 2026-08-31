@@ -1,22 +1,8 @@
 {
- "generated_at": "2026-08-30T23:09:26Z",
+ "generated_at": "2026-08-31T03:04:50Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
-  {
-   "company": "Quora",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-31",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
-   "note": ""
-  },
   {
    "company": "Adobe",
    "last_cycle_posted": "",
@@ -606,6 +592,20 @@
    "note": "posts roles year-round"
   },
   {
+   "company": "Quora",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-31",
+   "days_until": -31,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Concentric",
    "last_cycle_posted": "",
    "posted_on": "2026-08-10",
@@ -614,7 +614,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-10",
-   "days_until": -20,
+   "days_until": -21,
    "status": "dropped",
    "url": "",
    "note": ""

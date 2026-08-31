@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-30T23:09:26Z",
+ "generated_at": "2026-08-31T03:04:50Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 24,
+ "count": 23,
  "jobs": [
   {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3003761",
@@ -285,30 +285,6 @@
    "salary": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "ashby:quora:452afc2e-0c79-41f8-8201-1aab7df775db",
-   "company": "Quora",
-   "title": "Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)",
-   "season": "2026 Graduates",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Remote - Multiple Locations",
-   "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db",
-   "posted_at": "2026-07-31T23:57:14.341+00:00",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "PyTorch",
-    "TensorFlow",
-    "LLMs",
-    "AWS",
-    "Kubernetes",
-    "Docker"
-   ],
-   "source": "ashby"
   },
   {
    "id": "workday:aresmgmt:/job/Mumbai-India/Business-Analyst---Workday_R7623",

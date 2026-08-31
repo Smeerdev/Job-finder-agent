@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-08-30T23:09:26Z</updated>
+  <updated>2026-08-31T03:04:50Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3003761</id>
     <title>TriNet: Associate Data Scientist</title>
@@ -133,14 +133,6 @@
     <updated>2026-08-18T07:39:31Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, India · Python, JavaScript, PyTorch, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:quora:452afc2e-0c79-41f8-8201-1aab7df775db</id>
-    <title>Quora: Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)</title>
-    <link href="https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db"/>
-    <updated>2026-08-16T09:28:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Remote - Multiple Locations · Python, C++, PyTorch, TensorFlow, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aresmgmt:/job/Mumbai-India/Business-Analyst---Workday_R7623</id>
