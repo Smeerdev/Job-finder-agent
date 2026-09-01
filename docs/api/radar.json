@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T22:22:49Z",
+ "generated_at": "2026-09-01T01:38:05Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -600,7 +600,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -31,
+   "days_until": -32,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -614,7 +614,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-10",
-   "days_until": -21,
+   "days_until": -22,
    "status": "dropped",
    "url": "",
    "note": ""
