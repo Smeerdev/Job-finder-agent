@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**27 open roles · 12 new this week · 4,973 companies tracked · updated Sep 01, 2026 at 20:29 UTC**
+**27 open roles · 12 new this week · 4,973 companies tracked · updated Sep 01, 2026 at 23:01 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -123,7 +123,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _44 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **2** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 27 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 26 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -153,7 +153,6 @@ _44 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Cambium Learning Group | Machine Learning Intern | 2026 Graduates | 2026-08-20 |
 | Cigna Group | Software Engineering Associate Advisor - HIH - Evernorth | 2026 Graduates | 2026-08-19 |
 | Oaktree Capital Management | Associate, ServiceNow Developer | 2026 Graduates | 2026-08-19 |
-| Ancestry | Machine Learning Engineer, Co-op | 2026 Graduates | 2026-08-18 |
 
 </details>
 
@@ -172,7 +171,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,973 companies across 24 ATS platforms · 98% fetch success · completed in 308.0s · median detection latency 688 min · real posted dates on 92% of open roles._
+_Engine (last run): 4,973 companies across 24 ATS platforms · 98% fetch success · completed in 343.4s · median detection latency 688 min · real posted dates on 92% of open roles._
 
 ## Platforms Scraped
 
