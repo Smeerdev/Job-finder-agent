@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-09-01T07:11:21Z",
+ "generated_at": "2026-09-01T13:05:10Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 25,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:156865",
+   "company": "Honeywell",
+   "title": "Intern Masters Embedded Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/156865",
+   "posted_at": "2026-09-01",
+   "first_seen_at": "2026-09-01T13:05:10Z",
+   "salary": null,
+   "skills": [
+    "C++"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:revvity:/job/Mumbai/Associate-Data-Analyst---Global-Procurement---Planning-COE_JR-045320",
+   "company": "Revvity",
+   "title": "Associate Data Analyst - Global Procurement & Planning COE",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Mumbai",
+   "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Associate-Data-Analyst---Global-Procurement---Planning-COE_JR-045320",
+   "posted_at": "2026-09-01T00:00:00Z",
+   "first_seen_at": "2026-09-01T13:05:10Z",
+   "salary": null,
+   "skills": [
+    "SQL",
+    "Tableau"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:blackrock:/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073",
    "company": "BlackRock",
@@ -187,21 +222,6 @@
    "source": "oracle"
   },
   {
-   "id": "workday:barrywehmiller:/job/Chennai-India/AI-Intern_R022521",
-   "company": "Barry-Wehmiller",
-   "title": "AI Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Chennai, India",
-   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Chennai-India/AI-Intern_R022521",
-   "posted_at": "2026-08-25T00:00:00Z",
-   "first_seen_at": "2026-08-25T07:45:55Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
-  {
    "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254",
    "company": "Oaktree Capital Management",
    "title": "Associate, Workday Integrations Developer",
@@ -274,25 +294,6 @@
     "AWS",
     "Kubernetes",
     "Terraform"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:blackrock:/job/Mumbai-India/Analyst--Data-Analytics_R263882",
-   "company": "BlackRock",
-   "title": "Associate - Power Bi Developer, Data Analytics",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Mumbai, India",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Analyst--Data-Analytics_R263882",
-   "posted_at": "2026-08-13T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [
-    "SQL",
-    "Azure",
-    "Tableau"
    ],
    "source": "workday"
   },
