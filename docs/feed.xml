@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-01T13:05:10Z</updated>
+  <updated>2026-09-01T17:18:36Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:156865</id>
     <title>Honeywell: Intern Masters Embedded Eng</title>
@@ -149,6 +149,14 @@
     <updated>2026-08-18T07:39:31Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, India · Python, JavaScript, PyTorch, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:quantum:4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6</id>
+    <title>Quantum: Graduate Data Engineer</title>
+    <link href="https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6"/>
+    <updated>2026-08-16T09:28:21Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · London (hybrid) · Python, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aresmgmt:/job/Mumbai-India/Business-Analyst---Workday_R7623</id>
