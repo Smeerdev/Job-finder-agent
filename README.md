@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**28 open roles · 11 new this week · 4,996 companies tracked · updated Sep 02, 2026 at 18:26 UTC**
+**28 open roles · 11 new this week · 4,996 companies tracked · updated Sep 02, 2026 at 21:36 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -124,7 +124,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _44 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **2** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 28 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 26 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -154,8 +154,6 @@ _44 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Honeywell | Intern Masters Embedded Eng | 2026 Graduates | 2026-08-21 |
 | Oaktree Capital Management | Associate, Workday Financials Developer(L2) | 2026 Graduates | 2026-08-20 |
 | Cambium Learning Group | Machine Learning Intern | 2026 Graduates | 2026-08-20 |
-| Cigna Group | Software Engineering Associate Advisor - HIH - Evernorth | 2026 Graduates | 2026-08-19 |
-| Oaktree Capital Management | Associate, ServiceNow Developer | 2026 Graduates | 2026-08-19 |
 
 </details>
 
@@ -174,7 +172,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,996 companies across 24 ATS platforms · 98% fetch success · completed in 370.5s · median detection latency 686 min · real posted dates on 92% of open roles._
+_Engine (last run): 4,996 companies across 24 ATS platforms · 99% fetch success · completed in 353.4s · median detection latency 686 min · real posted dates on 92% of open roles._
 
 ## Platforms Scraped
 
