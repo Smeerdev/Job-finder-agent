@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-09-02T05:26:42Z",
+ "generated_at": "2026-09-02T10:29:35Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 28,
+ "count": 29,
  "jobs": [
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214563",
+   "company": "DTCC",
+   "title": "Software Engineer Associate - ServiceNow",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214563",
+   "posted_at": "2026-09-02",
+   "first_seen_at": "2026-09-02T10:29:35Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447",
    "company": "Oaktree Capital Management",
