@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-02T14:58:20Z",
+ "generated_at": "2026-09-02T18:26:58Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 29,
+ "count": 28,
  "jobs": [
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214563",
@@ -82,23 +82,6 @@
     "React",
     "Azure",
     "Git"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:156865",
-   "company": "Honeywell",
-   "title": "Intern Masters Embedded Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/156865",
-   "posted_at": "2026-09-01",
-   "first_seen_at": "2026-09-01T13:05:10Z",
-   "salary": null,
-   "skills": [
-    "C++"
    ],
    "source": "oracle"
   },

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-02T14:58:20Z</updated>
+  <updated>2026-09-02T18:26:58Z</updated>
   <entry>
     <id>urn:intern-engine:greenhouse:synack:8165010</id>
     <title>Synack: Graduate Software Engineer</title>
@@ -37,14 +37,6 @@
     <updated>2026-09-01T20:29:12Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bangalore, Karnataka, India · TypeScript, JavaScript, React, Azure, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:156865</id>
-    <title>Honeywell: Intern Masters Embedded Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/156865"/>
-    <updated>2026-09-01T13:05:10Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, Telangana, India · C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:revvity:/job/Mumbai/Associate-Data-Analyst---Global-Procurement---Planning-COE_JR-045320</id>
