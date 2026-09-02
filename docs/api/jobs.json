@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-09-02T00:52:16Z",
+ "generated_at": "2026-09-02T05:26:42Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 27,
+ "count": 28,
  "jobs": [
+  {
+   "id": "workday:oaktree:/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447",
+   "company": "Oaktree Capital Management",
+   "title": "Associate - .Net Fullstack Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447",
+   "posted_at": "2026-09-02T00:00:00Z",
+   "first_seen_at": "2026-09-02T05:26:42Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C#",
+    "TypeScript",
+    "JavaScript",
+    "SQL",
+    "Scala",
+    "LLMs"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:hccz.fa.em3.oraclecloud.com:25450",
    "company": "Pearson",
