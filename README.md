@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**29 open roles · 14 new this week · 4,973 companies tracked · updated Sep 02, 2026 at 10:29 UTC**
+**29 open roles · 13 new this week · 4,996 companies tracked · updated Sep 02, 2026 at 14:58 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -19,13 +19,13 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 |---|---|---|---|---|---|---|
 | DTCC | Software Engineer Associate - ServiceNow ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Sep 02, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214563) |
 | Oaktree Capital Management | Associate - .Net Fullstack Engineer ~ 🆕 | Software | B.Tech/BS | Hyderabad | Sep 02, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447) |
+| Synack | Graduate Software Engineer ~ 🆕 | Software | B.Tech/BS | Remote in the UK | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/synack/jobs/8165010) |
 | Pearson | Associate, Software Engineer - Intern ~ 🆕 | Software | B.Tech/BS | Bangalore, Karnataka, India | Sep 01, 2026 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25450) |
 | Honeywell | Intern Masters Embedded Eng ~ 🆕 | Software | B.Tech/BS | Hyderabad, Telangana, India | Sep 01, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/156865) |
 | Revvity | Associate Data Analyst - Global Procurement & Planning COE ~ 🆕 | Data & ML/AI | — | Mumbai | Sep 01, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Associate-Data-Analyst---Global-Procurement---Planning-COE_JR-045320) |
 | BlackRock | Data Engineer, Aladdin Data, Associate ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai, India | Aug 31, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073) |
 | GE Healthcare | Research Intern - AI ~ 🆕 | Data & ML/AI | PhD | IND19-01-Bengaluru-EPIP 122 (Phase II) | Aug 31, 2026 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | TriNet | Associate Data Scientist ~ | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Aug 28, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761) |
-| Unisys | AI Engineering Intern ~ | Data & ML/AI | M.Tech/MS | Bangalore, KA, India | Aug 28, 2026 | [Apply](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280) |
 | Arista Networks | Intern Software Engineers - C/C++ ~ | Software | — | Poland - Remote, PL (Remote) | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000145998379) |
 | Harris Computer | Associate DevOps Engineer ~ | Software | — | Remote Pune-Baroda, India | Aug 27, 2026 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1) |
 | Aera Technology | Associate Data Scientist – Optimization & Operations Research ~ | Data & ML/AI | — | Pune, India | Aug 27, 2026 | [Apply](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
@@ -125,10 +125,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _44 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **2** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 26 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 27 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Unisys | AI Engineering Intern | 2026 Graduates | 2026-09-02 |
 | Barry-Wehmiller | AI Intern | 2026 Graduates | 2026-09-01 |
 | BlackRock | Associate - Power Bi Developer, Data Analytics | 2026 Graduates | 2026-09-01 |
 | Micron Technology | Engineer/Associate Engineer – AI & Automation Engineer | 2026 Graduates | 2026-08-31 |
@@ -173,7 +174,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,973 companies across 24 ATS platforms · 99% fetch success · completed in 303.1s · median detection latency 658 min · real posted dates on 93% of open roles._
+_Engine (last run): 4,996 companies across 24 ATS platforms · 99% fetch success · completed in 283.3s · median detection latency 686 min · real posted dates on 93% of open roles._
 
 ## Platforms Scraped
 

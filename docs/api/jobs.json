@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T10:29:35Z",
+ "generated_at": "2026-09-02T14:58:20Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 29,
  "jobs": [
@@ -41,6 +41,28 @@
     "LLMs"
    ],
    "source": "workday"
+  },
+  {
+   "id": "greenhouse:synack:8165010",
+   "company": "Synack",
+   "title": "Graduate Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Remote in the UK",
+   "url": "https://job-boards.greenhouse.io/synack/jobs/8165010",
+   "posted_at": "2026-09-01T13:20:32-04:00",
+   "first_seen_at": "2026-09-02T14:58:20Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs",
+    "GCP",
+    "Kubernetes",
+    "Docker",
+    "Kafka"
+   ],
+   "source": "greenhouse"
   },
   {
    "id": "oracle:hccz.fa.em3.oraclecloud.com:25450",
@@ -157,26 +179,6 @@
     "LLMs"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:unisys:/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280",
-   "company": "Unisys",
-   "title": "AI Engineering Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore, KA, India",
-   "url": "https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280",
-   "posted_at": "2026-08-28T00:00:00Z",
-   "first_seen_at": "2026-08-28T20:43:02Z",
-   "salary": null,
-   "skills": [
-    "AWS",
-    "GCP",
-    "Azure",
-    "Git"
-   ],
-   "source": "workday"
   },
   {
    "id": "smartrecruiters:AristaNetworks:744000145998379",

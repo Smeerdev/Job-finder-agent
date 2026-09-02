@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-02T10:29:35Z</updated>
+  <updated>2026-09-02T14:58:20Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:synack:8165010</id>
+    <title>Synack: Graduate Software Engineer</title>
+    <link href="https://job-boards.greenhouse.io/synack/jobs/8165010"/>
+    <updated>2026-09-02T14:58:20Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Remote in the UK · Python, LLMs, GCP, Kubernetes, Docker</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214563</id>
     <title>DTCC: Software Engineer Associate - ServiceNow</title>
@@ -69,14 +77,6 @@
     <updated>2026-08-28T20:43:02Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:unisys:/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280</id>
-    <title>Unisys: AI Engineering Intern</title>
-    <link href="https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280"/>
-    <updated>2026-08-28T20:43:02Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore, KA, India · AWS, GCP, Azure, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AristaNetworks:744000145998379</id>
