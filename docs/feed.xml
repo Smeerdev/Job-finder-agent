@@ -5,14 +5,14 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-03T16:55:55Z</updated>
+  <updated>2026-09-03T19:41:28Z</updated>
   <entry>
-    <id>urn:intern-engine:lever:beghouconsulting:3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c</id>
-    <title>Beghou Consulting: Associate Developer</title>
-    <link href="https://jobs.lever.co/beghouconsulting/3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c"/>
-    <updated>2026-09-03T16:55:54Z</updated>
+    <id>urn:intern-engine:workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442</id>
+    <title>Ancestry: Applied AI Science Co-op - Embedding models and Personalization</title>
+    <link href="https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442"/>
+    <updated>2026-09-03T19:41:28Z</updated>
     <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad · C#, JavaScript, SQL, .NET</summary>
+    <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, SQL, PyTorch, TensorFlow, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:qualified-health-pbc:4964d004-a597-4013-aea7-8dece8035f10</id>
@@ -29,6 +29,14 @@
     <updated>2026-09-03T16:55:54Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Palo Alto - Hybrid · $40/hr · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:beghouconsulting:3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c</id>
+    <title>Beghou Consulting: Associate Developer</title>
+    <link href="https://jobs.lever.co/beghouconsulting/3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c"/>
+    <updated>2026-09-03T16:55:54Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad · C#, JavaScript, SQL, .NET</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:relay:5a6ed15f-e610-4d09-9fd7-f18cd639c4e7</id>
