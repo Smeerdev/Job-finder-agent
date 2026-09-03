@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**29 open roles · 12 new this week · 4,996 companies tracked · updated Sep 03, 2026 at 12:35 UTC**
+**30 open roles · 12 new this week · 5,055 companies tracked · updated Sep 03, 2026 at 16:55 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,19 +13,20 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (29 open)
+## 2026 Graduates (International)  (30 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Beghou Consulting | Associate Developer ~ 🆕 | Software | — | Hyderabad | Sep 03, 2026 | [Apply](https://jobs.lever.co/beghouconsulting/3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c) |
 | Relay Technologies | Graduate Software Engineer ~ 🆕 | Software | B.Tech/BS | London - Hybrid | Sep 03, 2026 | [Apply](https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7) |
 | GE Aerospace | Data Science Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru | Sep 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5039463) |
 | Oaktree Capital Management | Associate - .Net Fullstack Engineer ~ 🆕 | Software | B.Tech/BS | Hyderabad | Sep 02, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447) |
 | Synack | Graduate Software Engineer ~ 🆕 | Software | B.Tech/BS | Remote in the UK | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/synack/jobs/8165010) |
-| Pearson | Associate, Software Engineer - Intern ~ 🆕 | Software | B.Tech/BS | Bangalore, Karnataka, India | Sep 01, 2026 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25450) |
-| Revvity | Associate Data Analyst - Global Procurement & Planning COE ~ 🆕 | Data & ML/AI | — | Mumbai | Sep 01, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Associate-Data-Analyst---Global-Procurement---Planning-COE_JR-045320) |
+| Revvity | Associate Data Analyst - Global Procurement & Planning COE ~ | Data & ML/AI | — | Mumbai | Sep 01, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Associate-Data-Analyst---Global-Procurement---Planning-COE_JR-045320) |
 | BlackRock | Data Engineer, Aladdin Data, Associate ~ | Data & ML/AI | B.Tech/BS | Mumbai, India | Aug 31, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073) |
-| GE Healthcare | Research Intern - AI ~ | Data & ML/AI | PhD | IND19-01-Bengaluru-EPIP 122 (Phase II) | Aug 31, 2026 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
+| Qualified Health | Clinical AI Evaluation Intern 🆕 | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 28, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789) |
 | TriNet | Associate Data Scientist ~ | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Aug 28, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761) |
+| Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation 🆕 | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 27, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10) |
 | Arista Networks | Intern Software Engineers - C/C++ ~ | Software | — | Poland - Remote, PL (Remote) | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000145998379) |
 | Harris Computer | Associate DevOps Engineer ~ | Software | — | Remote Pune-Baroda, India | Aug 27, 2026 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1) |
 | Aera Technology | Associate Data Scientist – Optimization & Operations Research ~ | Data & ML/AI | — | Pune, India | Aug 27, 2026 | [Apply](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
@@ -47,7 +48,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (29 of 29)._
+_~ = the title doesn't state a year; bucketed here from its posting date (28 of 30)._
 
 ## What this is
 
@@ -122,13 +123,15 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Stripe | — | — | ⏳ waiting |
 | Tower Research Capital | — | — | ⏳ waiting |
 
-_44 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **2** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **3** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 25 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 27 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Pearson | Associate, Software Engineer - Intern | 2026 Graduates | 2026-09-03 |
+| GE Healthcare | Research Intern - AI | 2026 Graduates | 2026-09-03 |
 | DTCC | Software Engineer Associate - ServiceNow | 2026 Graduates | 2026-09-03 |
 | Honeywell | Intern Masters Embedded Eng | 2026 Graduates | 2026-09-02 |
 | Unisys | AI Engineering Intern | 2026 Graduates | 2026-09-02 |
@@ -172,7 +175,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,996 companies across 24 ATS platforms · 98% fetch success · completed in 362.5s · median detection latency 630 min · real posted dates on 93% of open roles._
+_Engine (last run): 5,055 companies across 24 ATS platforms · 98% fetch success · completed in 298.9s · median detection latency 658 min · real posted dates on 93% of open roles._
 
 ## Platforms Scraped
 

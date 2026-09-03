@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-09-03T12:35:00Z",
+ "generated_at": "2026-09-03T16:55:55Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
+  {
+   "company": "Qualified Health",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -7,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10",
+   "note": ""
+  },
   {
    "company": "Adobe",
    "last_cycle_posted": "",
@@ -620,5 +634,5 @@
    "note": ""
   }
  ],
- "count": 44
+ "count": 45
 }

@@ -5,7 +5,16 @@
    "cycles": {
     "2026 Graduates": {
      "first_posted": "2026-08-10",
-     "count": 45
+     "count": 46
+    }
+   }
+  },
+  "qualifiedhealth": {
+   "name": "Qualified Health",
+   "cycles": {
+    "2026 Graduates": {
+     "first_posted": "2026-08-27",
+     "count": 2
     }
    }
   },
@@ -14,10 +23,10 @@
    "cycles": {
     "2026 Graduates": {
      "first_posted": "2026-07-31",
-     "count": 253
+     "count": 254
     }
    }
   }
  },
- "updated_at": "2026-09-03T12:35:00Z"
+ "updated_at": "2026-09-03T16:55:54Z"
 }

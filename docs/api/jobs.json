@@ -1,8 +1,28 @@
 {
- "generated_at": "2026-09-03T12:35:00Z",
+ "generated_at": "2026-09-03T16:55:55Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 29,
+ "count": 30,
  "jobs": [
+  {
+   "id": "lever:beghouconsulting:3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c",
+   "company": "Beghou Consulting",
+   "title": "Associate Developer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://jobs.lever.co/beghouconsulting/3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c",
+   "posted_at": "2026-09-03T14:17:19Z",
+   "first_seen_at": "2026-09-03T16:55:54Z",
+   "salary": null,
+   "skills": [
+    "C#",
+    "JavaScript",
+    "SQL",
+    ".NET"
+   ],
+   "source": "lever"
+  },
   {
    "id": "ashby:relay:5a6ed15f-e610-4d09-9fd7-f18cd639c4e7",
    "company": "Relay Technologies",
@@ -89,27 +109,6 @@
    "source": "greenhouse"
   },
   {
-   "id": "oracle:hccz.fa.em3.oraclecloud.com:25450",
-   "company": "Pearson",
-   "title": "Associate, Software Engineer - Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25450",
-   "posted_at": "2026-09-01",
-   "first_seen_at": "2026-09-01T20:29:12Z",
-   "salary": null,
-   "skills": [
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "Azure",
-    "Git"
-   ],
-   "source": "oracle"
-  },
-  {
    "id": "workday:revvity:/job/Mumbai/Associate-Data-Analyst---Global-Procurement---Planning-COE_JR-045320",
    "company": "Revvity",
    "title": "Associate Data Analyst - Global Procurement & Planning COE",
@@ -149,25 +148,21 @@
    "source": "workday"
   },
   {
-   "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1",
-   "company": "GE Healthcare",
-   "title": "Research Intern - AI",
+   "id": "ashby:qualified-health-pbc:6cae1651-ea0d-4779-bf8c-778be1ac8789",
+   "company": "Qualified Health",
+   "title": "Clinical AI Evaluation Intern",
    "season": "2026 Graduates",
-   "season_inferred": true,
+   "season_inferred": false,
    "category": "Data & ML/AI",
-   "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1",
-   "posted_at": "2026-08-31T00:00:00Z",
-   "first_seen_at": "2026-08-31T17:27:05Z",
-   "salary": null,
+   "location": "Palo Alto - Hybrid",
+   "url": "https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789",
+   "posted_at": "2026-08-28T20:24:42.517+00:00",
+   "first_seen_at": "2026-09-03T16:55:54Z",
+   "salary": "$40/hr",
    "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "LLMs",
-    "Computer Vision"
+    "LLMs"
    ],
-   "source": "workday"
+   "source": "ashby"
   },
   {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3003761",
@@ -186,6 +181,23 @@
     "LLMs"
    ],
    "source": "oracle"
+  },
+  {
+   "id": "ashby:qualified-health-pbc:4964d004-a597-4013-aea7-8dece8035f10",
+   "company": "Qualified Health",
+   "title": "Medical Scribe Intern, Clinical AI Safety & Evaluation",
+   "season": "2026 Graduates",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Palo Alto - Hybrid",
+   "url": "https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10",
+   "posted_at": "2026-08-27T22:56:48.929+00:00",
+   "first_seen_at": "2026-09-03T16:55:54Z",
+   "salary": "$40/hr",
+   "skills": [
+    "LLMs"
+   ],
+   "source": "ashby"
   },
   {
    "id": "smartrecruiters:AristaNetworks:744000145998379",

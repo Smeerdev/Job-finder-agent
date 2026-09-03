@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-03T12:35:00Z",
-  "duration_seconds": 362.5,
-  "companies_total": 4996,
+  "generated_at": "2026-09-03T16:55:54Z",
+  "duration_seconds": 298.9,
+  "companies_total": 5055,
   "companies_by_source": {
-    "greenhouse": 1070,
-    "lever": 411,
-    "smartrecruiters": 811,
-    "workable": 138,
-    "ashby": 686,
+    "greenhouse": 1075,
+    "lever": 422,
+    "smartrecruiters": 816,
+    "workable": 151,
+    "ashby": 697,
     "recruitee": 9,
-    "workday": 1515,
-    "oracle": 145,
-    "rippling": 143,
+    "workday": 1521,
+    "rippling": 150,
+    "oracle": 146,
     "amazon": 1,
     "bloomberg": 1,
     "bytedance": 1,
@@ -28,47 +28,48 @@
     "unstop": 5,
     "wellfound": 1
   },
-  "quarantined": 342,
-  "fetched_ok": 4594,
-  "fetch_errors": 60,
+  "quarantined": 350,
+  "fetched_ok": 4623,
+  "fetch_errors": 82,
   "errors_by_source": {
-    "workday": 58,
-    "ashby": 1,
-    "workable": 1
-  },
-  "fetch_success_rate": 0.987,
-  "roles_matched": 27,
-  "roles_cycle_inferred": 27,
-  "dropped_no_year_in_title": 484,
-  "dropped_offcycle_by_text": 326,
-  "roles_by_source": {
     "lever": 1,
+    "workday": 63,
+    "greenhouse": 3,
+    "workable": 15
+  },
+  "fetch_success_rate": 0.983,
+  "roles_matched": 28,
+  "roles_cycle_inferred": 26,
+  "dropped_no_year_in_title": 481,
+  "dropped_offcycle_by_text": 328,
+  "roles_by_source": {
+    "lever": 2,
     "smartrecruiters": 1,
-    "workday": 17,
-    "oracle": 3,
-    "ashby": 3,
+    "workday": 16,
+    "oracle": 2,
+    "ashby": 5,
     "greenhouse": 2
   },
   "roles_by_cycle": {
-    "2026 Graduates": 27
+    "2026 Graduates": 28
   },
   "roles_by_region": {
-    "India": 22,
-    "Remote": 5
+    "India": 21,
+    "Remote": 7
   },
-  "posted_date_coverage": 0.931,
-  "enriched_this_run": 1,
+  "posted_date_coverage": 0.933,
+  "enriched_this_run": 3,
   "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 1,
-  "open_total": 29,
+  "new_this_run": 3,
+  "open_total": 30,
   "detection_latency": {
-    "median_minutes": 629.6,
-    "sample_size": 47,
+    "median_minutes": 658.0,
+    "sample_size": 50,
     "window_days": 7
   },
   "posting_lifetime": {
     "median_days": 2.5,
-    "sample_size": 34
+    "sample_size": 36
   }
 }
