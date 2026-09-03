@@ -1,8 +1,26 @@
 {
- "generated_at": "2026-09-03T02:37:12Z",
+ "generated_at": "2026-09-03T07:43:51Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 28,
+ "count": 29,
  "jobs": [
+  {
+   "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5039463",
+   "company": "GE Aerospace",
+   "title": "Data Science Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5039463",
+   "posted_at": "2026-09-03T00:00:00Z",
+   "first_seen_at": "2026-09-03T07:43:51Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214563",
    "company": "DTCC",
