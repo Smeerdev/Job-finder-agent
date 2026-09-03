@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-09-03T07:43:51Z",
+ "generated_at": "2026-09-03T12:35:00Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 29,
  "jobs": [
+  {
+   "id": "ashby:relay:5a6ed15f-e610-4d09-9fd7-f18cd639c4e7",
+   "company": "Relay Technologies",
+   "title": "Graduate Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "London - Hybrid",
+   "url": "https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7",
+   "posted_at": "2026-09-03T09:47:01.856+00:00",
+   "first_seen_at": "2026-09-03T12:35:00Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Rust",
+    "TypeScript",
+    "LLMs",
+    "GCP"
+   ],
+   "source": "ashby"
+  },
   {
    "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5039463",
    "company": "GE Aerospace",
@@ -20,21 +41,6 @@
     "LLMs"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214563",
-   "company": "DTCC",
-   "title": "Software Engineer Associate - ServiceNow",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214563",
-   "posted_at": "2026-09-02",
-   "first_seen_at": "2026-09-02T10:29:35Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
   },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447",
