@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**32 open roles · 12 new this week · 5,055 companies tracked · updated Sep 04, 2026 at 10:27 UTC**
+**33 open roles · 12 new this week · 5,105 companies tracked · updated Sep 04, 2026 at 14:50 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (32 open)
+## 2026 Graduates (International)  (33 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -34,6 +34,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Aera Technology | Associate Data Scientist – Optimization & Operations Research ~ | Data & ML/AI | — | Pune, India | Aug 27, 2026 | [Apply](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
 | Realm | Software Engineer - Intern ~ | Software | B.Tech/BS | Remote | Aug 26, 2026 | [Apply](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 | Jefferies | Associate - C# (.net) Developer - Equity Technology ~ | Software | B.Tech/BS | Pune, India | Aug 26, 2026 | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4491) |
+| Cigna Group | Machine Learning Associate Analyst - HIH - Evernorth ~ | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Hyderabad, India | Aug 24, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450) |
 | Oaktree Capital Management | Associate, Workday Integrations Developer ~ | Software | — | Hyderabad | Aug 24, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254) |
 | MillerKnoll | Associate Web Analytics Engineer ~ | Data & ML/AI | B.Tech/BS | India - Bengaluru | Aug 21, 2026 | [Apply](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2) |
 | Tower Research Capital | Intern - AI/ML ~ | Data & ML/AI | PhD | gurgaon | Aug 20, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
@@ -50,7 +51,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (30 of 32)._
+_~ = the title doesn't state a year; bucketed here from its posting date (31 of 33)._
 
 ## What this is
 
@@ -128,7 +129,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **3** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 27 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 26 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -152,7 +153,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Gevernova | Grid Automation & Software Intern | 2026 Graduates | 2026-08-26 |
 | Revvity | AI Intern | 2026 Graduates | 2026-08-26 |
 | LinkedIn | Software Engineering Intern | 2026 Graduates | 2026-08-25 |
-| Cigna Group | Machine Learning Associate Analyst - HIH - Evernorth | 2026 Graduates | 2026-08-25 |
 | DTCC | Software Development Test Engineering Associate | 2026 Graduates | 2026-08-24 |
 | HEXAWARE | Java Full Stack Engineer - Associate | 2026 Graduates | 2026-08-22 |
 | Workday | Software Development Engineer - Intern | 2026 Graduates | 2026-08-21 |
@@ -177,7 +177,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,055 companies across 24 ATS platforms · 99% fetch success · completed in 340.8s · median detection latency 658 min · real posted dates on 93% of open roles._
+_Engine (last run): 5,105 companies across 24 ATS platforms · 93% fetch success · completed in 508.6s · median detection latency 658 min · real posted dates on 93% of open roles._
 
 ## Platforms Scraped
 

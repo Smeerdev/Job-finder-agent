@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-04T10:27:59Z</updated>
+  <updated>2026-09-04T14:50:44Z</updated>
   <entry>
     <id>urn:intern-engine:workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1</id>
     <title>Merck: Associate Specialist, RPA Platform Engineer, I&amp;PE</title>
@@ -141,6 +141,14 @@
     <updated>2026-08-26T11:28:40Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Pune, India · Java, SQL, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450</id>
+    <title>Cigna Group: Machine Learning Associate Analyst - HIH - Evernorth</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450"/>
+    <updated>2026-08-24T13:51:20Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, India · Python, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254</id>

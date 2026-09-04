@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-04T10:27:59Z",
+ "generated_at": "2026-09-04T14:50:44Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 32,
+ "count": 33,
  "jobs": [
   {
    "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1",
@@ -346,6 +346,24 @@
     "Linux"
    ],
    "source": "oracle"
+  },
+  {
+   "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450",
+   "company": "Cigna Group",
+   "title": "Machine Learning Associate Analyst - HIH - Evernorth",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, India",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450",
+   "posted_at": "2026-08-24T00:00:00Z",
+   "first_seen_at": "2026-08-24T13:51:20Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "workday"
   },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254",
