@@ -5,7 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-04T14:50:44Z</updated>
+  <updated>2026-09-04T18:06:51Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:abacusinsights:8783925002</id>
+    <title>Abacus Insights: Associate Site Reliability and Forward Deployed Engineer</title>
+    <link href="https://boards.greenhouse.io/abacusinsights/jobs/8783925002?gh_jid=8783925002"/>
+    <updated>2026-09-04T18:06:51Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · India · Python, SQL, LLMs, AWS, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:celonis:7784394003</id>
+    <title>Celonis: Associate (AI) Solution Consultant</title>
+    <link href="https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003"/>
+    <updated>2026-09-04T18:06:51Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore, India · Python, SQL, PyTorch, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hccz.fa.em3.oraclecloud.com:25878</id>
+    <title>Pearson: Associate, AI &amp; Machine Learning Intern</title>
+    <link href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25878"/>
+    <updated>2026-09-04T18:06:51Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore, Karnataka, India · Python, SQL, scikit-learn, Pandas, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1</id>
     <title>Merck: Associate Specialist, RPA Platform Engineer, I&amp;PE</title>
@@ -141,14 +165,6 @@
     <updated>2026-08-26T11:28:40Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Pune, India · Java, SQL, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450</id>
-    <title>Cigna Group: Machine Learning Associate Analyst - HIH - Evernorth</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450"/>
-    <updated>2026-08-24T13:51:20Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, India · Python, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254</id>

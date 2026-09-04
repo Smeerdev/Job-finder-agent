@@ -1,8 +1,76 @@
 {
- "generated_at": "2026-09-04T14:50:44Z",
+ "generated_at": "2026-09-04T18:06:51Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 33,
+ "count": 35,
  "jobs": [
+  {
+   "id": "greenhouse:abacusinsights:8783925002",
+   "company": "Abacus Insights",
+   "title": "Associate Site Reliability and Forward Deployed Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India",
+   "url": "https://boards.greenhouse.io/abacusinsights/jobs/8783925002?gh_jid=8783925002",
+   "posted_at": "2026-09-04T10:42:59-04:00",
+   "first_seen_at": "2026-09-04T18:06:51Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "LLMs",
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Linux"
+   ],
+   "source": "greenhouse"
+  },
+  {
+   "id": "greenhouse:celonis:7784394003",
+   "company": "Celonis",
+   "title": "Associate (AI) Solution Consultant",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003",
+   "posted_at": "2026-09-04T11:47:37-04:00",
+   "first_seen_at": "2026-09-04T18:06:51Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "LLMs"
+   ],
+   "source": "greenhouse"
+  },
+  {
+   "id": "oracle:hccz.fa.em3.oraclecloud.com:25878",
+   "company": "Pearson",
+   "title": "Associate, AI & Machine Learning Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25878",
+   "posted_at": "2026-09-04",
+   "first_seen_at": "2026-09-04T18:06:51Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "scikit-learn",
+    "Pandas",
+    "LLMs",
+    "Azure",
+    "Git"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1",
    "company": "Merck",
@@ -346,24 +414,6 @@
     "Linux"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450",
-   "company": "Cigna Group",
-   "title": "Machine Learning Associate Analyst - HIH - Evernorth",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450",
-   "posted_at": "2026-08-24T00:00:00Z",
-   "first_seen_at": "2026-08-24T13:51:20Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254",
