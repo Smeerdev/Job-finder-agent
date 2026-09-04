@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-04T05:26:29Z</updated>
+  <updated>2026-09-04T10:27:59Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1</id>
+    <title>Merck: Associate Specialist, RPA Platform Engineer, I&amp;PE</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1"/>
+    <updated>2026-09-04T10:27:59Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · IND - Telangana - Hyderabad (Hitec City Raidurg) · Python, AWS, Azure, Kubernetes, Docker</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442</id>
     <title>Ancestry: Applied AI Science Co-op - Embedding models and Personalization</title>

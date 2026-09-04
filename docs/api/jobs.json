@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-09-04T05:26:29Z",
+ "generated_at": "2026-09-04T10:27:59Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 31,
+ "count": 32,
  "jobs": [
+  {
+   "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1",
+   "company": "Merck",
+   "title": "Associate Specialist, RPA Platform Engineer, I&PE",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1",
+   "posted_at": "2026-09-04T00:00:00Z",
+   "first_seen_at": "2026-09-04T10:27:59Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "AWS",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "Terraform",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442",
    "company": "Ancestry",
