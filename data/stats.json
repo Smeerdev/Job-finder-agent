@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T18:06:51Z",
-  "duration_seconds": 435.9,
+  "generated_at": "2026-09-04T20:38:22Z",
+  "duration_seconds": 241.8,
   "companies_total": 5105,
   "companies_by_source": {
     "greenhouse": 1084,
@@ -28,20 +28,18 @@
     "unstop": 5,
     "wellfound": 1
   },
-  "quarantined": 351,
-  "fetched_ok": 4723,
-  "fetch_errors": 31,
+  "quarantined": 370,
+  "fetched_ok": 4733,
+  "fetch_errors": 2,
   "errors_by_source": {
-    "lever": 2,
-    "workday": 10,
-    "ashby": 1,
-    "workable": 18
+    "workday": 1,
+    "ashby": 1
   },
-  "fetch_success_rate": 0.993,
+  "fetch_success_rate": 1.0,
   "roles_matched": 33,
   "roles_cycle_inferred": 31,
-  "dropped_no_year_in_title": 483,
-  "dropped_offcycle_by_text": 361,
+  "dropped_no_year_in_title": 481,
+  "dropped_offcycle_by_text": 364,
   "roles_by_source": {
     "greenhouse": 4,
     "lever": 2,
@@ -58,10 +56,10 @@
     "Remote": 8
   },
   "posted_date_coverage": 0.943,
-  "enriched_this_run": 3,
-  "enrichment_detail_fetches": 3,
+  "enriched_this_run": 0,
+  "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 3,
+  "new_this_run": 0,
   "open_total": 35,
   "detection_latency": {
     "median_minutes": 629.6,
