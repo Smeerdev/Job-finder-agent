@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T22:48:42Z",
+ "generated_at": "2026-09-05T00:38:10Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -12,7 +12,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-27",
-   "days_until": -8,
+   "days_until": -9,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10",
    "note": ""
@@ -614,7 +614,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -35,
+   "days_until": -36,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -628,7 +628,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-10",
-   "days_until": -25,
+   "days_until": -26,
    "status": "dropped",
    "url": "",
    "note": ""
