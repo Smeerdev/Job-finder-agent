@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-09-05T00:38:10Z",
+ "generated_at": "2026-09-05T05:16:21Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 35,
+ "count": 36,
  "jobs": [
+  {
+   "id": "workday:ebay:/job/Bengaluru-India/Software-Engineer-Intern_R0069699",
+   "company": "eBay",
+   "title": "Software Engineer Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, India",
+   "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Bengaluru-India/Software-Engineer-Intern_R0069699",
+   "posted_at": "2026-09-05T00:00:00Z",
+   "first_seen_at": "2026-09-05T05:16:21Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "Scala",
+    "LLMs"
+   ],
+   "source": "workday"
+  },
   {
    "id": "greenhouse:abacusinsights:8783925002",
    "company": "Abacus Insights",
