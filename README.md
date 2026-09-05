@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**36 open roles · 14 new this week · 5,119 companies tracked · updated Sep 05, 2026 at 16:35 UTC**
+**36 open roles · 14 new this week · 5,119 companies tracked · updated Sep 05, 2026 at 18:49 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -22,16 +22,16 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Pearson | Associate, AI & Machine Learning Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore, Karnataka, India | Sep 04, 2026 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25878) |
 | Merck | Associate Specialist, RPA Platform Engineer, I&PE ~ 🆕 | Software | B.Tech/BS | IND - Telangana - Hyderabad (Hitec City… | Sep 04, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1) |
 | Ancestry | Applied AI Science Co-op - Embedding models and Personalization ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Sep 03, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
-| Beghou Consulting | Associate Developer ~ 🆕 | Software | — | Hyderabad | Sep 03, 2026 | [Apply](https://jobs.lever.co/beghouconsulting/3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c) |
+| Beghou Consulting | Associate Developer ~ | Software | — | Hyderabad | Sep 03, 2026 | [Apply](https://jobs.lever.co/beghouconsulting/3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c) |
 | Relay Technologies | Graduate Software Engineer ~ | Software | B.Tech/BS | London - Hybrid | Sep 03, 2026 | [Apply](https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7) |
 | GE Aerospace | Data Science Intern ~ | Data & ML/AI | B.Tech/BS | Bengaluru | Sep 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5039463) |
 | Oaktree Capital Management | Associate - .Net Fullstack Engineer ~ | Software | B.Tech/BS | Hyderabad | Sep 02, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447) |
 | Synack | Graduate Software Engineer ~ | Software | B.Tech/BS | Remote in the UK | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/synack/jobs/8165010) |
 | Revvity | Associate Data Analyst - Global Procurement & Planning COE ~ | Data & ML/AI | — | Mumbai | Sep 01, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Associate-Data-Analyst---Global-Procurement---Planning-COE_JR-045320) |
 | BlackRock | Data Engineer, Aladdin Data, Associate ~ | Data & ML/AI | B.Tech/BS | Mumbai, India | Aug 31, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073) |
-| Qualified Health | Clinical AI Evaluation Intern 🆕 | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 28, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789) |
+| Qualified Health | Clinical AI Evaluation Intern | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 28, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789) |
 | TriNet | Associate Data Scientist ~ | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Aug 28, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761) |
-| Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation 🆕 | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 27, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10) |
+| Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 27, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10) |
 | Arista Networks | Intern Software Engineers - C/C++ ~ | Software | — | Poland - Remote, PL (Remote) | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000145998379) |
 | Harris Computer | Associate DevOps Engineer ~ | Software | — | Remote Pune-Baroda, India | Aug 27, 2026 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1) |
 | Aera Technology | Associate Data Scientist – Optimization & Operations Research ~ | Data & ML/AI | — | Pune, India | Aug 27, 2026 | [Apply](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
@@ -176,7 +176,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,119 companies across 24 ATS platforms · 99% fetch success · completed in 425.3s · median detection latency 629 min · real posted dates on 94% of open roles._
+_Engine (last run): 5,119 companies across 24 ATS platforms · 97% fetch success · completed in 259.5s · median detection latency 629 min · real posted dates on 94% of open roles._
 
 ## Platforms Scraped
 
