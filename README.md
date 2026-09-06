@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**38 open roles · 16 new this week · 5,121 companies tracked · updated Sep 06, 2026 at 16:45 UTC**
+**37 open roles · 16 new this week · 5,121 companies tracked · updated Sep 06, 2026 at 18:53 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,15 +13,15 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (38 open)
+## 2026 Graduates (International)  (37 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Rubrik | Software Engineer - Winter Intern ~ 🆕 | Software | B.Tech/BS | Bangalore | Sep 06, 2026 | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | Rubrik | Software Engineer (CPD) - Winter Intern (Pune) ~ 🆕 | Software | B.Tech/BS | Pune | Sep 06, 2026 | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
-| Abacus Insights | Associate Site Reliability and Forward Deployed Engineer ~ 🆕 | Software | B.Tech/BS | India | Sep 04, 2026 | [Apply](https://boards.greenhouse.io/abacusinsights/jobs/8783925002?gh_jid=8783925002) |
-| Celonis | Associate (AI) Solution Consultant ~ 🆕 | Data & ML/AI | 1-2 Yrs<br>B.Tech/BS | Bangalore, India | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003) |
-| Pearson | Associate, AI & Machine Learning Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore, Karnataka, India | Sep 04, 2026 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25878) |
+| Abacus Insights | Associate Site Reliability and Forward Deployed Engineer ~ | Software | B.Tech/BS | India | Sep 04, 2026 | [Apply](https://boards.greenhouse.io/abacusinsights/jobs/8783925002?gh_jid=8783925002) |
+| Celonis | Associate (AI) Solution Consultant ~ | Data & ML/AI | 1-2 Yrs<br>B.Tech/BS | Bangalore, India | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003) |
+| Pearson | Associate, AI & Machine Learning Intern ~ | Data & ML/AI | B.Tech/BS | Bangalore, Karnataka, India | Sep 04, 2026 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25878) |
 | Merck | Associate Specialist, RPA Platform Engineer, I&PE ~ | Software | B.Tech/BS | IND - Telangana - Hyderabad (Hitec City… | Sep 04, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1) |
 | Ancestry | Applied AI Science Co-op - Embedding models and Personalization ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 03, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | Beghou Consulting | Associate Developer ~ | Software | — | Hyderabad | Sep 03, 2026 | [Apply](https://jobs.lever.co/beghouconsulting/3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c) |
@@ -47,7 +47,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Quantum | Graduate Data Engineer ~ | Data & ML/AI | B.Tech/BS | London (hybrid) | Aug 13, 2026 | [Apply](https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6) |
 | Oaktree Capital Management | Associate, Workday Financial Developer (L3) ~ | Software | — | Hyderabad | Aug 04, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236) |
 | Ares Management | Associate Developer - HR Tech (Workday) ~ | Software | B.Tech/BS | Mumbai, India | Jul 31, 2026 | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623) |
-| Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer ~ | Software | 0-1 Yr<br>B.Tech/BS | India, Bangalore | Jul 30, 2026 | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255) |
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
 | Priceline | Associate Software Engineer ~ | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Jul 10, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Data-Engineer_R5635) |
 | Oaktree Capital Management | Associate - Workday reporting developer ~ | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
@@ -56,7 +55,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (36 of 38)._
+_~ = the title doesn't state a year; bucketed here from its posting date (35 of 37)._
 
 ## What this is
 
@@ -134,10 +133,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **3** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 22 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 23 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer | 2026 Graduates | 2026-09-06 |
 | eBay | Software Engineer Intern | 2026 Graduates | 2026-09-05 |
 | Pearson | Associate, Software Engineer - Intern | 2026 Graduates | 2026-09-03 |
 | GE Healthcare | Research Intern - AI | 2026 Graduates | 2026-09-03 |
@@ -178,7 +178,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,121 companies across 24 ATS platforms · 99% fetch success · completed in 369.6s · median detection latency 629 min · real posted dates on 94% of open roles._
+_Engine (last run): 5,121 companies across 24 ATS platforms · 99% fetch success · completed in 325.1s · median detection latency 629 min · real posted dates on 94% of open roles._
 
 ## Platforms Scraped
 

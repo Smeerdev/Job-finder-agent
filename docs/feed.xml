@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-06T16:45:42Z</updated>
+  <updated>2026-09-06T18:53:58Z</updated>
   <entry>
     <id>urn:intern-engine:greenhouse:rubrik:8166523</id>
     <title>Rubrik: Software Engineer - Winter Intern</title>
@@ -261,14 +261,6 @@
     <updated>2026-08-16T09:28:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Mumbai, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:epicorsoftware:/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255</id>
-    <title>Epicor: Interns - Content Developer /Technical Writing/ Instructional Designer</title>
-    <link href="https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255"/>
-    <updated>2026-08-16T09:28:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · India, Bangalore</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gnw:/job/Remote-India/Associate-Application-Development-Analyst--Net-Developer-_REQ-250458</id>
