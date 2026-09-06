@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**38 open roles · 16 new this week · 5,121 companies tracked · updated Sep 06, 2026 at 14:00 UTC**
+**38 open roles · 16 new this week · 5,121 companies tracked · updated Sep 06, 2026 at 16:45 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,8 +17,8 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Rubrik | Software Engineer (CPD) - Winter Intern (Pune) ~ 🆕 | Software | B.Tech/BS | Pune | Sep 06, 2026 | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 | Rubrik | Software Engineer - Winter Intern ~ 🆕 | Software | B.Tech/BS | Bangalore | Sep 06, 2026 | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
+| Rubrik | Software Engineer (CPD) - Winter Intern (Pune) ~ 🆕 | Software | B.Tech/BS | Pune | Sep 06, 2026 | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 | Abacus Insights | Associate Site Reliability and Forward Deployed Engineer ~ 🆕 | Software | B.Tech/BS | India | Sep 04, 2026 | [Apply](https://boards.greenhouse.io/abacusinsights/jobs/8783925002?gh_jid=8783925002) |
 | Celonis | Associate (AI) Solution Consultant ~ 🆕 | Data & ML/AI | 1-2 Yrs<br>B.Tech/BS | Bangalore, India | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003) |
 | Pearson | Associate, AI & Machine Learning Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore, Karnataka, India | Sep 04, 2026 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25878) |
@@ -178,7 +178,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,121 companies across 24 ATS platforms · 97% fetch success · completed in 378.8s · median detection latency 629 min · real posted dates on 94% of open roles._
+_Engine (last run): 5,121 companies across 24 ATS platforms · 99% fetch success · completed in 369.6s · median detection latency 629 min · real posted dates on 94% of open roles._
 
 ## Platforms Scraped
 
