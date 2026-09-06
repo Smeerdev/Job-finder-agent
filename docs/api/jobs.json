@@ -1,8 +1,48 @@
 {
- "generated_at": "2026-09-06T10:11:01Z",
+ "generated_at": "2026-09-06T14:00:17Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 36,
+ "count": 38,
  "jobs": [
+  {
+   "id": "greenhouse:rubrik:8166537",
+   "company": "Rubrik",
+   "title": "Software Engineer (CPD) - Winter Intern (Pune)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
+   "posted_at": "2026-09-06T08:47:22-04:00",
+   "first_seen_at": "2026-09-06T14:00:17Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "Scala"
+   ],
+   "source": "greenhouse"
+  },
+  {
+   "id": "greenhouse:rubrik:8166523",
+   "company": "Rubrik",
+   "title": "Software Engineer - Winter Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+   "posted_at": "2026-09-06T08:42:59-04:00",
+   "first_seen_at": "2026-09-06T14:00:17Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "Scala"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "greenhouse:abacusinsights:8783925002",
    "company": "Abacus Insights",

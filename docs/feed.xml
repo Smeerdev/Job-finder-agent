@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-06T10:11:01Z</updated>
+  <updated>2026-09-06T14:00:17Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rubrik:8166537</id>
+    <title>Rubrik: Software Engineer (CPD) - Winter Intern (Pune)</title>
+    <link href="https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537"/>
+    <updated>2026-09-06T14:00:17Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Pune · Python, Java, C++, Scala</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rubrik:8166523</id>
+    <title>Rubrik: Software Engineer - Winter Intern</title>
+    <link href="https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523"/>
+    <updated>2026-09-06T14:00:17Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bangalore · Python, Java, C++, Scala</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:abacusinsights:8783925002</id>
     <title>Abacus Insights: Associate Site Reliability and Forward Deployed Engineer</title>
