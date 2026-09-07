@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-07T05:41:15Z</updated>
+  <updated>2026-09-07T11:26:12Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:jda:/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918</id>
+    <title>Blue Yonder: Associate Technical Consultant - Cloud - Devops,Kubernetes,Terraform,Scripting</title>
+    <link href="https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918"/>
+    <updated>2026-09-07T11:26:12Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · IND - Coimbatore (708) · Python, Java, SQL, Spring, AWS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rubrik:8166523</id>
     <title>Rubrik: Software Engineer - Winter Intern</title>
@@ -183,14 +191,6 @@
     <summary>2026 Graduates · Software · Pune, India · Java, SQL, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450</id>
-    <title>Cigna Group: Machine Learning Associate Analyst - HIH - Evernorth</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450"/>
-    <updated>2026-08-24T13:51:20Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, India · Python, LLMs</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254</id>
     <title>Oaktree Capital Management: Associate, Workday Integrations Developer</title>
     <link href="https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254"/>
@@ -245,6 +245,14 @@
     <updated>2026-08-18T07:39:31Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, India · Python, JavaScript, PyTorch, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:145146</id>
+    <title>Zensar: ESaaS - MSD -Technical- D365 CE Developer Associate</title>
+    <link href="https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146"/>
+    <updated>2026-08-17T11:25:31Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Pune, Maharashtra, India · JavaScript, SQL, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:quantum:4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6</id>

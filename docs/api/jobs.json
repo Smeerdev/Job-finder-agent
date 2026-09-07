@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-09-07T05:41:15Z",
+ "generated_at": "2026-09-07T11:26:12Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 37,
+ "count": 38,
  "jobs": [
+  {
+   "id": "workday:jda:/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918",
+   "company": "Blue Yonder",
+   "title": "Associate Technical Consultant - Cloud - Devops,Kubernetes,Terraform,Scripting",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "IND - Coimbatore (708)",
+   "url": "https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918",
+   "posted_at": "2026-09-07T00:00:00Z",
+   "first_seen_at": "2026-09-07T11:26:12Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "Spring",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Kubernetes"
+   ],
+   "source": "workday"
+  },
   {
    "id": "greenhouse:rubrik:8166523",
    "company": "Rubrik",
@@ -456,24 +480,6 @@
    "source": "oracle"
   },
   {
-   "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450",
-   "company": "Cigna Group",
-   "title": "Machine Learning Associate Analyst - HIH - Evernorth",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, India",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Analyst---HIH---Evernorth_26010450",
-   "posted_at": "2026-08-24T00:00:00Z",
-   "first_seen_at": "2026-08-24T13:51:20Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254",
    "company": "Oaktree Capital Management",
    "title": "Associate, Workday Integrations Developer",
@@ -596,6 +602,25 @@
    "salary": null,
    "skills": [],
    "source": "workday"
+  },
+  {
+   "id": "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:145146",
+   "company": "Zensar",
+   "title": "ESaaS - MSD -Technical- D365 CE Developer Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146",
+   "posted_at": "2026-07-25",
+   "first_seen_at": "2026-08-17T11:25:31Z",
+   "salary": null,
+   "skills": [
+    "JavaScript",
+    "SQL",
+    "Azure"
+   ],
+   "source": "oracle"
   },
   {
    "id": "workday:reliaquest:/job/Pune-India-Office/Associate-Software-Engineer_R15032",
