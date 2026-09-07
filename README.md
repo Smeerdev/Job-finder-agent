@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**38 open roles · 17 new this week · 5,121 companies tracked · updated Sep 07, 2026 at 11:26 UTC**
+**38 open roles · 18 new this week · 5,121 companies tracked · updated Sep 07, 2026 at 17:10 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,6 +17,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| AstraZeneca | Junior Associate/Associate - AI Prompt & Market Rollout Specialist ~ 🆕 | Data & ML/AI | B.Tech/BS | India - Bangalore | Sep 07, 2026 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Junior-Associate-Associate---AI-Prompt---Market-Rollout-Specialist_R-259567-1) |
 | Blue Yonder | Associate Technical Consultant - Cloud - Devops,Kubernetes,Terraform,Scripting ~ 🆕 | Software | B.Tech/BS | IND - Coimbatore (708) | Sep 07, 2026 | [Apply](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918) |
 | Rubrik | Software Engineer - Winter Intern ~ 🆕 | Software | B.Tech/BS | Bangalore | Sep 06, 2026 | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | Rubrik | Software Engineer (CPD) - Winter Intern (Pune) ~ 🆕 | Software | B.Tech/BS | Pune | Sep 06, 2026 | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
@@ -36,7 +37,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | TriNet | Associate Data Scientist ~ | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Aug 28, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761) |
 | Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 27, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10) |
 | Arista Networks | Intern Software Engineers - C/C++ ~ | Software | — | Poland - Remote, PL (Remote) | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000145998379) |
-| Harris Computer | Associate DevOps Engineer ~ | Software | — | Remote Pune-Baroda, India | Aug 27, 2026 | [Apply](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1) |
 | Aera Technology | Associate Data Scientist – Optimization & Operations Research ~ | Data & ML/AI | — | Pune, India | Aug 27, 2026 | [Apply](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
 | Realm | Software Engineer - Intern ~ | Software | B.Tech/BS | Remote | Aug 26, 2026 | [Apply](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 | Jefferies | Associate - C# (.net) Developer - Equity Technology ~ | Software | B.Tech/BS | Pune, India | Aug 26, 2026 | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4491) |
@@ -134,10 +134,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **3** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 24 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 25 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Harris Computer | Associate DevOps Engineer | 2026 Graduates | 2026-09-07 |
 | Cigna Group | Machine Learning Associate Analyst - HIH - Evernorth | 2026 Graduates | 2026-09-07 |
 | Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer | 2026 Graduates | 2026-09-06 |
 | eBay | Software Engineer Intern | 2026 Graduates | 2026-09-05 |
@@ -180,7 +181,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,121 companies across 24 ATS platforms · 99% fetch success · completed in 344.7s · median detection latency 629 min · real posted dates on 94% of open roles._
+_Engine (last run): 5,121 companies across 24 ATS platforms · 92% fetch success · completed in 430.0s · median detection latency 629 min · real posted dates on 94% of open roles._
 
 ## Platforms Scraped
 

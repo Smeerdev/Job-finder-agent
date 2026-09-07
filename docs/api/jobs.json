@@ -1,8 +1,25 @@
 {
- "generated_at": "2026-09-07T11:26:12Z",
+ "generated_at": "2026-09-07T17:10:10Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 38,
  "jobs": [
+  {
+   "id": "workday:astrazeneca:/job/India---Bangalore/Junior-Associate-Associate---AI-Prompt---Market-Rollout-Specialist_R-259567-1",
+   "company": "AstraZeneca",
+   "title": "Junior Associate/Associate - AI Prompt & Market Rollout Specialist",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "India - Bangalore",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Junior-Associate-Associate---AI-Prompt---Market-Rollout-Specialist_R-259567-1",
+   "posted_at": "2026-09-07T00:00:00Z",
+   "first_seen_at": "2026-09-07T17:10:10Z",
+   "salary": null,
+   "skills": [
+    "LLMs"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:jda:/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918",
    "company": "Blue Yonder",
@@ -395,28 +412,6 @@
     "Git"
    ],
    "source": "smartrecruiters"
-  },
-  {
-   "id": "workday:harriscomputer:/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1",
-   "company": "Harris Computer",
-   "title": "Associate DevOps Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote Pune-Baroda, India",
-   "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1",
-   "posted_at": "2026-08-27T00:00:00Z",
-   "first_seen_at": "2026-08-27T23:33:52Z",
-   "salary": null,
-   "skills": [
-    "SQL",
-    "Azure",
-    "Kubernetes",
-    "Docker",
-    "Linux",
-    "Git"
-   ],
-   "source": "workday"
   },
   {
    "id": "lever:aeratechnology:d9271f5c-b9f8-49ff-8895-3a118c464114",

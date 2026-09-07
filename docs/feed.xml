@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-07T11:26:12Z</updated>
+  <updated>2026-09-07T17:10:10Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:astrazeneca:/job/India---Bangalore/Junior-Associate-Associate---AI-Prompt---Market-Rollout-Specialist_R-259567-1</id>
+    <title>AstraZeneca: Junior Associate/Associate - AI Prompt &amp; Market Rollout Specialist</title>
+    <link href="https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Junior-Associate-Associate---AI-Prompt---Market-Rollout-Specialist_R-259567-1"/>
+    <updated>2026-09-07T17:10:10Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · India - Bangalore · LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:jda:/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918</id>
     <title>Blue Yonder: Associate Technical Consultant - Cloud - Devops,Kubernetes,Terraform,Scripting</title>
@@ -157,14 +165,6 @@
     <updated>2026-08-27T23:33:52Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Poland - Remote, PL (Remote) · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:harriscomputer:/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1</id>
-    <title>Harris Computer: Associate DevOps Engineer</title>
-    <link href="https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Associate-DevOps-Engineer_R0045701-1"/>
-    <updated>2026-08-27T23:33:52Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Remote Pune-Baroda, India · SQL, Azure, Kubernetes, Docker, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:aeratechnology:d9271f5c-b9f8-49ff-8895-3a118c464114</id>
