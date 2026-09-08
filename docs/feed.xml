@@ -5,15 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-08T07:49:32Z</updated>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:157433</id>
-    <title>Honeywell: Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157433"/>
-    <updated>2026-09-08T07:49:32Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India · Python, PyTorch, TensorFlow</summary>
-  </entry>
+  <updated>2026-09-08T12:36:46Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:157407</id>
     <title>Honeywell: Intern Masters Embedded Eng</title>
@@ -21,6 +13,14 @@
     <updated>2026-09-08T07:49:32Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad, Telangana, India · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:157433</id>
+    <title>Honeywell: Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157433"/>
+    <updated>2026-09-08T07:49:32Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India · Python, PyTorch, TensorFlow</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:LinkedIn3:744000148146490</id>
@@ -32,7 +32,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:goto:/job/Remote-Hungary/DevOps-Intern_R26-2270-1</id>
-    <title>GoTo Group: DevOps Intern</title>
+    <title>GoTo Group: DevOps Intern (fixed term, 8 months)</title>
     <link href="https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1"/>
     <updated>2026-09-07T21:05:10Z</updated>
     <category term="2026 Graduates"/>
@@ -119,14 +119,6 @@
     <summary>2026 Graduates · Data &amp; ML/AI · Palo Alto - Hybrid · $40/hr · LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:beghouconsulting:3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c</id>
-    <title>Beghou Consulting: Associate Developer</title>
-    <link href="https://jobs.lever.co/beghouconsulting/3ee68fcd-4b8a-4e45-b4e3-80ee8d54676c"/>
-    <updated>2026-09-03T16:55:54Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad · C#, JavaScript, SQL, .NET</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:relay:5a6ed15f-e610-4d09-9fd7-f18cd639c4e7</id>
     <title>Relay Technologies: Graduate Software Engineer</title>
     <link href="https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7"/>
@@ -157,14 +149,6 @@
     <updated>2026-09-02T05:26:42Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad · Python, Java, C#, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:revvity:/job/Mumbai/Associate-Data-Analyst---Global-Procurement---Planning-COE_JR-045320</id>
-    <title>Revvity: Associate Data Analyst - Global Procurement &amp; Planning COE</title>
-    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Associate-Data-Analyst---Global-Procurement---Planning-COE_JR-045320"/>
-    <updated>2026-09-01T13:05:10Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Mumbai · SQL, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:blackrock:/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073</id>
