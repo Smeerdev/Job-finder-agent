@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-09-08T17:06:53Z",
+ "generated_at": "2026-09-08T19:55:03Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 41,
+ "count": 38,
  "jobs": [
+  {
+   "id": "smartrecruiters:LinkedIn3:744000148299359",
+   "company": "LinkedIn",
+   "title": "Software Engineering Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, KA, India",
+   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000148299359",
+   "posted_at": "2026-09-08T16:44:01.909Z",
+   "first_seen_at": "2026-09-08T17:06:53Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "C++",
+    "C#"
+   ],
+   "source": "smartrecruiters"
+  },
   {
    "id": "workday:cambiumlearning:/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
    "company": "Cambium Learning Group",
@@ -26,61 +45,6 @@
     "Azure"
    ],
    "source": "workday"
-  },
-  {
-   "id": "smartrecruiters:LinkedIn3:744000148299359",
-   "company": "LinkedIn",
-   "title": "Software Engineering Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, KA, India",
-   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000148299359",
-   "posted_at": "2026-09-08T16:44:01.909Z",
-   "first_seen_at": "2026-09-08T17:06:53Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "C++",
-    "C#"
-   ],
-   "source": "smartrecruiters"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157407",
-   "company": "Honeywell",
-   "title": "Intern Masters Embedded Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157407",
-   "posted_at": "2026-09-08",
-   "first_seen_at": "2026-09-08T07:49:32Z",
-   "salary": null,
-   "skills": [
-    "C++"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157433",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157433",
-   "posted_at": "2026-09-08",
-   "first_seen_at": "2026-09-08T07:49:32Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:goto:/job/Remote-Hungary/DevOps-Intern_R26-2270-1",
@@ -225,29 +189,6 @@
     "LLMs"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "oracle:hccz.fa.em3.oraclecloud.com:25878",
-   "company": "Pearson",
-   "title": "Associate, AI & Machine Learning Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore, Karnataka, India",
-   "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25878",
-   "posted_at": "2026-09-04",
-   "first_seen_at": "2026-09-04T18:06:51Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "scikit-learn",
-    "Pandas",
-    "LLMs",
-    "Azure",
-    "Git"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442",
