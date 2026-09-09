@@ -1,8 +1,40 @@
 {
- "generated_at": "2026-09-09T05:54:19Z",
+ "generated_at": "2026-09-09T10:41:16Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 39,
+ "count": 40,
  "jobs": [
+  {
+   "id": "workday:gevernova:/job/Remote/Grid-Automation---Software-Intern_R5052362",
+   "company": "Gevernova",
+   "title": "Grid Automation & Software Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Remote",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5052362",
+   "posted_at": "2026-09-09T00:00:00Z",
+   "first_seen_at": "2026-09-09T10:41:16Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1",
+   "company": "Synechron",
+   "title": "Associate Visionplus developer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune - Kharadi (EON-II)",
+   "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1",
+   "posted_at": "2026-09-09T00:00:00Z",
+   "first_seen_at": "2026-09-09T10:41:16Z",
+   "salary": null,
+   "skills": [
+    "Linux"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Scientist_JR014459",
    "company": "Acxiom",
@@ -86,23 +118,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:astrazeneca:/job/India---Bangalore/Junior-Associate-Associate---AI-Prompt---Market-Rollout-Specialist_R-259567-1",
-   "company": "AstraZeneca",
-   "title": "Junior Associate/Associate - AI Prompt & Market Rollout Specialist",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "India - Bangalore",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/India---Bangalore/Junior-Associate-Associate---AI-Prompt---Market-Rollout-Specialist_R-259567-1",
-   "posted_at": "2026-09-07T00:00:00Z",
-   "first_seen_at": "2026-09-07T17:10:10Z",
-   "salary": null,
-   "skills": [
-    "LLMs"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "workday:jda:/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918",
    "company": "Blue Yonder",
    "title": "Associate Technical Consultant - Cloud - Devops,Kubernetes,Terraform,Scripting",
@@ -149,11 +164,11 @@
   {
    "id": "greenhouse:rubrik:8166537",
    "company": "Rubrik",
-   "title": "Software Engineer (CPD) - Winter Intern (Pune)",
+   "title": "Software Engineer (CPD) - Winter Intern",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Software",
-   "location": "Pune",
+   "location": "Bangalore",
    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
    "posted_at": "2026-09-06T08:47:22-04:00",
    "first_seen_at": "2026-09-06T14:00:17Z",
