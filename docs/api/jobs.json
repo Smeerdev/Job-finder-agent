@@ -1,8 +1,46 @@
 {
- "generated_at": "2026-09-10T02:44:40Z",
+ "generated_at": "2026-09-10T07:53:33Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 37,
+ "count": 38,
  "jobs": [
+  {
+   "id": "oracle:jpmc.fa.oraclecloud.com:210788576",
+   "company": "JPMorganChase",
+   "title": "Data Scientist Associate - Payments Data & Analytics",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210788576",
+   "posted_at": "2026-09-10",
+   "first_seen_at": "2026-09-10T07:53:33Z",
+   "salary": null,
+   "skills": [
+    "SQL",
+    "LLMs",
+    "AWS",
+    "Spark",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:novartis:/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
+   "company": "Novartis",
+   "title": "Intern Data Science",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad (Office)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
+   "posted_at": "2026-09-10T00:00:00Z",
+   "first_seen_at": "2026-09-10T07:53:33Z",
+   "salary": null,
+   "skills": [
+    "LLMs"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1",
    "company": "Synechron",
@@ -565,21 +603,6 @@
     "SQL"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
-   "company": "Oaktree Capital Management",
-   "title": "Associate, Workday Financial Developer (L3)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
-   "posted_at": "2026-08-04T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:aresmgmt:/job/Mumbai-India/Business-Analyst---Workday_R7623",

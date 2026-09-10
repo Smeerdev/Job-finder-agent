@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**37 open roles · 15 new this week · 5,142 companies tracked · updated Sep 10, 2026 at 02:44 UTC**
+**38 open roles · 16 new this week · 5,142 companies tracked · updated Sep 10, 2026 at 07:53 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,10 +13,12 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (37 open)
+## 2026 Graduates (International)  (38 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| JPMorganChase | Data Scientist Associate - Payments Data & Analytics ~ 🆕 | Data & ML/AI | — | Mumbai, Maharashtra, India | Sep 10, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210788576) |
+| Novartis | Intern Data Science ~ 🆕 | Data & ML/AI | — | Hyderabad (Office) | Sep 10, 2026 | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1) |
 | Synechron | Associate Visionplus developer ~ 🆕 | Software | B.Tech/BS | Pune - Kharadi (EON-II) | Sep 09, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1) |
 | Acxiom | Intern - Data Scientist ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote/Homebased | Sep 08, 2026 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459) |
 | LinkedIn | Software Engineering Intern ~ 🆕 | Software | B.Tech/BS | Bengaluru, KA, India | Sep 08, 2026 | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000148299359) |
@@ -45,7 +47,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Tower Research Capital | Intern - AI/ML ~ | Data & ML/AI | PhD | gurgaon | Aug 20, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 | Cigna Group | Machine Learning Associate Advisor - HIH - Evernorth ~ | Data & ML/AI | B.Tech/BS | Hyderabad, India | Aug 18, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299) |
 | Quantum | Graduate Data Engineer ~ | Data & ML/AI | B.Tech/BS | London (hybrid) | Aug 13, 2026 | [Apply](https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6) |
-| Oaktree Capital Management | Associate, Workday Financial Developer (L3) ~ | Software | — | Hyderabad | Aug 04, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236) |
 | Ares Management | Associate Developer - HR Tech (Workday) ~ | Software | B.Tech/BS | Mumbai, India | Jul 31, 2026 | [Apply](https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623) |
 | Zensar | ESaaS - MSD -Technical- D365 CE Developer Associate ~ | Software | B.Tech/BS | Pune, Maharashtra, India | Jul 25, 2026 | [Apply](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146) |
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
@@ -55,7 +56,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (35 of 37)._
+_~ = the title doesn't state a year; bucketed here from its posting date (36 of 38)._
 
 ## What this is
 
@@ -137,6 +138,7 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Oaktree Capital Management | Associate, Workday Financial Developer (L3) | 2026 Graduates | 2026-09-10 |
 | Gevernova | Grid Automation & Software Intern | 2026 Graduates | 2026-09-09 |
 | Harris Computer | Associate DevOps Engineer | 2026 Graduates | 2026-09-09 |
 | Genworth Financial | Associate Application Development Analyst (.Net Developer) | 2026 Graduates | 2026-09-09 |
@@ -166,7 +168,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | JPMorganChase | Applied AI ML Associate | 2026 Graduates | 2026-08-27 |
 | Cisco | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition | 2026 Graduates | 2026-08-27 |
 | Philips | Intern - Embedded System | 2026 Graduates | 2026-08-27 |
-| Ancestry | Software Engineer – Observability, Co-op | 2026 Graduates | 2026-08-27 |
 
 </details>
 
@@ -185,7 +186,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,142 companies across 24 ATS platforms · 99% fetch success · completed in 391.0s · median detection latency 630 min · real posted dates on 94% of open roles._
+_Engine (last run): 5,142 companies across 24 ATS platforms · 98% fetch success · completed in 380.3s · median detection latency 629 min · real posted dates on 94% of open roles._
 
 ## Platforms Scraped
 

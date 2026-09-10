@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-10T02:44:40Z</updated>
+  <updated>2026-09-10T07:53:33Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210788576</id>
+    <title>JPMorganChase: Data Scientist Associate - Payments Data &amp; Analytics</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210788576"/>
+    <updated>2026-09-10T07:53:33Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Mumbai, Maharashtra, India · SQL, LLMs, AWS, Spark, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:novartis:/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1</id>
+    <title>Novartis: Intern Data Science</title>
+    <link href="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1"/>
+    <updated>2026-09-10T07:53:33Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad (Office) · LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1</id>
     <title>Synechron: Associate Visionplus developer</title>
@@ -274,14 +290,6 @@
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate---Workday-reporting-developer_2026-337</id>
     <title>Oaktree Capital Management: Associate - Workday reporting developer</title>
     <link href="https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337"/>
-    <updated>2026-08-16T09:28:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236</id>
-    <title>Oaktree Capital Management: Associate, Workday Financial Developer (L3)</title>
-    <link href="https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236"/>
     <updated>2026-08-16T09:28:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad</summary>
