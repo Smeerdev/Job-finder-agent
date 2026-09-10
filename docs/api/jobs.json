@@ -1,26 +1,8 @@
 {
- "generated_at": "2026-09-10T19:33:44Z",
+ "generated_at": "2026-09-10T22:18:40Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 38,
  "jobs": [
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157576",
-   "company": "Honeywell",
-   "title": "Intern Masters Data Science",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576",
-   "posted_at": "2026-09-10",
-   "first_seen_at": "2026-09-10T19:33:43Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Tableau"
-   ],
-   "source": "oracle"
-  },
   {
    "id": "greenhouse:rackner:4732844005",
    "company": "Rackner",
@@ -39,6 +21,24 @@
     "Kubernetes"
    ],
    "source": "greenhouse"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157576",
+   "company": "Honeywell",
+   "title": "Intern Masters Data Science",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576",
+   "posted_at": "2026-09-10",
+   "first_seen_at": "2026-09-10T19:33:43Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Tableau"
+   ],
+   "source": "oracle"
   },
   {
    "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1",
