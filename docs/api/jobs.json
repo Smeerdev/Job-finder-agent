@@ -1,28 +1,29 @@
 {
- "generated_at": "2026-09-10T07:53:33Z",
+ "generated_at": "2026-09-10T12:43:24Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 38,
  "jobs": [
   {
-   "id": "oracle:jpmc.fa.oraclecloud.com:210788576",
-   "company": "JPMorganChase",
-   "title": "Data Scientist Associate - Payments Data & Analytics",
+   "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1",
+   "company": "Merck",
+   "title": "Associate Specialist, Data Science",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Data & ML/AI",
-   "location": "Mumbai, Maharashtra, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210788576",
-   "posted_at": "2026-09-10",
-   "first_seen_at": "2026-09-10T07:53:33Z",
+   "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1",
+   "posted_at": "2026-09-10T00:00:00Z",
+   "first_seen_at": "2026-09-10T12:43:24Z",
    "salary": null,
    "skills": [
+    "Python",
     "SQL",
-    "LLMs",
-    "AWS",
-    "Spark",
-    "Tableau"
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn",
+    "LLMs"
    ],
-   "source": "oracle"
+   "source": "workday"
   },
   {
    "id": "workday:novartis:/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
