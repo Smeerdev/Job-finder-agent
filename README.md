@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**37 open roles · 14 new this week · 5,163 companies tracked · updated Sep 11, 2026 at 05:38 UTC**
+**39 open roles · 16 new this week · 5,163 companies tracked · updated Sep 11, 2026 at 10:32 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,10 +13,12 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (37 open)
+## 2026 Graduates (International)  (39 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| GE Healthcare | Intern Firmware ~ 🆕 | Hardware | B.Tech/BS | IND19-01-Bengaluru-EPIP 122 (Phase II) | Sep 11, 2026 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1) |
+| Ixigo | Full-Stack Intern - B2B ~ 🆕 | Software | — | Gurugram, HR, India | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
 | Rackner | Associate Data Engineer ~ 🆕 | Data & ML/AI | — | Remote | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/rackner/jobs/4732844005) |
 | Honeywell | Intern Masters Data Science ~ 🆕 | Data & ML/AI | M.Tech/MS | Bengaluru, Karnataka, India | Sep 10, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576) |
 | Merck | Associate Specialist, Data Science ~ 🆕 | Data & ML/AI | B.Tech/BS | IND - Telangana - Hyderabad (Hitec City… | Sep 10, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1) |
@@ -55,7 +57,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (35 of 37)._
+_~ = the title doesn't state a year; bucketed here from its posting date (37 of 39)._
 
 ## What this is
 
@@ -133,7 +135,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **3** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 32 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 31 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -168,7 +170,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | 2026 Graduates | 2026-08-31 |
 | Concentric | Internship, AI Workflow Optimization, Fall 2026 (Remote) | 2026 Graduates | 2026-08-29 |
 | Amgen | Associate PLM Software Engineer | 2026 Graduates | 2026-08-28 |
-| AffirmedRx | Associate, Data Engineer | 2026 Graduates | 2026-08-28 |
 
 </details>
 
@@ -187,7 +188,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,163 companies across 24 ATS platforms · 98% fetch success · completed in 345.6s · median detection latency 629 min · real posted dates on 94% of open roles._
+_Engine (last run): 5,163 companies across 24 ATS platforms · 98% fetch success · completed in 356.1s · median detection latency 629 min · real posted dates on 94% of open roles._
 
 ## Platforms Scraped
 

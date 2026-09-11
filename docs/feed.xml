@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-11T05:38:43Z</updated>
+  <updated>2026-09-11T10:32:02Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1</id>
+    <title>GE Healthcare: Intern Firmware</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1"/>
+    <updated>2026-09-11T10:32:02Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Hardware · IND19-01-Bengaluru-EPIP 122 (Phase II)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ixigo:744000148960832</id>
+    <title>Ixigo: Full-Stack Intern - B2B</title>
+    <link href="https://jobs.smartrecruiters.com/ixigo/744000148960832"/>
+    <updated>2026-09-11T10:32:02Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Gurugram, HR, India · Python, TypeScript, LLMs, Node.js, Flask</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rackner:4732844005</id>
     <title>Rackner: Associate Data Engineer</title>
