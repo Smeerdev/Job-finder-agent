@@ -1,8 +1,28 @@
 {
- "generated_at": "2026-09-11T18:12:18Z",
+ "generated_at": "2026-09-11T21:35:26Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 38,
+ "count": 35,
  "jobs": [
+  {
+   "id": "smartrecruiters:AristaNetworks:744000149101159",
+   "company": "Arista Networks",
+   "title": "Intern Software Engineer - C/C++",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Poland - Remote, PL (Remote)",
+   "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000149101159",
+   "posted_at": "2026-09-11T20:06:57.121Z",
+   "first_seen_at": "2026-09-11T21:35:26Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "Linux",
+    "Git"
+   ],
+   "source": "smartrecruiters"
+  },
   {
    "id": "smartrecruiters:ixigo:744000148960832",
    "company": "Ixigo",
@@ -26,21 +46,6 @@
     "Docker"
    ],
    "source": "smartrecruiters"
-  },
-  {
-   "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
-   "company": "GE Healthcare",
-   "title": "Intern Firmware",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
-   "posted_at": "2026-09-11T00:00:00Z",
-   "first_seen_at": "2026-09-11T10:32:02Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "greenhouse:rackner:4732844005",
@@ -97,23 +102,6 @@
     "PyTorch",
     "TensorFlow",
     "scikit-learn",
-    "LLMs"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:novartis:/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
-   "company": "Novartis",
-   "title": "Intern Data Science",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
-   "posted_at": "2026-09-10T00:00:00Z",
-   "first_seen_at": "2026-09-10T07:53:33Z",
-   "salary": null,
-   "skills": [
     "LLMs"
    ],
    "source": "workday"
@@ -375,27 +363,6 @@
    "source": "greenhouse"
   },
   {
-   "id": "workday:blackrock:/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073",
-   "company": "BlackRock",
-   "title": "Data Engineer, Aladdin Data, Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Mumbai, India",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073",
-   "posted_at": "2026-08-31T00:00:00Z",
-   "first_seen_at": "2026-08-31T17:27:05Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Azure",
-    "Kafka",
-    "Airflow"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "ashby:qualified-health-pbc:6cae1651-ea0d-4779-bf8c-778be1ac8789",
    "company": "Qualified Health",
    "title": "Clinical AI Evaluation Intern",
@@ -446,26 +413,6 @@
     "LLMs"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "smartrecruiters:AristaNetworks:744000145998379",
-   "company": "Arista Networks",
-   "title": "Intern Software Engineers - C/C++",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Poland - Remote, PL (Remote)",
-   "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000145998379",
-   "posted_at": "2026-08-27T14:09:48.754Z",
-   "first_seen_at": "2026-08-27T23:33:52Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "Linux",
-    "Git"
-   ],
-   "source": "smartrecruiters"
   },
   {
    "id": "lever:aeratechnology:d9271f5c-b9f8-49ff-8895-3a118c464114",

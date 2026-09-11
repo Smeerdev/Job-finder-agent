@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-11T18:12:18Z</updated>
+  <updated>2026-09-11T21:35:26Z</updated>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AristaNetworks:744000149101159</id>
+    <title>Arista Networks: Intern Software Engineer - C/C++</title>
+    <link href="https://jobs.smartrecruiters.com/AristaNetworks/744000149101159"/>
+    <updated>2026-09-11T21:35:26Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Poland - Remote, PL (Remote) · Python, C++, Linux, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:ixigo:744000148960832</id>
     <title>Ixigo: Full-Stack Intern - B2B</title>
@@ -13,14 +21,6 @@
     <updated>2026-09-11T10:32:02Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Gurugram, HR, India · Python, TypeScript, LLMs, Node.js, Flask</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1</id>
-    <title>GE Healthcare: Intern Firmware</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1"/>
-    <updated>2026-09-11T10:32:02Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Hardware · IND19-01-Bengaluru-EPIP 122 (Phase II)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rackner:4732844005</id>
@@ -53,14 +53,6 @@
     <updated>2026-09-10T12:43:24Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · IND - Telangana - Hyderabad (Hitec City Raidurg) · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:novartis:/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1</id>
-    <title>Novartis: Intern Data Science</title>
-    <link href="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1"/>
-    <updated>2026-09-10T07:53:33Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad (Office) · LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1</id>
@@ -175,28 +167,12 @@
     <summary>2026 Graduates · Software · Hyderabad · Python, Java, C#, TypeScript, JavaScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:blackrock:/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073</id>
-    <title>BlackRock: Data Engineer, Aladdin Data, Associate</title>
-    <link href="https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073"/>
-    <updated>2026-08-31T17:27:05Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Mumbai, India · Python, SQL, Azure, Kafka, Airflow</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3003761</id>
     <title>TriNet: Associate Data Scientist</title>
     <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761"/>
     <updated>2026-08-28T20:43:02Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AristaNetworks:744000145998379</id>
-    <title>Arista Networks: Intern Software Engineers - C/C++</title>
-    <link href="https://jobs.smartrecruiters.com/AristaNetworks/744000145998379"/>
-    <updated>2026-08-27T23:33:52Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Poland - Remote, PL (Remote) · Python, C++, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:aeratechnology:d9271f5c-b9f8-49ff-8895-3a118c464114</id>

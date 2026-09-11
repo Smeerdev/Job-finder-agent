@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**38 open roles · 14 new this week · 5,175 companies tracked · updated Sep 11, 2026 at 18:12 UTC**
+**35 open roles · 13 new this week · 5,175 companies tracked · updated Sep 11, 2026 at 21:35 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,16 +13,15 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (38 open)
+## 2026 Graduates (International)  (35 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Arista Networks | Intern Software Engineer - C/C++ ~ 🆕 | Software | — | Poland - Remote, PL (Remote) | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159) |
 | Ixigo | Full-Stack Intern - B2B ~ 🆕 | Software | — | Gurugram, HR, India | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
-| GE Healthcare | Intern Firmware ~ 🆕 | Hardware | B.Tech/BS | IND19-01-Bengaluru-EPIP 122 (Phase II) | Sep 11, 2026 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1) |
 | Rackner | Associate Data Engineer ~ 🆕 | Data & ML/AI | — | Remote | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/rackner/jobs/4732844005) |
 | Honeywell | Intern Masters Data Science ~ 🆕 | Data & ML/AI | M.Tech/MS | Bengaluru, Karnataka, India | Sep 10, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576) |
 | Merck | Associate Specialist, Data Science ~ 🆕 | Data & ML/AI | B.Tech/BS | IND - Telangana - Hyderabad (Hitec City… | Sep 10, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1) |
-| Novartis | Intern Data Science ~ 🆕 | Data & ML/AI | — | Hyderabad (Office) | Sep 10, 2026 | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1) |
 | Synechron | Associate Visionplus developer ~ | Software | B.Tech/BS | Pune - Kharadi (EON-II) | Sep 09, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1) |
 | Acxiom | Intern - Data Scientist ~ | Data & ML/AI | B.Tech/BS | Remote/Homebased | Sep 08, 2026 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459) |
 | Cambium Learning Group | Software Engineer Intern – AI Applications ~ | Data & ML/AI | — | Remote | Sep 08, 2026 | [Apply](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610) |
@@ -35,11 +34,9 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Relay Technologies | Graduate Software Engineer ~ | Software | B.Tech/BS | London - Hybrid | Sep 03, 2026 | [Apply](https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7) |
 | Oaktree Capital Management | Associate - .Net Fullstack Engineer ~ | Software | B.Tech/BS | Hyderabad | Sep 02, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447) |
 | Synack | Graduate Software Engineer ~ | Software | B.Tech/BS | Remote in the UK | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/synack/jobs/8165010) |
-| BlackRock | Data Engineer, Aladdin Data, Associate ~ | Data & ML/AI | B.Tech/BS | Mumbai, India | Aug 31, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073) |
 | Qualified Health | Clinical AI Evaluation Intern | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 28, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789) |
 | TriNet | Associate Data Scientist ~ | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Aug 28, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761) |
 | Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 27, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10) |
-| Arista Networks | Intern Software Engineers - C/C++ ~ | Software | — | Poland - Remote, PL (Remote) | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000145998379) |
 | Aera Technology | Associate Data Scientist – Optimization & Operations Research ~ | Data & ML/AI | — | Pune, India | Aug 27, 2026 | [Apply](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
 | Realm | Software Engineer - Intern ~ | Software | B.Tech/BS | Remote | Aug 26, 2026 | [Apply](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
 | Jefferies | Associate - C# (.net) Developer - Equity Technology ~ | Software | B.Tech/BS | Pune, India | Aug 26, 2026 | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4491) |
@@ -56,7 +53,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (36 of 38)._
+_~ = the title doesn't state a year; bucketed here from its posting date (33 of 35)._
 
 ## What this is
 
@@ -134,10 +131,14 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **3** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 33 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 36 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Arista Networks | Intern Software Engineers - C/C++ | 2026 Graduates | 2026-09-11 |
+| BlackRock | Data Engineer, Aladdin Data, Associate | 2026 Graduates | 2026-09-11 |
+| GE Healthcare | Intern Firmware | 2026 Graduates | 2026-09-11 |
+| Novartis | Intern Data Science | 2026 Graduates | 2026-09-11 |
 | Swarm Aero | Software Engineer Intern | 2026 Graduates | 2026-09-11 |
 | Celonis | Associate (AI) Solution Consultant | 2026 Graduates | 2026-09-11 |
 | Ares Management | Associate Developer - HR Tech (Workday) | 2026 Graduates | 2026-09-11 |
@@ -170,7 +171,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Micron Technology | Engineer/Associate Engineer – AI & Automation Engineer | 2026 Graduates | 2026-08-31 |
 | Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | 2026 Graduates | 2026-08-31 |
 | Concentric | Internship, AI Workflow Optimization, Fall 2026 (Remote) | 2026 Graduates | 2026-08-29 |
-| Amgen | Associate PLM Software Engineer | 2026 Graduates | 2026-08-28 |
 
 </details>
 
@@ -189,7 +189,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,175 companies across 24 ATS platforms · 99% fetch success · completed in 392.7s · median detection latency 630 min · real posted dates on 94% of open roles._
+_Engine (last run): 5,175 companies across 24 ATS platforms · 99% fetch success · completed in 275.5s · median detection latency 629 min · real posted dates on 94% of open roles._
 
 ## Platforms Scraped
 
