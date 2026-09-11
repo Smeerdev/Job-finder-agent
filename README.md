@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**38 open roles · 14 new this week · 5,163 companies tracked · updated Sep 10, 2026 at 22:18 UTC**
+**38 open roles · 14 new this week · 5,163 companies tracked · updated Sep 11, 2026 at 00:52 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -22,7 +22,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Merck | Associate Specialist, Data Science ~ 🆕 | Data & ML/AI | B.Tech/BS | IND - Telangana - Hyderabad (Hitec City… | Sep 10, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1) |
 | Novartis | Intern Data Science ~ 🆕 | Data & ML/AI | — | Hyderabad (Office) | Sep 10, 2026 | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1) |
 | Synechron | Associate Visionplus developer ~ 🆕 | Software | B.Tech/BS | Pune - Kharadi (EON-II) | Sep 09, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1) |
-| Acxiom | Intern - Data Scientist ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote/Homebased | Sep 08, 2026 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459) |
+| Acxiom | Intern - Data Scientist ~ | Data & ML/AI | B.Tech/BS | Remote/Homebased | Sep 08, 2026 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459) |
 | Cambium Learning Group | Software Engineer Intern – AI Applications ~ | Data & ML/AI | — | Remote | Sep 08, 2026 | [Apply](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610) |
 | GoTo Group | DevOps Intern (fixed term, 8 months) ~ | Software | B.Tech/BS | Remote (Hungary) | Sep 07, 2026 | [Apply](https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1) |
 | Blue Yonder | Associate Technical Consultant - Cloud - Devops,Kubernetes,Terraform,Scripting ~ | Software | B.Tech/BS | IND - Coimbatore (708) | Sep 07, 2026 | [Apply](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918) |
@@ -134,7 +134,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **3** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 33 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 31 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -169,8 +169,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Concentric | Internship, AI Workflow Optimization, Fall 2026 (Remote) | 2026 Graduates | 2026-08-29 |
 | Amgen | Associate PLM Software Engineer | 2026 Graduates | 2026-08-28 |
 | AffirmedRx | Associate, Data Engineer | 2026 Graduates | 2026-08-28 |
-| JPMorganChase | Applied AI ML Associate | 2026 Graduates | 2026-08-27 |
-| Cisco | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition | 2026 Graduates | 2026-08-27 |
 
 </details>
 
@@ -189,7 +187,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,163 companies across 24 ATS platforms · 99% fetch success · completed in 423.1s · median detection latency 629 min · real posted dates on 94% of open roles._
+_Engine (last run): 5,163 companies across 24 ATS platforms · 99% fetch success · completed in 324.6s · median detection latency 629 min · real posted dates on 94% of open roles._
 
 ## Platforms Scraped
 
