@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T00:52:04Z",
+ "generated_at": "2026-09-11T05:38:43Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 38,
+ "count": 37,
  "jobs": [
   {
    "id": "greenhouse:rackner:4732844005",
@@ -604,21 +604,6 @@
     "SQL"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "workday:aresmgmt:/job/Mumbai-India/Business-Analyst---Workday_R7623",
-   "company": "Ares Management",
-   "title": "Associate Developer - HR Tech (Workday)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Mumbai, India",
-   "url": "https://aresmgmt.wd1.myworkdayjobs.com/External/job/Mumbai-India/Business-Analyst---Workday_R7623",
-   "posted_at": "2026-07-31T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:145146",
