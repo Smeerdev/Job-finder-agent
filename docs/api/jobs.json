@@ -1,23 +1,8 @@
 {
- "generated_at": "2026-09-11T10:32:02Z",
+ "generated_at": "2026-09-11T14:53:34Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 39,
  "jobs": [
-  {
-   "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
-   "company": "GE Healthcare",
-   "title": "Intern Firmware",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
-   "posted_at": "2026-09-11T00:00:00Z",
-   "first_seen_at": "2026-09-11T10:32:02Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
   {
    "id": "smartrecruiters:ixigo:744000148960832",
    "company": "Ixigo",
@@ -41,6 +26,44 @@
     "Docker"
    ],
    "source": "smartrecruiters"
+  },
+  {
+   "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+   "company": "GE Healthcare",
+   "title": "Intern Firmware",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+   "posted_at": "2026-09-11T00:00:00Z",
+   "first_seen_at": "2026-09-11T10:32:02Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6",
+   "company": "Swarm Aero",
+   "title": "Software Engineer Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6",
+   "posted_at": "2026-09-10T18:52:20.927+00:00",
+   "first_seen_at": "2026-09-11T14:53:34Z",
+   "salary": "$35 per hour",
+   "skills": [
+    "Python",
+    "C++",
+    "Rust",
+    "TypeScript",
+    "React",
+    "Docker",
+    "Linux"
+   ],
+   "source": "ashby"
   },
   {
    "id": "greenhouse:rackner:4732844005",
@@ -282,28 +305,6 @@
     "Kubernetes",
     "Terraform",
     "Linux"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:celonis:7784394003",
-   "company": "Celonis",
-   "title": "Associate (AI) Solution Consultant",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003",
-   "posted_at": "2026-09-04T11:47:37-04:00",
-   "first_seen_at": "2026-09-04T18:06:51Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "PyTorch",
-    "scikit-learn",
-    "Pandas",
-    "LLMs"
    ],
    "source": "greenhouse"
   },
