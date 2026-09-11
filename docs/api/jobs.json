@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T14:53:34Z",
+ "generated_at": "2026-09-11T18:12:18Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 39,
+ "count": 38,
  "jobs": [
   {
    "id": "smartrecruiters:ixigo:744000148960832",
@@ -41,29 +41,6 @@
    "salary": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6",
-   "company": "Swarm Aero",
-   "title": "Software Engineer Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote",
-   "url": "https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6",
-   "posted_at": "2026-09-10T18:52:20.927+00:00",
-   "first_seen_at": "2026-09-11T14:53:34Z",
-   "salary": "$35 per hour",
-   "skills": [
-    "Python",
-    "C++",
-    "Rust",
-    "TypeScript",
-    "React",
-    "Docker",
-    "Linux"
-   ],
-   "source": "ashby"
   },
   {
    "id": "greenhouse:rackner:4732844005",
