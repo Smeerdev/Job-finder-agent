@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**36 open roles · 14 new this week · 5,190 companies tracked · updated Sep 12, 2026 at 17:43 UTC**
+**36 open roles · 14 new this week · 5,190 companies tracked · updated Sep 12, 2026 at 20:08 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -20,7 +20,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Alegeus | Associate Software Engineer - AI ~ 🆕 | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Bangalore - India | Sep 12, 2026 | [Apply](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340) |
 | Arista Networks | Intern Software Engineer - C/C++ ~ 🆕 | Software | — | Poland - Remote, PL (Remote) | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159) |
 | Ixigo | Full-Stack Intern - B2B ~ 🆕 | Software | — | Gurugram, HR, India | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
-| Rackner | Associate Data Engineer ~ 🆕 | Data & ML/AI | — | Remote | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/rackner/jobs/4732844005) |
+| Rackner | Associate Data Engineer ~ | Data & ML/AI | — | Remote | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/rackner/jobs/4732844005) |
 | Merck | Associate Specialist, Data Science ~ | Data & ML/AI | B.Tech/BS | IND - Telangana - Hyderabad (Hitec City… | Sep 10, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1) |
 | Synechron | Associate Visionplus developer ~ | Software | B.Tech/BS | Pune - Kharadi (EON-II) | Sep 09, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1) |
 | Acxiom | Intern - Data Scientist ~ | Data & ML/AI | B.Tech/BS | Remote/Homebased | Sep 08, 2026 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459) |
@@ -47,7 +47,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Quantum | Graduate Data Engineer ~ | Data & ML/AI | B.Tech/BS | London (hybrid) | Aug 13, 2026 | [Apply](https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6) |
 | Zensar | ESaaS - MSD -Technical- D365 CE Developer Associate ~ | Software | B.Tech/BS | Pune, Maharashtra, India | Jul 25, 2026 | [Apply](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146) |
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
-| Priceline | Associate Software Engineer ~ 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Jul 10, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715) |
+| Priceline | Associate Software Engineer ~ | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Jul 10, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715) |
 | Oaktree Capital Management | Associate - Workday reporting developer ~ | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
 | Valeo | Intern - AI ~ | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | Aitainment | Data Analyst - Intern ~ 🆕 | Data & ML/AI | — | Bangalore | — | [Apply](https://www.instahyre.com/job-442949-data-analyst-intern-internship-at-aitainment-bangalore/) |
@@ -190,7 +190,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,190 companies across 24 ATS platforms · 98% fetch success · completed in 331.9s · median detection latency 630 min · real posted dates on 91% of open roles._
+_Engine (last run): 5,190 companies across 24 ATS platforms · 99% fetch success · completed in 435.1s · median detection latency 630 min · real posted dates on 91% of open roles._
 
 ## Platforms Scraped
 
