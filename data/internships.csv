@@ -1,4 +1,5 @@
 company,title,season,season_inferred,category,location,salary,skills,posted_at,first_seen_at,url
+Alegeus,Associate Software Engineer - AI,2026 Graduates,True,Data & ML/AI,Bangalore - India,,C#; JavaScript; SQL; .NET; Git,2026-09-12T00:00:00Z,2026-09-12T11:59:28Z,https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340
 Arista Networks,Intern Software Engineer - C/C++,2026 Graduates,True,Software,"Poland - Remote, PL (Remote)",,Python; C++; Linux; Git,2026-09-11T20:06:57.121Z,2026-09-11T21:35:26Z,https://jobs.smartrecruiters.com/AristaNetworks/744000149101159
 Ixigo,Full-Stack Intern - B2B,2026 Graduates,True,Software,"Gurugram, HR, India",,Python; TypeScript; LLMs; Node.js; Flask; AWS; Kubernetes; Docker,2026-09-11T08:51:07.416Z,2026-09-11T10:32:02Z,https://jobs.smartrecruiters.com/ixigo/744000148960832
 Rackner,Associate Data Engineer,2026 Graduates,True,Data & ML/AI,Remote,,Python; SQL; Kubernetes,2026-09-10T14:51:55-04:00,2026-09-10T19:33:43Z,https://job-boards.greenhouse.io/rackner/jobs/4732844005
@@ -31,5 +32,6 @@ ReliaQuest,Associate Software Engineer,2026 Graduates,True,Software,Pune India O
 Priceline,Associate Software Engineer,2026 Graduates,True,Software,Mumbai,,Python; Java; TypeScript; LLMs,2026-07-10T00:00:00Z,2026-09-10T19:33:43Z,https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715
 Oaktree Capital Management,Associate - Workday reporting developer,2026 Graduates,True,Software,Hyderabad,,,2026-06-30T00:00:00Z,2026-08-16T09:28:21Z,https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337
 Valeo,Intern - AI,2026 Graduates,True,Data & ML/AI,Chennai,,,2025-08-06T00:00:00Z,2026-08-16T09:28:21Z,https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319
+Aitainment,Data Analyst - Intern,2026 Graduates,True,Data & ML/AI,Bangalore,,,,2026-09-12T11:59:28Z,https://www.instahyre.com/job-442949-data-analyst-intern-internship-at-aitainment-bangalore/
 PagarBook,Full Stack Development Intern,2026 Graduates,True,Software,Bangalore,,,,2026-08-24T05:39:02Z,https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/
 Oneture Technologies,AI / ML Intern,2026 Graduates,True,Data & ML/AI,Mumbai,,,,2026-08-21T09:36:28Z,https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/

@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-12T07:41:10Z</updated>
+  <updated>2026-09-12T11:59:28Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:alegeus:/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340</id>
+    <title>Alegeus: Associate Software Engineer - AI</title>
+    <link href="https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340"/>
+    <updated>2026-09-12T11:59:28Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore - India · C#, JavaScript, SQL, .NET, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:instahyre:aitainment:442949</id>
+    <title>Aitainment: Data Analyst - Intern</title>
+    <link href="https://www.instahyre.com/job-442949-data-analyst-intern-internship-at-aitainment-bangalore/"/>
+    <updated>2026-09-12T11:59:28Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AristaNetworks:744000149101159</id>
     <title>Arista Networks: Intern Software Engineer - C/C++</title>
