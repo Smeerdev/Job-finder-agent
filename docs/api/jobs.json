@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-11T23:55:23Z",
+ "generated_at": "2026-09-12T02:43:38Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 35,
+ "count": 34,
  "jobs": [
   {
    "id": "smartrecruiters:AristaNetworks:744000149101159",
@@ -65,24 +65,6 @@
     "Kubernetes"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157576",
-   "company": "Honeywell",
-   "title": "Intern Masters Data Science",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576",
-   "posted_at": "2026-09-10",
-   "first_seen_at": "2026-09-10T19:33:43Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Tableau"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1",
