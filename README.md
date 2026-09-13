@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**35 open roles · 13 new this week · 5,190 companies tracked · updated Sep 13, 2026 at 05:40 UTC**
+**35 open roles · 13 new this week · 5,190 companies tracked · updated Sep 13, 2026 at 10:59 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -19,7 +19,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 |---|---|---|---|---|---|---|
 | Alegeus | Associate Software Engineer - AI ~ 🆕 | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Bangalore - India | Sep 12, 2026 | [Apply](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340) |
 | Arista Networks | Intern Software Engineer - C/C++ ~ 🆕 | Software | — | Poland - Remote, PL (Remote) | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159) |
-| Ixigo | Full-Stack Intern - B2B ~ 🆕 | Software | — | Gurugram, HR, India | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
+| Ixigo | Full-Stack Intern - B2B ~ | Software | — | Gurugram, HR, India | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
 | Rackner | Associate Data Engineer ~ | Data & ML/AI | — | Remote | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/rackner/jobs/4732844005) |
 | Synechron | Associate Visionplus developer ~ | Software | B.Tech/BS | Pune - Kharadi (EON-II) | Sep 09, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1) |
 | Acxiom | Intern - Data Scientist ~ | Data & ML/AI | B.Tech/BS | Remote/Homebased | Sep 08, 2026 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459) |
@@ -190,7 +190,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,190 companies across 24 ATS platforms · 99% fetch success · completed in 329.5s · median detection latency 630 min · real posted dates on 91% of open roles._
+_Engine (last run): 5,190 companies across 24 ATS platforms · 100% fetch success · completed in 211.6s · median detection latency 630 min · real posted dates on 91% of open roles._
 
 ## Platforms Scraped
 
