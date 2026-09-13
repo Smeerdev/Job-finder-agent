@@ -1,8 +1,26 @@
 {
- "generated_at": "2026-09-13T20:16:49Z",
+ "generated_at": "2026-09-13T22:52:53Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 34,
+ "count": 35,
  "jobs": [
+  {
+   "id": "greenhouse:rackner:4733528005",
+   "company": "Rackner",
+   "title": "Associate Data Analyst",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/rackner/jobs/4733528005",
+   "posted_at": "2026-09-13T17:38:26-04:00",
+   "first_seen_at": "2026-09-13T22:52:53Z",
+   "salary": null,
+   "skills": [
+    "SQL",
+    "Kubernetes"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "smartrecruiters:AristaNetworks:744000149101159",
    "company": "Arista Networks",

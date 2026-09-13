@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-13T20:16:49Z</updated>
+  <updated>2026-09-13T22:52:53Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rackner:4733528005</id>
+    <title>Rackner: Associate Data Analyst</title>
+    <link href="https://job-boards.greenhouse.io/rackner/jobs/4733528005"/>
+    <updated>2026-09-13T22:52:53Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Remote · SQL, Kubernetes</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:instahyre:aitainment:442949</id>
     <title>Aitainment: Data Analyst - Intern</title>
