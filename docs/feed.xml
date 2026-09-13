@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-12T22:51:39Z</updated>
+  <updated>2026-09-13T00:38:37Z</updated>
   <entry>
     <id>urn:intern-engine:instahyre:aitainment:442949</id>
     <title>Aitainment: Data Analyst - Intern</title>
@@ -53,14 +53,6 @@
     <updated>2026-09-10T19:33:43Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Mumbai · Python, Java, TypeScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1</id>
-    <title>Merck: Associate Specialist, Data Science</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1"/>
-    <updated>2026-09-10T12:43:24Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · IND - Telangana - Hyderabad (Hitec City Raidurg) · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1</id>

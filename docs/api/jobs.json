@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-12T22:51:39Z",
+ "generated_at": "2026-09-13T00:38:37Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 36,
+ "count": 35,
  "jobs": [
   {
    "id": "workday:alegeus:/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340",
@@ -86,28 +86,6 @@
     "Kubernetes"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1",
-   "company": "Merck",
-   "title": "Associate Specialist, Data Science",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
-   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1",
-   "posted_at": "2026-09-10T00:00:00Z",
-   "first_seen_at": "2026-09-10T12:43:24Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "LLMs"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1",
