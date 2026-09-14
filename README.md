@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**35 open roles · 11 new this week · 5,190 companies tracked · updated Sep 14, 2026 at 00:42 UTC**
+**35 open roles · 11 new this week · 5,190 companies tracked · updated Sep 14, 2026 at 05:45 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -131,7 +131,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **3** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 38 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 37 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -172,7 +172,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Barry-Wehmiller | AI Intern | 2026 Graduates | 2026-09-01 |
 | BlackRock | Associate - Power Bi Developer, Data Analytics | 2026 Graduates | 2026-09-01 |
 | Micron Technology | Engineer/Associate Engineer – AI & Automation Engineer | 2026 Graduates | 2026-08-31 |
-| Quora | Software Engineer, Machine Learning Platform, New Grad - Quora (Remote) | 2026 Graduates | 2026-08-31 |
 
 </details>
 
@@ -191,7 +190,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,190 companies across 24 ATS platforms · 99% fetch success · completed in 351.3s · median detection latency 629 min · real posted dates on 91% of open roles._
+_Engine (last run): 5,190 companies across 24 ATS platforms · 99% fetch success · completed in 360.2s · median detection latency 629 min · real posted dates on 91% of open roles._
 
 ## Platforms Scraped
 
