@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-14T05:45:29Z",
+ "generated_at": "2026-09-14T11:35:42Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 35,
+ "count": 34,
  "jobs": [
   {
    "id": "greenhouse:rackner:4733528005",
@@ -147,48 +147,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:goto:/job/Remote-Hungary/DevOps-Intern_R26-2270-1",
-   "company": "GoTo Group",
-   "title": "DevOps Intern (fixed term, 8 months)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote (Hungary)",
-   "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1",
-   "posted_at": "2026-09-07T00:00:00Z",
-   "first_seen_at": "2026-09-07T21:05:10Z",
-   "salary": null,
-   "skills": [
-    "Kubernetes",
-    "Git"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:jda:/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918",
-   "company": "Blue Yonder",
-   "title": "Associate Technical Consultant - Cloud - Devops,Kubernetes,Terraform,Scripting",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "IND - Coimbatore (708)",
-   "url": "https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/Associate-Technical-Consultant---Cloud---Devops-Kubernetes-Terraform-Scripting_262918",
-   "posted_at": "2026-09-07T00:00:00Z",
-   "first_seen_at": "2026-09-07T11:26:12Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "Spring",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Kubernetes"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "greenhouse:rubrik:8166523",
    "company": "Rubrik",
    "title": "Software Engineer - Winter Intern",
@@ -248,6 +206,28 @@
     "Kubernetes",
     "Terraform",
     "Linux"
+   ],
+   "source": "greenhouse"
+  },
+  {
+   "id": "greenhouse:celonis:7784394003",
+   "company": "Celonis",
+   "title": "Associate (AI) Solution Consultant",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore, India",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003",
+   "posted_at": "2026-09-04T11:47:37-04:00",
+   "first_seen_at": "2026-09-04T18:06:51Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "PyTorch",
+    "scikit-learn",
+    "Pandas",
+    "LLMs"
    ],
    "source": "greenhouse"
   },
