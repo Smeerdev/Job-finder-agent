@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-14T17:31:52Z",
+ "generated_at": "2026-09-14T21:24:39Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 31,
+ "count": 30,
  "jobs": [
   {
    "id": "smartrecruiters:AristaNetworks:744000149101159",
@@ -46,23 +46,6 @@
     "Docker"
    ],
    "source": "smartrecruiters"
-  },
-  {
-   "id": "workday:novartis:/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
-   "company": "Novartis",
-   "title": "Intern Data Science",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
-   "posted_at": "2026-09-10T00:00:00Z",
-   "first_seen_at": "2026-09-10T07:53:33Z",
-   "salary": null,
-   "skills": [
-    "LLMs"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1",
