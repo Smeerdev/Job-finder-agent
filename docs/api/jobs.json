@@ -1,26 +1,8 @@
 {
- "generated_at": "2026-09-14T11:35:42Z",
+ "generated_at": "2026-09-14T17:31:52Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 34,
+ "count": 31,
  "jobs": [
-  {
-   "id": "greenhouse:rackner:4733528005",
-   "company": "Rackner",
-   "title": "Associate Data Analyst",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://job-boards.greenhouse.io/rackner/jobs/4733528005",
-   "posted_at": "2026-09-13T17:38:26-04:00",
-   "first_seen_at": "2026-09-13T22:52:53Z",
-   "salary": null,
-   "skills": [
-    "SQL",
-    "Kubernetes"
-   ],
-   "source": "greenhouse"
-  },
   {
    "id": "smartrecruiters:AristaNetworks:744000149101159",
    "company": "Arista Networks",
@@ -66,23 +48,21 @@
    "source": "smartrecruiters"
   },
   {
-   "id": "greenhouse:rackner:4732844005",
-   "company": "Rackner",
-   "title": "Associate Data Engineer",
+   "id": "workday:novartis:/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
+   "company": "Novartis",
+   "title": "Intern Data Science",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://job-boards.greenhouse.io/rackner/jobs/4732844005",
-   "posted_at": "2026-09-10T14:51:55-04:00",
-   "first_seen_at": "2026-09-10T19:33:43Z",
+   "location": "Hyderabad (Office)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
+   "posted_at": "2026-09-10T00:00:00Z",
+   "first_seen_at": "2026-09-10T07:53:33Z",
    "salary": null,
    "skills": [
-    "Python",
-    "SQL",
-    "Kubernetes"
+    "LLMs"
    ],
-   "source": "greenhouse"
+   "source": "workday"
   },
   {
    "id": "workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1",
@@ -206,28 +186,6 @@
     "Kubernetes",
     "Terraform",
     "Linux"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:celonis:7784394003",
-   "company": "Celonis",
-   "title": "Associate (AI) Solution Consultant",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore, India",
-   "url": "https://job-boards.greenhouse.io/celonis/jobs/7784394003?gh_jid=7784394003",
-   "posted_at": "2026-09-04T11:47:37-04:00",
-   "first_seen_at": "2026-09-04T18:06:51Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "PyTorch",
-    "scikit-learn",
-    "Pandas",
-    "LLMs"
    ],
    "source": "greenhouse"
   },
@@ -413,25 +371,6 @@
     "Node.js"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "oracle:hdid.fa.us2.oraclecloud.com:4491",
-   "company": "Jefferies",
-   "title": "Associate - C# (.net) Developer - Equity Technology",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune, India",
-   "url": "https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4491",
-   "posted_at": "2026-08-26",
-   "first_seen_at": "2026-08-26T11:28:40Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "SQL",
-    "Linux"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254",
