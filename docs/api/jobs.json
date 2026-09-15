@@ -1,8 +1,48 @@
 {
- "generated_at": "2026-09-15T10:56:59Z",
+ "generated_at": "2026-09-15T15:31:31Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 31,
  "jobs": [
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241",
+   "posted_at": "2026-09-15T00:00:00Z",
+   "first_seen_at": "2026-09-15T15:31:31Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Kubernetes",
+    "Linux"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239",
+   "company": "Marvell",
+   "title": "Solutions Research Intern — Physical AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239",
+   "posted_at": "2026-09-15T00:00:00Z",
+   "first_seen_at": "2026-09-15T15:31:31Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "LLMs",
+    "CUDA"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
    "company": "Marvell",
@@ -120,30 +160,6 @@
     "SQL",
     "GCP",
     "Tableau"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:cambiumlearning:/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
-   "company": "Cambium Learning Group",
-   "title": "Software Engineer Intern – AI Applications",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
-   "posted_at": "2026-09-08T00:00:00Z",
-   "first_seen_at": "2026-09-08T17:06:53Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C#",
-    "TypeScript",
-    "JavaScript",
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Azure"
    ],
    "source": "workday"
   },
@@ -292,24 +308,6 @@
     "LLMs"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3003761",
-   "company": "TriNet",
-   "title": "Associate Data Scientist",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761",
-   "posted_at": "2026-08-28",
-   "first_seen_at": "2026-08-28T20:43:02Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "oracle"
   },
   {
    "id": "ashby:qualified-health-pbc:4964d004-a597-4013-aea7-8dece8035f10",
