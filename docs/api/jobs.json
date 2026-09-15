@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T00:14:32Z",
+ "generated_at": "2026-09-15T05:46:04Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 30,
  "jobs": [
@@ -46,6 +46,21 @@
     "Docker"
    ],
    "source": "smartrecruiters"
+  },
+  {
+   "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+   "company": "GE Healthcare",
+   "title": "Intern Firmware",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+   "posted_at": "2026-09-11T00:00:00Z",
+   "first_seen_at": "2026-09-11T10:32:02Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
   },
   {
    "id": "workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1",
@@ -146,29 +161,6 @@
     "Java",
     "C++",
     "Scala"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:abacusinsights:8783925002",
-   "company": "Abacus Insights",
-   "title": "Associate Site Reliability and Forward Deployed Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India",
-   "url": "https://boards.greenhouse.io/abacusinsights/jobs/8783925002?gh_jid=8783925002",
-   "posted_at": "2026-09-04T10:42:59-04:00",
-   "first_seen_at": "2026-09-04T18:06:51Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "AWS",
-    "Kubernetes",
-    "Terraform",
-    "Linux"
    ],
    "source": "greenhouse"
   },

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-15T00:14:32Z</updated>
+  <updated>2026-09-15T05:46:04Z</updated>
   <entry>
     <id>urn:intern-engine:instahyre:aitainment:442949</id>
     <title>Aitainment: Data Analyst - Intern</title>
@@ -29,6 +29,14 @@
     <updated>2026-09-11T10:32:02Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Gurugram, HR, India · Python, TypeScript, LLMs, Node.js, Flask</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1</id>
+    <title>GE Healthcare: Intern Firmware</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1"/>
+    <updated>2026-09-11T10:32:02Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Hardware · IND19-01-Bengaluru-EPIP 122 (Phase II)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5715</id>
@@ -77,14 +85,6 @@
     <updated>2026-09-06T14:00:17Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bangalore · Python, Java, C++, Scala</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:abacusinsights:8783925002</id>
-    <title>Abacus Insights: Associate Site Reliability and Forward Deployed Engineer</title>
-    <link href="https://boards.greenhouse.io/abacusinsights/jobs/8783925002?gh_jid=8783925002"/>
-    <updated>2026-09-04T18:06:51Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · India · Python, SQL, LLMs, AWS, Kubernetes</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442</id>
