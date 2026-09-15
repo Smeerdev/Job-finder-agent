@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-15T15:31:31Z</updated>
+  <updated>2026-09-15T19:31:21Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Engineer_JR014482</id>
+    <title>Acxiom: Intern - Data Engineer</title>
+    <link href="https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482"/>
+    <updated>2026-09-15T19:31:20Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Remote/Homebased · Python, SQL, LLMs, AWS, GCP</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---Mumbai/Software-Development-Intern_R12191</id>
+    <title>CWAN: Software Development Intern</title>
+    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191"/>
+    <updated>2026-09-15T19:31:20Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Office - Mumbai · Java</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241</id>
     <title>Marvell: Intern, Software Engineer</title>
@@ -55,20 +71,20 @@
     <summary>2026 Graduates · Software · Gurugram, HR, India · Python, TypeScript, LLMs, Node.js, Flask</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1</id>
-    <title>GE Healthcare: Intern Firmware</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1"/>
-    <updated>2026-09-11T10:32:02Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Hardware · IND19-01-Bengaluru-EPIP 122 (Phase II)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5715</id>
     <title>Priceline: Associate Software Engineer</title>
     <link href="https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715"/>
     <updated>2026-09-10T19:33:43Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Mumbai · Python, Java, TypeScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1</id>
+    <title>Merck: Associate Specialist, Data Science</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1"/>
+    <updated>2026-09-10T12:43:24Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · IND - Telangana - Hyderabad (Hitec City Raidurg) · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1</id>
@@ -149,6 +165,14 @@
     <updated>2026-09-02T05:26:42Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad · Python, Java, C#, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3003761</id>
+    <title>TriNet: Associate Data Scientist</title>
+    <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761"/>
+    <updated>2026-08-28T20:43:02Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:aeratechnology:d9271f5c-b9f8-49ff-8895-3a118c464114</id>
