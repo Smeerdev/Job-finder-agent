@@ -1,8 +1,31 @@
 {
- "generated_at": "2026-09-15T05:46:04Z",
+ "generated_at": "2026-09-15T10:56:59Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 30,
+ "count": 31,
  "jobs": [
+  {
+   "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
+   "company": "Marvell",
+   "title": "Generative AI Forward Deployed Engineer Intern-Enterprise Applications",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
+   "posted_at": "2026-09-15T00:00:00Z",
+   "first_seen_at": "2026-09-15T10:56:59Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "PyTorch",
+    "TensorFlow",
+    "LLMs",
+    "AWS",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "smartrecruiters:AristaNetworks:744000149101159",
    "company": "Arista Networks",
@@ -424,22 +447,19 @@
    "source": "workday"
   },
   {
-   "id": "ashby:quantum:4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6",
-   "company": "Quantum",
-   "title": "Graduate Data Engineer",
+   "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
+   "company": "Oaktree Capital Management",
+   "title": "Associate, Workday Financial Developer (L3)",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "London (hybrid)",
-   "url": "https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6",
-   "posted_at": "2026-08-13T13:09:38.437+00:00",
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
+   "posted_at": "2026-08-04T00:00:00Z",
    "first_seen_at": "2026-08-16T09:28:21Z",
    "salary": null,
-   "skills": [
-    "Python",
-    "SQL"
-   ],
-   "source": "ashby"
+   "skills": [],
+   "source": "workday"
   },
   {
    "id": "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:145146",

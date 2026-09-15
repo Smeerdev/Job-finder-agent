@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**30 open roles · 8 new this week · 5,191 companies tracked · updated Sep 15, 2026 at 05:46 UTC**
+**31 open roles · 9 new this week · 5,191 companies tracked · updated Sep 15, 2026 at 10:56 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,10 +13,11 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (30 open)
+## 2026 Graduates (International)  (31 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Marvell | Generative AI Forward Deployed Engineer Intern-Enterprise Applications ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore | Sep 15, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227) |
 | Arista Networks | Intern Software Engineer - C/C++ ~ | Software | — | Poland - Remote, PL (Remote) | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159) |
 | Ixigo | Full-Stack Intern - B2B ~ | Software | — | Gurugram, HR, India | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
 | GE Healthcare | Intern Firmware ~ | Hardware | B.Tech/BS | IND19-01-Bengaluru-EPIP 122 (Phase II) | Sep 11, 2026 | [Apply](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1) |
@@ -38,7 +39,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | MillerKnoll | Associate Web Analytics Engineer ~ | Data & ML/AI | B.Tech/BS | India - Bengaluru | Aug 21, 2026 | [Apply](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2) |
 | Tower Research Capital | Intern - AI/ML ~ | Data & ML/AI | PhD | gurgaon | Aug 20, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 | Cigna Group | Machine Learning Associate Advisor - HIH - Evernorth ~ | Data & ML/AI | B.Tech/BS | Hyderabad, India | Aug 18, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299) |
-| Quantum | Graduate Data Engineer ~ | Data & ML/AI | B.Tech/BS | London (hybrid) | Aug 13, 2026 | [Apply](https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6) |
+| Oaktree Capital Management | Associate, Workday Financial Developer (L3) ~ | Software | — | Hyderabad | Aug 04, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236) |
 | Zensar | ESaaS - MSD -Technical- D365 CE Developer Associate ~ | Software | B.Tech/BS | Pune, Maharashtra, India | Jul 25, 2026 | [Apply](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146) |
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
 | Priceline | Associate Software Engineer ~ | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Jul 10, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715) |
@@ -48,7 +49,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (28 of 30)._
+_~ = the title doesn't state a year; bucketed here from its posting date (29 of 31)._
 
 ## What this is
 
@@ -130,6 +131,7 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Quantum | Graduate Data Engineer | 2026 Graduates | 2026-09-15 |
 | Abacus Insights | Associate Site Reliability and Forward Deployed Engineer | 2026 Graduates | 2026-09-15 |
 | Novartis | Intern Data Science | 2026 Graduates | 2026-09-14 |
 | Celonis | Associate (AI) Solution Consultant | 2026 Graduates | 2026-09-14 |
@@ -149,7 +151,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | GE Aerospace | Data Science Intern | 2026 Graduates | 2026-09-10 |
 | Priceline | Associate Software Engineer | 2026 Graduates | 2026-09-10 |
 | JPMorganChase | Data Scientist Associate - Payments Data & Analytics | 2026 Graduates | 2026-09-10 |
-| Oaktree Capital Management | Associate, Workday Financial Developer (L3) | 2026 Graduates | 2026-09-10 |
 | Gevernova | Grid Automation & Software Intern | 2026 Graduates | 2026-09-09 |
 | Harris Computer | Associate DevOps Engineer | 2026 Graduates | 2026-09-09 |
 | Genworth Financial | Associate Application Development Analyst (.Net Developer) | 2026 Graduates | 2026-09-09 |
@@ -188,7 +189,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,191 companies across 24 ATS platforms · 99% fetch success · completed in 279.5s · median detection latency 629 min · real posted dates on 90% of open roles._
+_Engine (last run): 5,191 companies across 24 ATS platforms · 99% fetch success · completed in 339.0s · median detection latency 630 min · real posted dates on 90% of open roles._
 
 ## Platforms Scraped
 
