@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-16T01:05:22Z",
+ "generated_at": "2026-09-16T05:48:57Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 33,
+ "count": 32,
  "jobs": [
   {
    "id": "workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Engineer_JR014482",
@@ -373,24 +373,6 @@
     "LLMs"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "lever:aeratechnology:d9271f5c-b9f8-49ff-8895-3a118c464114",
-   "company": "Aera Technology",
-   "title": "Associate Data Scientist – Optimization & Operations Research",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Pune, India",
-   "url": "https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114",
-   "posted_at": "2026-08-27T06:52:40Z",
-   "first_seen_at": "2026-08-27T13:42:49Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL"
-   ],
-   "source": "lever"
   },
   {
    "id": "ashby:realmalliance:a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a",
