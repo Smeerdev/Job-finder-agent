@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**34 open roles · 11 new this week · 5,201 companies tracked · updated Sep 15, 2026 at 22:43 UTC**
+**33 open roles · 11 new this week · 5,201 companies tracked · updated Sep 16, 2026 at 01:05 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (34 open)
+## 2026 Graduates (International)  (33 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -34,7 +34,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Oaktree Capital Management | Associate - .Net Fullstack Engineer ~ | Software | B.Tech/BS | Hyderabad | Sep 02, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447) |
 | Synack | Graduate Software Engineer ~ | Software | B.Tech/BS | Remote in the UK | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/synack/jobs/8165010) |
 | Qualified Health | Clinical AI Evaluation Intern | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 28, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789) |
-| TriNet | Associate Data Scientist ~ | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Aug 28, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003761) |
 | Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | Data & ML/AI | $40/hr<br>B.Tech/BS | Palo Alto - Hybrid | Aug 27, 2026 | [Apply](https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10) |
 | Aera Technology | Associate Data Scientist – Optimization & Operations Research ~ | Data & ML/AI | — | Pune, India | Aug 27, 2026 | [Apply](https://jobs.lever.co/aeratechnology/d9271f5c-b9f8-49ff-8895-3a118c464114) |
 | Realm | Software Engineer - Intern ~ | Software | B.Tech/BS | Remote | Aug 26, 2026 | [Apply](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a) |
@@ -52,7 +51,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (32 of 34)._
+_~ = the title doesn't state a year; bucketed here from its posting date (31 of 33)._
 
 ## What this is
 
@@ -134,6 +133,7 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| TriNet | Associate Data Scientist | 2026 Graduates | 2026-09-16 |
 | GE Healthcare | Intern Firmware | 2026 Graduates | 2026-09-15 |
 | Cambium Learning Group | Software Engineer Intern – AI Applications | 2026 Graduates | 2026-09-15 |
 | Quantum | Graduate Data Engineer | 2026 Graduates | 2026-09-15 |
@@ -173,7 +173,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | GE Healthcare | Research Intern - AI | 2026 Graduates | 2026-09-03 |
 | DTCC | Software Engineer Associate - ServiceNow | 2026 Graduates | 2026-09-03 |
 | Honeywell | Intern Masters Embedded Eng | 2026 Graduates | 2026-09-02 |
-| Unisys | AI Engineering Intern | 2026 Graduates | 2026-09-02 |
 
 </details>
 
@@ -192,7 +191,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,201 companies across 24 ATS platforms · 99% fetch success · completed in 323.6s · median detection latency 641 min · real posted dates on 91% of open roles._
+_Engine (last run): 5,201 companies across 24 ATS platforms · 98% fetch success · completed in 426.4s · median detection latency 641 min · real posted dates on 90% of open roles._
 
 ## Platforms Scraped
 
