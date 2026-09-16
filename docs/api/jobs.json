@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-16T15:22:43Z",
+ "generated_at": "2026-09-16T19:25:04Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 35,
+ "count": 33,
  "jobs": [
   {
    "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1",
@@ -19,21 +19,6 @@
     "Python",
     "LLMs"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:pfizer:/job/India---Mumbai/Intern---Data-Science---AI_4963079",
-   "company": "Pfizer",
-   "title": "Intern - Data Science & AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "India - Mumbai",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Intern---Data-Science---AI_4963079",
-   "posted_at": "2026-09-16T00:00:00Z",
-   "first_seen_at": "2026-09-16T10:48:13Z",
-   "salary": null,
-   "skills": [],
    "source": "workday"
   },
   {
@@ -444,24 +429,6 @@
    "first_seen_at": "2026-08-24T08:45:53Z",
    "salary": null,
    "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:workday:/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537",
-   "company": "Workday",
-   "title": "Software Development Engineer - Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "IND.Chennai",
-   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537",
-   "posted_at": "2026-08-21T00:00:00Z",
-   "first_seen_at": "2026-08-21T11:26:19Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "C#"
-   ],
    "source": "workday"
   },
   {
