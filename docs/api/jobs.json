@@ -1,8 +1,41 @@
 {
- "generated_at": "2026-09-16T05:48:57Z",
+ "generated_at": "2026-09-16T10:48:13Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 32,
+ "count": 34,
  "jobs": [
+  {
+   "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1",
+   "company": "GE Aerospace",
+   "title": "Data Science Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1",
+   "posted_at": "2026-09-16T00:00:00Z",
+   "first_seen_at": "2026-09-16T10:48:13Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:pfizer:/job/India---Mumbai/Intern---Data-Science---AI_4963079",
+   "company": "Pfizer",
+   "title": "Intern - Data Science & AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "India - Mumbai",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Intern---Data-Science---AI_4963079",
+   "posted_at": "2026-09-16T00:00:00Z",
+   "first_seen_at": "2026-09-16T10:48:13Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Engineer_JR014482",
    "company": "Acxiom",

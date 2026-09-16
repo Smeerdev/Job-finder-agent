@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**32 open roles · 11 new this week · 5,201 companies tracked · updated Sep 16, 2026 at 05:48 UTC**
+**34 open roles · 12 new this week · 5,201 companies tracked · updated Sep 16, 2026 at 10:48 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,10 +13,12 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (32 open)
+## 2026 Graduates (International)  (34 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| GE Aerospace | Data Science Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru | Sep 16, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1) |
+| Pfizer | Intern - Data Science & AI ~ 🆕 | Data & ML/AI | B.Tech/BS | India - Mumbai | Sep 16, 2026 | [Apply](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Intern---Data-Science---AI_4963079) |
 | Acxiom | Intern - Data Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote/Homebased | Sep 15, 2026 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482) |
 | CWAN | Software Development Intern ~ 🆕 | Software | — | Office - Mumbai | Sep 15, 2026 | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191) |
 | Marvell | Intern, Software Engineer ~ 🆕 | Software | B.Tech/BS | Hyderabad | Sep 15, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241) |
@@ -50,7 +52,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (30 of 32)._
+_~ = the title doesn't state a year; bucketed here from its posting date (32 of 34)._
 
 ## What this is
 
@@ -190,7 +192,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,201 companies across 24 ATS platforms · 93% fetch success · completed in 417.2s · median detection latency 641 min · real posted dates on 90% of open roles._
+_Engine (last run): 5,201 companies across 24 ATS platforms · 99% fetch success · completed in 461.1s · median detection latency 641 min · real posted dates on 91% of open roles._
 
 ## Platforms Scraped
 
