@@ -1,8 +1,49 @@
 {
- "generated_at": "2026-09-16T19:25:04Z",
+ "generated_at": "2026-09-16T22:38:36Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 33,
+ "count": 36,
  "jobs": [
+  {
+   "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+   "company": "Ancestry",
+   "title": "Data Science - AI Document Understanding, Co-op",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Remote",
+   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+   "posted_at": "2026-09-16T00:00:00Z",
+   "first_seen_at": "2026-09-16T22:38:36Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs",
+    "AWS"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "greenhouse:twilio:8190889",
+   "company": "Twilio",
+   "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Remote - India",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+   "posted_at": "2026-09-16T14:54:18-04:00",
+   "first_seen_at": "2026-09-16T22:38:36Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "JavaScript",
+    "Scala",
+    "Hadoop"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1",
    "company": "GE Aerospace",
@@ -335,6 +376,30 @@
     "LLMs"
    ],
    "source": "workday"
+  },
+  {
+   "id": "workable:twgai:1206BF981C",
+   "company": "TWG Global",
+   "title": "AI Data Science Intern (UK)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "London, England, United Kingdom (Remote)",
+   "url": "https://apply.workable.com/twgai/j/1206BF981C/",
+   "posted_at": "2026-09-01T00:00:00.000Z",
+   "first_seen_at": "2026-09-16T22:38:36Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn",
+    "Pandas",
+    "LLMs",
+    "AWS",
+    "GCP"
+   ],
+   "source": "workable"
   },
   {
    "id": "greenhouse:synack:8165010",
