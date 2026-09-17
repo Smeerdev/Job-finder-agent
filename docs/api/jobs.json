@@ -1,8 +1,67 @@
 {
- "generated_at": "2026-09-17T07:08:31Z",
+ "generated_at": "2026-09-17T13:05:48Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 34,
+ "count": 35,
  "jobs": [
+  {
+   "id": "lever:aeratechnology:4860f299-72d8-41d5-97ff-ae063765f617",
+   "company": "Aera Technology",
+   "title": "Associate Data Scientist – Modeling, Analytics & Pipelines",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Pune, India",
+   "url": "https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617",
+   "posted_at": "2026-09-17T08:47:49Z",
+   "first_seen_at": "2026-09-17T13:05:48Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "PyTorch",
+    "TensorFlow",
+    "Pandas",
+    "AWS",
+    "GCP",
+    "Azure"
+   ],
+   "source": "lever"
+  },
+  {
+   "id": "workday:lnw:/job/Bangalore-India/Associate-Software-Engineer_R322314",
+   "company": "Light & Wonder",
+   "title": "Associate Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore, India",
+   "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Bangalore-India/Associate-Software-Engineer_R322314",
+   "posted_at": "2026-09-17T00:00:00Z",
+   "first_seen_at": "2026-09-17T13:05:48Z",
+   "salary": null,
+   "skills": [
+    "C#"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "greenhouse:thoughtworks:8210384",
+   "company": "Thoughtworks",
+   "title": "Developer (Vapasi) - Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore, India",
+   "url": "https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384",
+   "posted_at": "2026-09-17T03:51:28-04:00",
+   "first_seen_at": "2026-09-17T13:05:48Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "React"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "greenhouse:twilio:8190889",
    "company": "Twilio",
@@ -229,23 +288,6 @@
     "TensorFlow",
     "scikit-learn",
     "LLMs"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:synechron:/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1",
-   "company": "Synechron",
-   "title": "Associate Visionplus developer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune - Kharadi (EON-II)",
-   "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Pune---Kharadi-EON-II/Associate-Visionplus-developer_JR1043718-1",
-   "posted_at": "2026-09-09T00:00:00Z",
-   "first_seen_at": "2026-09-09T10:41:16Z",
-   "salary": null,
-   "skills": [
-    "Linux"
    ],
    "source": "workday"
   },
@@ -569,26 +611,6 @@
     "AWS",
     "GCP",
     "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5715",
-   "company": "Priceline",
-   "title": "Associate Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Mumbai",
-   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715",
-   "posted_at": "2026-07-10T00:00:00Z",
-   "first_seen_at": "2026-09-10T19:33:43Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "TypeScript",
-    "LLMs"
    ],
    "source": "workday"
   },
