@@ -1,8 +1,45 @@
 {
- "generated_at": "2026-09-17T13:05:48Z",
+ "generated_at": "2026-09-17T17:35:12Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 35,
  "jobs": [
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214668",
+   "company": "DTCC",
+   "title": "Software Engineering Associate (Java)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214668",
+   "posted_at": "2026-09-17",
+   "first_seen_at": "2026-09-17T17:35:12Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "AWS",
+    "Linux"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "greenhouse:thoughtworks:8210384",
+   "company": "Thoughtworks",
+   "title": "Developer (Vapasi) - Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore, India",
+   "url": "https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384",
+   "posted_at": "2026-09-17T03:51:28-04:00",
+   "first_seen_at": "2026-09-17T13:05:48Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "React"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "lever:aeratechnology:4860f299-72d8-41d5-97ff-ae063765f617",
    "company": "Aera Technology",
@@ -26,41 +63,6 @@
     "Azure"
    ],
    "source": "lever"
-  },
-  {
-   "id": "workday:lnw:/job/Bangalore-India/Associate-Software-Engineer_R322314",
-   "company": "Light & Wonder",
-   "title": "Associate Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Bangalore-India/Associate-Software-Engineer_R322314",
-   "posted_at": "2026-09-17T00:00:00Z",
-   "first_seen_at": "2026-09-17T13:05:48Z",
-   "salary": null,
-   "skills": [
-    "C#"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "greenhouse:thoughtworks:8210384",
-   "company": "Thoughtworks",
-   "title": "Developer (Vapasi) - Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384",
-   "posted_at": "2026-09-17T03:51:28-04:00",
-   "first_seen_at": "2026-09-17T13:05:48Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "React"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "greenhouse:twilio:8190889",

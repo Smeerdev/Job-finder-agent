@@ -5,22 +5,14 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-17T13:05:48Z</updated>
+  <updated>2026-09-17T17:35:12Z</updated>
   <entry>
-    <id>urn:intern-engine:lever:aeratechnology:4860f299-72d8-41d5-97ff-ae063765f617</id>
-    <title>Aera Technology: Associate Data Scientist – Modeling, Analytics &amp; Pipelines</title>
-    <link href="https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617"/>
-    <updated>2026-09-17T13:05:48Z</updated>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214668</id>
+    <title>DTCC: Software Engineering Associate (Java)</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214668"/>
+    <updated>2026-09-17T17:35:12Z</updated>
     <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Pune, India · Python, SQL, PyTorch, TensorFlow, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lnw:/job/Bangalore-India/Associate-Software-Engineer_R322314</id>
-    <title>Light &amp; Wonder: Associate Software Engineer</title>
-    <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Bangalore-India/Associate-Software-Engineer_R322314"/>
-    <updated>2026-09-17T13:05:48Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bangalore, India · C#</summary>
+    <summary>2026 Graduates · Software · Hyderabad, India · Java, AWS, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thoughtworks:8210384</id>
@@ -29,6 +21,14 @@
     <updated>2026-09-17T13:05:48Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bangalore, India · Java, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:aeratechnology:4860f299-72d8-41d5-97ff-ae063765f617</id>
+    <title>Aera Technology: Associate Data Scientist – Modeling, Analytics &amp; Pipelines</title>
+    <link href="https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617"/>
+    <updated>2026-09-17T13:05:48Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Pune, India · Python, SQL, PyTorch, TensorFlow, Pandas</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:twilio:8190889</id>
