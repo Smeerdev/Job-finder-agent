@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T17:35:12Z",
+ "generated_at": "2026-09-17T20:59:16Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 35,
+ "count": 33,
  "jobs": [
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214668",
@@ -205,29 +205,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
-   "company": "Marvell",
-   "title": "Generative AI Forward Deployed Engineer Intern-Enterprise Applications",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
-   "posted_at": "2026-09-15T00:00:00Z",
-   "first_seen_at": "2026-09-15T10:56:59Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "PyTorch",
-    "TensorFlow",
-    "LLMs",
-    "AWS",
-    "Git"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "smartrecruiters:AristaNetworks:744000149101159",
    "company": "Arista Networks",
    "title": "Intern Software Engineer - C/C++",
@@ -270,28 +247,6 @@
     "Docker"
    ],
    "source": "smartrecruiters"
-  },
-  {
-   "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1",
-   "company": "Merck",
-   "title": "Associate Specialist, Data Science",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
-   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--Data-Science_R415922-1",
-   "posted_at": "2026-09-10T00:00:00Z",
-   "first_seen_at": "2026-09-10T12:43:24Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "LLMs"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Scientist_JR014459",
