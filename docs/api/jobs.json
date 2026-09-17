@@ -1,27 +1,8 @@
 {
- "generated_at": "2026-09-16T22:38:36Z",
+ "generated_at": "2026-09-17T01:08:33Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 36,
  "jobs": [
-  {
-   "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
-   "company": "Ancestry",
-   "title": "Data Science - AI Document Understanding, Co-op",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
-   "posted_at": "2026-09-16T00:00:00Z",
-   "first_seen_at": "2026-09-16T22:38:36Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs",
-    "AWS"
-   ],
-   "source": "workday"
-  },
   {
    "id": "greenhouse:twilio:8190889",
    "company": "Twilio",
@@ -43,6 +24,25 @@
     "Hadoop"
    ],
    "source": "greenhouse"
+  },
+  {
+   "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+   "company": "Ancestry",
+   "title": "Data Science - AI Document Understanding, Co-op",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Remote",
+   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+   "posted_at": "2026-09-16T00:00:00Z",
+   "first_seen_at": "2026-09-16T22:38:36Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs",
+    "AWS"
+   ],
+   "source": "workday"
   },
   {
    "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1",

@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**36 open roles · 14 new this week · 5,214 companies tracked · updated Sep 16, 2026 at 22:38 UTC**
+**36 open roles · 14 new this week · 5,214 companies tracked · updated Sep 17, 2026 at 01:08 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,8 +17,8 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Ancestry | Data Science - AI Document Understanding, Co-op ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Sep 16, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) ~ 🆕 | Software | B.Tech/BS | Remote - India | Sep 16, 2026 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8190889) |
+| Ancestry | Data Science - AI Document Understanding, Co-op ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Sep 16, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
 | GE Aerospace | Data Science Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru | Sep 16, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1) |
 | Acxiom | Intern - Data Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote/Homebased | Sep 15, 2026 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482) |
 | CWAN | Software Development Intern ~ 🆕 | Software | — | Office - Mumbai | Sep 15, 2026 | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191) |
@@ -194,7 +194,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,214 companies across 24 ATS platforms · 94% fetch success · completed in 266.3s · median detection latency 641 min · real posted dates on 91% of open roles._
+_Engine (last run): 5,214 companies across 24 ATS platforms · 98% fetch success · completed in 409.0s · median detection latency 641 min · real posted dates on 91% of open roles._
 
 ## Platforms Scraped
 
