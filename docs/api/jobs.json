@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-17T01:08:33Z",
+ "generated_at": "2026-09-17T07:08:31Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 36,
+ "count": 34,
  "jobs": [
   {
    "id": "greenhouse:twilio:8190889",
@@ -354,30 +354,6 @@
    "source": "ashby"
   },
   {
-   "id": "workday:oaktree:/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447",
-   "company": "Oaktree Capital Management",
-   "title": "Associate - .Net Fullstack Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447",
-   "posted_at": "2026-09-02T00:00:00Z",
-   "first_seen_at": "2026-09-02T05:26:42Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "TypeScript",
-    "JavaScript",
-    "SQL",
-    "Scala",
-    "LLMs"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "workable:twgai:1206BF981C",
    "company": "TWG Global",
    "title": "AI Data Science Intern (UK)",
@@ -571,25 +547,6 @@
    "salary": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:145146",
-   "company": "Zensar",
-   "title": "ESaaS - MSD -Technical- D365 CE Developer Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146",
-   "posted_at": "2026-07-25",
-   "first_seen_at": "2026-08-17T11:25:31Z",
-   "salary": null,
-   "skills": [
-    "JavaScript",
-    "SQL",
-    "Azure"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:reliaquest:/job/Pune-India-Office/Associate-Software-Engineer_R15032",

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-17T01:08:33Z</updated>
+  <updated>2026-09-17T07:08:31Z</updated>
   <entry>
     <id>urn:intern-engine:greenhouse:twilio:8190889</id>
     <title>Twilio: Software Engineer Intern (January 12th start, 23 weeks)</title>
@@ -191,14 +191,6 @@
     <summary>2026 Graduates · Software · Remote in the UK · Python, LLMs, GCP, Kubernetes, Docker</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447</id>
-    <title>Oaktree Capital Management: Associate - .Net Fullstack Engineer</title>
-    <link href="https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Net-Fullstack-Engineer_2026-447"/>
-    <updated>2026-09-02T05:26:42Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad · Python, Java, C#, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:realmalliance:a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a</id>
     <title>Realm: Software Engineer - Intern</title>
     <link href="https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a"/>
@@ -253,14 +245,6 @@
     <updated>2026-08-18T07:39:31Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, India · Python, JavaScript, PyTorch, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:145146</id>
-    <title>Zensar: ESaaS - MSD -Technical- D365 CE Developer Associate</title>
-    <link href="https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146"/>
-    <updated>2026-08-17T11:25:31Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Pune, Maharashtra, India · JavaScript, SQL, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate---Workday-reporting-developer_2026-337</id>
