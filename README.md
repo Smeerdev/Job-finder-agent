@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**32 open roles · 13 new this week · 5,240 companies tracked · updated Sep 18, 2026 at 17:00 UTC**
+**30 open roles · 11 new this week · 5,240 companies tracked · updated Sep 18, 2026 at 19:28 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (32 open)
+## 2026 Graduates (International)  (30 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -24,9 +24,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) ~ 🆕 | Software | B.Tech/BS | Remote - India | Sep 16, 2026 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8190889) |
 | Ancestry | Data Science - AI Document Understanding, Co-op ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Sep 16, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
 | GE Aerospace | Data Science Intern ~ | Data & ML/AI | B.Tech/BS | Bengaluru | Sep 16, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1) |
-| Acxiom | Intern - Data Engineer ~ | Data & ML/AI | B.Tech/BS | Remote/Homebased | Sep 15, 2026 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482) |
 | CWAN | Software Development Intern ~ | Software | — | Office - Mumbai | Sep 15, 2026 | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191) |
-| Alegeus | Associate Software Engineer - AI ~ | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Bangalore - India | Sep 12, 2026 | [Apply](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340) |
 | Arista Networks | Intern Software Engineer - C/C++ ~ | Software | — | Poland - Remote, PL (Remote) | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159) |
 | Ixigo | Full-Stack Intern - B2B ~ | Software | — | Gurugram, HR, India | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
 | Acxiom | Intern - Data Scientist ~ | Data & ML/AI | B.Tech/BS | Remote/Homebased | Sep 08, 2026 | [Apply](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459) |
@@ -50,7 +48,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (30 of 32)._
+_~ = the title doesn't state a year; bucketed here from its posting date (28 of 30)._
 
 ## What this is
 
@@ -132,6 +130,8 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Acxiom | Intern - Data Engineer | 2026 Graduates | 2026-09-18 |
+| Alegeus | Associate Software Engineer - AI | 2026 Graduates | 2026-09-18 |
 | Marvell | Intern, Software Engineer | 2026 Graduates | 2026-09-18 |
 | Marvell | Solutions Research Intern — Physical AI | 2026 Graduates | 2026-09-18 |
 | Oaktree Capital Management | Associate, Workday Integrations Developer | 2026 Graduates | 2026-09-18 |
@@ -170,8 +170,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Harris Computer | Associate DevOps Engineer | 2026 Graduates | 2026-09-09 |
 | Genworth Financial | Associate Application Development Analyst (.Net Developer) | 2026 Graduates | 2026-09-09 |
 | AstraZeneca | Junior Associate/Associate - AI Prompt & Market Rollout Specialist | 2026 Graduates | 2026-09-09 |
-| Pearson | Associate, AI & Machine Learning Intern | 2026 Graduates | 2026-09-08 |
-| Honeywell | Intern Masters Embedded Eng | 2026 Graduates | 2026-09-08 |
 
 </details>
 
@@ -190,7 +188,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,240 companies across 24 ATS platforms · 97% fetch success · completed in 450.5s · median detection latency 641 min · real posted dates on 90% of open roles._
+_Engine (last run): 5,240 companies across 24 ATS platforms · 98% fetch success · completed in 320.6s · median detection latency 641 min · real posted dates on 90% of open roles._
 
 ## Platforms Scraped
 

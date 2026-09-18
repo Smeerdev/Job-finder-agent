@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-18T17:00:31Z</updated>
+  <updated>2026-09-18T19:28:20Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214671</id>
     <title>DTCC: Software Development Engineering in Test Associate</title>
@@ -71,14 +71,6 @@
     <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru · Python, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Engineer_JR014482</id>
-    <title>Acxiom: Intern - Data Engineer</title>
-    <link href="https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482"/>
-    <updated>2026-09-15T19:31:20Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Remote/Homebased · Python, SQL, LLMs, AWS, GCP</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---Mumbai/Software-Development-Intern_R12191</id>
     <title>CWAN: Software Development Intern</title>
     <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191"/>
@@ -93,14 +85,6 @@
     <updated>2026-09-12T11:59:28Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alegeus:/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340</id>
-    <title>Alegeus: Associate Software Engineer - AI</title>
-    <link href="https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340"/>
-    <updated>2026-09-12T11:59:28Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore - India · C#, JavaScript, SQL, .NET, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AristaNetworks:744000149101159</id>

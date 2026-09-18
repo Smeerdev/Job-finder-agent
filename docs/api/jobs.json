@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-18T17:00:31Z",
+ "generated_at": "2026-09-18T19:28:20Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 32,
+ "count": 30,
  "jobs": [
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214671",
@@ -145,30 +145,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Engineer_JR014482",
-   "company": "Acxiom",
-   "title": "Intern - Data Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote/Homebased",
-   "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482",
-   "posted_at": "2026-09-15T00:00:00Z",
-   "first_seen_at": "2026-09-15T19:31:20Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Git",
-    "Spark"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "workday:clearwateranalytics:/job/Office---Mumbai/Software-Development-Intern_R12191",
    "company": "CWAN",
    "title": "Software Development Intern",
@@ -182,27 +158,6 @@
    "salary": null,
    "skills": [
     "Java"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:alegeus:/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340",
-   "company": "Alegeus",
-   "title": "Associate Software Engineer - AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore - India",
-   "url": "https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340",
-   "posted_at": "2026-09-12T00:00:00Z",
-   "first_seen_at": "2026-09-12T11:59:28Z",
-   "salary": null,
-   "skills": [
-    "C#",
-    "JavaScript",
-    "SQL",
-    ".NET",
-    "Git"
    ],
    "source": "workday"
   },
