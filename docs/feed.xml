@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-18T02:48:32Z</updated>
+  <updated>2026-09-18T07:58:29Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214671</id>
+    <title>DTCC: Software Development Engineering in Test Associate</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214671"/>
+    <updated>2026-09-18T07:58:29Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, India · Python, Java, C#, SQL, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214668</id>
     <title>DTCC: Software Engineering Associate (Java)</title>
@@ -77,22 +85,6 @@
     <updated>2026-09-15T19:31:20Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Office - Mumbai · Java</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241</id>
-    <title>Marvell: Intern, Software Engineer</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241"/>
-    <updated>2026-09-15T15:31:31Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad · Python, Kubernetes, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239</id>
-    <title>Marvell: Solutions Research Intern — Physical AI</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239"/>
-    <updated>2026-09-15T15:31:31Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad · Python, PyTorch, TensorFlow, LLMs, CUDA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:instahyre:aitainment:442949</id>
@@ -189,14 +181,6 @@
     <updated>2026-08-26T16:18:44Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Remote · Python, C++, TypeScript, TensorFlow, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254</id>
-    <title>Oaktree Capital Management: Associate, Workday Integrations Developer</title>
-    <link href="https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254"/>
-    <updated>2026-08-24T08:45:53Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:instahyre:pagarbook:439220</id>

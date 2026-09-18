@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-09-18T02:48:32Z",
+ "generated_at": "2026-09-18T07:58:29Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 33,
+ "count": 31,
  "jobs": [
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214671",
+   "company": "DTCC",
+   "title": "Software Development Engineering in Test Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214671",
+   "posted_at": "2026-09-18",
+   "first_seen_at": "2026-09-18T07:58:29Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C#",
+    "SQL",
+    "Git"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214668",
    "company": "DTCC",
@@ -161,46 +182,6 @@
    "salary": null,
    "skills": [
     "Java"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241",
-   "posted_at": "2026-09-15T00:00:00Z",
-   "first_seen_at": "2026-09-15T15:31:31Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Kubernetes",
-    "Linux"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239",
-   "company": "Marvell",
-   "title": "Solutions Research Intern — Physical AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239",
-   "posted_at": "2026-09-15T00:00:00Z",
-   "first_seen_at": "2026-09-15T15:31:31Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "LLMs",
-    "CUDA"
    ],
    "source": "workday"
   },
@@ -455,21 +436,6 @@
     "Node.js"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254",
-   "company": "Oaktree Capital Management",
-   "title": "Associate, Workday Integrations Developer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Integrations-Developer_2026-254",
-   "posted_at": "2026-08-24T00:00:00Z",
-   "first_seen_at": "2026-08-24T08:45:53Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:millerknoll:/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2",
