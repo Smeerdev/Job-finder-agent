@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-18T07:58:29Z",
+ "generated_at": "2026-09-18T12:42:58Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 31,
+ "count": 32,
  "jobs": [
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214671",
@@ -182,6 +182,27 @@
    "salary": null,
    "skills": [
     "Java"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:alegeus:/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340",
+   "company": "Alegeus",
+   "title": "Associate Software Engineer - AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore - India",
+   "url": "https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Bangalore---India/Associate-Software-Engineer---AI_R-101340",
+   "posted_at": "2026-09-12T00:00:00Z",
+   "first_seen_at": "2026-09-12T11:59:28Z",
+   "salary": null,
+   "skills": [
+    "C#",
+    "JavaScript",
+    "SQL",
+    ".NET",
+    "Git"
    ],
    "source": "workday"
   },
