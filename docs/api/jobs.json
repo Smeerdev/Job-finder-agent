@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-09-18T19:28:20Z",
+ "generated_at": "2026-09-18T22:15:28Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 30,
+ "count": 31,
  "jobs": [
+  {
+   "id": "workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
+   "company": "Altera Corporation",
+   "title": "AI Automation Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
+   "posted_at": "2026-09-18T00:00:00Z",
+   "first_seen_at": "2026-09-18T22:15:28Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "JavaScript",
+    "SQL",
+    "LLMs",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214671",
    "company": "DTCC",
