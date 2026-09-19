@@ -6279,6 +6279,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Cogna",
+    "slug": "cogna",
+    "ats": "workable"
+  },
+  {
     "name": "Cognex",
     "slug": "cognex",
     "ats": "workday",
@@ -7602,6 +7607,11 @@
     "name": "DataVisor",
     "slug": "datavisor-jobs",
     "ats": "workable"
+  },
+  {
+    "name": "DatologyAI",
+    "slug": "datologyai",
+    "ats": "ashby"
   },
   {
     "name": "Dave & Busters",
@@ -9667,6 +9677,11 @@
   {
     "name": "fab2",
     "slug": "fab2",
+    "ats": "ashby"
+  },
+  {
+    "name": "Fable",
+    "slug": "fable",
     "ats": "ashby"
   },
   {
@@ -17701,6 +17716,13 @@
     "site": "MSI"
   },
   {
+    "name": "MSI Express",
+    "slug": "msiexpress",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "MSI_Express_External_Careers"
+  },
+  {
     "name": "MSIG USA",
     "slug": "msigna",
     "ats": "workday",
@@ -22304,6 +22326,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Risepoint",
+    "slug": "risepoint",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "Risepoint"
+  },
+  {
     "name": "Ritchie Bros.",
     "slug": "fa-exew-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oracle",
@@ -26200,6 +26229,13 @@
     "ats": "lever"
   },
   {
+    "name": "Thrivent",
+    "slug": "thrivent",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "external"
+  },
+  {
     "name": "Thumbtack",
     "slug": "thumbtack",
     "ats": "greenhouse"
@@ -26288,6 +26324,11 @@
     "name": "Tinkoff",
     "slug": "tinkoff",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Tint",
+    "slug": "tintai",
+    "ats": "greenhouse"
   },
   {
     "name": "Titan",
@@ -27630,6 +27671,11 @@
     "name": "Vacasa",
     "slug": "vacasa",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Valency",
+    "slug": "valency",
+    "ats": "ashby"
   },
   {
     "name": "Valeo",
