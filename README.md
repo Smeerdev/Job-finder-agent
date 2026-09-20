@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**30 open roles · 10 new this week · 5,249 companies tracked · updated Sep 20, 2026 at 14:31 UTC**
+**29 open roles · 9 new this week · 5,249 companies tracked · updated Sep 20, 2026 at 17:59 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (30 open)
+## 2026 Graduates (International)  (29 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -22,7 +22,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | DTCC | Software Engineering Associate (Java) ~ | Software | B.Tech/BS | Hyderabad, India | Sep 17, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214668) |
 | Thoughtworks | Developer (Vapasi) - Intern ~ | Software | B.Tech/BS | Bangalore, India | Sep 17, 2026 | [Apply](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
 | Aera Technology | Associate Data Scientist – Modeling, Analytics & Pipelines ~ | Data & ML/AI | — | Pune, India | Sep 17, 2026 | [Apply](https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617) |
-| Twilio | Software Engineer Intern (January 12th start, 23 weeks) ~ | Software | B.Tech/BS | Remote - India | Sep 16, 2026 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8190889) |
 | Ancestry | Data Science - AI Document Understanding, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 16, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
 | GE Aerospace | Data Science Intern ~ | Data & ML/AI | B.Tech/BS | Bengaluru | Sep 16, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1) |
 | CWAN | Software Development Intern ~ | Software | — | Office - Mumbai | Sep 15, 2026 | [Apply](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191) |
@@ -48,7 +47,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (28 of 30)._
+_~ = the title doesn't state a year; bucketed here from its posting date (27 of 29)._
 
 ## What this is
 
@@ -130,6 +129,7 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Twilio | Software Engineer Intern (January 12th start, 23 weeks) | 2026 Graduates | 2026-09-20 |
 | Tower Research Capital | Intern - AI/ML | 2026 Graduates | 2026-09-20 |
 | Acxiom | Intern - Data Engineer | 2026 Graduates | 2026-09-18 |
 | Alegeus | Associate Software Engineer - AI | 2026 Graduates | 2026-09-18 |
@@ -169,7 +169,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | JPMorganChase | Data Scientist Associate - Payments Data & Analytics | 2026 Graduates | 2026-09-10 |
 | Gevernova | Grid Automation & Software Intern | 2026 Graduates | 2026-09-09 |
 | Harris Computer | Associate DevOps Engineer | 2026 Graduates | 2026-09-09 |
-| Genworth Financial | Associate Application Development Analyst (.Net Developer) | 2026 Graduates | 2026-09-09 |
 
 </details>
 
@@ -188,7 +187,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,249 companies across 24 ATS platforms · 99% fetch success · completed in 351.0s · median detection latency 641 min · real posted dates on 90% of open roles._
+_Engine (last run): 5,249 companies across 24 ATS platforms · 99% fetch success · completed in 432.4s · median detection latency 641 min · real posted dates on 89% of open roles._
 
 ## Platforms Scraped
 

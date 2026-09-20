@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-20T14:31:16Z",
+ "generated_at": "2026-09-20T17:59:44Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 30,
+ "count": 29,
  "jobs": [
   {
    "id": "workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
@@ -105,28 +105,6 @@
     "Azure"
    ],
    "source": "lever"
-  },
-  {
-   "id": "greenhouse:twilio:8190889",
-   "company": "Twilio",
-   "title": "Software Engineer Intern (January 12th start, 23 weeks)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote - India",
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
-   "posted_at": "2026-09-16T14:54:18-04:00",
-   "first_seen_at": "2026-09-16T22:38:36Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "JavaScript",
-    "Scala",
-    "Hadoop"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",

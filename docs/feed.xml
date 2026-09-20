@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-20T14:31:16Z</updated>
+  <updated>2026-09-20T17:59:44Z</updated>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117</id>
     <title>Altera Corporation: AI Automation Intern</title>
@@ -45,14 +45,6 @@
     <updated>2026-09-17T13:05:48Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Pune, India · Python, SQL, PyTorch, TensorFlow, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:twilio:8190889</id>
-    <title>Twilio: Software Engineer Intern (January 12th start, 23 weeks)</title>
-    <link href="https://job-boards.greenhouse.io/twilio/jobs/8190889"/>
-    <updated>2026-09-16T22:38:36Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Remote - India · Python, Java, C++, JavaScript, Scala</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workable:twgai:1206BF981C</id>
