@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-19T22:06:25Z",
+ "generated_at": "2026-09-20T00:39:47Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 31,
+ "count": 30,
  "jobs": [
   {
    "id": "workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
@@ -448,28 +448,6 @@
    "salary": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "greenhouse:towerresearchcapital:8143756",
-   "company": "Tower Research Capital",
-   "title": "Intern - AI/ML",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "gurgaon",
-   "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
-   "posted_at": "2026-08-20T08:57:42-04:00",
-   "first_seen_at": "2026-08-20T13:46:46Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "PyTorch",
-    "TensorFlow",
-    "Linux",
-    "Git"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299",
