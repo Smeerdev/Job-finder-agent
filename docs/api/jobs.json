@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-21T05:52:31Z",
+ "generated_at": "2026-09-21T11:49:15Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 30,
+ "count": 29,
  "jobs": [
   {
    "id": "workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
@@ -23,27 +23,6 @@
     "Git"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214671",
-   "company": "DTCC",
-   "title": "Software Development Engineering in Test Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214671",
-   "posted_at": "2026-09-18",
-   "first_seen_at": "2026-09-18T07:58:29Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "SQL",
-    "Git"
-   ],
-   "source": "oracle"
   },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214668",
@@ -105,28 +84,6 @@
     "Azure"
    ],
    "source": "lever"
-  },
-  {
-   "id": "greenhouse:twilio:8190887",
-   "company": "Twilio",
-   "title": "Software Engineer Intern (January 12th start, 23 weeks)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote - India",
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8190887",
-   "posted_at": "2026-09-16T15:21:27-04:00",
-   "first_seen_at": "2026-09-20T22:58:54Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "JavaScript",
-    "Scala",
-    "Hadoop"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
@@ -509,6 +466,26 @@
     "AWS",
     "GCP",
     "Azure"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5715",
+   "company": "Priceline",
+   "title": "Associate Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Mumbai",
+   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715",
+   "posted_at": "2026-07-10T00:00:00Z",
+   "first_seen_at": "2026-09-10T19:33:43Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "TypeScript",
+    "LLMs"
    ],
    "source": "workday"
   },
