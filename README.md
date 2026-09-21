@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**29 open roles · 8 new this week · 5,249 companies tracked · updated Sep 21, 2026 at 11:49 UTC**
+**29 open roles · 8 new this week · 5,252 companies tracked · updated Sep 21, 2026 at 17:47 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,8 +17,8 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| DTCC | Platform Engineering Associate - Redis Administration ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Sep 21, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214634) |
 | Altera Corporation | AI Automation Intern ~ | Data & ML/AI | — | Bengaluru, Karnataka, India | Sep 18, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117) |
-| DTCC | Software Engineering Associate (Java) ~ | Software | B.Tech/BS | Hyderabad, India | Sep 17, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214668) |
 | Thoughtworks | Developer (Vapasi) - Intern ~ | Software | B.Tech/BS | Bangalore, India | Sep 17, 2026 | [Apply](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
 | Aera Technology | Associate Data Scientist – Modeling, Analytics & Pipelines ~ | Data & ML/AI | — | Pune, India | Sep 17, 2026 | [Apply](https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617) |
 | Ancestry | Data Science - AI Document Understanding, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 16, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
@@ -129,6 +129,7 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| DTCC | Software Engineering Associate (Java) | 2026 Graduates | 2026-09-21 |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) | 2026 Graduates | 2026-09-21 |
 | DTCC | Software Development Engineering in Test Associate | 2026 Graduates | 2026-09-21 |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) | 2026 Graduates | 2026-09-20 |
@@ -168,7 +169,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | GE Aerospace | Data Science Intern | 2026 Graduates | 2026-09-10 |
 | Priceline | Associate Software Engineer | 2026 Graduates | 2026-09-10 |
 | JPMorganChase | Data Scientist Associate - Payments Data & Analytics | 2026 Graduates | 2026-09-10 |
-| Gevernova | Grid Automation & Software Intern | 2026 Graduates | 2026-09-09 |
 
 </details>
 
@@ -187,7 +187,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,249 companies across 24 ATS platforms · 98% fetch success · completed in 321.6s · median detection latency 645 min · real posted dates on 89% of open roles._
+_Engine (last run): 5,252 companies across 24 ATS platforms · 98% fetch success · completed in 435.4s · median detection latency 648 min · real posted dates on 89% of open roles._
 
 ## Platforms Scraped
 

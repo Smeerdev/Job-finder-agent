@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-21T11:49:15Z</updated>
+  <updated>2026-09-21T17:47:16Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214634</id>
+    <title>DTCC: Platform Engineering Associate - Redis Administration</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214634"/>
+    <updated>2026-09-21T17:47:16Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, India · Python, AWS, Terraform, Linux, Redis</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117</id>
     <title>Altera Corporation: AI Automation Intern</title>
@@ -13,14 +21,6 @@
     <updated>2026-09-18T22:15:28Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India · Python, JavaScript, SQL, LLMs, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214668</id>
-    <title>DTCC: Software Engineering Associate (Java)</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214668"/>
-    <updated>2026-09-17T17:35:12Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India · Java, AWS, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thoughtworks:8210384</id>

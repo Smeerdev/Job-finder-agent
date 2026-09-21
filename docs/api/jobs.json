@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-09-21T11:49:15Z",
+ "generated_at": "2026-09-21T17:47:16Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 29,
  "jobs": [
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214634",
+   "company": "DTCC",
+   "title": "Platform Engineering Associate - Redis Administration",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214634",
+   "posted_at": "2026-09-21",
+   "first_seen_at": "2026-09-21T17:47:16Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "AWS",
+    "Terraform",
+    "Linux",
+    "Redis"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
    "company": "Altera Corporation",
@@ -23,25 +44,6 @@
     "Git"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214668",
-   "company": "DTCC",
-   "title": "Software Engineering Associate (Java)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214668",
-   "posted_at": "2026-09-17",
-   "first_seen_at": "2026-09-17T17:35:12Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "AWS",
-    "Linux"
-   ],
-   "source": "oracle"
   },
   {
    "id": "greenhouse:thoughtworks:8210384",
