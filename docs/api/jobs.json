@@ -1,8 +1,42 @@
 {
- "generated_at": "2026-09-22T05:50:19Z",
+ "generated_at": "2026-09-22T10:52:31Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 28,
+ "count": 30,
  "jobs": [
+  {
+   "id": "workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
+   "company": "Epicor",
+   "title": "Product Developer Associate-SDET, Automation",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India, Bangalore",
+   "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
+   "posted_at": "2026-09-22T00:00:00Z",
+   "first_seen_at": "2026-09-22T10:52:31Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "JavaScript"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413",
+   "company": "Philips",
+   "title": "Intern – Data Science and AI Engineering",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413",
+   "posted_at": "2026-09-22T00:00:00Z",
+   "first_seen_at": "2026-09-22T10:52:31Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214634",
    "company": "DTCC",

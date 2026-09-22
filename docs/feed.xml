@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-22T05:50:19Z</updated>
+  <updated>2026-09-22T10:52:31Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505</id>
+    <title>Epicor: Product Developer Associate-SDET, Automation</title>
+    <link href="https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505"/>
+    <updated>2026-09-22T10:52:31Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · India, Bangalore · Python, Java, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413</id>
+    <title>Philips: Intern – Data Science and AI Engineering</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413"/>
+    <updated>2026-09-22T10:52:31Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214634</id>
     <title>DTCC: Platform Engineering Associate - Redis Administration</title>
