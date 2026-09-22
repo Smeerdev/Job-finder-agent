@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-22T00:35:52Z",
+ "generated_at": "2026-09-22T05:50:19Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 29,
+ "count": 28,
  "jobs": [
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214634",
@@ -392,21 +392,6 @@
     "Node.js"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "workday:millerknoll:/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2",
-   "company": "MillerKnoll",
-   "title": "Associate Web Analytics Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "India - Bengaluru",
-   "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Associate-Web-Analytics-Engineer_JR109610-2",
-   "posted_at": "2026-08-21T00:00:00Z",
-   "first_seen_at": "2026-08-21T04:37:29Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299",
