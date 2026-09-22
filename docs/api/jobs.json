@@ -1,23 +1,8 @@
 {
- "generated_at": "2026-09-22T15:26:37Z",
+ "generated_at": "2026-09-22T19:35:04Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 31,
+ "count": 29,
  "jobs": [
-  {
-   "id": "workday:sprinklr:/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
-   "company": "Sprinklr",
-   "title": "ML Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "India - Haryana - Gurgaon",
-   "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
-   "posted_at": "2026-09-22T00:00:00Z",
-   "first_seen_at": "2026-09-22T15:26:36Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
   {
    "id": "workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
    "company": "Epicor",
@@ -35,21 +20,6 @@
     "Java",
     "JavaScript"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413",
-   "company": "Philips",
-   "title": "Intern – Data Science and AI Engineering",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413",
-   "posted_at": "2026-09-22T00:00:00Z",
-   "first_seen_at": "2026-09-22T10:52:31Z",
-   "salary": null,
-   "skills": [],
    "source": "workday"
   },
   {

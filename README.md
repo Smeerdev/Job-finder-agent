@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**31 open roles · 11 new this week · 5,257 companies tracked · updated Sep 22, 2026 at 15:26 UTC**
+**29 open roles · 8 new this week · 5,257 companies tracked · updated Sep 22, 2026 at 19:35 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,13 +13,11 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (31 open)
+## 2026 Graduates (International)  (29 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Sprinklr | ML Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | India - Haryana - Gurgaon | Sep 22, 2026 | [Apply](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB) |
 | Epicor | Product Developer Associate-SDET, Automation ~ 🆕 | Software | — | India, Bangalore | Sep 22, 2026 | [Apply](https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505) |
-| Philips | Intern – Data Science and AI Engineering ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore | Sep 22, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413) |
 | DTCC | Platform Engineering Associate - Redis Administration ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Sep 21, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214634) |
 | Altera Corporation | AI Automation Intern ~ | Data & ML/AI | — | Bengaluru, Karnataka, India | Sep 18, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117) |
 | Thoughtworks | Developer (Vapasi) - Intern ~ | Software | B.Tech/BS | Bangalore, India | Sep 17, 2026 | [Apply](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
@@ -49,7 +47,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (29 of 31)._
+_~ = the title doesn't state a year; bucketed here from its posting date (27 of 29)._
 
 ## What this is
 
@@ -131,6 +129,8 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Philips | Intern – Data Science and AI Engineering | 2026 Graduates | 2026-09-22 |
+| Sprinklr | ML Intern | 2026 Graduates | 2026-09-22 |
 | MillerKnoll | Associate Web Analytics Engineer | 2026 Graduates | 2026-09-22 |
 | DTCC | Software Engineering Associate (Java) | 2026 Graduates | 2026-09-21 |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) | 2026 Graduates | 2026-09-21 |
@@ -169,8 +169,6 @@ _45 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Swarm Aero | Software Engineer Intern | 2026 Graduates | 2026-09-11 |
 | Ares Management | Associate Developer - HR Tech (Workday) | 2026 Graduates | 2026-09-11 |
 | LinkedIn | Software Engineering Intern | 2026 Graduates | 2026-09-10 |
-| GE Aerospace | Data Science Intern | 2026 Graduates | 2026-09-10 |
-| Priceline | Associate Software Engineer | 2026 Graduates | 2026-09-10 |
 
 </details>
 
@@ -189,7 +187,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,257 companies across 24 ATS platforms · 100% fetch success · completed in 331.3s · median detection latency 650 min · real posted dates on 90% of open roles._
+_Engine (last run): 5,257 companies across 24 ATS platforms · 99% fetch success · completed in 344.8s · median detection latency 650 min · real posted dates on 89% of open roles._
 
 ## Platforms Scraped
 
