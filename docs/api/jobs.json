@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-09-22T10:52:31Z",
+ "generated_at": "2026-09-22T15:26:37Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 30,
+ "count": 31,
  "jobs": [
+  {
+   "id": "workday:sprinklr:/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
+   "company": "Sprinklr",
+   "title": "ML Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "India - Haryana - Gurgaon",
+   "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
+   "posted_at": "2026-09-22T00:00:00Z",
+   "first_seen_at": "2026-09-22T15:26:36Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
    "company": "Epicor",

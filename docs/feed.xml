@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-22T10:52:31Z</updated>
+  <updated>2026-09-22T15:26:37Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:sprinklr:/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB</id>
+    <title>Sprinklr: ML Intern</title>
+    <link href="https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB"/>
+    <updated>2026-09-22T15:26:36Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · India - Haryana - Gurgaon</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505</id>
     <title>Epicor: Product Developer Associate-SDET, Automation</title>
