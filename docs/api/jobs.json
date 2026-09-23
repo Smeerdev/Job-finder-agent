@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-23T13:20:44Z",
+ "generated_at": "2026-09-23T18:16:07Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 29,
+ "count": 31,
  "jobs": [
   {
    "id": "smartrecruiters:AristaNetworks:744000151304169",
@@ -21,6 +21,21 @@
     "Git"
    ],
    "source": "smartrecruiters"
+  },
+  {
+   "id": "ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
+   "company": "Lean TECHniques",
+   "title": "Software Engineer Intern - Hybrid",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hybrid",
+   "url": "https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
+   "posted_at": "2026-09-22T14:36:21.374+00:00",
+   "first_seen_at": "2026-09-23T18:16:07Z",
+   "salary": null,
+   "skills": [],
+   "source": "ashby"
   },
   {
    "id": "workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
@@ -519,6 +534,21 @@
    "salary": null,
    "skills": [],
    "source": "workday"
+  },
+  {
+   "id": "instahyre:gameberrylabs:443500",
+   "company": "Gameberry Labs",
+   "title": "Gen AI Designer - Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore",
+   "url": "https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/",
+   "posted_at": null,
+   "first_seen_at": "2026-09-23T18:16:07Z",
+   "salary": null,
+   "skills": [],
+   "source": "instahyre"
   },
   {
    "id": "instahyre:aitainment:442949",
