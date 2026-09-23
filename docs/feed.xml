@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-23T18:16:07Z</updated>
+  <updated>2026-09-23T22:04:58Z</updated>
   <entry>
     <id>urn:intern-engine:ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c</id>
     <title>Lean TECHniques: Software Engineer Intern - Hybrid</title>
@@ -37,14 +37,6 @@
     <updated>2026-09-22T10:52:31Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · India, Bangalore · Python, Java, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214634</id>
-    <title>DTCC: Platform Engineering Associate - Redis Administration</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214634"/>
-    <updated>2026-09-21T17:47:16Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India · Python, AWS, Terraform, Linux, Redis</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117</id>
@@ -85,14 +77,6 @@
     <updated>2026-09-16T22:38:36Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1</id>
-    <title>GE Aerospace: Data Science Intern</title>
-    <link href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1"/>
-    <updated>2026-09-16T10:48:13Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru · Python, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---Mumbai/Software-Development-Intern_R12191</id>
