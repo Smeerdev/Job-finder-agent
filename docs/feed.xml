@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-23T07:17:23Z</updated>
+  <updated>2026-09-23T13:20:44Z</updated>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AristaNetworks:744000151304169</id>
     <title>Arista Networks: Junior AI-Assisted Automation Scripting Associate (Apprentice)</title>
@@ -101,14 +101,6 @@
     <updated>2026-09-11T21:35:26Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Poland - Remote, PL (Remote) · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:ixigo:744000148960832</id>
-    <title>Ixigo: Full-Stack Intern - B2B</title>
-    <link href="https://jobs.smartrecruiters.com/ixigo/744000148960832"/>
-    <updated>2026-09-11T10:32:02Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Gurugram, HR, India · Python, TypeScript, LLMs, Node.js, Flask</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5715</id>
