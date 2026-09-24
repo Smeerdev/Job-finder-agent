@@ -1,8 +1,80 @@
 {
- "generated_at": "2026-09-24T05:53:02Z",
+ "generated_at": "2026-09-24T11:02:05Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 28,
+ "count": 32,
  "jobs": [
+  {
+   "id": "workday:marvell:/job/Bangalore/AI-Intern_2603878",
+   "company": "Marvell",
+   "title": "AI Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2603878",
+   "posted_at": "2026-09-24T00:00:00Z",
+   "first_seen_at": "2026-09-24T11:02:05Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
+   "posted_at": "2026-09-24T00:00:00Z",
+   "first_seen_at": "2026-09-24T11:02:05Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Linux"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:globalhr:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631",
+   "company": "RTX",
+   "title": "Associate Business Intelligence Analyst(AI/ML,Generative AI & Python,1-3 years,Bangalore)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631",
+   "posted_at": "2026-09-24T00:00:00Z",
+   "first_seen_at": "2026-09-24T11:02:05Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "JavaScript",
+    "SQL",
+    "LLMs",
+    "Git"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "greenhouse:thoughtworksreferral:8225630",
+   "company": "Thoughtworks",
+   "title": "Software Procurement Intern",
+   "season": "2026 Graduates",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Gurgaon, India",
+   "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630",
+   "posted_at": "2026-09-23T02:35:44-04:00",
+   "first_seen_at": "2026-09-24T11:02:05Z",
+   "salary": null,
+   "skills": [
+    "Vue",
+    "AWS"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
    "company": "Lean TECHniques",

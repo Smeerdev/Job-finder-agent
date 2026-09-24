@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T05:53:02Z",
+ "generated_at": "2026-09-24T11:02:05Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -15,6 +15,20 @@
    "days_until": -28,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10",
+   "note": ""
+  },
+  {
+   "company": "Thoughtworks",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-23",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630",
    "note": ""
   },
   {
@@ -634,5 +648,5 @@
    "note": ""
   }
  ],
- "count": 45
+ "count": 46
 }
