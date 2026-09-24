@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-24T19:50:58Z</updated>
+  <updated>2026-09-24T23:01:37Z</updated>
   <entry>
     <id>urn:intern-engine:ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc</id>
     <title>Qumulo: Software Development Engineer (New Grad / Entry Level)</title>
@@ -29,14 +29,6 @@
     <updated>2026-09-24T11:02:05Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Gurgaon, India · Vue, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631</id>
-    <title>RTX: Associate Business Intelligence Analyst(AI/ML,Generative AI &amp; Python,1-3 years,Bangalore)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631"/>
-    <updated>2026-09-24T11:02:05Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli · Python, JavaScript, SQL, LLMs, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879</id>
@@ -229,6 +221,14 @@
     <updated>2026-08-18T07:39:31Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, India · Python, JavaScript, PyTorch, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377</id>
+    <title>Ancestry: Machine Learning Engineer, Co-op</title>
+    <link href="https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377"/>
+    <updated>2026-08-16T09:28:21Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, Java, PyTorch, TensorFlow, scikit-learn</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate---Workday-reporting-developer_2026-337</id>
