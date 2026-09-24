@@ -5,7 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-24T11:02:05Z</updated>
+  <updated>2026-09-24T15:48:22Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820</id>
+    <title>PPLSI: Associate IBMi Software Engineer</title>
+    <link href="https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820"/>
+    <updated>2026-09-24T15:48:22Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Remote Job Posting · C#, SQL, Node.js, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc</id>
+    <title>Qumulo: Software Development Engineer (New Grad / Entry Level)</title>
+    <link href="https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc"/>
+    <updated>2026-09-24T15:48:22Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Seattle (hybrid) · $110k–$140k/yr · Python, Java, C++, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thoughtworksreferral:8225630</id>
+    <title>Thoughtworks: Software Procurement Intern</title>
+    <link href="https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630"/>
+    <updated>2026-09-24T11:02:05Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Gurgaon, India · Vue, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631</id>
+    <title>RTX: Associate Business Intelligence Analyst(AI/ML,Generative AI &amp; Python,1-3 years,Bangalore)</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631"/>
+    <updated>2026-09-24T11:02:05Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli · Python, JavaScript, SQL, LLMs, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/AI-Intern_2603878</id>
     <title>Marvell: AI Intern</title>
@@ -23,22 +55,6 @@
     <summary>2026 Graduates · Software · Hyderabad · Python, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631</id>
-    <title>RTX: Associate Business Intelligence Analyst(AI/ML,Generative AI &amp; Python,1-3 years,Bangalore)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631"/>
-    <updated>2026-09-24T11:02:05Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli · Python, JavaScript, SQL, LLMs, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thoughtworksreferral:8225630</id>
-    <title>Thoughtworks: Software Procurement Intern</title>
-    <link href="https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630"/>
-    <updated>2026-09-24T11:02:05Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Gurgaon, India · Vue, AWS</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c</id>
     <title>Lean TECHniques: Software Engineer Intern - Hybrid</title>
     <link href="https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c"/>
@@ -53,14 +69,6 @@
     <updated>2026-09-23T18:16:07Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505</id>
-    <title>Epicor: Product Developer Associate-SDET, Automation</title>
-    <link href="https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505"/>
-    <updated>2026-09-22T10:52:31Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · India, Bangalore · Python, Java, JavaScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117</id>

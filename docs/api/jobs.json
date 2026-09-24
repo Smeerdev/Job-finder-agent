@@ -1,8 +1,49 @@
 {
- "generated_at": "2026-09-24T11:02:05Z",
+ "generated_at": "2026-09-24T15:48:22Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 32,
+ "count": 33,
  "jobs": [
+  {
+   "id": "workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820",
+   "company": "PPLSI",
+   "title": "Associate IBMi Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Remote Job Posting",
+   "url": "https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820",
+   "posted_at": "2026-09-24T00:00:00Z",
+   "first_seen_at": "2026-09-24T15:48:22Z",
+   "salary": null,
+   "skills": [
+    "C#",
+    "SQL",
+    "Node.js",
+    "Git"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:globalhr:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631",
+   "company": "RTX",
+   "title": "Associate Business Intelligence Analyst(AI/ML,Generative AI & Python,1-3 years,Bangalore)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631",
+   "posted_at": "2026-09-24T00:00:00Z",
+   "first_seen_at": "2026-09-24T11:02:05Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "JavaScript",
+    "SQL",
+    "LLMs",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:marvell:/job/Bangalore/AI-Intern_2603878",
    "company": "Marvell",
@@ -33,27 +74,6 @@
    "skills": [
     "Python",
     "Linux"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:globalhr:/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631",
-   "company": "RTX",
-   "title": "Associate Business Intelligence Analyst(AI/ML,Generative AI & Python,1-3 years,Bangalore)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "first_seen_at": "2026-09-24T11:02:05Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "JavaScript",
-    "SQL",
-    "LLMs",
-    "Git"
    ],
    "source": "workday"
   },
@@ -91,23 +111,24 @@
    "source": "ashby"
   },
   {
-   "id": "workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
-   "company": "Epicor",
-   "title": "Product Developer Associate-SDET, Automation",
+   "id": "ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc",
+   "company": "Qumulo",
+   "title": "Software Development Engineer (New Grad / Entry Level)",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Software",
-   "location": "India, Bangalore",
-   "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
-   "posted_at": "2026-09-22T00:00:00Z",
-   "first_seen_at": "2026-09-22T10:52:31Z",
-   "salary": null,
+   "location": "Seattle (hybrid)",
+   "url": "https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc",
+   "posted_at": "2026-09-21T22:41:18.722+00:00",
+   "first_seen_at": "2026-09-24T15:48:22Z",
+   "salary": "$110k–$140k/yr",
    "skills": [
     "Python",
     "Java",
-    "JavaScript"
+    "C++",
+    "Rust"
    ],
-   "source": "workday"
+   "source": "ashby"
   },
   {
    "id": "workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
