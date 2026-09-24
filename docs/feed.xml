@@ -5,15 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-24T15:48:22Z</updated>
-  <entry>
-    <id>urn:intern-engine:workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820</id>
-    <title>PPLSI: Associate IBMi Software Engineer</title>
-    <link href="https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820"/>
-    <updated>2026-09-24T15:48:22Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Remote Job Posting · C#, SQL, Node.js, Git</summary>
-  </entry>
+  <updated>2026-09-24T19:50:58Z</updated>
   <entry>
     <id>urn:intern-engine:ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc</id>
     <title>Qumulo: Software Development Engineer (New Grad / Entry Level)</title>
@@ -21,6 +13,14 @@
     <updated>2026-09-24T15:48:22Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Seattle (hybrid) · $110k–$140k/yr · Python, Java, C++, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820</id>
+    <title>PPLSI: Associate IBMi Software Engineer</title>
+    <link href="https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820"/>
+    <updated>2026-09-24T15:48:22Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Remote Job Posting · C#, SQL, Node.js, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thoughtworksreferral:8225630</id>
@@ -37,14 +37,6 @@
     <updated>2026-09-24T11:02:05Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli · Python, JavaScript, SQL, LLMs, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Bangalore/AI-Intern_2603878</id>
-    <title>Marvell: AI Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2603878"/>
-    <updated>2026-09-24T11:02:05Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879</id>

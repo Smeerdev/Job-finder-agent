@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**33 open roles · 9 new this week · 5,270 companies tracked · updated Sep 24, 2026 at 15:48 UTC**
+**32 open roles · 8 new this week · 5,270 companies tracked · updated Sep 24, 2026 at 19:50 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,13 +13,12 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (33 open)
+## 2026 Graduates (International)  (32 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | PPLSI | Associate IBMi Software Engineer ~ 🆕 | Software | B.Tech/BS | Remote Job Posting | Sep 24, 2026 | [Apply](https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) |
 | RTX | Associate Business Intelligence Analyst(AI/ML,Generative AI & Python,1-3 years,Bangalore) ~ 🆕 | Data & ML/AI | B.Tech/BS | IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE +1 more | Sep 24, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Associate-Business-Intelligence-Analyst-AI-ML-Generative-AI---Python-1-3-years-Bangalore-_01876631) |
-| Marvell | AI Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore | Sep 24, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2603878) |
 | Marvell | Intern, Software Engineer ~ 🆕 | Software | B.Tech/BS | Hyderabad | Sep 24, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879) |
 | Thoughtworks | Software Procurement Intern 🆕 | Software | 0-1 Yr<br>B.Tech/BS | Gurgaon, India | Sep 23, 2026 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630) |
 | Lean TECHniques | Software Engineer Intern - Hybrid ~ 🆕 | Software | B.Tech/BS | Hybrid | Sep 22, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c) |
@@ -51,7 +50,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (30 of 33)._
+_~ = the title doesn't state a year; bucketed here from its posting date (29 of 32)._
 
 ## What this is
 
@@ -133,6 +132,7 @@ _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Marvell | AI Intern | 2026 Graduates | 2026-09-24 |
 | Epicor | Product Developer Associate-SDET, Automation | 2026 Graduates | 2026-09-24 |
 | Arista Networks | Junior AI-Assisted Automation Scripting Associate (Apprentice) | 2026 Graduates | 2026-09-24 |
 | DTCC | Platform Engineering Associate - Redis Administration | 2026 Graduates | 2026-09-23 |
@@ -172,7 +172,6 @@ _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Jefferies | Associate - C# (.net) Developer - Equity Technology | 2026 Graduates | 2026-09-14 |
 | GoTo Group | DevOps Intern (fixed term, 8 months) | 2026 Graduates | 2026-09-14 |
 | Blue Yonder | Associate Technical Consultant - Cloud - Devops,Kubernetes,Terraform,Scripting | 2026 Graduates | 2026-09-14 |
-| Honeywell | Intern Masters Data Science | 2026 Graduates | 2026-09-12 |
 
 </details>
 
@@ -191,7 +190,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,270 companies across 24 ATS platforms · 99% fetch success · completed in 413.7s · median detection latency 660 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,270 companies across 24 ATS platforms · 99% fetch success · completed in 453.8s · median detection latency 660 min · real posted dates on 87% of open roles._
 
 ## Platforms Scraped
 

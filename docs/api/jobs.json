@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-24T15:48:22Z",
+ "generated_at": "2026-09-24T19:50:58Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 33,
+ "count": 32,
  "jobs": [
   {
    "id": "workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820",
@@ -42,21 +42,6 @@
     "LLMs",
     "Git"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Bangalore/AI-Intern_2603878",
-   "company": "Marvell",
-   "title": "AI Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2603878",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "first_seen_at": "2026-09-24T11:02:05Z",
-   "salary": null,
-   "skills": [],
    "source": "workday"
   },
   {
