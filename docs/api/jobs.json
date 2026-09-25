@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T01:11:39Z",
+ "generated_at": "2026-09-25T07:04:14Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 32,
  "jobs": [
@@ -20,24 +20,6 @@
     "SQL",
     "Node.js",
     "Git"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "first_seen_at": "2026-09-24T11:02:05Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
    ],
    "source": "workday"
   },
@@ -73,6 +55,21 @@
    "salary": null,
    "skills": [],
    "source": "ashby"
+  },
+  {
+   "id": "workday:sprinklr:/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
+   "company": "Sprinklr",
+   "title": "ML Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "India - Haryana - Gurgaon",
+   "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
+   "posted_at": "2026-09-22T00:00:00Z",
+   "first_seen_at": "2026-09-22T15:26:36Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
   },
   {
    "id": "ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc",

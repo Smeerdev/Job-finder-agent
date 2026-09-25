@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**32 open roles · 7 new this week · 5,270 companies tracked · updated Sep 25, 2026 at 01:11 UTC**
+**32 open roles · 7 new this week · 5,270 companies tracked · updated Sep 25, 2026 at 07:04 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -18,9 +18,9 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | PPLSI | Associate IBMi Software Engineer ~ 🆕 | Software | B.Tech/BS | Remote Job Posting | Sep 24, 2026 | [Apply](https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) |
-| Marvell | Intern, Software Engineer ~ 🆕 | Software | B.Tech/BS | Hyderabad | Sep 24, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879) |
 | Thoughtworks | Software Procurement Intern 🆕 | Software | 0-1 Yr<br>B.Tech/BS | Gurgaon, India | Sep 23, 2026 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630) |
 | Lean TECHniques | Software Engineer Intern - Hybrid ~ 🆕 | Software | B.Tech/BS | Hybrid | Sep 22, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c) |
+| Sprinklr | ML Intern ~ | Data & ML/AI | B.Tech/BS | India - Haryana - Gurgaon | Sep 22, 2026 | [Apply](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB) |
 | Qumulo | Software Development Engineer (New Grad / Entry Level) ~ 🆕 | Software | $110k–$140k/yr<br>B.Tech/BS | Seattle (hybrid) | Sep 21, 2026 | [Apply](https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc) |
 | Altera Corporation | AI Automation Intern ~ | Data & ML/AI | — | Bengaluru, Karnataka, India | Sep 18, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117) |
 | Thoughtworks | Developer (Vapasi) - Intern ~ | Software | B.Tech/BS | Bangalore, India | Sep 17, 2026 | [Apply](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
@@ -132,6 +132,7 @@ _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Marvell | Intern, Software Engineer | 2026 Graduates | 2026-09-25 |
 | RTX | Associate Business Intelligence Analyst(AI/ML,Generative AI & Python,1-3 years,Bangalore) | 2026 Graduates | 2026-09-24 |
 | Marvell | AI Intern | 2026 Graduates | 2026-09-24 |
 | Epicor | Product Developer Associate-SDET, Automation | 2026 Graduates | 2026-09-24 |
@@ -140,7 +141,6 @@ _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | GE Aerospace | Data Science Intern | 2026 Graduates | 2026-09-23 |
 | Ixigo | Full-Stack Intern - B2B | 2026 Graduates | 2026-09-23 |
 | Philips | Intern – Data Science and AI Engineering | 2026 Graduates | 2026-09-22 |
-| Sprinklr | ML Intern | 2026 Graduates | 2026-09-22 |
 | MillerKnoll | Associate Web Analytics Engineer | 2026 Graduates | 2026-09-22 |
 | DTCC | Software Engineering Associate (Java) | 2026 Graduates | 2026-09-21 |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) | 2026 Graduates | 2026-09-21 |
@@ -190,7 +190,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,270 companies across 24 ATS platforms · 99% fetch success · completed in 294.6s · median detection latency 660 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,270 companies across 24 ATS platforms · 99% fetch success · completed in 256.8s · median detection latency 660 min · real posted dates on 87% of open roles._
 
 ## Platforms Scraped
 
