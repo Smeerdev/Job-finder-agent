@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-09-25T17:52:00Z",
+ "generated_at": "2026-09-25T21:06:49Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 33,
+ "count": 32,
  "jobs": [
+  {
+   "id": "oracle:jpmc.fa.oraclecloud.com:210794796",
+   "company": "JPMorganChase",
+   "title": "Data Analyst - Tableau, Power BI - Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210794796",
+   "posted_at": "2026-09-25",
+   "first_seen_at": "2026-09-25T17:52:00Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:dow:/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910",
    "company": "Dow Chemical Company",
@@ -25,25 +44,6 @@
     "Azure"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:jpmc.fa.oraclecloud.com:210794796",
-   "company": "JPMorganChase",
-   "title": "Data Analyst - Tableau, Power BI - Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Mumbai, Maharashtra, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210794796",
-   "posted_at": "2026-09-25",
-   "first_seen_at": "2026-09-25T17:52:00Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Tableau"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820",
@@ -97,21 +97,6 @@
    "salary": null,
    "skills": [],
    "source": "ashby"
-  },
-  {
-   "id": "workday:sprinklr:/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
-   "company": "Sprinklr",
-   "title": "ML Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "India - Haryana - Gurgaon",
-   "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
-   "posted_at": "2026-09-22T00:00:00Z",
-   "first_seen_at": "2026-09-22T15:26:36Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc",

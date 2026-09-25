@@ -5,15 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-25T17:52:00Z</updated>
-  <entry>
-    <id>urn:intern-engine:workday:dow:/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910</id>
-    <title>Dow Chemical Company: Associate Full-Stack Developer (.Net/Angular/Azure)</title>
-    <link href="https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910"/>
-    <updated>2026-09-25T17:52:00Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Navi Mumbai (IND) · C#, TypeScript, SQL, React, Angular</summary>
-  </entry>
+  <updated>2026-09-25T21:06:49Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210794796</id>
     <title>JPMorganChase: Data Analyst - Tableau, Power BI - Associate</title>
@@ -21,6 +13,14 @@
     <updated>2026-09-25T17:52:00Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Mumbai, Maharashtra, India · Python, SQL, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dow:/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910</id>
+    <title>Dow Chemical Company: Associate Full-Stack Developer (.Net/Angular/Azure)</title>
+    <link href="https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910"/>
+    <updated>2026-09-25T17:52:00Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Navi Mumbai (IND) · C#, TypeScript, SQL, React, Angular</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc</id>
@@ -61,14 +61,6 @@
     <updated>2026-09-23T18:16:07Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sprinklr:/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB</id>
-    <title>Sprinklr: ML Intern</title>
-    <link href="https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB"/>
-    <updated>2026-09-22T15:26:36Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · India - Haryana - Gurgaon</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117</id>
