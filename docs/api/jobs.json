@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-09-25T12:47:56Z",
+ "generated_at": "2026-09-25T17:52:00Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 32,
+ "count": 33,
  "jobs": [
+  {
+   "id": "workday:dow:/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910",
+   "company": "Dow Chemical Company",
+   "title": "Associate Full-Stack Developer (.Net/Angular/Azure)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Navi Mumbai (IND)",
+   "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910",
+   "posted_at": "2026-09-25T00:00:00Z",
+   "first_seen_at": "2026-09-25T17:52:00Z",
+   "salary": null,
+   "skills": [
+    "C#",
+    "TypeScript",
+    "SQL",
+    "React",
+    "Angular",
+    ".NET",
+    "Azure"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "oracle:jpmc.fa.oraclecloud.com:210794796",
+   "company": "JPMorganChase",
+   "title": "Data Analyst - Tableau, Power BI - Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210794796",
+   "posted_at": "2026-09-25",
+   "first_seen_at": "2026-09-25T17:52:00Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820",
    "company": "PPLSI",
@@ -170,23 +212,6 @@
     "Python",
     "LLMs",
     "AWS"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:clearwateranalytics:/job/Office---Mumbai/Software-Development-Intern_R12191",
-   "company": "CWAN",
-   "title": "Software Development Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Office - Mumbai",
-   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191",
-   "posted_at": "2026-09-15T00:00:00Z",
-   "first_seen_at": "2026-09-15T19:31:20Z",
-   "salary": null,
-   "skills": [
-    "Java"
    ],
    "source": "workday"
   },

@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-25T12:47:56Z</updated>
+  <updated>2026-09-25T17:52:00Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:dow:/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910</id>
+    <title>Dow Chemical Company: Associate Full-Stack Developer (.Net/Angular/Azure)</title>
+    <link href="https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910"/>
+    <updated>2026-09-25T17:52:00Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Navi Mumbai (IND) · C#, TypeScript, SQL, React, Angular</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210794796</id>
+    <title>JPMorganChase: Data Analyst - Tableau, Power BI - Associate</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210794796"/>
+    <updated>2026-09-25T17:52:00Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Mumbai, Maharashtra, India · Python, SQL, Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc</id>
     <title>Qumulo: Software Development Engineer (New Grad / Entry Level)</title>
@@ -93,14 +109,6 @@
     <updated>2026-09-16T22:38:36Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---Mumbai/Software-Development-Intern_R12191</id>
-    <title>CWAN: Software Development Intern</title>
-    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191"/>
-    <updated>2026-09-15T19:31:20Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Office - Mumbai · Java</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:instahyre:aitainment:442949</id>
