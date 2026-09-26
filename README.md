@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**31 open roles · 7 new this week · 5,281 companies tracked · updated Sep 26, 2026 at 09:07 UTC**
+**31 open roles · 7 new this week · 5,289 companies tracked · updated Sep 26, 2026 at 13:47 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -20,7 +20,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) 🆕 | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Sep 25, 2026 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0) |
 | Dow Chemical Company | Associate Full-Stack Developer (.Net/Angular/Azure) ~ 🆕 | Software | B.Tech/BS | Navi Mumbai (IND) | Sep 25, 2026 | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910) |
 | PPLSI | Associate IBMi Software Engineer ~ 🆕 | Software | B.Tech/BS | Remote Job Posting | Sep 24, 2026 | [Apply](https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) |
-| Thoughtworks | Software Procurement Intern 🆕 | Software | 0-1 Yr<br>B.Tech/BS | Gurgaon, India | Sep 23, 2026 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630) |
+| Thoughtworks | Software Procurement Intern | Software | 0-1 Yr<br>B.Tech/BS | Gurgaon, India | Sep 23, 2026 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630) |
 | Lean TECHniques | Software Engineer Intern - Hybrid ~ | Software | B.Tech/BS | Hybrid | Sep 22, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c) |
 | Qumulo | Software Development Engineer (New Grad / Entry Level) ~ 🆕 | Software | $110k–$140k/yr<br>B.Tech/BS | Seattle (hybrid) | Sep 21, 2026 | [Apply](https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc) |
 | Altera Corporation | AI Automation Intern ~ | Data & ML/AI | — | Bengaluru, Karnataka, India | Sep 18, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117) |
@@ -189,7 +189,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,281 companies across 24 ATS platforms · 99% fetch success · completed in 452.2s · median detection latency 662 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,289 companies across 24 ATS platforms · 99% fetch success · completed in 344.5s · median detection latency 662 min · real posted dates on 87% of open roles._
 
 ## Platforms Scraped
 
