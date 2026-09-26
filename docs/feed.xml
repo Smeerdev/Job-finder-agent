@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-26T00:00:57Z</updated>
+  <updated>2026-09-26T03:09:02Z</updated>
   <entry>
     <id>urn:intern-engine:ashby:quora:cf34f80e-fe5c-454d-bc9a-4c59993ffda0</id>
     <title>Quora: Software Engineer New Grad, Machine Learning Platform - Quora (Remote)</title>
@@ -13,14 +13,6 @@
     <updated>2026-09-26T00:00:57Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote - Multiple Locations · Python, C++, PyTorch, TensorFlow, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210794796</id>
-    <title>JPMorganChase: Data Analyst - Tableau, Power BI - Associate</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210794796"/>
-    <updated>2026-09-25T17:52:00Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Mumbai, Maharashtra, India · Python, SQL, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dow:/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910</id>

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-26T00:00:57Z",
+ "generated_at": "2026-09-26T03:09:02Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 32,
+ "count": 31,
  "jobs": [
   {
    "id": "ashby:quora:cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
@@ -26,25 +26,6 @@
     "Docker"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "oracle:jpmc.fa.oraclecloud.com:210794796",
-   "company": "JPMorganChase",
-   "title": "Data Analyst - Tableau, Power BI - Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Mumbai, Maharashtra, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210794796",
-   "posted_at": "2026-09-25",
-   "first_seen_at": "2026-09-25T17:52:00Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Tableau"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:dow:/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910",

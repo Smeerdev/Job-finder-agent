@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**32 open roles · 8 new this week · 5,281 companies tracked · updated Sep 26, 2026 at 00:00 UTC**
+**31 open roles · 7 new this week · 5,281 companies tracked · updated Sep 26, 2026 at 03:09 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,12 +13,11 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (32 open)
+## 2026 Graduates (International)  (31 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) 🆕 | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Sep 25, 2026 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0) |
-| JPMorganChase | Data Analyst - Tableau, Power BI - Associate ~ 🆕 | Data & ML/AI | — | Mumbai, Maharashtra, India | Sep 25, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210794796) |
 | Dow Chemical Company | Associate Full-Stack Developer (.Net/Angular/Azure) ~ 🆕 | Software | B.Tech/BS | Navi Mumbai (IND) | Sep 25, 2026 | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910) |
 | PPLSI | Associate IBMi Software Engineer ~ 🆕 | Software | B.Tech/BS | Remote Job Posting | Sep 24, 2026 | [Apply](https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) |
 | Thoughtworks | Software Procurement Intern 🆕 | Software | 0-1 Yr<br>B.Tech/BS | Gurgaon, India | Sep 23, 2026 | [Apply](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630) |
@@ -50,7 +49,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (28 of 32)._
+_~ = the title doesn't state a year; bucketed here from its posting date (27 of 31)._
 
 ## What this is
 
@@ -132,6 +131,7 @@ _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| JPMorganChase | Data Analyst - Tableau, Power BI - Associate | 2026 Graduates | 2026-09-26 |
 | Realm | Software Engineer - Intern | 2026 Graduates | 2026-09-26 |
 | Sprinklr | ML Intern | 2026 Graduates | 2026-09-25 |
 | CWAN | Software Development Intern | 2026 Graduates | 2026-09-25 |
@@ -171,7 +171,6 @@ _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Abacus Insights | Associate Site Reliability and Forward Deployed Engineer | 2026 Graduates | 2026-09-15 |
 | Novartis | Intern Data Science | 2026 Graduates | 2026-09-14 |
 | Celonis | Associate (AI) Solution Consultant | 2026 Graduates | 2026-09-14 |
-| Rackner | Associate Data Engineer | 2026 Graduates | 2026-09-14 |
 
 </details>
 
@@ -190,7 +189,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,281 companies across 24 ATS platforms · 98% fetch success · completed in 404.8s · median detection latency 662 min · real posted dates on 87% of open roles._
+_Engine (last run): 5,281 companies across 24 ATS platforms · 94% fetch success · completed in 385.2s · median detection latency 662 min · real posted dates on 87% of open roles._
 
 ## Platforms Scraped
 
