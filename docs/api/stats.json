@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-25T21:06:48Z",
- "duration_seconds": 446.1,
+ "generated_at": "2026-09-26T00:00:57Z",
+ "duration_seconds": 404.8,
  "companies_total": 5281,
  "companies_by_source": {
   "greenhouse": 1120,
@@ -28,21 +28,19 @@
   "unstop": 5,
   "wellfound": 1
  },
- "quarantined": 367,
- "fetched_ok": 4867,
- "fetch_errors": 47,
+ "quarantined": 387,
+ "fetched_ok": 4838,
+ "fetch_errors": 56,
  "errors_by_source": {
-  "rippling": 4,
-  "workday": 24,
-  "greenhouse": 1,
-  "workable": 17,
-  "lever": 1
+  "workday": 52,
+  "ashby": 3,
+  "workable": 1
  },
- "fetch_success_rate": 0.99,
+ "fetch_success_rate": 0.989,
  "roles_matched": 27,
- "roles_cycle_inferred": 24,
- "dropped_no_year_in_title": 512,
- "dropped_offcycle_by_text": 663,
+ "roles_cycle_inferred": 23,
+ "dropped_no_year_in_title": 516,
+ "dropped_offcycle_by_text": 664,
  "roles_by_source": {
   "workday": 13,
   "lever": 1,
@@ -59,18 +57,18 @@
   "India": 14
  },
  "posted_date_coverage": 0.875,
- "enriched_this_run": 0,
+ "enriched_this_run": 1,
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
- "new_this_run": 0,
+ "new_this_run": 1,
  "open_total": 32,
  "detection_latency": {
   "median_minutes": 662.1,
-  "sample_size": 110,
+  "sample_size": 111,
   "window_days": 7
  },
  "posting_lifetime": {
-  "median_days": 4,
-  "sample_size": 97
+  "median_days": 4.0,
+  "sample_size": 98
  }
 }
