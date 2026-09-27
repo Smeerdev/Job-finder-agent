@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-26T23:24:11Z",
+ "generated_at": "2026-09-27T03:12:43Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 31,
+ "count": 30,
  "jobs": [
   {
    "id": "ashby:quora:cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
@@ -385,23 +385,6 @@
    "location": "Palo Alto - Hybrid",
    "url": "https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789",
    "posted_at": "2026-08-28T20:24:42.517+00:00",
-   "first_seen_at": "2026-09-03T16:55:54Z",
-   "salary": "$40/hr",
-   "skills": [
-    "LLMs"
-   ],
-   "source": "ashby"
-  },
-  {
-   "id": "ashby:qualified-health-pbc:4964d004-a597-4013-aea7-8dece8035f10",
-   "company": "Qualified Health",
-   "title": "Medical Scribe Intern, Clinical AI Safety & Evaluation",
-   "season": "2026 Graduates",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Palo Alto - Hybrid",
-   "url": "https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10",
-   "posted_at": "2026-08-27T22:56:48.929+00:00",
    "first_seen_at": "2026-09-03T16:55:54Z",
    "salary": "$40/hr",
    "skills": [
