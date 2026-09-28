@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-27T21:55:37Z",
+ "generated_at": "2026-09-28T00:21:30Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 30,
+ "count": 29,
  "jobs": [
   {
    "id": "ashby:quora:cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
@@ -374,23 +374,6 @@
     "Kafka"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "ashby:qualified-health-pbc:6cae1651-ea0d-4779-bf8c-778be1ac8789",
-   "company": "Qualified Health",
-   "title": "Clinical AI Evaluation Intern",
-   "season": "2026 Graduates",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Palo Alto - Hybrid",
-   "url": "https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789",
-   "posted_at": "2026-08-28T20:24:42.517+00:00",
-   "first_seen_at": "2026-09-03T16:55:54Z",
-   "salary": "$40/hr",
-   "skills": [
-    "LLMs"
-   ],
-   "source": "ashby"
   },
   {
    "id": "workday:cigna:/job/Hyderabad-India/Machine-Learning-Associate-Advisor--HIH-Evernorth_26006299",

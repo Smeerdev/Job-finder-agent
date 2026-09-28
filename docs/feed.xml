@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-27T21:55:37Z</updated>
+  <updated>2026-09-28T00:21:30Z</updated>
   <entry>
     <id>urn:intern-engine:ashby:quora:cf34f80e-fe5c-454d-bc9a-4c59993ffda0</id>
     <title>Quora: Software Engineer New Grad, Machine Learning Platform - Quora (Remote)</title>
@@ -157,14 +157,6 @@
     <updated>2026-09-03T19:41:28Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, SQL, PyTorch, TensorFlow, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:qualified-health-pbc:6cae1651-ea0d-4779-bf8c-778be1ac8789</id>
-    <title>Qualified Health: Clinical AI Evaluation Intern</title>
-    <link href="https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789"/>
-    <updated>2026-09-03T16:55:54Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Palo Alto - Hybrid · $40/hr · LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:relay:5a6ed15f-e610-4d09-9fd7-f18cd639c4e7</id>
