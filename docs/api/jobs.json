@@ -1,30 +1,21 @@
 {
- "generated_at": "2026-09-29T07:52:40Z",
+ "generated_at": "2026-09-29T14:39:26Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 33,
  "jobs": [
   {
-   "id": "workday:ciena:/job/Pune/SVT-PV-Engineering-Software-Applications---Intern_R031711",
-   "company": "Ciena",
-   "title": "SVT/PV Engineering Software Applications - Intern",
+   "id": "workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163",
+   "company": "PTC",
+   "title": "Associate Software Analyst",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Software",
-   "location": "Pune",
-   "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Pune/SVT-PV-Engineering-Software-Applications---Intern_R031711",
+   "location": "Pune, India",
+   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163",
    "posted_at": "2026-09-29T00:00:00Z",
-   "first_seen_at": "2026-09-29T07:52:40Z",
+   "first_seen_at": "2026-09-29T14:39:26Z",
    "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "TypeScript",
-    "JavaScript",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Kubernetes"
-   ],
+   "skills": [],
    "source": "workday"
   },
   {
