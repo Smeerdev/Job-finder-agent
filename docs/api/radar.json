@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T21:08:13Z",
+ "generated_at": "2026-09-29T01:30:34Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -12,7 +12,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -59,
+   "days_until": -60,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
    "note": ""
@@ -26,7 +26,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-09-23",
-   "days_until": -5,
+   "days_until": -6,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630",
    "note": ""
@@ -628,7 +628,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-10",
-   "days_until": -49,
+   "days_until": -50,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -642,7 +642,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-27",
-   "days_until": -32,
+   "days_until": -33,
    "status": "dropped",
    "url": "",
    "note": ""
