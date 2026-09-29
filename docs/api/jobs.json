@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-29T14:39:26Z",
+ "generated_at": "2026-09-29T19:49:59Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 33,
+ "count": 32,
  "jobs": [
   {
    "id": "workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163",
@@ -41,23 +41,6 @@
     "Azure"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214632",
-   "company": "DTCC",
-   "title": "Data Science Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214632",
-   "posted_at": "2026-09-28",
-   "first_seen_at": "2026-09-28T14:59:03Z",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:geaerospace:/job/Bengaluru/Data-Science--Intern_R5040692-1",
