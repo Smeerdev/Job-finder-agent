@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-09-29T01:30:34Z",
+ "generated_at": "2026-09-29T07:52:40Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 31,
+ "count": 33,
  "jobs": [
+  {
+   "id": "workday:ciena:/job/Pune/SVT-PV-Engineering-Software-Applications---Intern_R031711",
+   "company": "Ciena",
+   "title": "SVT/PV Engineering Software Applications - Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune",
+   "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Pune/SVT-PV-Engineering-Software-Applications---Intern_R031711",
+   "posted_at": "2026-09-29T00:00:00Z",
+   "first_seen_at": "2026-09-29T07:52:40Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "TypeScript",
+    "JavaScript",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Kubernetes"
+   ],
+   "source": "workday"
+  },
   {
    "id": "greenhouse:coherehealth:7728230003",
    "company": "Cohere Health",
@@ -304,6 +328,26 @@
     "Tableau"
    ],
    "source": "workday"
+  },
+  {
+   "id": "greenhouse:rubrik:8166523",
+   "company": "Rubrik",
+   "title": "Software Engineer - Winter Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+   "posted_at": "2026-09-06T08:42:59-04:00",
+   "first_seen_at": "2026-09-06T14:00:17Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "Scala"
+   ],
+   "source": "greenhouse"
   },
   {
    "id": "greenhouse:rubrik:8166537",
