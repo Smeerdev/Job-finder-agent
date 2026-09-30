@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-30T03:39:58Z",
+ "generated_at": "2026-09-30T10:18:51Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 32,
+ "count": 31,
  "jobs": [
   {
    "id": "workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163",
@@ -453,21 +453,6 @@
     "LLMs",
     "Node.js"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
-   "company": "Oaktree Capital Management",
-   "title": "Associate, Workday Financial Developer (L3)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
-   "posted_at": "2026-08-04T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [],
    "source": "workday"
   },
   {
