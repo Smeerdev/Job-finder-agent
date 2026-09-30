@@ -1,8 +1,40 @@
 {
- "generated_at": "2026-09-30T10:18:51Z",
+ "generated_at": "2026-09-30T16:52:47Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 31,
+ "count": 34,
  "jobs": [
+  {
+   "id": "workday:marvell:/job/Bangalore/AI-Intern_2604445",
+   "company": "Marvell",
+   "title": "AI Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445",
+   "posted_at": "2026-09-30T00:00:00Z",
+   "first_seen_at": "2026-09-30T16:52:47Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
+   "company": "Marvell",
+   "title": "Intern, Software QA Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
+   "posted_at": "2026-09-30T00:00:00Z",
+   "first_seen_at": "2026-09-30T16:52:47Z",
+   "salary": null,
+   "skills": [
+    "Python"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163",
    "company": "PTC",
@@ -124,6 +156,24 @@
     "SQL",
     "Node.js",
     "Git"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
+   "posted_at": "2026-09-24T00:00:00Z",
+   "first_seen_at": "2026-09-24T11:02:05Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Linux"
    ],
    "source": "workday"
   },

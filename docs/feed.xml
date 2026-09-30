@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-09-30T10:18:51Z</updated>
+  <updated>2026-09-30T16:52:47Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Bangalore/AI-Intern_2604445</id>
+    <title>Marvell: AI Intern</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445"/>
+    <updated>2026-09-30T16:52:47Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer_2604247</id>
+    <title>Marvell: Intern, Software QA Engineer</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247"/>
+    <updated>2026-09-30T16:52:47Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad · Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163</id>
     <title>PTC: Associate Software Analyst</title>
@@ -77,6 +93,14 @@
     <updated>2026-09-24T11:02:05Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Gurgaon, India · Vue, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879</id>
+    <title>Marvell: Intern, Software Engineer</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879"/>
+    <updated>2026-09-24T11:02:05Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad · Python, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c</id>
