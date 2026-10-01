@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T08:14:08Z",
+ "generated_at": "2026-10-01T16:03:38Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -15,20 +15,6 @@
    "days_until": -62,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
-   "note": ""
-  },
-  {
-   "company": "Thoughtworks",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-23",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-23",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630",
    "note": ""
   },
   {
@@ -643,6 +629,20 @@
    "source": "engine",
    "expected": "2026-08-27",
    "days_until": -35,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Thoughtworks",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-23",
+   "days_until": -8,
    "status": "dropped",
    "url": "",
    "note": ""
