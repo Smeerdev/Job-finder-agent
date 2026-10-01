@@ -5002,6 +5002,11 @@
     "ats": "lever"
   },
   {
+    "name": "Capstone Investment Advisors",
+    "slug": "capstoneinvestmentadvisors",
+    "ats": "greenhouse"
+  },
+  {
     "name": "CapTech Consulting",
     "slug": "CapTechConsulting",
     "ats": "smartrecruiters"
@@ -20195,6 +20200,11 @@
     "site": "PMS_Careers"
   },
   {
+    "name": "Patch My PC",
+    "slug": "patchmypc",
+    "ats": "lever"
+  },
+  {
     "name": "Path Robotics",
     "slug": "pathrobotics",
     "ats": "greenhouse"
@@ -26763,6 +26773,11 @@
     "site": "Careers"
   },
   {
+    "name": "Torus",
+    "slug": "torus",
+    "ats": "rippling"
+  },
+  {
     "name": "Toshiba Global Commerce",
     "slug": "toshibaglobalcommercesolutions",
     "ats": "greenhouse"
@@ -28989,6 +29004,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "welocalize"
+  },
+  {
+    "name": "WEP Clinical",
+    "slug": "wepclinical",
+    "ats": "lever"
   },
   {
     "name": "WeRide",
