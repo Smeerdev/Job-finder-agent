@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T13:36:15Z",
+ "generated_at": "2026-10-02T19:00:40Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 32,
+ "count": 33,
  "jobs": [
   {
    "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244",
@@ -535,6 +535,21 @@
    "salary": null,
    "skills": [],
    "source": "workday"
+  },
+  {
+   "id": "instahyre:pradrix:445445",
+   "company": "Pradrix",
+   "title": "AI / ML Engineer - Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Work From Home",
+   "url": "https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/",
+   "posted_at": null,
+   "first_seen_at": "2026-10-02T19:00:40Z",
+   "salary": null,
+   "skills": [],
+   "source": "instahyre"
   },
   {
    "id": "instahyre:zetwerk:444501",

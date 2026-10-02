@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-02T13:36:15Z</updated>
+  <updated>2026-10-02T19:00:40Z</updated>
+  <entry>
+    <id>urn:intern-engine:instahyre:pradrix:445445</id>
+    <title>Pradrix: AI / ML Engineer - Intern</title>
+    <link href="https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/"/>
+    <updated>2026-10-02T19:00:40Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Work From Home</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244</id>
     <title>Marvell: Intern, Software QA Engineer</title>
