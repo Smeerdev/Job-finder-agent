@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-01T20:51:24Z",
+ "generated_at": "2026-10-02T00:34:18Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 34,
+ "count": 33,
  "jobs": [
   {
    "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244",
@@ -460,28 +460,6 @@
     "GCP"
    ],
    "source": "workable"
-  },
-  {
-   "id": "greenhouse:synack:8165010",
-   "company": "Synack",
-   "title": "Graduate Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote in the UK",
-   "url": "https://job-boards.greenhouse.io/synack/jobs/8165010",
-   "posted_at": "2026-09-01T13:20:32-04:00",
-   "first_seen_at": "2026-09-02T14:58:20Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs",
-    "GCP",
-    "Kubernetes",
-    "Docker",
-    "Kafka"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",

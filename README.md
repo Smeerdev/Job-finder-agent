@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**34 open roles · 8 new this week · 5,307 companies tracked · updated Oct 01, 2026 at 20:51 UTC**
+**33 open roles · 8 new this week · 5,307 companies tracked · updated Oct 02, 2026 at 00:34 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (34 open)
+## 2026 Graduates (International)  (33 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -40,7 +40,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Ancestry | AI Discovery Co-Op - Agentic Personalization ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 03, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | Relay Technologies | Graduate Software Engineer ~ | Software | B.Tech/BS | London - Hybrid | Sep 03, 2026 | [Apply](https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7) |
 | TWG Global | AI Data Science Intern (UK) ~ | Data & ML/AI | B.Tech/BS | London, England, United Kingdom (Remote) | Sep 01, 2026 | [Apply](https://apply.workable.com/twgai/j/1206BF981C/) |
-| Synack | Graduate Software Engineer ~ | Software | B.Tech/BS | Remote in the UK | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/synack/jobs/8165010) |
 | Ancestry | Machine Learning Engineer, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Aug 11, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
 | Priceline | Associate Software Engineer ~ | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Jul 10, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715) |
@@ -52,7 +51,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (33 of 34)._
+_~ = the title doesn't state a year; bucketed here from its posting date (32 of 33)._
 
 ## What this is
 
@@ -130,10 +129,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **4** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 32 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 31 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Synack | Graduate Software Engineer | 2026 Graduates | 2026-10-02 |
 | Thoughtworks | Software Procurement Intern | 2026 Graduates | 2026-10-01 |
 | Marvell | Intern, Software QA Engineer | 2026 Graduates | 2026-10-01 |
 | Oaktree Capital Management | Associate, Workday Financial Developer (L3) | 2026 Graduates | 2026-09-30 |
@@ -164,8 +164,6 @@ _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Marvell | Intern, Software Engineer | 2026 Graduates | 2026-09-18 |
 | Marvell | Solutions Research Intern — Physical AI | 2026 Graduates | 2026-09-18 |
 | Oaktree Capital Management | Associate, Workday Integrations Developer | 2026 Graduates | 2026-09-18 |
-| Marvell | Generative AI Forward Deployed Engineer Intern-Enterprise Applications | 2026 Graduates | 2026-09-17 |
-| Merck | Associate Specialist, Data Science | 2026 Graduates | 2026-09-17 |
 
 </details>
 
@@ -184,7 +182,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,307 companies across 24 ATS platforms · 99% fetch success · completed in 410.4s · median detection latency 662 min · real posted dates on 85% of open roles._
+_Engine (last run): 5,307 companies across 24 ATS platforms · 96% fetch success · completed in 495.1s · median detection latency 662 min · real posted dates on 84% of open roles._
 
 ## Platforms Scraped
 

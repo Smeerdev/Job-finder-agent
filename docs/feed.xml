@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-01T20:51:24Z</updated>
+  <updated>2026-10-02T00:34:18Z</updated>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244</id>
     <title>Marvell: Intern, Software QA Engineer</title>
@@ -221,14 +221,6 @@
     <updated>2026-09-03T12:35:00Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · London - Hybrid · Python, Rust, TypeScript, LLMs, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:synack:8165010</id>
-    <title>Synack: Graduate Software Engineer</title>
-    <link href="https://job-boards.greenhouse.io/synack/jobs/8165010"/>
-    <updated>2026-09-02T14:58:20Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Remote in the UK · Python, LLMs, GCP, Kubernetes, Docker</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:instahyre:pagarbook:439220</id>
