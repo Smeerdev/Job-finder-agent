@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T06:41:09Z",
+ "generated_at": "2026-10-02T13:36:15Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 33,
+ "count": 32,
  "jobs": [
   {
    "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244",
@@ -33,6 +33,23 @@
    "first_seen_at": "2026-09-30T16:52:47Z",
    "salary": null,
    "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
+   "company": "Marvell",
+   "title": "Software QA Automation Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
+   "posted_at": "2026-09-30T00:00:00Z",
+   "first_seen_at": "2026-09-30T16:52:47Z",
+   "salary": null,
+   "skills": [
+    "Python"
+   ],
    "source": "workday"
   },
   {
@@ -156,24 +173,6 @@
     "SQL",
     "Node.js",
     "Git"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "first_seen_at": "2026-09-24T11:02:05Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
    ],
    "source": "workday"
   },
@@ -415,27 +414,6 @@
     "AWS"
    ],
    "source": "workday"
-  },
-  {
-   "id": "ashby:relay:5a6ed15f-e610-4d09-9fd7-f18cd639c4e7",
-   "company": "Relay Technologies",
-   "title": "Graduate Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "London - Hybrid",
-   "url": "https://jobs.ashbyhq.com/relay/5a6ed15f-e610-4d09-9fd7-f18cd639c4e7",
-   "posted_at": "2026-09-03T09:47:01.856+00:00",
-   "first_seen_at": "2026-09-03T12:35:00Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Rust",
-    "TypeScript",
-    "LLMs",
-    "GCP"
-   ],
-   "source": "ashby"
   },
   {
    "id": "workable:twgai:1206BF981C",
