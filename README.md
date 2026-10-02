@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**33 open roles · 9 new this week · 5,320 companies tracked · updated Oct 02, 2026 at 19:00 UTC**
+**33 open roles · 9 new this week · 5,320 companies tracked · updated Oct 02, 2026 at 22:53 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -129,7 +129,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **4** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 29 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 27 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -160,8 +160,6 @@ _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | DTCC | Software Development Engineering in Test Associate | 2026 Graduates | 2026-09-21 |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) | 2026 Graduates | 2026-09-20 |
 | Tower Research Capital | Intern - AI/ML | 2026 Graduates | 2026-09-20 |
-| Acxiom | Intern - Data Engineer | 2026 Graduates | 2026-09-18 |
-| Alegeus | Associate Software Engineer - AI | 2026 Graduates | 2026-09-18 |
 
 </details>
 
@@ -180,7 +178,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,320 companies across 24 ATS platforms · 99% fetch success · completed in 431.8s · median detection latency 662 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,320 companies across 24 ATS platforms · 98% fetch success · completed in 447.2s · median detection latency 662 min · real posted dates on 81% of open roles._
 
 ## Platforms Scraped
 
