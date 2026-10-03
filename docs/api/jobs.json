@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-03T01:46:29Z",
+ "generated_at": "2026-10-03T07:31:51Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 33,
+ "count": 34,
  "jobs": [
   {
    "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244",
@@ -461,6 +461,25 @@
     "Node.js"
    ],
    "source": "workday"
+  },
+  {
+   "id": "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:145146",
+   "company": "Zensar",
+   "title": "ESaaS - MSD -Technical- D365 CE Developer Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146",
+   "posted_at": "2026-07-25",
+   "first_seen_at": "2026-08-17T11:25:31Z",
+   "salary": null,
+   "skills": [
+    "JavaScript",
+    "SQL",
+    "Azure"
+   ],
+   "source": "oracle"
   },
   {
    "id": "workday:reliaquest:/job/Pune-India-Office/Associate-Software-Engineer_R15032",
