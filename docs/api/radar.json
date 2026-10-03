@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T22:53:10Z",
+ "generated_at": "2026-10-03T01:46:29Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -12,7 +12,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -63,
+   "days_until": -64,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
    "note": ""
@@ -614,7 +614,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-10",
-   "days_until": -53,
+   "days_until": -54,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -628,7 +628,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-27",
-   "days_until": -36,
+   "days_until": -37,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -642,7 +642,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-09-23",
-   "days_until": -9,
+   "days_until": -10,
    "status": "dropped",
    "url": "",
    "note": ""
