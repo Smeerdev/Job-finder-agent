@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-03T07:31:51Z",
+ "generated_at": "2026-10-03T13:08:17Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 34,
+ "count": 35,
  "jobs": [
   {
    "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244",
@@ -554,6 +554,21 @@
    "salary": null,
    "skills": [],
    "source": "workday"
+  },
+  {
+   "id": "instahyre:algouniversity:444755",
+   "company": "AlgoUniversity",
+   "title": "Teaching & Software Engineering Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://www.instahyre.com/job-444755-teaching-software-engineering-intern-internship-at-algouniversity-2-bangalore/",
+   "posted_at": null,
+   "first_seen_at": "2026-10-03T13:08:17Z",
+   "salary": null,
+   "skills": [],
+   "source": "instahyre"
   },
   {
    "id": "instahyre:pradrix:445445",
