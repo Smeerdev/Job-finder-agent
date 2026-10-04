@@ -1,25 +1,8 @@
 {
- "generated_at": "2026-10-04T15:11:14Z",
+ "generated_at": "2026-10-04T19:03:48Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 35,
+ "count": 34,
  "jobs": [
-  {
-   "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244",
-   "company": "Marvell",
-   "title": "Intern, Software QA Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer_2604244",
-   "posted_at": "2026-10-01T00:00:00Z",
-   "first_seen_at": "2026-10-01T16:03:38Z",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "workday"
-  },
   {
    "id": "workday:marvell:/job/Bangalore/AI-Intern_2604445",
    "company": "Marvell",

@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**35 open roles · 9 new this week · 5,345 companies tracked · updated Oct 04, 2026 at 15:11 UTC**
+**34 open roles · 8 new this week · 5,345 companies tracked · updated Oct 04, 2026 at 19:03 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,11 +13,10 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (35 open)
+## 2026 Graduates (International)  (34 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Marvell | Intern, Software QA Engineer ~ | Software | B.Tech/BS | Bangalore | Oct 01, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer_2604244) |
 | Marvell | AI Intern ~ | Data & ML/AI | B.Tech/BS | Bangalore | Sep 30, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445) |
 | Marvell | Software QA Automation Intern ~ | Software | B.Tech/BS | Hyderabad | Sep 30, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247) |
 | PTC | Associate Software Analyst ~ | Software | B.Tech/BS | Pune, India | Sep 29, 2026 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163) |
@@ -46,14 +45,14 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Oaktree Capital Management | Associate - Workday reporting developer ~ | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
 | Valeo | Intern - AI ~ | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | AlgoUniversity | Teaching & Software Engineering Intern ~ 🆕 | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-444755-teaching-software-engineering-intern-internship-at-algouniversity-2-bangalore/) |
-| Pradrix | AI / ML Engineer - Intern ~ 🆕 | Data & ML/AI | — | Work From Home | — | [Apply](https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/) |
+| Pradrix | AI / ML Engineer - Intern ~ | Data & ML/AI | — | Work From Home | — | [Apply](https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/) |
 | Zetwerk | DevOps Engineer - Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-444501-devops-engineer-intern-internship-at-zetwerk-bangalore/) |
 | Gameberry Labs | Gen AI Designer - Intern ~ | Data & ML/AI | — | Bangalore | — | [Apply](https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/) |
 | Aitainment | Data Analyst - Intern ~ | Data & ML/AI | — | Bangalore | — | [Apply](https://www.instahyre.com/job-442949-data-analyst-intern-internship-at-aitainment-bangalore/) |
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (34 of 35)._
+_~ = the title doesn't state a year; bucketed here from its posting date (33 of 34)._
 
 ## What this is
 
@@ -135,6 +134,7 @@ _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Marvell | Intern, Software QA Engineer | 2026 Graduates | 2026-10-04 |
 | Relay Technologies | Graduate Software Engineer | 2026 Graduates | 2026-10-02 |
 | Marvell | Intern, Software Engineer | 2026 Graduates | 2026-10-02 |
 | Synack | Graduate Software Engineer | 2026 Graduates | 2026-10-02 |
@@ -160,7 +160,6 @@ _46 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | DTCC | Software Engineering Associate (Java) | 2026 Graduates | 2026-09-21 |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) | 2026 Graduates | 2026-09-21 |
 | DTCC | Software Development Engineering in Test Associate | 2026 Graduates | 2026-09-21 |
-| Twilio | Software Engineer Intern (January 12th start, 23 weeks) | 2026 Graduates | 2026-09-20 |
 
 </details>
 
@@ -179,7 +178,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,345 companies across 24 ATS platforms · 99% fetch success · completed in 328.6s · median detection latency 662 min · real posted dates on 80% of open roles._
+_Engine (last run): 5,345 companies across 24 ATS platforms · 98% fetch success · completed in 412.2s · median detection latency 662 min · real posted dates on 79% of open roles._
 
 ## Platforms Scraped
 
