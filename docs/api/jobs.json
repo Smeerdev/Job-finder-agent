@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T01:37:06Z",
+ "generated_at": "2026-10-05T08:14:21Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 34,
  "jobs": [
@@ -49,6 +49,24 @@
    "salary": null,
    "skills": [],
    "source": "workday"
+  },
+  {
+   "id": "greenhouse:thoughtworks:8236673",
+   "company": "Thoughtworks",
+   "title": "Software Procurement Intern",
+   "season": "2026 Graduates",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Gurgaon, India; Pune, India",
+   "url": "https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673",
+   "posted_at": "2026-09-28T07:40:19-04:00",
+   "first_seen_at": "2026-10-05T08:14:21Z",
+   "salary": null,
+   "skills": [
+    "Vue",
+    "AWS"
+   ],
+   "source": "greenhouse"
   },
   {
    "id": "greenhouse:coherehealth:7728230003",
@@ -173,25 +191,6 @@
    "salary": null,
    "skills": [],
    "source": "ashby"
-  },
-  {
-   "id": "workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
-   "company": "Epicor",
-   "title": "Product Developer Associate-SDET, Automation",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India, Bangalore",
-   "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
-   "posted_at": "2026-09-22T00:00:00Z",
-   "first_seen_at": "2026-09-22T10:52:31Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript"
-   ],
-   "source": "workday"
   },
   {
    "id": "ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc",
