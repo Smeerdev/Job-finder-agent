@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-10-05T08:14:21Z",
+ "generated_at": "2026-10-05T17:48:40Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 34,
+ "count": 35,
  "jobs": [
+  {
+   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004076",
+   "company": "TriNet",
+   "title": "Associate Data Scientist",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004076",
+   "posted_at": "2026-10-05",
+   "first_seen_at": "2026-10-05T17:48:40Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:valeo:/job/Chennai/Intern---Software_REQ2026070899",
+   "company": "Valeo",
+   "title": "Intern - Software",
+   "season": "2026 Graduates",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Chennai",
+   "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
+   "posted_at": "2026-10-05T00:00:00Z",
+   "first_seen_at": "2026-10-05T17:48:40Z",
+   "salary": null,
+   "skills": [
+    "MATLAB"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:marvell:/job/Bangalore/AI-Intern_2604445",
    "company": "Marvell",
@@ -443,25 +478,6 @@
     "Node.js"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:145146",
-   "company": "Zensar",
-   "title": "ESaaS - MSD -Technical- D365 CE Developer Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/145146",
-   "posted_at": "2026-07-25",
-   "first_seen_at": "2026-08-17T11:25:31Z",
-   "salary": null,
-   "skills": [
-    "JavaScript",
-    "SQL",
-    "Azure"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:reliaquest:/job/Pune-India-Office/Associate-Software-Engineer_R15032",
