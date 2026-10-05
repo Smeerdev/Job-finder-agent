@@ -1,8 +1,47 @@
 {
- "generated_at": "2026-10-05T17:48:40Z",
+ "generated_at": "2026-10-05T23:43:33Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 35,
+ "count": 36,
  "jobs": [
+  {
+   "id": "ashby:barnes:fd87b2c0-dec0-4d54-8543-da70dd28a802",
+   "company": "Barnes & Thornburg",
+   "title": "Data Privacy and AI Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Indianapolis",
+   "url": "https://jobs.ashbyhq.com/barnes/fd87b2c0-dec0-4d54-8543-da70dd28a802",
+   "posted_at": "2026-10-05T23:07:44.855+00:00",
+   "first_seen_at": "2026-10-05T23:43:33Z",
+   "salary": null,
+   "skills": [],
+   "source": "ashby"
+  },
+  {
+   "id": "workday:mitel:/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
+   "company": "Mitel Networks",
+   "title": "R&D Intern (student) - iOS development",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Curitiba (Remote)",
+   "url": "https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
+   "posted_at": "2026-10-05T00:00:00Z",
+   "first_seen_at": "2026-10-05T23:43:33Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "LLMs",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004076",
    "company": "TriNet",
@@ -126,24 +165,6 @@
     "Azure"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:geaerospace:/job/Bengaluru/Data-Science--Intern_R5040692-1",
-   "company": "GE Aerospace",
-   "title": "Data Science -Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru",
-   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science--Intern_R5040692-1",
-   "posted_at": "2026-09-28T00:00:00Z",
-   "first_seen_at": "2026-09-28T14:59:03Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "workday"
   },
   {
    "id": "ashby:quora:cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
