@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-05T23:43:33Z</updated>
+  <updated>2026-10-06T04:27:49Z</updated>
   <entry>
     <id>urn:intern-engine:ashby:barnes:fd87b2c0-dec0-4d54-8543-da70dd28a802</id>
     <title>Barnes &amp; Thornburg: Data Privacy and AI Associate</title>
@@ -173,14 +173,6 @@
     <updated>2026-09-17T13:05:48Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Pune, India · Python, SQL, PyTorch, TensorFlow, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:twgai:1206BF981C</id>
-    <title>TWG Global: AI Data Science Intern (UK)</title>
-    <link href="https://apply.workable.com/twgai/j/1206BF981C/"/>
-    <updated>2026-09-16T22:38:36Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · London, England, United Kingdom (Remote) · Python, PyTorch, TensorFlow, scikit-learn, Pandas</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449</id>

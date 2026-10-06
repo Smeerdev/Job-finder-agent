@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-05T23:43:33Z",
+ "generated_at": "2026-10-06T04:27:49Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 36,
+ "count": 35,
  "jobs": [
   {
    "id": "ashby:barnes:fd87b2c0-dec0-4d54-8543-da70dd28a802",
@@ -452,30 +452,6 @@
     "AWS"
    ],
    "source": "workday"
-  },
-  {
-   "id": "workable:twgai:1206BF981C",
-   "company": "TWG Global",
-   "title": "AI Data Science Intern (UK)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "London, England, United Kingdom (Remote)",
-   "url": "https://apply.workable.com/twgai/j/1206BF981C/",
-   "posted_at": "2026-09-01T00:00:00.000Z",
-   "first_seen_at": "2026-09-16T22:38:36Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "Pandas",
-    "LLMs",
-    "AWS",
-    "GCP"
-   ],
-   "source": "workable"
   },
   {
    "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",

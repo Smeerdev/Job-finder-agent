@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**36 open roles · 10 new this week · 5,347 companies tracked · updated Oct 05, 2026 at 23:43 UTC**
+**35 open roles · 10 new this week · 5,347 companies tracked · updated Oct 06, 2026 at 04:27 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (36 open)
+## 2026 Graduates (International)  (35 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -40,7 +40,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Rubrik | Software Engineer - Winter Intern ~ | Software | B.Tech/BS | Bangalore | Sep 06, 2026 | [Apply](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | Rubrik | Software Engineer (CPD) - Winter Intern ~ | Software | B.Tech/BS | Bangalore | Sep 06, 2026 | [Apply](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 03, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
-| TWG Global | AI Data Science Intern (UK) ~ | Data & ML/AI | B.Tech/BS | London, England, United Kingdom (Remote) | Sep 01, 2026 | [Apply](https://apply.workable.com/twgai/j/1206BF981C/) |
 | Ancestry | Machine Learning Engineer, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Aug 11, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
 | Priceline | Associate Software Engineer ~ | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Jul 10, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715) |
@@ -54,7 +53,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (33 of 36)._
+_~ = the title doesn't state a year; bucketed here from its posting date (32 of 35)._
 
 ## What this is
 
@@ -132,10 +131,11 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **5** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 26 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 27 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| TWG Global | AI Data Science Intern (UK) | 2026 Graduates | 2026-10-06 |
 | GE Aerospace | Data Science -Intern | 2026 Graduates | 2026-10-05 |
 | Zensar | ESaaS - MSD -Technical- D365 CE Developer Associate | 2026 Graduates | 2026-10-05 |
 | Epicor | Product Developer Associate-SDET, Automation | 2026 Graduates | 2026-10-05 |
@@ -180,7 +180,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,347 companies across 24 ATS platforms · 97% fetch success · completed in 457.2s · median detection latency 686 min · real posted dates on 80% of open roles._
+_Engine (last run): 5,347 companies across 24 ATS platforms · 99% fetch success · completed in 364.0s · median detection latency 686 min · real posted dates on 80% of open roles._
 
 ## Platforms Scraped
 
