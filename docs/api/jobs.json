@@ -1,8 +1,26 @@
 {
- "generated_at": "2026-10-06T11:49:11Z",
+ "generated_at": "2026-10-06T17:54:08Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 35,
+ "count": 37,
  "jobs": [
+  {
+   "id": "smartrecruiters:BoschGroup:744000153799209",
+   "company": "Robert Bosch Venture Capital",
+   "title": "ETAS - Thesis Project Internship – Generative AI for Automotive Safety",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Torino, Piemonte, IT (Remote)",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153799209",
+   "posted_at": "2026-10-06T15:18:18.695Z",
+   "first_seen_at": "2026-10-06T17:54:08Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "smartrecruiters"
+  },
   {
    "id": "workday:tsys:/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936",
    "company": "Global Payments",
@@ -366,6 +384,21 @@
     "Git"
    ],
    "source": "smartrecruiters"
+  },
+  {
+   "id": "greenhouse:solutions:4711210006",
+   "company": "Cadence Solutions",
+   "title": "Software Engineering Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006",
+   "posted_at": "2026-09-08T09:38:03-04:00",
+   "first_seen_at": "2026-10-06T17:54:08Z",
+   "salary": "$55/hr",
+   "skills": [],
+   "source": "greenhouse"
   },
   {
    "id": "workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Scientist_JR014459",
