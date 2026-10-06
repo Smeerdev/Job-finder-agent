@@ -1,8 +1,26 @@
 {
- "generated_at": "2026-10-06T17:54:08Z",
+ "generated_at": "2026-10-06T22:18:00Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 37,
  "jobs": [
+  {
+   "id": "greenhouse:knowbe4:8870749002",
+   "company": "KnowBe4",
+   "title": "Software Engineer Intern (Remote)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002",
+   "posted_at": "2026-10-06T16:08:53-04:00",
+   "first_seen_at": "2026-10-06T22:18:00Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "smartrecruiters:BoschGroup:744000153799209",
    "company": "Robert Bosch Venture Capital",
@@ -96,23 +114,6 @@
     "LLMs"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:valeo:/job/Chennai/Intern---Software_REQ2026070899",
-   "company": "Valeo",
-   "title": "Intern - Software",
-   "season": "2026 Graduates",
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Chennai",
-   "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
-   "posted_at": "2026-10-05T00:00:00Z",
-   "first_seen_at": "2026-10-05T17:48:40Z",
-   "salary": null,
-   "skills": [
-    "MATLAB"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:marvell:/job/Bangalore/AI-Intern_2604445",

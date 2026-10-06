@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-06T17:54:08Z</updated>
+  <updated>2026-10-06T22:18:00Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:knowbe4:8870749002</id>
+    <title>KnowBe4: Software Engineer Intern (Remote)</title>
+    <link href="https://job-boards.greenhouse.io/knowbe4/jobs/8870749002"/>
+    <updated>2026-10-06T22:18:00Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Remote · Python, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:solutions:4711210006</id>
     <title>Cadence Solutions: Software Engineering Intern</title>
@@ -53,14 +61,6 @@
     <updated>2026-10-05T17:48:40Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valeo:/job/Chennai/Intern---Software_REQ2026070899</id>
-    <title>Valeo: Intern - Software</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899"/>
-    <updated>2026-10-05T17:48:40Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Chennai · MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thoughtworks:8236673</id>
