@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-06T04:27:49Z</updated>
+  <updated>2026-10-06T11:49:11Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:tsys:/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936</id>
+    <title>Global Payments: Associate Client Server Software Analyst</title>
+    <link href="https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936"/>
+    <updated>2026-10-06T11:49:11Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · PUNE, , INDIA · Java, C#, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:barnes:fd87b2c0-dec0-4d54-8543-da70dd28a802</id>
     <title>Barnes &amp; Thornburg: Data Privacy and AI Associate</title>
@@ -69,14 +77,6 @@
     <updated>2026-09-30T16:52:47Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer_2604247</id>
-    <title>Marvell: Software QA Automation Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247"/>
-    <updated>2026-09-30T16:52:47Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163</id>
@@ -151,6 +151,14 @@
     <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505</id>
+    <title>Epicor: Product Developer Associate-SDET, Automation</title>
+    <link href="https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505"/>
+    <updated>2026-09-22T10:52:31Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · India, Bangalore · Python, Java, JavaScript</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117</id>
     <title>Altera Corporation: AI Automation Intern</title>
     <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117"/>
@@ -165,14 +173,6 @@
     <updated>2026-09-17T13:05:48Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bangalore, India · Java, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:aeratechnology:4860f299-72d8-41d5-97ff-ae063765f617</id>
-    <title>Aera Technology: Associate Data Scientist – Modeling, Analytics &amp; Pipelines</title>
-    <link href="https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617"/>
-    <updated>2026-09-17T13:05:48Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Pune, India · Python, SQL, PyTorch, TensorFlow, Pandas</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449</id>

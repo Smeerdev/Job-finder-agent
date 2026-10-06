@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-10-06T04:27:49Z",
+ "generated_at": "2026-10-06T11:49:11Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 35,
  "jobs": [
+  {
+   "id": "workday:tsys:/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936",
+   "company": "Global Payments",
+   "title": "Associate Client Server Software Analyst",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "PUNE, , INDIA",
+   "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936",
+   "posted_at": "2026-10-06T00:00:00Z",
+   "first_seen_at": "2026-10-06T11:49:11Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "C#",
+    "SQL"
+   ],
+   "source": "workday"
+  },
   {
    "id": "ashby:barnes:fd87b2c0-dec0-4d54-8543-da70dd28a802",
    "company": "Barnes & Thornburg",
@@ -90,23 +109,6 @@
    "first_seen_at": "2026-09-30T16:52:47Z",
    "salary": null,
    "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
-   "company": "Marvell",
-   "title": "Software QA Automation Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "first_seen_at": "2026-09-30T16:52:47Z",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
    "source": "workday"
   },
   {
@@ -249,6 +251,25 @@
    "source": "ashby"
   },
   {
+   "id": "workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
+   "company": "Epicor",
+   "title": "Product Developer Associate-SDET, Automation",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India, Bangalore",
+   "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
+   "posted_at": "2026-09-22T00:00:00Z",
+   "first_seen_at": "2026-09-22T10:52:31Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "JavaScript"
+   ],
+   "source": "workday"
+  },
+  {
    "id": "ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc",
    "company": "Qumulo",
    "title": "Software Development Engineer (New Grad / Entry Level)",
@@ -306,30 +327,6 @@
     "React"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "lever:aeratechnology:4860f299-72d8-41d5-97ff-ae063765f617",
-   "company": "Aera Technology",
-   "title": "Associate Data Scientist – Modeling, Analytics & Pipelines",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Pune, India",
-   "url": "https://jobs.lever.co/aeratechnology/4860f299-72d8-41d5-97ff-ae063765f617",
-   "posted_at": "2026-09-17T08:47:49Z",
-   "first_seen_at": "2026-09-17T13:05:48Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "PyTorch",
-    "TensorFlow",
-    "Pandas",
-    "AWS",
-    "GCP",
-    "Azure"
-   ],
-   "source": "lever"
   },
   {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
