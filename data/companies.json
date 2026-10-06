@@ -74,6 +74,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "2K",
+    "slug": "2kearlycareers",
+    "ats": "greenhouse"
+  },
+  {
     "name": "2nd Order Solutions",
     "slug": "2os",
     "ats": "lever"
@@ -2594,6 +2599,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Astera Labs",
+    "slug": "asteraearlycareer2027",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Astranis",
     "slug": "astranis",
     "ats": "greenhouse"
@@ -2720,6 +2730,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Atoms",
+    "slug": "atoms",
+    "ats": "greenhouse"
+  },
+  {
     "name": "ATPCO",
     "slug": "ATPCO1",
     "ats": "smartrecruiters"
@@ -2825,6 +2840,11 @@
     "name": "Aurora",
     "slug": "aurora-in",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Aurora Innovation",
+    "slug": "aurora-operations-inc",
+    "ats": "ashby"
   },
   {
     "name": "Austal USA",
@@ -4102,6 +4122,11 @@
     "site": "bobs_careers"
   },
   {
+    "name": "Bobyard",
+    "slug": "bobyard",
+    "ats": "ashby"
+  },
+  {
     "name": "Bolt",
     "slug": "team-bolt",
     "ats": "smartrecruiters"
@@ -4742,6 +4767,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External_Careers"
+  },
+  {
+    "name": "Cadence Solutions",
+    "slug": "solutions",
+    "ats": "greenhouse"
   },
   {
     "name": "Cadillac Formula 1 Team",
@@ -9918,6 +9948,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Fanatics",
+    "slug": "fanaticsfbg",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Fannie Mae",
     "slug": "fanniemae",
     "ats": "workday",
@@ -10269,6 +10304,11 @@
     "name": "Fireworks AI",
     "slug": "fireworksai",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Fireworks AI",
+    "slug": "fireworks",
+    "ats": "ashby"
   },
   {
     "name": "First American",
@@ -13451,6 +13491,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "ID.me",
+    "slug": "idme",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Idaho Power",
     "slug": "idahopowercompany",
     "ats": "workday",
@@ -13504,6 +13549,11 @@
   {
     "name": "IEQ Capital",
     "slug": "ieqcapital",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "IEX",
+    "slug": "iex-interns",
     "ats": "greenhouse"
   },
   {
@@ -14778,6 +14828,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Judi Health",
+    "slug": "judihealth",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Juicebox",
     "slug": "juicebox",
     "ats": "ashby"
@@ -14987,6 +15042,11 @@
     "name": "KGS Technology Group",
     "slug": "KGSTechnologyGroupInc",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Khanacademy",
+    "slug": "khanacademy",
+    "ats": "greenhouse"
   },
   {
     "name": "KhataBook",
@@ -15539,6 +15599,13 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Milestone_External"
+  },
+  {
+    "name": "Legrand",
+    "slug": "iadugs.fa.ocs.oraclecloud.com",
+    "ats": "oracle",
+    "host": "iadugs.fa.ocs.oraclecloud.com",
+    "site": "CX_1001"
   },
   {
     "name": "Leidos",
@@ -16377,6 +16444,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Mach Industries",
+    "slug": "machindustries",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Mach9",
     "slug": "mach9",
     "ats": "ashby"
@@ -16871,6 +16943,13 @@
     "name": "Maybell Quantum Industries",
     "slug": "maybellquantum",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Mayo Clinic",
+    "slug": "fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com",
+    "ats": "oracle",
+    "host": "fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com",
+    "site": "CX_1"
   },
   {
     "name": "MBDA",
@@ -17432,6 +17511,13 @@
     "ats": "rippling"
   },
   {
+    "name": "Midland States Bank",
+    "slug": "midlandsb",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "msbcareers"
+  },
+  {
     "name": "Midmark",
     "slug": "hcor.fa.us2.oraclecloud.com",
     "ats": "oracle",
@@ -17592,6 +17678,11 @@
     "name": "Mistral AI",
     "slug": "mtesting",
     "ats": "ashby"
+  },
+  {
+    "name": "MistyWest",
+    "slug": "mistywest",
+    "ats": "workable"
   },
   {
     "name": "MiTek",
@@ -22993,6 +23084,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Root Insurance",
+    "slug": "joinroot",
+    "ats": "rippling"
+  },
+  {
     "name": "Roswell Park Comprehensive Cancer Center",
     "slug": "roswellpark",
     "ats": "workday",
@@ -25067,6 +25163,11 @@
   {
     "name": "StackAdapt",
     "slug": "stackadapt",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "StackAdapt",
+    "slug": "stackadapt-confidential",
     "ats": "greenhouse"
   },
   {
@@ -27585,6 +27686,13 @@
     "name": "Ubs",
     "slug": "ubs-global",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "UCSF",
+    "slug": "iazuqy.fa.ocs.oraclecloud.com",
+    "ats": "oracle",
+    "host": "iazuqy.fa.ocs.oraclecloud.com",
+    "site": "CX_1"
   },
   {
     "name": "Udaan",
