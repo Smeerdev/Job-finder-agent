@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-07T02:04:25Z",
+ "generated_at": "2026-10-07T08:25:23Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 35,
+ "count": 34,
  "jobs": [
   {
    "id": "greenhouse:knowbe4:8870749002",
@@ -96,24 +96,6 @@
     "Git"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004076",
-   "company": "TriNet",
-   "title": "Associate Data Scientist",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004076",
-   "posted_at": "2026-10-05",
-   "first_seen_at": "2026-10-05T17:48:40Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:marvell:/job/Bangalore/AI-Intern_2604445",
