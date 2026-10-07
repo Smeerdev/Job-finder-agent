@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-06T22:18:00Z",
+ "generated_at": "2026-10-07T02:04:25Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 37,
+ "count": 35,
  "jobs": [
   {
    "id": "greenhouse:knowbe4:8870749002",
@@ -421,46 +421,6 @@
     "Tableau"
    ],
    "source": "workday"
-  },
-  {
-   "id": "greenhouse:rubrik:8166523",
-   "company": "Rubrik",
-   "title": "Software Engineer - Winter Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
-   "posted_at": "2026-09-06T08:42:59-04:00",
-   "first_seen_at": "2026-09-06T14:00:17Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "Scala"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:rubrik:8166537",
-   "company": "Rubrik",
-   "title": "Software Engineer (CPD) - Winter Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
-   "posted_at": "2026-09-06T08:47:22-04:00",
-   "first_seen_at": "2026-09-06T14:00:17Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "Scala"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442",
