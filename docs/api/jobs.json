@@ -1,43 +1,26 @@
 {
- "generated_at": "2026-10-07T08:25:23Z",
+ "generated_at": "2026-10-07T16:04:56Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 34,
+ "count": 32,
  "jobs": [
   {
-   "id": "greenhouse:knowbe4:8870749002",
-   "company": "KnowBe4",
-   "title": "Software Engineer Intern (Remote)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote",
-   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002",
-   "posted_at": "2026-10-06T16:08:53-04:00",
-   "first_seen_at": "2026-10-06T22:18:00Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "smartrecruiters:BoschGroup:744000153799209",
-   "company": "Robert Bosch Venture Capital",
-   "title": "ETAS - Thesis Project Internship – Generative AI for Automotive Safety",
+   "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Data-Analyst_R4039422-1",
+   "company": "GE Healthcare",
+   "title": "Intern Data Analyst",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Data & ML/AI",
-   "location": "Torino, Piemonte, IT (Remote)",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153799209",
-   "posted_at": "2026-10-06T15:18:18.695Z",
-   "first_seen_at": "2026-10-06T17:54:08Z",
+   "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Data-Analyst_R4039422-1",
+   "posted_at": "2026-10-07T00:00:00Z",
+   "first_seen_at": "2026-10-07T16:04:56Z",
    "salary": null,
    "skills": [
     "Python",
-    "LLMs"
+    "SQL",
+    "Tableau"
    ],
-   "source": "smartrecruiters"
+   "source": "workday"
   },
   {
    "id": "workday:tsys:/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936",
@@ -94,6 +77,23 @@
     "GCP",
     "Azure",
     "Git"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:valeo:/job/Chennai/Intern---Software_REQ2026070899",
+   "company": "Valeo",
+   "title": "Intern - Software",
+   "season": "2026 Graduates",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Chennai",
+   "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
+   "posted_at": "2026-10-05T00:00:00Z",
+   "first_seen_at": "2026-10-05T17:48:40Z",
+   "salary": null,
+   "skills": [
+    "MATLAB"
    ],
    "source": "workday"
   },
@@ -250,25 +250,6 @@
    "salary": null,
    "skills": [],
    "source": "ashby"
-  },
-  {
-   "id": "workday:epicorsoftware:/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
-   "company": "Epicor",
-   "title": "Product Developer Associate-SDET, Automation",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India, Bangalore",
-   "url": "https://epicorsoftware.wd5.myworkdayjobs.com/epicorjobs/job/India-Bangalore/Product-Developer-Associate-SDET--Automation_JR105505",
-   "posted_at": "2026-09-22T00:00:00Z",
-   "first_seen_at": "2026-09-22T10:52:31Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript"
-   ],
-   "source": "workday"
   },
   {
    "id": "ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc",
@@ -470,26 +451,6 @@
     "AWS",
     "GCP",
     "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5715",
-   "company": "Priceline",
-   "title": "Associate Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Mumbai",
-   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5715",
-   "posted_at": "2026-07-10T00:00:00Z",
-   "first_seen_at": "2026-09-10T19:33:43Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "TypeScript",
-    "LLMs"
    ],
    "source": "workday"
   },
