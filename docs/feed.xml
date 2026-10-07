@@ -5,14 +5,22 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-07T16:04:56Z</updated>
+  <updated>2026-10-07T21:20:19Z</updated>
   <entry>
-    <id>urn:intern-engine:workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Data-Analyst_R4039422-1</id>
-    <title>GE Healthcare: Intern Data Analyst</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Data-Analyst_R4039422-1"/>
-    <updated>2026-10-07T16:04:56Z</updated>
+    <id>urn:intern-engine:workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1</id>
+    <title>Echo Global Logistics: Software Engineering Intern- Chicago</title>
+    <link href="https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1"/>
+    <updated>2026-10-07T21:20:18Z</updated>
     <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · IND19-01-Bengaluru-EPIP 122 (Phase II) · Python, SQL, Tableau</summary>
+    <summary>2026 Graduates · Software · Remote · $35.223k/yr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>
+    <title>SailPoint: Software Engineer Intern - Platform Engines</title>
+    <link href="https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164"/>
+    <updated>2026-10-07T21:20:18Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Remote (United Kingdom) · Go, TypeScript, SQL, Angular, AWS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:solutions:4711210006</id>
@@ -45,14 +53,6 @@
     <updated>2026-10-05T23:43:33Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Curitiba (Remote) · Python, TypeScript, JavaScript, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valeo:/job/Chennai/Intern---Software_REQ2026070899</id>
-    <title>Valeo: Intern - Software</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899"/>
-    <updated>2026-10-05T17:48:40Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Chennai · MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thoughtworks:8236673</id>
