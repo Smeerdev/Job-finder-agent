@@ -1,23 +1,8 @@
 {
- "generated_at": "2026-10-07T21:20:19Z",
+ "generated_at": "2026-10-08T01:35:25Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 32,
+ "count": 31,
  "jobs": [
-  {
-   "id": "workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
-   "company": "Echo Global Logistics",
-   "title": "Software Engineering Intern- Chicago",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote",
-   "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
-   "posted_at": "2026-10-07T00:00:00Z",
-   "first_seen_at": "2026-10-07T21:20:18Z",
-   "salary": "$35.223k/yr",
-   "skills": [],
-   "source": "workday"
-  },
   {
    "id": "workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
    "company": "SailPoint",
