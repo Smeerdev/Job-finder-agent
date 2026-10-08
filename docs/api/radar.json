@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T01:35:25Z",
+ "generated_at": "2026-10-08T08:24:14Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -29,6 +29,20 @@
    "days_until": -15,
    "status": "open",
    "url": "https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673",
+   "note": ""
+  },
+  {
+   "company": "Valeo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
    "note": ""
   },
   {
@@ -643,20 +657,6 @@
    "source": "engine",
    "expected": "2026-08-27",
    "days_until": -42,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Valeo",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-05",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-05",
-   "days_until": -3,
    "status": "dropped",
    "url": "",
    "note": ""

@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**31 open roles · 8 new this week · 5,374 companies tracked · updated Oct 08, 2026 at 01:35 UTC**
+**34 open roles · 11 new this week · 5,374 companies tracked · updated Oct 08, 2026 at 08:24 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,14 +13,17 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (31 open)
+## 2026 Graduates (International)  (34 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Philips | Intern – Data Science and AI Engineering ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore | Oct 08, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503) |
+| Priceline | Associate Software Engineer ~ 🆕 | Software | B.Tech/BS | Mumbai | Oct 08, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712) |
 | SailPoint | Software Engineer Intern - Platform Engines ~ 🆕 | Software | B.Tech/BS | Remote (United Kingdom) | Oct 07, 2026 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) |
 | Global Payments | Associate Client Server Software Analyst ~ 🆕 | Software | 2+ Yrs | PUNE, , INDIA | Oct 06, 2026 | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936) |
 | Barnes & Thornburg | Data Privacy and AI Associate ~ | Data & ML/AI | B.Tech/BS | Indianapolis | Oct 05, 2026 | [Apply](https://jobs.ashbyhq.com/barnes/fd87b2c0-dec0-4d54-8543-da70dd28a802) |
 | Mitel Networks | R&D Intern (student) - iOS development ~ | Software | B.Tech/BS | Curitiba (Remote) | Oct 05, 2026 | [Apply](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162) |
+| Valeo | Intern - Software | Software | — | Chennai | Oct 05, 2026 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899) |
 | Marvell | AI Intern ~ | Data & ML/AI | B.Tech/BS | Bangalore | Sep 30, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445) |
 | PTC | Associate Software Analyst ~ | Software | B.Tech/BS | Pune, India | Sep 29, 2026 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163) |
 | Thoughtworks | Software Procurement Intern | Software | 0-1 Yr<br>B.Tech/BS | Gurgaon, India; Pune, India | Sep 28, 2026 | [Apply](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
@@ -49,7 +52,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (29 of 31)._
+_~ = the title doesn't state a year; bucketed here from its posting date (31 of 34)._
 
 ## What this is
 
@@ -127,13 +130,12 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **5** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 33 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 31 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Echo Global Logistics | Software Engineering Intern- Chicago | 2026 Graduates | 2026-10-08 |
 | GE Healthcare | Intern Data Analyst | 2026 Graduates | 2026-10-07 |
-| Valeo | Intern - Software | 2026 Graduates | 2026-10-07 |
 | KnowBe4 | Software Engineer Intern (Remote) | 2026 Graduates | 2026-10-07 |
 | Robert Bosch Venture Capital | ETAS - Thesis Project Internship – Generative AI for Automotive Safety | 2026 Graduates | 2026-10-07 |
 | Epicor | Product Developer Associate-SDET, Automation | 2026 Graduates | 2026-10-07 |
@@ -163,7 +165,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | CWAN | Software Development Intern | 2026 Graduates | 2026-09-25 |
 | RTX | Associate Business Intelligence Analyst(AI/ML,Generative AI & Python,1-3 years,Bangalore) | 2026 Graduates | 2026-09-24 |
 | Marvell | AI Intern | 2026 Graduates | 2026-09-24 |
-| Arista Networks | Junior AI-Assisted Automation Scripting Associate (Apprentice) | 2026 Graduates | 2026-09-24 |
 
 </details>
 
@@ -182,7 +183,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,374 companies across 24 ATS platforms · 99% fetch success · completed in 311.2s · median detection latency 688 min · real posted dates on 77% of open roles._
+_Engine (last run): 5,374 companies across 24 ATS platforms · 98% fetch success · completed in 383.0s · median detection latency 686 min · real posted dates on 79% of open roles._
 
 ## Platforms Scraped
 
