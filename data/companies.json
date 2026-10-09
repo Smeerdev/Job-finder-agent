@@ -136,6 +136,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "66 Degrees",
+    "slug": "66degrees",
+    "ats": "greenhouse"
+  },
+  {
     "name": "6Sense",
     "slug": "6sense",
     "ats": "greenhouse"
@@ -3730,6 +3735,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "BIP Ventures",
+    "slug": "bipventures",
+    "ats": "workable"
+  },
+  {
     "name": "Bird Construction",
     "slug": "bird",
     "ats": "workday",
@@ -6117,6 +6127,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "Clarivate_Careers"
+  },
+  {
+    "name": "Clark",
+    "slug": "clark",
+    "ats": "ashby"
   },
   {
     "name": "Clasp",
@@ -10742,6 +10757,11 @@
     "site": "ForestersFinancialCareers"
   },
   {
+    "name": "Forge Nano",
+    "slug": "forge-nano",
+    "ats": "breezy"
+  },
+  {
     "name": "FormFactor",
     "slug": "formfactor",
     "ats": "workday",
@@ -12723,6 +12743,11 @@
     "ats": "oracle",
     "host": "encd.fa.em3.oraclecloud.com",
     "site": "CX_6005"
+  },
+  {
+    "name": "Hedra",
+    "slug": "hedra",
+    "ats": "ashby"
   },
   {
     "name": "Heidelberg Materials",
@@ -27741,6 +27766,13 @@
     "ats": "workable"
   },
   {
+    "name": "Uber",
+    "slug": "iaziqy.fa.ocs.oraclecloud.com",
+    "ats": "oracle",
+    "host": "iaziqy.fa.ocs.oraclecloud.com",
+    "site": "CX_1"
+  },
+  {
     "name": "Uber Freight",
     "slug": "uberfreight",
     "ats": "greenhouse"
@@ -28800,6 +28832,11 @@
     "name": "Viewline Ventures",
     "slug": "viewline-ventures",
     "ats": "workable"
+  },
+  {
+    "name": "Viget",
+    "slug": "viget",
+    "ats": "lever"
   },
   {
     "name": "Viking Global",
