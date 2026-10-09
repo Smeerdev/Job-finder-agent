@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-08T21:52:31Z",
+ "generated_at": "2026-10-09T01:46:23Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 34,
+ "count": 32,
  "jobs": [
   {
    "id": "greenhouse:figure:8860509002",
@@ -286,29 +286,6 @@
    "source": "ashby"
   },
   {
-   "id": "workday:dow:/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910",
-   "company": "Dow Chemical Company",
-   "title": "Associate Full-Stack Developer (.Net/Angular/Azure)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Navi Mumbai (IND)",
-   "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910",
-   "posted_at": "2026-09-25T00:00:00Z",
-   "first_seen_at": "2026-09-25T17:52:00Z",
-   "salary": null,
-   "skills": [
-    "C#",
-    "TypeScript",
-    "SQL",
-    "React",
-    "Angular",
-    ".NET",
-    "Azure"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820",
    "company": "PPLSI",
    "title": "Associate IBMi Software Engineer",
@@ -440,21 +417,6 @@
     "Git"
    ],
    "source": "smartrecruiters"
-  },
-  {
-   "id": "greenhouse:solutions:4711210006",
-   "company": "Cadence Solutions",
-   "title": "Software Engineering Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote",
-   "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006",
-   "posted_at": "2026-09-08T09:38:03-04:00",
-   "first_seen_at": "2026-10-06T17:54:08Z",
-   "salary": "$55/hr",
-   "skills": [],
-   "source": "greenhouse"
   },
   {
    "id": "workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442",
