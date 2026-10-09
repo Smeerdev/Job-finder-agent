@@ -1,8 +1,25 @@
 {
- "generated_at": "2026-10-09T01:46:23Z",
+ "generated_at": "2026-10-09T08:25:46Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 32,
+ "count": 33,
  "jobs": [
+  {
+   "id": "workday:lnw:/job/Bangalore-India/Associate-Software-Engineer_R322315",
+   "company": "Light & Wonder",
+   "title": "Associate Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore, India",
+   "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Bangalore-India/Associate-Software-Engineer_R322315",
+   "posted_at": "2026-10-09T00:00:00Z",
+   "first_seen_at": "2026-10-09T08:25:46Z",
+   "salary": null,
+   "skills": [
+    "C#"
+   ],
+   "source": "workday"
+  },
   {
    "id": "greenhouse:figure:8860509002",
    "company": "Figure",

@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-09T01:46:23Z</updated>
+  <updated>2026-10-09T08:25:46Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:lnw:/job/Bangalore-India/Associate-Software-Engineer_R322315</id>
+    <title>Light &amp; Wonder: Associate Software Engineer</title>
+    <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Bangalore-India/Associate-Software-Engineer_R322315"/>
+    <updated>2026-10-09T08:25:46Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bangalore, India · C#</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:figure:8860509002</id>
     <title>Figure: Associate AI Engineer</title>
