@@ -5,11 +5,19 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-09T15:51:09Z</updated>
+  <updated>2026-10-09T20:34:15Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214849</id>
     <title>DTCC: IT Embedded Risk Associate</title>
     <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214849"/>
+    <updated>2026-10-09T15:51:09Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, India</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214905</id>
+    <title>DTCC: Software Engineering Associate</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214905"/>
     <updated>2026-10-09T15:51:09Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad, India</summary>
@@ -21,14 +29,6 @@
     <updated>2026-10-09T15:51:09Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad, India · Python, Java, SQL, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214905</id>
-    <title>DTCC: Software Engineering Associate</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214905"/>
-    <updated>2026-10-09T15:51:09Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:figure:8860509002</id>

@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**35 open roles · 14 new this week · 5,389 companies tracked · updated Oct 09, 2026 at 15:51 UTC**
+**35 open roles · 13 new this week · 5,389 companies tracked · updated Oct 09, 2026 at 20:34 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -18,8 +18,8 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | DTCC | IT Embedded Risk Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 09, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214849) |
-| DTCC | Software Developers in Test Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 09, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214906) |
 | DTCC | Software Engineering Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 09, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214905) |
+| DTCC | Software Developers in Test Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 09, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214906) |
 | Figure | Associate AI Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/figure/jobs/8860509002) |
 | GuidePoint Security | AI & Data Science Intern - GPSU/NE ~ 🆕 | Data & ML/AI | $20/hr<br>B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) |
 | GuidePoint Security | Cloud Infrastructure Intern - GPSU/NE ~ 🆕 | Software | $20/hr<br>B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004) |
@@ -131,7 +131,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **5** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 36 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 35 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -170,7 +170,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | JPMorganChase | Data Analyst - Tableau, Power BI - Associate | 2026 Graduates | 2026-09-26 |
 | Realm | Software Engineer - Intern | 2026 Graduates | 2026-09-26 |
 | Sprinklr | ML Intern | 2026 Graduates | 2026-09-25 |
-| CWAN | Software Development Intern | 2026 Graduates | 2026-09-25 |
 
 </details>
 
@@ -189,7 +188,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,389 companies across 24 ATS platforms · 99% fetch success · completed in 391.4s · median detection latency 686 min · real posted dates on 80% of open roles._
+_Engine (last run): 5,389 companies across 24 ATS platforms · 98% fetch success · completed in 364.1s · median detection latency 686 min · real posted dates on 80% of open roles._
 
 ## Platforms Scraped
 
