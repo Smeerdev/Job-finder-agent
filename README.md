@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**33 open roles · 13 new this week · 5,382 companies tracked · updated Oct 09, 2026 at 08:25 UTC**
+**35 open roles · 14 new this week · 5,389 companies tracked · updated Oct 09, 2026 at 15:51 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,15 +13,16 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (33 open)
+## 2026 Graduates (International)  (35 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Light & Wonder | Associate Software Engineer ~ 🆕 | Software | 0-1 Yr<br>B.Tech/BS | Bangalore, India | Oct 09, 2026 | [Apply](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Bangalore-India/Associate-Software-Engineer_R322315) |
+| DTCC | IT Embedded Risk Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 09, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214849) |
+| DTCC | Software Developers in Test Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 09, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214906) |
+| DTCC | Software Engineering Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 09, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214905) |
 | Figure | Associate AI Engineer ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/figure/jobs/8860509002) |
 | GuidePoint Security | AI & Data Science Intern - GPSU/NE ~ 🆕 | Data & ML/AI | $20/hr<br>B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) |
 | GuidePoint Security | Cloud Infrastructure Intern - GPSU/NE ~ 🆕 | Software | $20/hr<br>B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004) |
-| DTCC | Software Engineering Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 08, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214802) |
 | Priceline | Associate Software Engineer ~ 🆕 | Software | B.Tech/BS | Mumbai | Oct 08, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712) |
 | SailPoint | Software Engineer Intern - Platform Engines ~ 🆕 | Software | B.Tech/BS | Remote (United Kingdom) | Oct 07, 2026 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) |
 | Global Payments | Associate Client Server Software Analyst ~ | Software | 2+ Yrs | PUNE, , INDIA | Oct 06, 2026 | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936) |
@@ -40,6 +41,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Ancestry | Data Science - AI Document Understanding, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 16, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
 | Arista Networks | Intern Software Engineer - C/C++ ~ | Software | — | Poland - Remote, PL (Remote) | Sep 11, 2026 | [Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000149101159) |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 03, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
+| Ancestry | Machine Learning Engineer, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Aug 11, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
 | Oaktree Capital Management | Associate - Workday reporting developer ~ | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
 | Valeo | Intern - AI ~ | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
@@ -51,7 +53,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (31 of 33)._
+_~ = the title doesn't state a year; bucketed here from its posting date (33 of 35)._
 
 ## What this is
 
@@ -129,14 +131,15 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **5** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 35 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 36 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| DTCC | Software Engineering Associate | 2026 Graduates | 2026-10-09 |
+| Light & Wonder | Associate Software Engineer | 2026 Graduates | 2026-10-09 |
 | Cadence Solutions | Software Engineering Intern | 2026 Graduates | 2026-10-09 |
 | Dow Chemical Company | Associate Full-Stack Developer (.Net/Angular/Azure) | 2026 Graduates | 2026-10-09 |
 | Acxiom | Intern - Data Scientist | 2026 Graduates | 2026-10-08 |
-| Ancestry | Machine Learning Engineer, Co-op | 2026 Graduates | 2026-10-08 |
 | Valeo | Intern - Software | 2026 Graduates | 2026-10-08 |
 | Philips | Intern – Data Science and AI Engineering | 2026 Graduates | 2026-10-08 |
 | Echo Global Logistics | Software Engineering Intern- Chicago | 2026 Graduates | 2026-10-08 |
@@ -186,7 +189,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,382 companies across 24 ATS platforms · 99% fetch success · completed in 377.3s · median detection latency 662 min · real posted dates on 78% of open roles._
+_Engine (last run): 5,389 companies across 24 ATS platforms · 99% fetch success · completed in 391.4s · median detection latency 686 min · real posted dates on 80% of open roles._
 
 ## Platforms Scraped
 
