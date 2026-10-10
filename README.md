@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**35 open roles · 13 new this week · 5,389 companies tracked · updated Oct 09, 2026 at 20:34 UTC**
+**35 open roles · 13 new this week · 5,389 companies tracked · updated Oct 10, 2026 at 00:32 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -24,7 +24,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | GuidePoint Security | AI & Data Science Intern - GPSU/NE ~ 🆕 | Data & ML/AI | $20/hr<br>B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) |
 | GuidePoint Security | Cloud Infrastructure Intern - GPSU/NE ~ 🆕 | Software | $20/hr<br>B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004) |
 | Priceline | Associate Software Engineer ~ 🆕 | Software | B.Tech/BS | Mumbai | Oct 08, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712) |
-| SailPoint | Software Engineer Intern - Platform Engines ~ 🆕 | Software | B.Tech/BS | Remote (United Kingdom) | Oct 07, 2026 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) |
+| SailPoint | Software Engineer Intern - Platform Engines ~ | Software | B.Tech/BS | Remote (United Kingdom) | Oct 07, 2026 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) |
 | Global Payments | Associate Client Server Software Analyst ~ | Software | 2+ Yrs | PUNE, , INDIA | Oct 06, 2026 | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936) |
 | Barnes & Thornburg | Data Privacy and AI Associate ~ | Data & ML/AI | B.Tech/BS | Indianapolis | Oct 05, 2026 | [Apply](https://jobs.ashbyhq.com/barnes/fd87b2c0-dec0-4d54-8543-da70dd28a802) |
 | Mitel Networks | R&D Intern (student) - iOS development ~ | Software | B.Tech/BS | Curitiba (Remote) | Oct 05, 2026 | [Apply](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162) |
@@ -131,7 +131,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **5** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 35 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 33 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -168,8 +168,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Qualified Health | Clinical AI Evaluation Intern | 2026 Graduates | 2026-09-28 |
 | Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | 2026 Graduates | 2026-09-27 |
 | JPMorganChase | Data Analyst - Tableau, Power BI - Associate | 2026 Graduates | 2026-09-26 |
-| Realm | Software Engineer - Intern | 2026 Graduates | 2026-09-26 |
-| Sprinklr | ML Intern | 2026 Graduates | 2026-09-25 |
 
 </details>
 
@@ -188,7 +186,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,389 companies across 24 ATS platforms · 98% fetch success · completed in 364.1s · median detection latency 686 min · real posted dates on 80% of open roles._
+_Engine (last run): 5,389 companies across 24 ATS platforms · 99% fetch success · completed in 360.6s · median detection latency 686 min · real posted dates on 80% of open roles._
 
 ## Platforms Scraped
 
