@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**42 open roles · 17 new this week · 5,396 companies tracked · updated Oct 12, 2026 at 11:39 UTC**
+**39 open roles · 14 new this week · 5,401 companies tracked · updated Oct 12, 2026 at 20:50 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,15 +13,12 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (42 open)
+## 2026 Graduates (International)  (39 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Airbus | Internship  AI ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore Area | Oct 12, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039) |
-| Airbus | Technical Data Analyst Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore Area | Oct 12, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386) |
-| Airbus | Software Engineering Intern – Full Stack (ReactJS / Python) ~ 🆕 | Software | B.Tech/BS | Bangalore Area | Oct 12, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435) |
-| Baker Tilly | Associate - AI Solutions Engineering - Managed Services ~ 🆕 | Data & ML/AI | B.Tech/BS | IND KA Bangalore - Cherry Hills | Oct 12, 2026 | [Apply](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461) |
 | Emerson Electric | Metrology Software Engineering Intern ~ 🆕 | Software | B.Tech/BS | DEBRECEN, HAJDÚ BIHAR, Hungary | Oct 12, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734) |
+| Airbus | Internship  AI ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore Area | Oct 12, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039) |
 | Oaktree Capital Management | Associate - Software Engineer Investment Systems and Integration (.Net Engineer) ~ 🆕 | Software | B.Tech/BS | Hyderabad | Oct 12, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533) |
 | DTCC | IT Embedded Risk Associate ~ | Software | B.Tech/BS | Hyderabad, India | Oct 09, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214849) |
 | DTCC | Software Engineering Associate ~ | Software | B.Tech/BS | Hyderabad, India | Oct 09, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214905) |
@@ -60,7 +57,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (40 of 42)._
+_~ = the title doesn't state a year; bucketed here from its posting date (37 of 39)._
 
 ## What this is
 
@@ -138,10 +135,13 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **5** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 30 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 32 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Airbus | Software Engineering Intern – Full Stack (ReactJS / Python) | 2026 Graduates | 2026-10-12 |
+| Airbus | Technical Data Analyst Intern | 2026 Graduates | 2026-10-12 |
+| Baker Tilly | Associate - AI Solutions Engineering - Managed Services | 2026 Graduates | 2026-10-12 |
 | Thoughtworks | Developer (Vapasi) - Intern | 2026 Graduates | 2026-10-12 |
 | Arista Networks | Intern Software Engineer - C/C++ | 2026 Graduates | 2026-10-12 |
 | DTCC | Software Engineering Associate | 2026 Graduates | 2026-10-09 |
@@ -171,7 +171,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Thoughtworks | Software Procurement Intern | 2026 Graduates | 2026-10-01 |
 | DTCC | Data Science Associate | 2026 Graduates | 2026-09-29 |
 | Ciena | SVT/PV Engineering Software Applications - Intern | 2026 Graduates | 2026-09-29 |
-| Cigna Group | Machine Learning Associate Advisor - HIH - Evernorth | 2026 Graduates | 2026-09-28 |
 
 </details>
 
@@ -190,7 +189,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,396 companies across 24 ATS platforms · 99% fetch success · completed in 286.1s · median detection latency 699 min · real posted dates on 83% of open roles._
+_Engine (last run): 5,401 companies across 24 ATS platforms · 98% fetch success · completed in 291.3s · median detection latency 699 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 

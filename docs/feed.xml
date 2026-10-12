@@ -5,39 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-12T11:39:15Z</updated>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Internship--AI_JR10449039</id>
-    <title>Airbus: Internship  AI</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039"/>
-    <updated>2026-10-12T11:39:15Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore Area · Python, PyTorch, TensorFlow, LLMs, GCP</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386</id>
-    <title>Airbus: Technical Data Analyst Intern</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386"/>
-    <updated>2026-10-12T11:39:15Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore Area</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435</id>
-    <title>Airbus: Software Engineering Intern – Full Stack (ReactJS / Python)</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435"/>
-    <updated>2026-10-12T11:39:15Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bangalore Area · Python, TypeScript, JavaScript, React, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bakertilly:/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461</id>
-    <title>Baker Tilly: Associate - AI Solutions Engineering - Managed Services</title>
-    <link href="https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461"/>
-    <updated>2026-10-12T11:39:15Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · IND KA Bangalore - Cherry Hills · Python, SQL, React, AWS, Azure</summary>
-  </entry>
+  <updated>2026-10-12T20:50:08Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011734</id>
     <title>Emerson Electric: Metrology Software Engineering Intern</title>
@@ -45,6 +13,14 @@
     <updated>2026-10-12T11:39:15Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · DEBRECEN, HAJDÚ BIHAR, Hungary</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Internship--AI_JR10449039</id>
+    <title>Airbus: Internship  AI</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039"/>
+    <updated>2026-10-12T11:39:15Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore Area · Python, PyTorch, TensorFlow, LLMs, GCP</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533</id>

@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-10-12T11:39:15Z",
+ "generated_at": "2026-10-12T20:50:08Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 42,
+ "count": 39,
  "jobs": [
+  {
+   "id": "oracle:hdjq.fa.us2.oraclecloud.com:26011734",
+   "company": "Emerson Electric",
+   "title": "Metrology Software Engineering Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "DEBRECEN, HAJDÚ BIHAR, Hungary",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734",
+   "posted_at": "2026-10-12",
+   "first_seen_at": "2026-10-12T11:39:15Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "workday:ag:/job/Bangalore-Area/Internship--AI_JR10449039",
    "company": "Airbus",
@@ -24,79 +39,6 @@
     "PostgreSQL"
    ],
    "source": "workday"
-  },
-  {
-   "id": "workday:ag:/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386",
-   "company": "Airbus",
-   "title": "Technical Data Analyst Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore Area",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386",
-   "posted_at": "2026-10-12T00:00:00Z",
-   "first_seen_at": "2026-10-12T11:39:15Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:ag:/job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435",
-   "company": "Airbus",
-   "title": "Software Engineering Intern – Full Stack (ReactJS / Python)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore Area",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435",
-   "posted_at": "2026-10-12T00:00:00Z",
-   "first_seen_at": "2026-10-12T11:39:15Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "Git"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:bakertilly:/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461",
-   "company": "Baker Tilly",
-   "title": "Associate - AI Solutions Engineering - Managed Services",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "IND KA Bangalore - Cherry Hills",
-   "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461",
-   "posted_at": "2026-10-12T00:00:00Z",
-   "first_seen_at": "2026-10-12T11:39:15Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "React",
-    "AWS",
-    "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "oracle:hdjq.fa.us2.oraclecloud.com:26011734",
-   "company": "Emerson Electric",
-   "title": "Metrology Software Engineering Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "DEBRECEN, HAJDÚ BIHAR, Hungary",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734",
-   "posted_at": "2026-10-12",
-   "first_seen_at": "2026-10-12T11:39:15Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
   },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533",
