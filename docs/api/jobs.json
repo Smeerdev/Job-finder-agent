@@ -1,8 +1,127 @@
 {
- "generated_at": "2026-10-12T03:57:20Z",
+ "generated_at": "2026-10-12T11:39:15Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 34,
+ "count": 42,
  "jobs": [
+  {
+   "id": "workday:ag:/job/Bangalore-Area/Internship--AI_JR10449039",
+   "company": "Airbus",
+   "title": "Internship  AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore Area",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039",
+   "posted_at": "2026-10-12T00:00:00Z",
+   "first_seen_at": "2026-10-12T11:39:15Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "LLMs",
+    "GCP",
+    "PostgreSQL"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:ag:/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386",
+   "company": "Airbus",
+   "title": "Technical Data Analyst Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore Area",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386",
+   "posted_at": "2026-10-12T00:00:00Z",
+   "first_seen_at": "2026-10-12T11:39:15Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "workday:ag:/job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435",
+   "company": "Airbus",
+   "title": "Software Engineering Intern – Full Stack (ReactJS / Python)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore Area",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Software-Engineering-Intern---Full-Stack--ReactJS---Python-_JR10449435",
+   "posted_at": "2026-10-12T00:00:00Z",
+   "first_seen_at": "2026-10-12T11:39:15Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Git"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:bakertilly:/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461",
+   "company": "Baker Tilly",
+   "title": "Associate - AI Solutions Engineering - Managed Services",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "IND KA Bangalore - Cherry Hills",
+   "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461",
+   "posted_at": "2026-10-12T00:00:00Z",
+   "first_seen_at": "2026-10-12T11:39:15Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "React",
+    "AWS",
+    "Azure"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "oracle:hdjq.fa.us2.oraclecloud.com:26011734",
+   "company": "Emerson Electric",
+   "title": "Metrology Software Engineering Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "DEBRECEN, HAJDÚ BIHAR, Hungary",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734",
+   "posted_at": "2026-10-12",
+   "first_seen_at": "2026-10-12T11:39:15Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:oaktree:/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533",
+   "company": "Oaktree Capital Management",
+   "title": "Associate - Software Engineer Investment Systems and Integration (.Net Engineer)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533",
+   "posted_at": "2026-10-12T00:00:00Z",
+   "first_seen_at": "2026-10-12T11:39:15Z",
+   "salary": null,
+   "skills": [
+    "C#",
+    "TypeScript",
+    "SQL",
+    "Swift",
+    "React",
+    "Azure",
+    "Kubernetes",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214849",
    "company": "DTCC",
@@ -317,6 +436,29 @@
    "source": "ashby"
   },
   {
+   "id": "workday:dow:/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910",
+   "company": "Dow Chemical Company",
+   "title": "Associate Full-Stack Developer (.Net/Angular/Azure)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Navi Mumbai (IND)",
+   "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910",
+   "posted_at": "2026-09-25T00:00:00Z",
+   "first_seen_at": "2026-09-25T17:52:00Z",
+   "salary": null,
+   "skills": [
+    "C#",
+    "TypeScript",
+    "SQL",
+    "React",
+    "Angular",
+    ".NET",
+    "Azure"
+   ],
+   "source": "workday"
+  },
+  {
    "id": "workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820",
    "company": "PPLSI",
    "title": "Associate IBMi Software Engineer",
@@ -393,24 +535,6 @@
    "source": "workday"
   },
   {
-   "id": "greenhouse:thoughtworks:8210384",
-   "company": "Thoughtworks",
-   "title": "Developer (Vapasi) - Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384",
-   "posted_at": "2026-09-17T03:51:28-04:00",
-   "first_seen_at": "2026-09-17T13:05:48Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "React"
-   ],
-   "source": "greenhouse"
-  },
-  {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
    "company": "Ancestry",
    "title": "Data Science - AI Document Understanding, Co-op",
@@ -452,6 +576,25 @@
    "source": "workday"
   },
   {
+   "id": "workday:oaktree:/job/Hyderabad/Associate--ServiceNow-Developer_2026-85",
+   "company": "Oaktree Capital Management",
+   "title": "Associate, ServiceNow Developer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--ServiceNow-Developer_2026-85",
+   "posted_at": "2026-08-17T00:00:00Z",
+   "first_seen_at": "2026-08-17T08:40:34Z",
+   "salary": null,
+   "skills": [
+    "JavaScript",
+    "React",
+    "Angular"
+   ],
+   "source": "workday"
+  },
+  {
    "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
    "company": "Ancestry",
    "title": "Machine Learning Engineer, Co-op",
@@ -472,6 +615,21 @@
     "LLMs",
     "Node.js"
    ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
+   "company": "Oaktree Capital Management",
+   "title": "Associate, Workday Financial Developer (L3)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
+   "posted_at": "2026-08-04T00:00:00Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
+   "salary": null,
+   "skills": [],
    "source": "workday"
   },
   {
