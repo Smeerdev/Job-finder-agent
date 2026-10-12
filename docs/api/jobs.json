@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-11T23:28:31Z",
+ "generated_at": "2026-10-12T03:57:20Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 35,
+ "count": 34,
  "jobs": [
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214849",
@@ -428,26 +428,6 @@
     "AWS"
    ],
    "source": "workday"
-  },
-  {
-   "id": "smartrecruiters:AristaNetworks:744000149101159",
-   "company": "Arista Networks",
-   "title": "Intern Software Engineer - C/C++",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Poland - Remote, PL (Remote)",
-   "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000149101159",
-   "posted_at": "2026-09-11T20:06:57.121Z",
-   "first_seen_at": "2026-09-11T21:35:26Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++",
-    "Linux",
-    "Git"
-   ],
-   "source": "smartrecruiters"
   },
   {
    "id": "workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442",

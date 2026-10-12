@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-11T23:28:31Z</updated>
+  <updated>2026-10-12T03:57:20Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214849</id>
     <title>DTCC: IT Embedded Risk Associate</title>
@@ -221,14 +221,6 @@
     <updated>2026-09-12T11:59:28Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AristaNetworks:744000149101159</id>
-    <title>Arista Networks: Intern Software Engineer - C/C++</title>
-    <link href="https://jobs.smartrecruiters.com/AristaNetworks/744000149101159"/>
-    <updated>2026-09-11T21:35:26Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Poland - Remote, PL (Remote) · Python, C++, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442</id>
