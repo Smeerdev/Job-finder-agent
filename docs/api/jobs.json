@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-10-13T17:32:04Z",
+ "generated_at": "2026-10-13T22:17:47Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 37,
+ "count": 38,
  "jobs": [
+  {
+   "id": "workday:rollsroyce:/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
+   "company": "Rolls-Royce",
+   "title": "Integrated Control Systems Engineer Intern (Software)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Indianapolis",
+   "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
+   "posted_at": "2026-10-13T00:00:00Z",
+   "first_seen_at": "2026-10-13T22:17:47Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "workday:ag:/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
    "company": "Airbus",

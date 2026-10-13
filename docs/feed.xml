@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-13T17:32:04Z</updated>
+  <updated>2026-10-13T22:17:47Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:rollsroyce:/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452</id>
+    <title>Rolls-Royce: Integrated Control Systems Engineer Intern (Software)</title>
+    <link href="https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452"/>
+    <updated>2026-10-13T22:17:47Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Indianapolis</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231</id>
     <title>Airbus: Internship - DCC AI and Automation</title>
