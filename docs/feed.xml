@@ -5,7 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-13T02:27:49Z</updated>
+  <updated>2026-10-13T10:05:15Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944</id>
+    <title>Airbus: Internship - AI for In-Service Engineering</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944"/>
+    <updated>2026-10-13T10:05:15Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore Area · Python, PyTorch, TensorFlow, LLMs, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159846</id>
+    <title>Honeywell: Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159846"/>
+    <updated>2026-10-13T10:05:15Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159863</id>
+    <title>Honeywell: Intern Bachelors Software Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159863"/>
+    <updated>2026-10-13T10:05:15Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, Telangana, India · Python, Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159866</id>
+    <title>Honeywell: Intern Bachelors Embedded Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159866"/>
+    <updated>2026-10-13T10:05:15Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bengaluru, Karnataka, India · C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011734</id>
     <title>Emerson Electric: Metrology Software Engineering Intern</title>
@@ -13,14 +45,6 @@
     <updated>2026-10-12T11:39:15Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · DEBRECEN, HAJDÚ BIHAR, Hungary</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Internship--AI_JR10449039</id>
-    <title>Airbus: Internship  AI</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039"/>
-    <updated>2026-10-12T11:39:15Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore Area · Python, PyTorch, TensorFlow, LLMs, GCP</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533</id>
@@ -151,22 +175,6 @@
     <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163</id>
-    <title>PTC: Associate Software Analyst</title>
-    <link href="https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163"/>
-    <updated>2026-09-29T14:39:26Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Pune, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:coherehealth:7728230003</id>
-    <title>Cohere Health: Associate Software Engineer</title>
-    <link href="https://job-boards.greenhouse.io/coherehealth/jobs/7728230003"/>
-    <updated>2026-09-28T14:59:03Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, Telangana, India · Python, Java, TypeScript, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:instahyre:zetwerk:444501</id>
     <title>Zetwerk: DevOps Engineer - Intern</title>
     <link href="https://www.instahyre.com/job-444501-devops-engineer-intern-internship-at-zetwerk-bangalore/"/>
@@ -205,6 +213,14 @@
     <updated>2026-09-24T15:48:22Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Remote Job Posting · C#, SQL, Node.js, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879</id>
+    <title>Marvell: Intern, Software Engineer</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879"/>
+    <updated>2026-09-24T11:02:05Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad · Python, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c</id>

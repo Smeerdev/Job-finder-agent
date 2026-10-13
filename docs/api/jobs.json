@@ -1,8 +1,80 @@
 {
- "generated_at": "2026-10-13T02:27:49Z",
+ "generated_at": "2026-10-13T10:05:15Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 39,
+ "count": 41,
  "jobs": [
+  {
+   "id": "workday:ag:/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944",
+   "company": "Airbus",
+   "title": "Internship - AI for In-Service Engineering",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore Area",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944",
+   "posted_at": "2026-10-13T00:00:00Z",
+   "first_seen_at": "2026-10-13T10:05:15Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "LLMs",
+    "Git"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159846",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159846",
+   "posted_at": "2026-10-13",
+   "first_seen_at": "2026-10-13T10:05:15Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159863",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159863",
+   "posted_at": "2026-10-13",
+   "first_seen_at": "2026-10-13T10:05:15Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159866",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Embedded Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159866",
+   "posted_at": "2026-10-13",
+   "first_seen_at": "2026-10-13T10:05:15Z",
+   "salary": null,
+   "skills": [
+    "C++"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "oracle:hdjq.fa.us2.oraclecloud.com:26011734",
    "company": "Emerson Electric",
@@ -17,28 +89,6 @@
    "salary": null,
    "skills": [],
    "source": "oracle"
-  },
-  {
-   "id": "workday:ag:/job/Bangalore-Area/Internship--AI_JR10449039",
-   "company": "Airbus",
-   "title": "Internship  AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore Area",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039",
-   "posted_at": "2026-10-12T00:00:00Z",
-   "first_seen_at": "2026-10-12T11:39:15Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "LLMs",
-    "GCP",
-    "PostgreSQL"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533",
@@ -297,21 +347,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163",
-   "company": "PTC",
-   "title": "Associate Software Analyst",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune, India",
-   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163",
-   "posted_at": "2026-09-29T00:00:00Z",
-   "first_seen_at": "2026-09-29T14:39:26Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
-  {
    "id": "greenhouse:thoughtworks:8236673",
    "company": "Thoughtworks",
    "title": "Software Procurement Intern",
@@ -326,30 +361,6 @@
    "skills": [
     "Vue",
     "AWS"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:coherehealth:7728230003",
-   "company": "Cohere Health",
-   "title": "Associate Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7728230003",
-   "posted_at": "2026-09-28T10:26:25-04:00",
-   "first_seen_at": "2026-09-28T14:59:03Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "TypeScript",
-    "JavaScript",
-    "LLMs",
-    "React",
-    "AWS",
-    "Azure"
    ],
    "source": "greenhouse"
   },
@@ -417,6 +428,24 @@
     "SQL",
     "Node.js",
     "Git"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
+   "posted_at": "2026-09-24T00:00:00Z",
+   "first_seen_at": "2026-09-24T11:02:05Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Linux"
    ],
    "source": "workday"
   },
