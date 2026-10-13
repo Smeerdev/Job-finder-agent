@@ -3199,6 +3199,11 @@
     "site": "AzentaJobs"
   },
   {
+    "name": "Azul Systems",
+    "slug": "azul",
+    "ats": "lever"
+  },
+  {
     "name": "Azuria Corporation",
     "slug": "aegion",
     "ats": "workday",
@@ -4487,6 +4492,11 @@
     "name": "Brillio",
     "slug": "brillioinc",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Brillio",
+    "slug": "brillio-2",
+    "ats": "lever"
   },
   {
     "name": "BRINC Drones",
@@ -11932,6 +11942,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Goodlord",
+    "slug": "goodlord",
+    "ats": "ashby"
+  },
+  {
     "name": "Goodnotes",
     "slug": "goodnotes",
     "ats": "greenhouse"
@@ -15512,6 +15527,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Lake Michigan Credit Union",
+    "slug": "lmcu",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "lmcucareersite"
+  },
+  {
     "name": "Lamb Weston",
     "slug": "lambweston",
     "ats": "workday",
@@ -15865,6 +15887,11 @@
     "name": "Liberty Mutual",
     "slug": "team-libertymutual",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Liberty Mutual Canada",
+    "slug": "liberty-mutual-canada",
+    "ats": "workable"
   },
   {
     "name": "Liberty University",
@@ -17344,6 +17371,11 @@
     "name": "MemryX",
     "slug": "memryx",
     "ats": "rippling"
+  },
+  {
+    "name": "MEMX",
+    "slug": "memx",
+    "ats": "greenhouse"
   },
   {
     "name": "Menasha Corporation",
@@ -21735,6 +21767,13 @@
     "name": "Prolaio",
     "slug": "prolaio",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Prologis",
+    "slug": "prologis",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "Prologis_External_Careers"
   },
   {
     "name": "Promise Robotics",
