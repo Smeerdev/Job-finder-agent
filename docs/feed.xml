@@ -5,14 +5,14 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-13T10:05:15Z</updated>
+  <updated>2026-10-13T17:32:04Z</updated>
   <entry>
-    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944</id>
-    <title>Airbus: Internship - AI for In-Service Engineering</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944"/>
-    <updated>2026-10-13T10:05:15Z</updated>
+    <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231</id>
+    <title>Airbus: Internship - DCC AI and Automation</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231"/>
+    <updated>2026-10-13T17:32:04Z</updated>
     <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore Area · Python, PyTorch, TensorFlow, LLMs, Git</summary>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore Area · Python, SQL, LLMs, React, Node.js</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159846</id>
@@ -39,44 +39,12 @@
     <summary>2026 Graduates · Software · Bengaluru, Karnataka, India · C++</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011734</id>
-    <title>Emerson Electric: Metrology Software Engineering Intern</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734"/>
-    <updated>2026-10-12T11:39:15Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · DEBRECEN, HAJDÚ BIHAR, Hungary</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533</id>
     <title>Oaktree Capital Management: Associate - Software Engineer Investment Systems and Integration (.Net Engineer)</title>
     <link href="https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533"/>
     <updated>2026-10-12T11:39:15Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad · C#, TypeScript, SQL, Swift, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214849</id>
-    <title>DTCC: IT Embedded Risk Associate</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214849"/>
-    <updated>2026-10-09T15:51:09Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214905</id>
-    <title>DTCC: Software Engineering Associate</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214905"/>
-    <updated>2026-10-09T15:51:09Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214906</id>
-    <title>DTCC: Software Developers in Test Associate</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214906"/>
-    <updated>2026-10-09T15:51:09Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India · Python, Java, SQL, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:figure:8860509002</id>

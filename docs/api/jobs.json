@@ -1,26 +1,29 @@
 {
- "generated_at": "2026-10-13T10:05:15Z",
+ "generated_at": "2026-10-13T17:32:04Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 41,
+ "count": 37,
  "jobs": [
   {
-   "id": "workday:ag:/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944",
+   "id": "workday:ag:/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
    "company": "Airbus",
-   "title": "Internship - AI for In-Service Engineering",
+   "title": "Internship - DCC AI and Automation",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Data & ML/AI",
    "location": "Bangalore Area",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---AI-for-In-Service-Engineering_JR10449944",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
    "posted_at": "2026-10-13T00:00:00Z",
-   "first_seen_at": "2026-10-13T10:05:15Z",
+   "first_seen_at": "2026-10-13T17:32:04Z",
    "salary": null,
    "skills": [
     "Python",
-    "PyTorch",
-    "TensorFlow",
+    "SQL",
     "LLMs",
-    "Git"
+    "React",
+    "Node.js",
+    "AWS",
+    "Linux",
+    "Spark"
    ],
    "source": "workday"
   },
@@ -76,21 +79,6 @@
    "source": "oracle"
   },
   {
-   "id": "oracle:hdjq.fa.us2.oraclecloud.com:26011734",
-   "company": "Emerson Electric",
-   "title": "Metrology Software Engineering Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "DEBRECEN, HAJDÚ BIHAR, Hungary",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734",
-   "posted_at": "2026-10-12",
-   "first_seen_at": "2026-10-12T11:39:15Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
    "id": "workday:oaktree:/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533",
    "company": "Oaktree Capital Management",
    "title": "Associate - Software Engineer Investment Systems and Integration (.Net Engineer)",
@@ -113,56 +101,6 @@
     "Git"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214849",
-   "company": "DTCC",
-   "title": "IT Embedded Risk Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214849",
-   "posted_at": "2026-10-09",
-   "first_seen_at": "2026-10-09T15:51:09Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214905",
-   "company": "DTCC",
-   "title": "Software Engineering Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214905",
-   "posted_at": "2026-10-09",
-   "first_seen_at": "2026-10-09T15:51:09Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214906",
-   "company": "DTCC",
-   "title": "Software Developers in Test Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214906",
-   "posted_at": "2026-10-09",
-   "first_seen_at": "2026-10-09T15:51:09Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "Git"
-   ],
-   "source": "oracle"
   },
   {
    "id": "greenhouse:figure:8860509002",
