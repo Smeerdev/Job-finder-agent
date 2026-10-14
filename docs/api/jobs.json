@@ -1,22 +1,25 @@
 {
- "generated_at": "2026-10-14T07:07:49Z",
+ "generated_at": "2026-10-14T12:54:40Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 37,
  "jobs": [
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159828",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
+   "id": "greenhouse:cloudflare:8278383",
+   "company": "Cloudflare",
+   "title": "Infrastructure Business Operations Associate",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159828",
-   "posted_at": "2026-10-14",
-   "first_seen_at": "2026-10-14T07:07:49Z",
+   "category": "Software",
+   "location": "Hybrid",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8278383?gh_jid=8278383",
+   "posted_at": "2026-10-14T06:41:19-04:00",
+   "first_seen_at": "2026-10-14T12:54:40Z",
    "salary": null,
-   "skills": [],
-   "source": "oracle"
+   "skills": [
+    "SQL",
+    "GCP"
+   ],
+   "source": "greenhouse"
   },
   {
    "id": "workday:rollsroyce:/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
@@ -34,40 +37,25 @@
    "source": "workday"
   },
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159863",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
+   "id": "workday:bakertilly:/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461",
+   "company": "Baker Tilly",
+   "title": "Associate - AI Solutions Engineering - Managed Services",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159863",
-   "posted_at": "2026-10-13",
-   "first_seen_at": "2026-10-13T10:05:15Z",
+   "category": "Data & ML/AI",
+   "location": "IND KA Bangalore - Cherry Hills",
+   "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461",
+   "posted_at": "2026-10-12T00:00:00Z",
+   "first_seen_at": "2026-10-12T11:39:15Z",
    "salary": null,
    "skills": [
     "Python",
-    "Java",
-    "C++"
+    "SQL",
+    "React",
+    "AWS",
+    "Azure"
    ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159866",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Embedded Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159866",
-   "posted_at": "2026-10-13",
-   "first_seen_at": "2026-10-13T10:05:15Z",
-   "salary": null,
-   "skills": [
-    "C++"
-   ],
-   "source": "oracle"
+   "source": "workday"
   },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533",
@@ -259,6 +247,24 @@
     "Git"
    ],
    "source": "workday"
+  },
+  {
+   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004076",
+   "company": "TriNet",
+   "title": "Associate Data Scientist",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004076",
+   "posted_at": "2026-10-05",
+   "first_seen_at": "2026-10-05T17:48:40Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "oracle"
   },
   {
    "id": "workday:marvell:/job/Bangalore/AI-Intern_2604445",
