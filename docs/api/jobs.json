@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-10-14T01:40:03Z",
+ "generated_at": "2026-10-14T07:07:49Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 37,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159828",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159828",
+   "posted_at": "2026-10-14",
+   "first_seen_at": "2026-10-14T07:07:49Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "workday:rollsroyce:/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
    "company": "Rolls-Royce",
@@ -17,21 +32,6 @@
    "salary": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159846",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159846",
-   "posted_at": "2026-10-13",
-   "first_seen_at": "2026-10-13T10:05:15Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
   },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159863",
