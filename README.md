@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**41 open roles · 11 new this week · 5,422 companies tracked · updated Oct 15, 2026 at 10:48 UTC**
+**41 open roles · 11 new this week · 5,429 companies tracked · updated Oct 15, 2026 at 15:33 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -18,8 +18,8 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Honeywell | Intern Bachelors AI Eng ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru, Karnataka, India | Oct 15, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159805) |
-| Honeywell | Intern Bachelors Embedded Eng ~ 🆕 | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159975) |
 | Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159818) |
+| Honeywell | Intern Bachelors Embedded Eng ~ 🆕 | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159975) |
 | Marvell | Generative AI Forward Deployed Engineer Intern- Master's Degree ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore | Oct 15, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231) |
 | Cloudflare | Infrastructure Business Operations Associate ~ 🆕 | Software | B.Tech/BS | Hybrid | Oct 14, 2026 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8278383?gh_jid=8278383) |
 | Rolls-Royce | Integrated Control Systems Engineer Intern (Software) ~ 🆕 | Software | B.Tech/BS | Indianapolis | Oct 13, 2026 | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452) |
@@ -199,7 +199,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,422 companies across 24 ATS platforms · 98% fetch success · completed in 348.7s · median detection latency 686 min · real posted dates on 82% of open roles._
+_Engine (last run): 5,429 companies across 24 ATS platforms · 99% fetch success · completed in 353.4s · median detection latency 686 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 
