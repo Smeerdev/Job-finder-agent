@@ -1,22 +1,84 @@
 {
- "generated_at": "2026-10-15T05:36:07Z",
+ "generated_at": "2026-10-15T10:48:46Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 38,
+ "count": 41,
  "jobs": [
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159740",
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159805",
    "company": "Honeywell",
-   "title": "Intern Bachelors AI",
+   "title": "Intern Bachelors AI Eng",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Data & ML/AI",
-   "location": "Madurai, Tamil Nadu, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159740",
-   "posted_at": "2026-10-14",
-   "first_seen_at": "2026-10-14T21:18:10Z",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159805",
+   "posted_at": "2026-10-15",
+   "first_seen_at": "2026-10-15T10:48:46Z",
    "salary": null,
-   "skills": [],
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
    "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159975",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Embedded Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159975",
+   "posted_at": "2026-10-15",
+   "first_seen_at": "2026-10-15T10:48:46Z",
+   "salary": null,
+   "skills": [
+    "C++"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159818",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159818",
+   "posted_at": "2026-10-15",
+   "first_seen_at": "2026-10-15T10:48:46Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
+   "company": "Marvell",
+   "title": "Generative AI Forward Deployed Engineer Intern- Master's Degree",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
+   "posted_at": "2026-10-15T00:00:00Z",
+   "first_seen_at": "2026-10-15T10:48:46Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "PyTorch",
+    "TensorFlow",
+    "LLMs",
+    "Git"
+   ],
+   "source": "workday"
   },
   {
    "id": "greenhouse:cloudflare:8278383",
@@ -297,6 +359,21 @@
    "source": "workday"
   },
   {
+   "id": "workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163",
+   "company": "PTC",
+   "title": "Associate Software Analyst",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune, India",
+   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163",
+   "posted_at": "2026-09-29T00:00:00Z",
+   "first_seen_at": "2026-09-29T14:39:26Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
    "id": "greenhouse:thoughtworks:8236673",
    "company": "Thoughtworks",
    "title": "Software Procurement Intern",
@@ -382,24 +459,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "first_seen_at": "2026-09-24T11:02:05Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
    "company": "Lean TECHniques",
    "title": "Software Engineer Intern - Hybrid",
@@ -435,27 +494,6 @@
    "source": "ashby"
   },
   {
-   "id": "workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
-   "company": "Altera Corporation",
-   "title": "AI Automation Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "first_seen_at": "2026-09-18T22:15:28Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "JavaScript",
-    "SQL",
-    "LLMs",
-    "Git"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
    "company": "Ancestry",
    "title": "Data Science - AI Document Understanding, Co-op",
@@ -471,6 +509,25 @@
     "Python",
     "LLMs",
     "AWS"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241",
+   "posted_at": "2026-09-15T00:00:00Z",
+   "first_seen_at": "2026-09-15T15:31:31Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Kubernetes",
+    "Linux"
    ],
    "source": "workday"
   },
