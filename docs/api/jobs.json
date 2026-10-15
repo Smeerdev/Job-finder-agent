@@ -1,8 +1,29 @@
 {
- "generated_at": "2026-10-15T15:33:29Z",
+ "generated_at": "2026-10-15T19:45:35Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 41,
  "jobs": [
+  {
+   "id": "ashby:quora:40659fe7-545e-4b08-b6d7-2567b18b9ed3",
+   "company": "Quora",
+   "title": "Machine Learning Engineer, New Grad - Quora (Remote)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Remote - Multiple Locations",
+   "url": "https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3",
+   "posted_at": "2026-10-15T16:18:53.230+00:00",
+   "first_seen_at": "2026-10-15T19:45:35Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "LLMs",
+    "Kubernetes"
+   ],
+   "source": "ashby"
+  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159805",
    "company": "Honeywell",
@@ -111,27 +132,6 @@
    "first_seen_at": "2026-10-13T22:17:47Z",
    "salary": null,
    "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:bakertilly:/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461",
-   "company": "Baker Tilly",
-   "title": "Associate - AI Solutions Engineering - Managed Services",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "IND KA Bangalore - Cherry Hills",
-   "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/IND-KA-Bangalore---Cherry-Hills/Associate---AI-Solutions-Engineering---Managed-Services_JR108461",
-   "posted_at": "2026-10-12T00:00:00Z",
-   "first_seen_at": "2026-10-12T11:39:15Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "React",
-    "AWS",
-    "Azure"
-   ],
    "source": "workday"
   },
   {
