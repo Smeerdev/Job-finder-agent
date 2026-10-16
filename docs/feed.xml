@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-16T01:05:16Z</updated>
+  <updated>2026-10-16T05:36:09Z</updated>
+  <entry>
+    <id>urn:intern-engine:instahyre:sstpath:447008</id>
+    <title>SSTPath: Angular Developer - Intern</title>
+    <link href="https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/"/>
+    <updated>2026-10-16T05:36:09Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bangalore,Hyderabad</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:quora:40659fe7-545e-4b08-b6d7-2567b18b9ed3</id>
     <title>Quora: Machine Learning Engineer, New Grad - Quora (Remote)</title>

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-16T01:05:16Z",
+ "generated_at": "2026-10-16T05:36:09Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 41,
+ "count": 42,
  "jobs": [
   {
    "id": "ashby:quora:40659fe7-545e-4b08-b6d7-2567b18b9ed3",
@@ -663,6 +663,21 @@
    "salary": null,
    "skills": [],
    "source": "workday"
+  },
+  {
+   "id": "instahyre:sstpath:447008",
+   "company": "SSTPath",
+   "title": "Angular Developer - Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore,Hyderabad",
+   "url": "https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/",
+   "posted_at": null,
+   "first_seen_at": "2026-10-16T05:36:09Z",
+   "salary": null,
+   "skills": [],
+   "source": "instahyre"
   },
   {
    "id": "instahyre:algouniversity:444755",
