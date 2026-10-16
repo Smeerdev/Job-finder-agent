@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-16T19:19:11Z",
+ "generated_at": "2026-10-16T22:30:22Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 41,
+ "count": 40,
  "jobs": [
   {
    "id": "greenhouse:ispottv:4742654005",
@@ -145,27 +145,6 @@
     "Git"
    ],
    "source": "workday"
-  },
-  {
-   "id": "greenhouse:figure:8860509002",
-   "company": "Figure",
-   "title": "Associate AI Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://job-boards.greenhouse.io/figure/jobs/8860509002",
-   "posted_at": "2026-10-08T14:59:18-04:00",
-   "first_seen_at": "2026-10-08T21:52:31Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "TypeScript",
-    "SQL",
-    "LLMs",
-    "Docker"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "greenhouse:guidepointsecurity:6218650004",
