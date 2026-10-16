@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**42 open roles · 9 new this week · 5,429 companies tracked · updated Oct 16, 2026 at 05:36 UTC**
+**40 open roles · 7 new this week · 5,429 companies tracked · updated Oct 16, 2026 at 10:37 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,14 +13,12 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (42 open)
+## 2026 Graduates (International)  (40 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Novartis | Intern AI & Data Science ~ 🆕 | Data & ML/AI | M.Tech/MS | Hyderabad (Office) | Oct 16, 2026 | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1) |
 | Quora | Machine Learning Engineer, New Grad - Quora (Remote) ~ 🆕 | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Oct 15, 2026 | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3) |
-| Honeywell | Intern Bachelors AI Eng ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru, Karnataka, India | Oct 15, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159805) |
-| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159818) |
-| Honeywell | Intern Bachelors Embedded Eng ~ 🆕 | Software | B.Tech/BS | Hyderabad, Telangana, India | Oct 15, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159975) |
 | Marvell | Generative AI Forward Deployed Engineer Intern- Master's Degree ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore | Oct 15, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231) |
 | Cloudflare | Infrastructure Business Operations Associate ~ 🆕 | Software | B.Tech/BS | Hybrid | Oct 14, 2026 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8278383?gh_jid=8278383) |
 | Rolls-Royce | Integrated Control Systems Engineer Intern (Software) ~ | Software | B.Tech/BS | Indianapolis | Oct 13, 2026 | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452) |
@@ -60,7 +58,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (40 of 42)._
+_~ = the title doesn't state a year; bucketed here from its posting date (38 of 40)._
 
 ## What this is
 
@@ -142,6 +140,9 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors AI Eng | 2026 Graduates | 2026-10-16 |
+| Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-16 |
+| Honeywell | Intern Bachelors Embedded Eng | 2026 Graduates | 2026-10-16 |
 | Baker Tilly | Associate - AI Solutions Engineering - Managed Services | 2026 Graduates | 2026-10-15 |
 | Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-10-15 |
 | Altera Corporation | AI Automation Intern | 2026 Graduates | 2026-10-15 |
@@ -179,9 +180,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Aera Technology | Associate Data Scientist – Modeling, Analytics & Pipelines | 2026 Graduates | 2026-10-06 |
 | Marvell | Software QA Automation Intern | 2026 Graduates | 2026-10-06 |
 | TWG Global | AI Data Science Intern (UK) | 2026 Graduates | 2026-10-06 |
-| GE Aerospace | Data Science -Intern | 2026 Graduates | 2026-10-05 |
-| Zensar | ESaaS - MSD -Technical- D365 CE Developer Associate | 2026 Graduates | 2026-10-05 |
-| Marvell | Intern, Software QA Engineer | 2026 Graduates | 2026-10-04 |
 
 </details>
 
@@ -200,7 +198,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,429 companies across 24 ATS platforms · 98% fetch success · completed in 445.9s · median detection latency 674 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,429 companies across 24 ATS platforms · 98% fetch success · completed in 431.9s · median detection latency 662 min · real posted dates on 80% of open roles._
 
 ## Platforms Scraped
 

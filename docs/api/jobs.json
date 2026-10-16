@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-10-16T05:36:09Z",
+ "generated_at": "2026-10-16T10:37:08Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 42,
+ "count": 40,
  "jobs": [
+  {
+   "id": "workday:novartis:/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1",
+   "company": "Novartis",
+   "title": "Intern AI & Data Science",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad (Office)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1",
+   "posted_at": "2026-10-16T00:00:00Z",
+   "first_seen_at": "2026-10-16T10:37:07Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "LLMs",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Git",
+    "Spark"
+   ],
+   "source": "workday"
+  },
   {
    "id": "ashby:quora:40659fe7-545e-4b08-b6d7-2567b18b9ed3",
    "company": "Quora",
@@ -23,61 +47,6 @@
     "Kubernetes"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159805",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159805",
-   "posted_at": "2026-10-15",
-   "first_seen_at": "2026-10-15T10:48:46Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Tableau"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159818",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159818",
-   "posted_at": "2026-10-15",
-   "first_seen_at": "2026-10-15T10:48:46Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159975",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Embedded Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159975",
-   "posted_at": "2026-10-15",
-   "first_seen_at": "2026-10-15T10:48:46Z",
-   "salary": null,
-   "skills": [
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
