@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**41 open roles · 7 new this week · 5,434 companies tracked · updated Oct 16, 2026 at 15:13 UTC**
+**41 open roles · 8 new this week · 5,434 companies tracked · updated Oct 16, 2026 at 19:19 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,6 +17,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| iSpot.tv | Associate Data Analyst ~ 🆕 | Data & ML/AI | $76.787k–$92.916k/yr<br>B.Tech/BS | Remote | Oct 16, 2026 | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4742654005) |
 | Novartis | Intern AI & Data Science ~ 🆕 | Data & ML/AI | M.Tech/MS | Hyderabad (Office) | Oct 16, 2026 | [Apply](https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1) |
 | Quora | Machine Learning Engineer, New Grad - Quora (Remote) ~ 🆕 | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Oct 15, 2026 | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3) |
 | Marvell | Generative AI Forward Deployed Engineer Intern- Master's Degree ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore | Oct 15, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231) |
@@ -38,7 +39,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Thoughtworks | Software Procurement Intern | Software | 0-1 Yr<br>B.Tech/BS | Gurgaon, India; Pune, India | Sep 28, 2026 | [Apply](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
 | Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Sep 25, 2026 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0) |
 | Dow Chemical Company | Associate Full-Stack Developer (.Net/Angular/Azure) ~ | Software | B.Tech/BS | Navi Mumbai (IND) | Sep 25, 2026 | [Apply](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910) |
-| PPLSI | Associate IBMi Software Engineer ~ | Software | B.Tech/BS | Remote Job Posting | Sep 24, 2026 | [Apply](https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) |
 | Lean TECHniques | Software Engineer Intern - Hybrid ~ | Software | B.Tech/BS | Hybrid | Sep 22, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c) |
 | Qumulo | Software Development Engineer (New Grad / Entry Level) ~ | Software | $110k–$140k/yr<br>B.Tech/BS | Seattle (hybrid) | Sep 21, 2026 | [Apply](https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc) |
 | Ancestry | Data Science - AI Document Understanding, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 16, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
@@ -141,6 +141,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| PPLSI | Associate IBMi Software Engineer | 2026 Graduates | 2026-10-16 |
 | Honeywell | Intern Bachelors AI Eng | 2026 Graduates | 2026-10-16 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-16 |
 | Honeywell | Intern Bachelors Embedded Eng | 2026 Graduates | 2026-10-16 |
@@ -180,7 +181,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Aera Technology | Associate Data Scientist – Modeling, Analytics & Pipelines | 2026 Graduates | 2026-10-06 |
 | Marvell | Software QA Automation Intern | 2026 Graduates | 2026-10-06 |
 | TWG Global | AI Data Science Intern (UK) | 2026 Graduates | 2026-10-06 |
-| GE Aerospace | Data Science -Intern | 2026 Graduates | 2026-10-05 |
 
 </details>
 
@@ -199,7 +199,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,434 companies across 24 ATS platforms · 98% fetch success · completed in 366.0s · median detection latency 674 min · real posted dates on 80% of open roles._
+_Engine (last run): 5,434 companies across 24 ATS platforms · 99% fetch success · completed in 393.0s · median detection latency 686 min · real posted dates on 80% of open roles._
 
 ## Platforms Scraped
 

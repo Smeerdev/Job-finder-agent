@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-10-16T15:13:00Z",
+ "generated_at": "2026-10-16T19:19:11Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 41,
  "jobs": [
+  {
+   "id": "greenhouse:ispottv:4742654005",
+   "company": "iSpot.tv",
+   "title": "Associate Data Analyst",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/ispottv/jobs/4742654005",
+   "posted_at": "2026-10-16T12:41:59-04:00",
+   "first_seen_at": "2026-10-16T19:19:10Z",
+   "salary": "$76.787k–$92.916k/yr",
+   "skills": [
+    "Python",
+    "SQL",
+    "AWS"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "workday:novartis:/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1",
    "company": "Novartis",
@@ -423,26 +442,6 @@
     "Angular",
     ".NET",
     "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820",
-   "company": "PPLSI",
-   "title": "Associate IBMi Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote Job Posting",
-   "url": "https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "first_seen_at": "2026-09-24T15:48:22Z",
-   "salary": null,
-   "skills": [
-    "C#",
-    "SQL",
-    "Node.js",
-    "Git"
    ],
    "source": "workday"
   },

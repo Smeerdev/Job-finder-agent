@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-16T15:13:00Z</updated>
+  <updated>2026-10-16T19:19:11Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:ispottv:4742654005</id>
+    <title>iSpot.tv: Associate Data Analyst</title>
+    <link href="https://job-boards.greenhouse.io/ispottv/jobs/4742654005"/>
+    <updated>2026-10-16T19:19:10Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Remote · $76.787k–$92.916k/yr · Python, SQL, AWS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:novartis:/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1</id>
     <title>Novartis: Intern AI &amp; Data Science</title>
@@ -213,14 +221,6 @@
     <updated>2026-09-24T15:48:22Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Seattle (hybrid) · $110k–$140k/yr · Python, Java, C++, Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:legalshieldcorp:/job/Remote-Job-Posting/Software-Engineer_R0002820</id>
-    <title>PPLSI: Associate IBMi Software Engineer</title>
-    <link href="https://legalshieldcorp.wd1.myworkdayjobs.com/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820"/>
-    <updated>2026-09-24T15:48:22Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Remote Job Posting · C#, SQL, Node.js, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c</id>
