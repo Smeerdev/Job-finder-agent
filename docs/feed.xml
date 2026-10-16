@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-16T10:37:08Z</updated>
+  <updated>2026-10-16T15:13:00Z</updated>
   <entry>
     <id>urn:intern-engine:workday:novartis:/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1</id>
     <title>Novartis: Intern AI &amp; Data Science</title>
@@ -85,6 +85,14 @@
     <updated>2026-10-08T21:52:31Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Remote · $20/hr · Python, LLMs, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214802</id>
+    <title>DTCC: Software Engineering Associate</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214802"/>
+    <updated>2026-10-08T16:07:45Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, India · Java, AWS, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5712</id>
