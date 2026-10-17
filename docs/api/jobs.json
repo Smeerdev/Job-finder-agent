@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-17T16:53:33Z",
+ "generated_at": "2026-10-17T19:05:03Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 40,
+ "count": 39,
  "jobs": [
   {
    "id": "greenhouse:ispottv:4742654005",
@@ -21,30 +21,6 @@
     "AWS"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:novartis:/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1",
-   "company": "Novartis",
-   "title": "Intern AI & Data Science",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad (Office)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1",
-   "posted_at": "2026-10-16T00:00:00Z",
-   "first_seen_at": "2026-10-16T10:37:07Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Git",
-    "Spark"
-   ],
-   "source": "workday"
   },
   {
    "id": "ashby:quora:40659fe7-545e-4b08-b6d7-2567b18b9ed3",
