@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**39 open roles · 7 new this week · 5,447 companies tracked · updated Oct 18, 2026 at 02:44 UTC**
+**39 open roles · 7 new this week · 5,447 companies tracked · updated Oct 18, 2026 at 07:47 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -48,7 +48,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
 | Oaktree Capital Management | Associate - Workday reporting developer ~ | Software | B.Tech/BS | Hyderabad | Jun 30, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Workday-reporting-developer_2026-337) |
 | Valeo | Intern - AI ~ | Data & ML/AI | — | Chennai | Aug 06, 2025 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
-| SSTPath | Angular Developer - Intern ~ 🆕 | Software | — | Bangalore,Hyderabad | — | [Apply](https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/) |
+| SSTPath | Angular Developer - Intern ~ | Software | — | Bangalore,Hyderabad | — | [Apply](https://www.instahyre.com/job-447008-angular-developer-intern-internship-at-sstpath-bangalore-hyderabad/) |
 | AlgoUniversity | Teaching & Software Engineering Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-444755-teaching-software-engineering-intern-internship-at-algouniversity-2-bangalore/) |
 | Pradrix | AI / ML Engineer - Intern ~ | Data & ML/AI | — | Work From Home | — | [Apply](https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/) |
 | Zetwerk | DevOps Engineer - Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-444501-devops-engineer-intern-internship-at-zetwerk-bangalore/) |
@@ -197,7 +197,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,447 companies across 24 ATS platforms · 93% fetch success · completed in 464.9s · median detection latency 686 min · real posted dates on 79% of open roles._
+_Engine (last run): 5,447 companies across 24 ATS platforms · 98% fetch success · completed in 358.8s · median detection latency 686 min · real posted dates on 79% of open roles._
 
 ## Platforms Scraped
 
