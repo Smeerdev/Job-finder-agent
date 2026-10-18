@@ -16341,6 +16341,11 @@
     "ats": "lever"
   },
   {
+    "name": "LLNL",
+    "slug": "llnl",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Lloyds Bank",
     "slug": "lbg",
     "ats": "workday",
