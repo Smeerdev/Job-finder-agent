@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-18T22:15:03Z",
+ "generated_at": "2026-10-19T00:47:53Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 39,
+ "count": 38,
  "jobs": [
   {
    "id": "greenhouse:ispottv:4742654005",
@@ -376,29 +376,6 @@
     "Docker"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "workday:dow:/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910",
-   "company": "Dow Chemical Company",
-   "title": "Associate Full-Stack Developer (.Net/Angular/Azure)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Navi Mumbai (IND)",
-   "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Associate-Full-Stack-Developer--Net-Angular-Azure-_R2066910",
-   "posted_at": "2026-09-25T00:00:00Z",
-   "first_seen_at": "2026-09-25T17:52:00Z",
-   "salary": null,
-   "skills": [
-    "C#",
-    "TypeScript",
-    "SQL",
-    "React",
-    "Angular",
-    ".NET",
-    "Azure"
-   ],
-   "source": "workday"
   },
   {
    "id": "ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
