@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**44 open roles · 12 new this week · 5,448 companies tracked · updated Oct 19, 2026 at 11:57 UTC**
+**42 open roles · 11 new this week · 5,450 companies tracked · updated Oct 19, 2026 at 18:16 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,16 +13,15 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (44 open)
+## 2026 Graduates (International)  (42 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| AtkinsRéalis | Data Science Intern ~ 🆕 | Data & ML/AI | — | AtkinsRéalis - Corporate Office Bangalo… | Oct 19, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210) |
-| Autodesk | Intern, Research - Context and Knowledge Systems for AI ~ 🆕 | Data & ML/AI | B.Tech/BS | United Kingdom - Remote | Oct 19, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1) |
+| Priceline | Associate Software Engineer ~ 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Oct 19, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5880) |
 | Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Oct 19, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854) |
+| Autodesk | Intern, Research - Context and Knowledge Systems for AI ~ 🆕 | Data & ML/AI | B.Tech/BS | United Kingdom - Remote | Oct 19, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1) |
 | Marsh | AI Engineer Intern ~ 🆕 | Data & ML/AI | — | Gurugram - Good Earth | Oct 19, 2026 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/AI-Engineer-Intern_R_365556) |
-| Airbus | Data Science Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bangalore Area | Oct 19, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Science-Intern_JR10449781) |
-| Airbus | Intern - Software Developer (Python, Full stack) ~ 🆕 | Software | B.Tech/BS | Bangalore Area | Oct 19, 2026 | [Apply](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Software-Developer--Python--Full-stack-_JR10448650) |
+| AtkinsRéalis | Data Science Intern ~ 🆕 | Data & ML/AI | — | AtkinsRéalis - Corporate Office Bangalo… | Oct 19, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210) |
 | iSpot.tv | Associate Data Analyst ~ | Data & ML/AI | $76.787k–$92.916k/yr<br>B.Tech/BS | Remote | Oct 16, 2026 | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4742654005) |
 | Quora | Machine Learning Engineer, New Grad - Quora (Remote) ~ | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Oct 15, 2026 | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3) |
 | Marvell | Generative AI Forward Deployed Engineer Intern- Master's Degree ~ | Data & ML/AI | B.Tech/BS | Bangalore | Oct 15, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231) |
@@ -32,7 +31,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | GuidePoint Security | AI & Data Science Intern - GPSU/NE ~ | Data & ML/AI | $20/hr<br>B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) |
 | GuidePoint Security | Cloud Infrastructure Intern - GPSU/NE ~ | Software | $20/hr<br>B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004) |
 | DTCC | Software Engineering Associate ~ | Software | B.Tech/BS | Hyderabad, India | Oct 08, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214802) |
-| Priceline | Associate Software Engineer ~ | Software | B.Tech/BS | Mumbai | Oct 08, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712) |
 | SailPoint | Software Engineer Intern - Platform Engines ~ | Software | B.Tech/BS | Remote (United Kingdom) | Oct 07, 2026 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) |
 | Global Payments | Associate Client Server Software Analyst ~ | Software | 2+ Yrs | PUNE, , INDIA | Oct 06, 2026 | [Apply](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936) |
 | Barnes & Thornburg | Data Privacy and AI Associate ~ | Data & ML/AI | B.Tech/BS | Indianapolis | Oct 05, 2026 | [Apply](https://jobs.ashbyhq.com/barnes/fd87b2c0-dec0-4d54-8543-da70dd28a802) |
@@ -62,7 +60,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (42 of 44)._
+_~ = the title doesn't state a year; bucketed here from its posting date (40 of 42)._
 
 ## What this is
 
@@ -144,6 +142,9 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Airbus | Data Science Intern | 2026 Graduates | 2026-10-19 |
+| Airbus | Intern - Software Developer (Python, Full stack) | 2026 Graduates | 2026-10-19 |
+| Priceline | Associate Software Engineer | 2026 Graduates | 2026-10-19 |
 | Dow Chemical Company | Associate Full-Stack Developer (.Net/Angular/Azure) | 2026 Graduates | 2026-10-19 |
 | Novartis | Intern AI & Data Science | 2026 Graduates | 2026-10-17 |
 | Figure | Associate AI Engineer | 2026 Graduates | 2026-10-16 |
@@ -181,9 +182,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | KnowBe4 | Software Engineer Intern (Remote) | 2026 Graduates | 2026-10-07 |
 | Robert Bosch Venture Capital | ETAS - Thesis Project Internship – Generative AI for Automotive Safety | 2026 Graduates | 2026-10-07 |
 | Epicor | Product Developer Associate-SDET, Automation | 2026 Graduates | 2026-10-07 |
-| Priceline | Associate Software Engineer | 2026 Graduates | 2026-10-07 |
-| Rubrik | Software Engineer - Winter Intern | 2026 Graduates | 2026-10-07 |
-| Rubrik | Software Engineer (CPD) - Winter Intern | 2026 Graduates | 2026-10-07 |
 
 </details>
 
@@ -202,7 +200,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,448 companies across 24 ATS platforms · 99% fetch success · completed in 411.6s · median detection latency 686 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,450 companies across 24 ATS platforms · 99% fetch success · completed in 367.9s · median detection latency 686 min · real posted dates on 81% of open roles._
 
 ## Platforms Scraped
 

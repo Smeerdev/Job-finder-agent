@@ -1,41 +1,25 @@
 {
- "generated_at": "2026-10-19T11:57:19Z",
+ "generated_at": "2026-10-19T18:16:34Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 44,
+ "count": 42,
  "jobs": [
   {
-   "id": "workday:slihrms:/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210",
-   "company": "AtkinsRéalis",
-   "title": "Data Science Intern",
+   "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880",
+   "company": "Priceline",
+   "title": "Associate Software Engineer",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "AtkinsRéalis - Corporate Office Bangalore",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210",
+   "category": "Software",
+   "location": "Mumbai",
+   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5880",
    "posted_at": "2026-10-19T00:00:00Z",
-   "first_seen_at": "2026-10-19T11:57:19Z",
+   "first_seen_at": "2026-10-19T18:16:34Z",
    "salary": null,
    "skills": [
-    "Python",
+    "Java",
     "SQL",
-    "Pandas",
-    "Git"
+    "Spring"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
-   "company": "Autodesk",
-   "title": "Intern, Research - Context and Knowledge Systems for AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "United Kingdom - Remote",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
-   "posted_at": "2026-10-19T00:00:00Z",
-   "first_seen_at": "2026-10-19T11:57:19Z",
-   "salary": null,
-   "skills": [],
    "source": "workday"
   },
   {
@@ -58,6 +42,21 @@
    "source": "oracle"
   },
   {
+   "id": "workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
+   "company": "Autodesk",
+   "title": "Intern, Research - Context and Knowledge Systems for AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "United Kingdom - Remote",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
+   "posted_at": "2026-10-19T00:00:00Z",
+   "first_seen_at": "2026-10-19T11:57:19Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
    "id": "workday:mmc:/job/Gurugram---Good-Earth/AI-Engineer-Intern_R_365556",
    "company": "Marsh",
    "title": "AI Engineer Intern",
@@ -73,47 +72,21 @@
    "source": "workday"
   },
   {
-   "id": "workday:ag:/job/Bangalore-Area/Data-Science-Intern_JR10449781",
-   "company": "Airbus",
+   "id": "workday:slihrms:/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210",
+   "company": "AtkinsRéalis",
    "title": "Data Science Intern",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Data & ML/AI",
-   "location": "Bangalore Area",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Science-Intern_JR10449781",
+   "location": "AtkinsRéalis - Corporate Office Bangalore",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210",
    "posted_at": "2026-10-19T00:00:00Z",
-   "first_seen_at": "2026-10-19T05:41:49Z",
+   "first_seen_at": "2026-10-19T11:57:19Z",
    "salary": null,
    "skills": [
     "Python",
     "SQL",
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "Pandas"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:ag:/job/Bangalore-Area/Intern---Software-Developer--Python--Full-stack-_JR10448650",
-   "company": "Airbus",
-   "title": "Intern - Software Developer (Python, Full stack)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore Area",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Software-Developer--Python--Full-stack-_JR10448650",
-   "posted_at": "2026-10-19T00:00:00Z",
-   "first_seen_at": "2026-10-19T05:41:49Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "SQL",
-    "React",
-    "Angular",
-    "Linux",
+    "Pandas",
     "Git"
    ],
    "source": "workday"
@@ -297,28 +270,6 @@
     "Linux"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5712",
-   "company": "Priceline",
-   "title": "Associate Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Mumbai",
-   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712",
-   "posted_at": "2026-10-08T00:00:00Z",
-   "first_seen_at": "2026-10-08T08:24:14Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "Kotlin",
-    "LLMs",
-    "React",
-    "Angular"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
