@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-20T01:34:06Z</updated>
+  <updated>2026-10-20T07:09:19Z</updated>
   <entry>
     <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880</id>
     <title>Priceline: Associate Software Engineer</title>
@@ -117,14 +117,6 @@
     <updated>2026-10-08T21:52:31Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Remote · $20/hr · Python, LLMs, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214802</id>
-    <title>DTCC: Software Engineering Associate</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214802"/>
-    <updated>2026-10-08T16:07:45Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India · Java, AWS, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-20T01:34:06Z",
+ "generated_at": "2026-10-20T07:09:19Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 42,
+ "count": 41,
  "jobs": [
   {
    "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880",
@@ -251,25 +251,6 @@
     "Git"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214802",
-   "company": "DTCC",
-   "title": "Software Engineering Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214802",
-   "posted_at": "2026-10-08",
-   "first_seen_at": "2026-10-08T16:07:45Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "AWS",
-    "Linux"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
