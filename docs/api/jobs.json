@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-20T17:51:30Z",
+ "generated_at": "2026-10-20T21:14:48Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 40,
+ "count": 39,
  "jobs": [
   {
    "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880",
@@ -31,21 +31,6 @@
    "category": "Data & ML/AI",
    "location": "United Kingdom - Remote",
    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
-   "posted_at": "2026-10-19T00:00:00Z",
-   "first_seen_at": "2026-10-19T11:57:19Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:mmc:/job/Gurugram---Good-Earth/AI-Engineer-Intern_R_365556",
-   "company": "Marsh",
-   "title": "AI Engineer Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Gurugram - Good Earth",
-   "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/AI-Engineer-Intern_R_365556",
    "posted_at": "2026-10-19T00:00:00Z",
    "first_seen_at": "2026-10-19T11:57:19Z",
    "salary": null,
