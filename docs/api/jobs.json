@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-20T12:45:17Z",
+ "generated_at": "2026-10-20T17:51:30Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 41,
+ "count": 40,
  "jobs": [
   {
    "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880",
@@ -274,25 +274,6 @@
     "Kubernetes",
     "Docker",
     "Kafka"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:tsys:/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936",
-   "company": "Global Payments",
-   "title": "Associate Client Server Software Analyst",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "PUNE, , INDIA",
-   "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936",
-   "posted_at": "2026-10-06T00:00:00Z",
-   "first_seen_at": "2026-10-06T11:49:11Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "C#",
-    "SQL"
    ],
    "source": "workday"
   },

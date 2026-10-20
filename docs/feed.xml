@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-20T12:45:17Z</updated>
+  <updated>2026-10-20T17:51:30Z</updated>
   <entry>
     <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880</id>
     <title>Priceline: Associate Software Engineer</title>
@@ -125,14 +125,6 @@
     <updated>2026-10-07T21:20:18Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Remote (United Kingdom) · Go, TypeScript, SQL, Angular, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tsys:/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936</id>
-    <title>Global Payments: Associate Client Server Software Analyst</title>
-    <link href="https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Associate-Client-Server-Software-Analyst_R0074936"/>
-    <updated>2026-10-06T11:49:11Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · PUNE, , INDIA · Java, C#, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:barnes:fd87b2c0-dec0-4d54-8543-da70dd28a802</id>
