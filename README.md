@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**41 open roles · 11 new this week · 5,450 companies tracked · updated Oct 20, 2026 at 07:09 UTC**
+**41 open roles · 10 new this week · 5,450 companies tracked · updated Oct 20, 2026 at 12:45 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -18,7 +18,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Priceline | Associate Software Engineer ~ 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Oct 19, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5880) |
-| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Oct 19, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854) |
 | Autodesk | Intern, Research - Context and Knowledge Systems for AI ~ 🆕 | Data & ML/AI | B.Tech/BS | United Kingdom - Remote | Oct 19, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1) |
 | Marsh | AI Engineer Intern ~ 🆕 | Data & ML/AI | — | Gurugram - Good Earth | Oct 19, 2026 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/AI-Engineer-Intern_R_365556) |
 | AtkinsRéalis | Data Science Intern ~ 🆕 | Data & ML/AI | — | AtkinsRéalis - Corporate Office Bangalo… | Oct 19, 2026 | [Apply](https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210) |
@@ -28,6 +27,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Cloudflare | Infrastructure Business Operations Associate ~ | Software | B.Tech/BS | Hybrid | Oct 14, 2026 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8278383?gh_jid=8278383) |
 | Rolls-Royce | Integrated Control Systems Engineer Intern (Software) ~ | Software | B.Tech/BS | Indianapolis | Oct 13, 2026 | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452) |
 | Oaktree Capital Management | Associate - Software Engineer Investment Systems and Integration (.Net Engineer) ~ | Software | B.Tech/BS | Hyderabad | Oct 12, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533) |
+| DTCC | Software Developers in Test Associate ~ | Software | B.Tech/BS | Hyderabad, India | Oct 09, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214906) |
 | GuidePoint Security | AI & Data Science Intern - GPSU/NE ~ | Data & ML/AI | $20/hr<br>B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004) |
 | GuidePoint Security | Cloud Infrastructure Intern - GPSU/NE ~ | Software | $20/hr<br>B.Tech/BS | Remote | Oct 08, 2026 | [Apply](https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004) |
 | SailPoint | Software Engineer Intern - Platform Engines ~ | Software | B.Tech/BS | Remote (United Kingdom) | Oct 07, 2026 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) |
@@ -141,6 +141,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-20 |
 | DTCC | Software Engineering Associate | 2026 Graduates | 2026-10-20 |
 | Airbus | Data Science Intern | 2026 Graduates | 2026-10-19 |
 | Airbus | Intern - Software Developer (Python, Full stack) | 2026 Graduates | 2026-10-19 |
@@ -163,7 +164,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Airbus | Internship - DCC AI and Automation | 2026 Graduates | 2026-10-14 |
 | DTCC | IT Embedded Risk Associate | 2026 Graduates | 2026-10-13 |
 | DTCC | Software Engineering Associate | 2026 Graduates | 2026-10-13 |
-| DTCC | Software Developers in Test Associate | 2026 Graduates | 2026-10-13 |
 | Emerson Electric | Metrology Software Engineering Intern | 2026 Graduates | 2026-10-13 |
 | Airbus | Internship - AI for In-Service Engineering | 2026 Graduates | 2026-10-13 |
 | Cohere Health | Associate Software Engineer | 2026 Graduates | 2026-10-13 |
@@ -199,7 +199,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,450 companies across 24 ATS platforms · 98% fetch success · completed in 540.5s · median detection latency 686 min · real posted dates on 80% of open roles._
+_Engine (last run): 5,450 companies across 24 ATS platforms · 98% fetch success · completed in 371.4s · median detection latency 686 min · real posted dates on 80% of open roles._
 
 ## Platforms Scraped
 

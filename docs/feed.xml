@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-20T07:09:19Z</updated>
+  <updated>2026-10-20T12:45:17Z</updated>
   <entry>
     <id>urn:intern-engine:workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880</id>
     <title>Priceline: Associate Software Engineer</title>
@@ -13,14 +13,6 @@
     <updated>2026-10-19T18:16:34Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Mumbai · Java, SQL, Spring</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159854</id>
-    <title>Honeywell: Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854"/>
-    <updated>2026-10-19T11:57:19Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bengaluru, Karnataka, India · Python, Java, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1</id>
@@ -101,6 +93,14 @@
     <updated>2026-10-12T11:39:15Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad · C#, TypeScript, SQL, Swift, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214906</id>
+    <title>DTCC: Software Developers in Test Associate</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214906"/>
+    <updated>2026-10-09T15:51:09Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, India · Python, Java, SQL, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:guidepointsecurity:6218650004</id>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T07:09:19Z",
+ "generated_at": "2026-10-20T12:45:17Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 41,
  "jobs": [
@@ -21,25 +21,6 @@
     "Spring"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159854",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854",
-   "posted_at": "2026-10-19",
-   "first_seen_at": "2026-10-19T11:57:19Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
@@ -209,6 +190,26 @@
     "Git"
    ],
    "source": "workday"
+  },
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214906",
+   "company": "DTCC",
+   "title": "Software Developers in Test Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214906",
+   "posted_at": "2026-10-09",
+   "first_seen_at": "2026-10-09T15:51:09Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "Git"
+   ],
+   "source": "oracle"
   },
   {
    "id": "greenhouse:guidepointsecurity:6218650004",
