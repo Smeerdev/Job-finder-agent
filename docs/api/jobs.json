@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-10-21T05:44:13Z",
+ "generated_at": "2026-10-21T11:08:13Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 39,
+ "count": 40,
  "jobs": [
+  {
+   "id": "workday:revvity:/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766",
+   "company": "Revvity",
+   "title": "AI Applications DevOps Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Mumbai",
+   "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766",
+   "posted_at": "2026-10-21T00:00:00Z",
+   "first_seen_at": "2026-10-21T11:08:13Z",
+   "salary": null,
+   "skills": [
+    "LLMs",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Docker",
+    "Terraform",
+    "Git"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:revvity:/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768",
+   "company": "Revvity",
+   "title": "Full-Stack AI Engineering Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Mumbai",
+   "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768",
+   "posted_at": "2026-10-21T00:00:00Z",
+   "first_seen_at": "2026-10-21T11:08:13Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs",
+    "Docker"
+   ],
+   "source": "workday"
+  },
   {
    "id": "ashby:quora:5494e6a1-a973-46af-b9f3-57208eb91b52",
    "company": "Quora",
@@ -39,26 +81,6 @@
     "Java",
     "SQL",
     "Spring"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:slihrms:/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210",
-   "company": "AtkinsRéalis",
-   "title": "Data Science Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "AtkinsRéalis - Corporate Office Bangalore",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210",
-   "posted_at": "2026-10-19T00:00:00Z",
-   "first_seen_at": "2026-10-19T11:57:19Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Pandas",
-    "Git"
    ],
    "source": "workday"
   },

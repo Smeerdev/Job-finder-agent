@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-21T05:44:13Z</updated>
+  <updated>2026-10-21T11:08:13Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:revvity:/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766</id>
+    <title>Revvity: AI Applications DevOps Intern</title>
+    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766"/>
+    <updated>2026-10-21T11:08:13Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Mumbai · LLMs, AWS, GCP, Azure, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:revvity:/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768</id>
+    <title>Revvity: Full-Stack AI Engineering Intern</title>
+    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768"/>
+    <updated>2026-10-21T11:08:13Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Mumbai · Python, LLMs, Docker</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:quora:5494e6a1-a973-46af-b9f3-57208eb91b52</id>
     <title>Quora: Full Stack Software Engineer, New Grad - Quora (Remote)</title>
@@ -21,14 +37,6 @@
     <updated>2026-10-19T18:16:34Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Mumbai · Java, SQL, Spring</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:slihrms:/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210</id>
-    <title>AtkinsRéalis: Data Science Intern</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210"/>
-    <updated>2026-10-19T11:57:19Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · AtkinsRéalis - Corporate Office Bangalore · Python, SQL, Pandas, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:ispottv:4742654005</id>
