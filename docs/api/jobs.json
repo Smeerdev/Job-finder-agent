@@ -1,8 +1,28 @@
 {
- "generated_at": "2026-10-20T21:14:48Z",
+ "generated_at": "2026-10-21T00:27:44Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 39,
  "jobs": [
+  {
+   "id": "ashby:quora:5494e6a1-a973-46af-b9f3-57208eb91b52",
+   "company": "Quora",
+   "title": "Full Stack Software Engineer, New Grad - Quora (Remote)",
+   "season": "2026 Graduates",
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Remote - Multiple Locations",
+   "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52",
+   "posted_at": "2026-10-20T22:09:06.486+00:00",
+   "first_seen_at": "2026-10-21T00:27:44Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "TypeScript",
+    "SQL",
+    "React"
+   ],
+   "source": "ashby"
+  },
   {
    "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880",
    "company": "Priceline",
@@ -20,21 +40,6 @@
     "SQL",
     "Spring"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
-   "company": "Autodesk",
-   "title": "Intern, Research - Context and Knowledge Systems for AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "United Kingdom - Remote",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
-   "posted_at": "2026-10-19T00:00:00Z",
-   "first_seen_at": "2026-10-19T11:57:19Z",
-   "salary": null,
-   "skills": [],
    "source": "workday"
   },
   {
