@@ -1,22 +1,22 @@
 {
- "generated_at": "2026-10-22T17:54:13Z",
+ "generated_at": "2026-10-22T21:25:00Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 47,
  "jobs": [
   {
-   "id": "workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
-   "company": "Marvell",
-   "title": "Software Validation Intern - Master's Degree",
+   "id": "greenhouse:opensesame:8313424",
+   "company": "OpenSesame",
+   "title": "AI Product Builder Intern",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "first_seen_at": "2026-10-22T17:54:13Z",
-   "salary": null,
+   "category": "Data & ML/AI",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424",
+   "posted_at": "2026-10-22T15:32:21-04:00",
+   "first_seen_at": "2026-10-22T21:25:00Z",
+   "salary": "$25/hr",
    "skills": [],
-   "source": "workday"
+   "source": "greenhouse"
   },
   {
    "id": "workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868",
@@ -34,6 +34,21 @@
     "Python",
     "Linux"
    ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
+   "company": "Marvell",
+   "title": "Software Validation Intern - Master's Degree",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "first_seen_at": "2026-10-22T17:54:13Z",
+   "salary": null,
+   "skills": [],
    "source": "workday"
   },
   {
@@ -137,23 +152,6 @@
    "salary": null,
    "skills": [],
    "source": "oracle"
-  },
-  {
-   "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245",
-   "company": "Marvell",
-   "title": "Intern, Software QA Engineer Bachelor's Degree",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "first_seen_at": "2026-10-22T07:05:33Z",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "workday"
   },
   {
    "id": "greenhouse:coinbase:8175873",

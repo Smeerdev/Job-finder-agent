@@ -5,14 +5,14 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-22T17:54:13Z</updated>
+  <updated>2026-10-22T21:25:00Z</updated>
   <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
-    <title>Marvell: Software Validation Intern - Master's Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870"/>
-    <updated>2026-10-22T17:54:13Z</updated>
+    <id>urn:intern-engine:greenhouse:opensesame:8313424</id>
+    <title>OpenSesame: AI Product Builder Intern</title>
+    <link href="https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424"/>
+    <updated>2026-10-22T21:25:00Z</updated>
     <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bangalore</summary>
+    <summary>2026 Graduates · Data &amp; ML/AI · Remote · $25/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868</id>
@@ -21,6 +21,14 @@
     <updated>2026-10-22T17:54:13Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bangalore · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
+    <title>Marvell: Software Validation Intern - Master's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870"/>
+    <updated>2026-10-22T17:54:13Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bangalore</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98026</id>
@@ -77,14 +85,6 @@
     <updated>2026-10-22T07:05:33Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245</id>
-    <title>Marvell: Intern, Software QA Engineer Bachelor's Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245"/>
-    <updated>2026-10-22T07:05:33Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bangalore · Python</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:revvity:/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766</id>
