@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-21T23:04:28Z</updated>
+  <updated>2026-10-22T01:34:13Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159858</id>
     <title>Honeywell: Intern Bachelors Embedded Eng</title>
@@ -213,14 +213,6 @@
     <updated>2026-09-26T00:00:57Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote - Multiple Locations · Python, C++, PyTorch, TensorFlow, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:qumulo:e1cebc33-3bfc-4c86-9581-4d558cd5f8cc</id>
-    <title>Qumulo: Software Development Engineer (New Grad / Entry Level)</title>
-    <link href="https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc"/>
-    <updated>2026-09-24T15:48:22Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Seattle (hybrid) · $110k–$140k/yr · Python, Java, C++, Rust</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c</id>
