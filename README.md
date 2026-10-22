@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**46 open roles · 16 new this week · 5,464 companies tracked · updated Oct 22, 2026 at 12:55 UTC**
+**46 open roles · 17 new this week · 5,473 companies tracked · updated Oct 22, 2026 at 17:54 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,12 +17,13 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| DTCC | Software Developers in Test Associate ~ 🆕 | Software | — | Chennai, India | Oct 22, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214850) |
-| Honeywell | Intern Bachelors AI ~ 🆕 | Data & ML/AI | — | Bengaluru, Karnataka, India | Oct 22, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473) |
-| Honeywell | Intern Bachelors AI Eng ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru, Karnataka, India | Oct 22, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159821) |
-| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Oct 22, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479) |
-| TriNet | Associate Data Analyst ~ 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Oct 22, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004251) |
+| Marvell | Software Validation Intern - Master's Degree ~ 🆕 | Software | B.Tech/BS | Bangalore | Oct 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870) |
+| Marvell | Software Engineer Intern - Master's Degree ~ 🆕 | Software | M.Tech/MS | Bangalore | Oct 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868) |
 | WSP | Associate - Structures Transport & Infrastructure, SG ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Oct 22, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98026) |
+| TriNet | Associate Data Analyst ~ 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Oct 22, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004251) |
+| Honeywell | Intern Bachelors AI Eng ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru, Karnataka, India | Oct 22, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159821) |
+| Honeywell | Intern Bachelors AI ~ 🆕 | Data & ML/AI | — | Bengaluru, Karnataka, India | Oct 22, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473) |
+| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Oct 22, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479) |
 | DTCC | Software Development Engineering in Test Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 22, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215082) |
 | Marvell | Intern, Software QA Engineer Bachelor's Degree ~ 🆕 | Software | B.Tech/BS | Bangalore | Oct 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245) |
 | Coinbase | Software Engineer Intern ~ 🆕 | Software | B.Tech/BS | Hybrid - Singapore | Oct 21, 2026 | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) |
@@ -47,7 +48,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Sep 25, 2026 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0) |
 | Lean TECHniques | Software Engineer Intern - Hybrid ~ | Software | B.Tech/BS | Hybrid | Sep 22, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c) |
 | Ancestry | Data Science - AI Document Understanding, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 16, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
-| Marvell | Intern, Software Engineer ~ | Software | B.Tech/BS | Hyderabad | Sep 15, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241) |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 03, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
 | Oaktree Capital Management | Associate, ServiceNow Developer ~ | Software | — | Hyderabad | Aug 17, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--ServiceNow-Developer_2026-85) |
 | Ancestry | Machine Learning Engineer, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Aug 11, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
@@ -146,6 +146,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| DTCC | Software Developers in Test Associate | 2026 Graduates | 2026-10-22 |
 | Thoughtworks | Software Procurement Intern | 2026 Graduates | 2026-10-22 |
 | Honeywell | Intern Bachelors Embedded Eng | 2026 Graduates | 2026-10-22 |
 | DTCC | Software Developers in Test Associate | 2026 Graduates | 2026-10-22 |
@@ -185,7 +186,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Airbus | Technical Data Analyst Intern | 2026 Graduates | 2026-10-12 |
 | Thoughtworks | Developer (Vapasi) - Intern | 2026 Graduates | 2026-10-12 |
 | Arista Networks | Intern Software Engineer - C/C++ | 2026 Graduates | 2026-10-12 |
-| Light & Wonder | Associate Software Engineer | 2026 Graduates | 2026-10-09 |
 
 </details>
 
@@ -204,7 +204,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,464 companies across 24 ATS platforms · 99% fetch success · completed in 375.3s · median detection latency 689 min · real posted dates on 82% of open roles._
+_Engine (last run): 5,473 companies across 24 ATS platforms · 100% fetch success · completed in 298.5s · median detection latency 699 min · real posted dates on 83% of open roles._
 
 ## Platforms Scraped
 

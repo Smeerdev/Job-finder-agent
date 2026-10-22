@@ -1,74 +1,54 @@
 {
- "generated_at": "2026-10-22T12:55:36Z",
+ "generated_at": "2026-10-22T17:54:13Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 46,
+ "count": 47,
  "jobs": [
   {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214850",
-   "company": "DTCC",
-   "title": "Software Developers in Test Associate",
+   "id": "workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
+   "company": "Marvell",
+   "title": "Software Validation Intern - Master's Degree",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Software",
-   "location": "Chennai, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214850",
-   "posted_at": "2026-10-22",
-   "first_seen_at": "2026-10-22T12:55:36Z",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "first_seen_at": "2026-10-22T17:54:13Z",
    "salary": null,
    "skills": [],
-   "source": "oracle"
+   "source": "workday"
   },
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160473",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
+   "id": "workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868",
+   "company": "Marvell",
+   "title": "Software Engineer Intern - Master's Degree",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473",
-   "posted_at": "2026-10-22",
-   "first_seen_at": "2026-10-22T12:55:36Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159821",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159821",
-   "posted_at": "2026-10-22",
-   "first_seen_at": "2026-10-22T12:55:36Z",
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "first_seen_at": "2026-10-22T17:54:13Z",
    "salary": null,
    "skills": [
     "Python",
-    "SQL",
-    "Tableau"
+    "Linux"
    ],
-   "source": "oracle"
+   "source": "workday"
   },
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160479",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
+   "id": "oracle:emit.fa.ca3.oraclecloud.com:98026",
+   "company": "WSP",
+   "title": "Associate - Structures Transport & Infrastructure, SG",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Software",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98026",
    "posted_at": "2026-10-22",
    "first_seen_at": "2026-10-22T12:55:36Z",
    "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
+   "skills": [],
    "source": "oracle"
   },
   {
@@ -91,18 +71,56 @@
    "source": "oracle"
   },
   {
-   "id": "oracle:emit.fa.ca3.oraclecloud.com:98026",
-   "company": "WSP",
-   "title": "Associate - Structures Transport & Infrastructure, SG",
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159821",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI Eng",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Software",
+   "category": "Data & ML/AI",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98026",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159821",
+   "posted_at": "2026-10-22",
+   "first_seen_at": "2026-10-22T12:55:36Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160473",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473",
    "posted_at": "2026-10-22",
    "first_seen_at": "2026-10-22T12:55:36Z",
    "salary": null,
    "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160479",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479",
+   "posted_at": "2026-10-22",
+   "first_seen_at": "2026-10-22T12:55:36Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
    "source": "oracle"
   },
   {
