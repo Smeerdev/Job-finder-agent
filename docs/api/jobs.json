@@ -1,8 +1,62 @@
 {
- "generated_at": "2026-10-22T01:34:13Z",
+ "generated_at": "2026-10-22T07:05:33Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 40,
+ "count": 42,
  "jobs": [
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:215082",
+   "company": "DTCC",
+   "title": "Software Development Engineering in Test Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215082",
+   "posted_at": "2026-10-22",
+   "first_seen_at": "2026-10-22T07:05:33Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245",
+   "company": "Marvell",
+   "title": "Intern, Software QA Engineer Bachelor's Degree",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "first_seen_at": "2026-10-22T07:05:33Z",
+   "salary": null,
+   "skills": [
+    "Python"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "greenhouse:coinbase:8175873",
+   "company": "Coinbase",
+   "title": "Software Engineer Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hybrid - Singapore",
+   "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
+   "posted_at": "2026-10-21T23:19:03-04:00",
+   "first_seen_at": "2026-10-22T07:05:33Z",
+   "salary": null,
+   "skills": [
+    "Go",
+    "React",
+    "AWS",
+    "Docker",
+    "PostgreSQL",
+    "MongoDB"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159858",
    "company": "Honeywell",
@@ -219,26 +273,6 @@
     "Git"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214906",
-   "company": "DTCC",
-   "title": "Software Developers in Test Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214906",
-   "posted_at": "2026-10-09",
-   "first_seen_at": "2026-10-09T15:51:09Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "Git"
-   ],
-   "source": "oracle"
   },
   {
    "id": "greenhouse:guidepointsecurity:6218650004",
