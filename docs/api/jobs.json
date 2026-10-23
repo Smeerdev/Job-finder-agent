@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23T15:51:47Z",
+ "generated_at": "2026-10-23T19:54:11Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 51,
+ "count": 49,
  "jobs": [
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:215060",
@@ -164,21 +164,6 @@
    "source": "workday"
   },
   {
-   "id": "oracle:emit.fa.ca3.oraclecloud.com:98026",
-   "company": "WSP",
-   "title": "Associate - Structures Transport & Infrastructure, SG",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98026",
-   "posted_at": "2026-10-22",
-   "first_seen_at": "2026-10-22T12:55:36Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004251",
    "company": "TriNet",
    "title": "Associate Data Analyst",
@@ -210,25 +195,6 @@
    "first_seen_at": "2026-10-22T12:55:36Z",
    "salary": null,
    "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160479",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479",
-   "posted_at": "2026-10-22",
-   "first_seen_at": "2026-10-22T12:55:36Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
    "source": "oracle"
   },
   {
