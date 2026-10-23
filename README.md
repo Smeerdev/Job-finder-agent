@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**46 open roles · 16 new this week · 5,473 companies tracked · updated Oct 23, 2026 at 00:31 UTC**
+**45 open roles · 14 new this week · 5,473 companies tracked · updated Oct 23, 2026 at 05:45 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (46 open)
+## 2026 Graduates (International)  (45 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -25,7 +25,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Honeywell | Intern Bachelors AI Eng ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru, Karnataka, India | Oct 22, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159821) |
 | Honeywell | Intern Bachelors AI ~ 🆕 | Data & ML/AI | — | Bengaluru, Karnataka, India | Oct 22, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473) |
 | Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Oct 22, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479) |
-| DTCC | Software Development Engineering in Test Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 22, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215082) |
 | Coinbase | Software Engineer Intern ~ 🆕 | Software | B.Tech/BS | Hybrid - Singapore | Oct 21, 2026 | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) |
 | Revvity | AI Applications DevOps Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai | Oct 21, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766) |
 | Revvity | Full-Stack AI Engineering Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai | Oct 21, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768) |
@@ -64,7 +63,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (44 of 46)._
+_~ = the title doesn't state a year; bucketed here from its posting date (43 of 45)._
 
 ## What this is
 
@@ -146,6 +145,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| DTCC | Software Development Engineering in Test Associate | 2026 Graduates | 2026-10-23 |
 | Lean TECHniques | Software Engineer Intern - Hybrid | 2026 Graduates | 2026-10-23 |
 | Marvell | Intern, Software QA Engineer Bachelor's Degree | 2026 Graduates | 2026-10-22 |
 | DTCC | Software Developers in Test Associate | 2026 Graduates | 2026-10-22 |
@@ -185,7 +185,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Cohere Health | Associate Software Engineer | 2026 Graduates | 2026-10-13 |
 | Airbus | Internship  AI | 2026 Graduates | 2026-10-13 |
 | Airbus | Software Engineering Intern – Full Stack (ReactJS / Python) | 2026 Graduates | 2026-10-12 |
-| Airbus | Technical Data Analyst Intern | 2026 Graduates | 2026-10-12 |
 
 </details>
 
@@ -204,7 +203,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,473 companies across 24 ATS platforms · 97% fetch success · completed in 605.1s · median detection latency 694 min · real posted dates on 82% of open roles._
+_Engine (last run): 5,473 companies across 24 ATS platforms · 99% fetch success · completed in 364.4s · median detection latency 694 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 
