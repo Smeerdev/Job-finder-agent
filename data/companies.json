@@ -1464,6 +1464,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "AMEND Consulting",
+    "slug": "amendconsulting",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Amentum",
     "slug": "pae",
     "ats": "workday",
@@ -7417,6 +7422,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Crescent Energy",
+    "slug": "crescentenergyco",
+    "ats": "workday",
+    "wd": "wd108",
+    "site": "crescent_energy_careers"
+  },
+  {
     "name": "Crest Industries",
     "slug": "crestoperations",
     "ats": "lever"
@@ -10287,6 +10299,13 @@
     "name": "Federato",
     "slug": "federato",
     "ats": "greenhouse"
+  },
+  {
+    "name": "FedEx Freight",
+    "slug": "freight",
+    "ats": "workday",
+    "wd": "wd108",
+    "site": "FXF_External_Career_Site"
   },
   {
     "name": "Fehr & Peers",
@@ -14122,6 +14141,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Infinitum",
+    "slug": "infinitumelectric",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Inflection",
     "slug": "inflectionai",
     "ats": "greenhouse"
@@ -14865,6 +14889,11 @@
     "ats": "lever"
   },
   {
+    "name": "Jampack AI",
+    "slug": "jampack-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "Jane Street",
     "slug": "janestreet",
     "ats": "greenhouse"
@@ -15164,6 +15193,11 @@
     "name": "Juniper Square",
     "slug": "junipersquare",
     "ats": "ashby"
+  },
+  {
+    "name": "Jupiter Intelligence",
+    "slug": "jupiterintel",
+    "ats": "lever"
   },
   {
     "name": "Juspay",
@@ -18667,6 +18701,11 @@
     "site": "CX_2001"
   },
   {
+    "name": "Mytos",
+    "slug": "mytos",
+    "ats": "lever"
+  },
+  {
     "name": "Mytra",
     "slug": "mytra",
     "ats": "rippling"
@@ -18680,6 +18719,11 @@
     "name": "N1",
     "slug": "n1",
     "ats": "ashby"
+  },
+  {
+    "name": "N1 Health",
+    "slug": "algorex",
+    "ats": "lever"
   },
   {
     "name": "n8n",
@@ -19238,6 +19282,11 @@
   {
     "name": "Nex",
     "slug": "nex",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Nexla",
+    "slug": "nexla",
     "ats": "greenhouse"
   },
   {
@@ -19807,6 +19856,14 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "oaktree"
+  },
+  {
+    "name": "OATEY",
+    "slug": "oatey",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "Oatey_External_",
+    "host": "wd5.myworkdaysite.com"
   },
   {
     "name": "OBE",
@@ -20817,6 +20874,11 @@
     "name": "Parkdepot",
     "slug": "salesdemo-jr",
     "ats": "lever"
+  },
+  {
+    "name": "Parker",
+    "slug": "parker",
+    "ats": "ashby"
   },
   {
     "name": "Parsons",
@@ -22123,6 +22185,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Prosync",
+    "slug": "prosync",
+    "ats": "workable"
+  },
+  {
     "name": "Protech Automotive Solutions",
     "slug": "calibercollision",
     "ats": "workday",
@@ -22836,6 +22903,11 @@
   {
     "name": "Regal",
     "slug": "regalvoice",
+    "ats": "lever"
+  },
+  {
+    "name": "Regal",
+    "slug": "regal",
     "ats": "lever"
   },
   {
@@ -25864,6 +25936,11 @@
     "ats": "lever"
   },
   {
+    "name": "Stefanini",
+    "slug": "Stefanini1",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "STEM Expert",
     "slug": "StemXpert1",
     "ats": "smartrecruiters"
@@ -26585,6 +26662,11 @@
     "name": "TE Connectivity",
     "slug": "teconnectivity",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "TeamSnap",
+    "slug": "teamsnap",
+    "ats": "lever"
   },
   {
     "name": "Teamworks",
@@ -28845,6 +28927,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Valkyrie Trading",
+    "slug": "valkyrietrading",
+    "ats": "lever"
+  },
+  {
     "name": "Valmet",
     "slug": "valmet",
     "ats": "workday",
@@ -28994,6 +29081,11 @@
   {
     "name": "Veeda AI",
     "slug": "veeda-labs",
+    "ats": "ashby"
+  },
+  {
+    "name": "Veeda AI",
+    "slug": "veeda-ai",
     "ats": "ashby"
   },
   {
@@ -30306,6 +30398,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Worldscape Technology",
+    "slug": "worldscape-technology",
+    "ats": "lever"
+  },
+  {
     "name": "WorldStrides",
     "slug": "world4822stri986des",
     "ats": "greenhouse"
@@ -30652,6 +30749,11 @@
     "name": "Zen Educate",
     "slug": "zeneducate",
     "ats": "lever"
+  },
+  {
+    "name": "Zen3",
+    "slug": "Zen31",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Zendesk",
