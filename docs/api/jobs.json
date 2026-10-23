@@ -1,8 +1,83 @@
 {
- "generated_at": "2026-10-23T05:45:58Z",
+ "generated_at": "2026-10-23T11:00:00Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 45,
+ "count": 49,
  "jobs": [
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
+   "company": "Marvell",
+   "title": "Intern, Software QA Engineer - Bachelor's Degree",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "first_seen_at": "2026-10-23T11:00:00Z",
+   "salary": null,
+   "skills": [
+    "Python"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer - Bachelor's Degree",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "first_seen_at": "2026-10-23T11:00:00Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Rust",
+    "Linux"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:thehartford:/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341",
+   "company": "The Hartford",
+   "title": "IND Associate Software Engineer -  Red Team Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India GCC-Puppalaguda Village",
+   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "first_seen_at": "2026-10-23T11:00:00Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C#",
+    "Rust",
+    "LLMs",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Linux"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:valeo:/job/Chennai/AI---Intern_REQ2026080851",
+   "company": "Valeo",
+   "title": "AI - Intern",
+   "season": "2026 Graduates",
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Chennai",
+   "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "first_seen_at": "2026-10-23T11:00:00Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "greenhouse:opensesame:8313424",
    "company": "OpenSesame",
@@ -75,25 +150,6 @@
    "category": "Data & ML/AI",
    "location": "Hyderabad, Telangana, India",
    "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004251",
-   "posted_at": "2026-10-22",
-   "first_seen_at": "2026-10-22T12:55:36Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Tableau"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159821",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159821",
    "posted_at": "2026-10-22",
    "first_seen_at": "2026-10-22T12:55:36Z",
    "salary": null,
@@ -538,6 +594,43 @@
    "source": "ashby"
   },
   {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
+   "posted_at": "2026-09-24T00:00:00Z",
+   "first_seen_at": "2026-09-24T11:02:05Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Linux"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214668",
+   "company": "DTCC",
+   "title": "Software Engineering Associate (Java with AWS)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214668",
+   "posted_at": "2026-09-17",
+   "first_seen_at": "2026-09-17T17:35:12Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "AWS",
+    "Linux"
+   ],
+   "source": "oracle"
+  },
+  {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
    "company": "Ancestry",
    "title": "Data Science - AI Document Understanding, Co-op",
@@ -553,25 +646,6 @@
     "Python",
     "LLMs",
     "AWS"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241",
-   "posted_at": "2026-09-15T00:00:00Z",
-   "first_seen_at": "2026-09-15T15:31:31Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Kubernetes",
-    "Linux"
    ],
    "source": "workday"
   },

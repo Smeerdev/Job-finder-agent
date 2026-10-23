@@ -5,7 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-23T05:45:58Z</updated>
+  <updated>2026-10-23T11:00:00Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250</id>
+    <title>Marvell: Intern, Software QA Engineer - Bachelor's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250"/>
+    <updated>2026-10-23T11:00:00Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624</id>
+    <title>Marvell: Intern, Software Engineer - Bachelor's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624"/>
+    <updated>2026-10-23T11:00:00Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad · Python, Rust, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thehartford:/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341</id>
+    <title>The Hartford: IND Associate Software Engineer -  Red Team Engineer</title>
+    <link href="https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341"/>
+    <updated>2026-10-23T11:00:00Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · India GCC-Puppalaguda Village · Python, C#, Rust, LLMs, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:valeo:/job/Chennai/AI---Intern_REQ2026080851</id>
+    <title>Valeo: AI - Intern</title>
+    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851"/>
+    <updated>2026-10-23T11:00:00Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Chennai</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:opensesame:8313424</id>
     <title>OpenSesame: AI Product Builder Intern</title>
@@ -45,14 +77,6 @@
     <updated>2026-10-22T12:55:36Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, SQL, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:159821</id>
-    <title>Honeywell: Intern Bachelors AI Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159821"/>
-    <updated>2026-10-22T12:55:36Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India · Python, SQL, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160473</id>
@@ -263,6 +287,14 @@
     <summary>2026 Graduates · Data &amp; ML/AI · Remote - Multiple Locations · Python, C++, PyTorch, TensorFlow, LLMs</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879</id>
+    <title>Marvell: Intern, Software Engineer</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879"/>
+    <updated>2026-09-24T11:02:05Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad · Python, Linux</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:instahyre:gameberrylabs:443500</id>
     <title>Gameberry Labs: Gen AI Designer - Intern</title>
     <link href="https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/"/>
@@ -271,20 +303,20 @@
     <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214668</id>
+    <title>DTCC: Software Engineering Associate (Java with AWS)</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214668"/>
+    <updated>2026-09-17T17:35:12Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, India · Java, AWS, Linux</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449</id>
     <title>Ancestry: Data Science - AI Document Understanding, Co-op</title>
     <link href="https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449"/>
     <updated>2026-09-16T22:38:36Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241</id>
-    <title>Marvell: Intern, Software Engineer</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241"/>
-    <updated>2026-09-15T15:31:31Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad · Python, Kubernetes, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:instahyre:aitainment:442949</id>
