@@ -1,22 +1,42 @@
 {
- "generated_at": "2026-10-23T11:00:00Z",
+ "generated_at": "2026-10-23T15:51:47Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 49,
+ "count": 51,
  "jobs": [
   {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
-   "company": "Marvell",
-   "title": "Intern, Software QA Engineer - Bachelor's Degree",
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:215060",
+   "company": "DTCC",
+   "title": "Software Engineering Associate",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215060",
+   "posted_at": "2026-10-23",
+   "first_seen_at": "2026-10-23T15:51:47Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:agilonhealth:/job/India_Gurgaon/Senior-Software-Engineer_R003568",
+   "company": "agilon health",
+   "title": "Associate Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India_Gurgaon",
+   "url": "https://agilonhealth.wd1.myworkdayjobs.com/External/job/India_Gurgaon/Senior-Software-Engineer_R003568",
    "posted_at": "2026-10-23T00:00:00Z",
-   "first_seen_at": "2026-10-23T11:00:00Z",
+   "first_seen_at": "2026-10-23T15:51:47Z",
    "salary": null,
    "skills": [
-    "Python"
+    "Python",
+    "Java",
+    "SQL",
+    "Airflow",
+    "PostgreSQL",
+    "Tableau"
    ],
    "source": "workday"
   },
@@ -36,6 +56,23 @@
     "Python",
     "Rust",
     "Linux"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
+   "company": "Marvell",
+   "title": "Intern, Software QA Engineer - Bachelor's Degree",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
+   "posted_at": "2026-10-23T00:00:00Z",
+   "first_seen_at": "2026-10-23T11:00:00Z",
+   "salary": null,
+   "skills": [
+    "Python"
    ],
    "source": "workday"
   },
