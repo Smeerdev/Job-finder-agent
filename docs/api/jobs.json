@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23T19:54:11Z",
+ "generated_at": "2026-10-23T22:55:53Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 49,
+ "count": 48,
  "jobs": [
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:215060",
@@ -180,21 +180,6 @@
     "SQL",
     "Tableau"
    ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160473",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473",
-   "posted_at": "2026-10-22",
-   "first_seen_at": "2026-10-22T12:55:36Z",
-   "salary": null,
-   "skills": [],
    "source": "oracle"
   },
   {
