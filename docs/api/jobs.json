@@ -1,8 +1,42 @@
 {
- "generated_at": "2026-10-24T11:56:15Z",
+ "generated_at": "2026-10-24T15:19:04Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 48,
+ "count": 50,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160494",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494",
+   "posted_at": "2026-10-24",
+   "first_seen_at": "2026-10-24T15:19:04Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160495",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160495",
+   "posted_at": "2026-10-24",
+   "first_seen_at": "2026-10-24T15:19:04Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:215060",
    "company": "DTCC",
