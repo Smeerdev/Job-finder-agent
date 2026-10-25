@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-25T17:27:06Z",
+ "generated_at": "2026-10-25T20:22:24Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 50,
+ "count": 49,
  "jobs": [
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160494",
@@ -358,28 +358,6 @@
     "Kubernetes"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
-   "company": "Marvell",
-   "title": "Generative AI Forward Deployed Engineer Intern- Master's Degree",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
-   "posted_at": "2026-10-15T00:00:00Z",
-   "first_seen_at": "2026-10-15T10:48:46Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "PyTorch",
-    "TensorFlow",
-    "LLMs",
-    "Git"
-   ],
-   "source": "workday"
   },
   {
    "id": "greenhouse:cloudflare:8278383",

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-25T17:27:06Z</updated>
+  <updated>2026-10-25T20:22:24Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160494</id>
     <title>Honeywell: Intern Bachelors AI</title>
@@ -165,14 +165,6 @@
     <updated>2026-10-15T19:45:35Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote - Multiple Locations · Python, PyTorch, TensorFlow, LLMs, Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231</id>
-    <title>Marvell: Generative AI Forward Deployed Engineer Intern- Master's Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231"/>
-    <updated>2026-10-15T10:48:46Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore · Python, Java, PyTorch, TensorFlow, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:cloudflare:8278383</id>

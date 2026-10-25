@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**48 open roles · 17 new this week · 5,502 companies tracked · updated Oct 25, 2026 at 17:27 UTC**
+**48 open roles · 17 new this week · 5,502 companies tracked · updated Oct 25, 2026 at 20:22 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -36,7 +36,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Priceline | Associate Software Engineer ~ | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Oct 19, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5880) |
 | iSpot.tv | Associate Data Analyst ~ | Data & ML/AI | $76.787k–$92.916k/yr<br>B.Tech/BS | Remote | Oct 16, 2026 | [Apply](https://job-boards.greenhouse.io/ispottv/jobs/4742654005) |
 | Quora | Machine Learning Engineer, New Grad - Quora (Remote) ~ | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Oct 15, 2026 | [Apply](https://jobs.ashbyhq.com/quora/40659fe7-545e-4b08-b6d7-2567b18b9ed3) |
-| Marvell | Generative AI Forward Deployed Engineer Intern- Master's Degree ~ | Data & ML/AI | B.Tech/BS | Bangalore | Oct 15, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231) |
 | Cloudflare | Infrastructure Business Operations Associate ~ | Software | B.Tech/BS | Hybrid | Oct 14, 2026 | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8278383?gh_jid=8278383) |
 | Rolls-Royce | Integrated Control Systems Engineer Intern (Software) ~ | Software | B.Tech/BS | Indianapolis | Oct 13, 2026 | [Apply](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452) |
 | Oaktree Capital Management | Associate - Software Engineer Investment Systems and Integration (.Net Engineer) ~ | Software | B.Tech/BS | Hyderabad | Oct 12, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533) |
@@ -46,6 +45,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Barnes & Thornburg | Data Privacy and AI Associate ~ | Data & ML/AI | B.Tech/BS | Indianapolis | Oct 05, 2026 | [Apply](https://jobs.ashbyhq.com/barnes/fd87b2c0-dec0-4d54-8543-da70dd28a802) |
 | Mitel Networks | R&D Intern (student) - iOS development ~ | Software | B.Tech/BS | Curitiba (Remote) | Oct 05, 2026 | [Apply](https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162) |
 | TriNet | Associate Data Scientist ~ | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Oct 05, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004076) |
+| Marvell | AI Intern ~ | Data & ML/AI | B.Tech/BS | Bangalore | Sep 30, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445) |
 | PTC | Associate Software Analyst ~ | Software | B.Tech/BS | Pune, India | Sep 29, 2026 | [Apply](https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163) |
 | Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | Data & ML/AI | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Sep 25, 2026 | [Apply](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0) |
 | DTCC | Software Engineering Associate (Java with AWS) ~ | Software | B.Tech/BS | Hyderabad, India | Sep 17, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214668) |
@@ -148,6 +148,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Marvell | Generative AI Forward Deployed Engineer Intern- Master's Degree | 2026 Graduates | 2026-10-25 |
 | Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-10-23 |
 | WSP | Associate - Structures Transport & Infrastructure, SG | 2026 Graduates | 2026-10-23 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-23 |
@@ -187,7 +188,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Airbus | Internship - DCC AI and Automation | 2026 Graduates | 2026-10-14 |
 | DTCC | IT Embedded Risk Associate | 2026 Graduates | 2026-10-13 |
 | DTCC | Software Engineering Associate | 2026 Graduates | 2026-10-13 |
-| Emerson Electric | Metrology Software Engineering Intern | 2026 Graduates | 2026-10-13 |
 
 </details>
 
@@ -206,7 +206,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,502 companies across 24 ATS platforms · 100% fetch success · completed in 299.8s · median detection latency 689 min · real posted dates on 84% of open roles._
+_Engine (last run): 5,502 companies across 24 ATS platforms · 99% fetch success · completed in 328.7s · median detection latency 689 min · real posted dates on 83% of open roles._
 
 ## Platforms Scraped
 
