@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T21:29:31Z",
+ "generated_at": "2026-10-25T00:01:56Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -12,7 +12,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -85,
+   "days_until": -86,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52",
    "note": ""
@@ -26,7 +26,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-10-05",
-   "days_until": -19,
+   "days_until": -20,
    "status": "open",
    "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851",
    "note": ""
@@ -628,7 +628,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-10",
-   "days_until": -75,
+   "days_until": -76,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -642,7 +642,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-27",
-   "days_until": -58,
+   "days_until": -59,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -656,7 +656,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-09-23",
-   "days_until": -31,
+   "days_until": -32,
    "status": "dropped",
    "url": "",
    "note": ""
