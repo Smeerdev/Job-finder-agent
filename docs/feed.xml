@@ -5,7 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-26T01:09:47Z</updated>
+  <updated>2026-10-26T07:24:01Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885</id>
+    <title>Marvell: Intern, Software Engineer</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885"/>
+    <updated>2026-10-26T07:24:01Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad · Python, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Intern_2604252</id>
+    <title>Marvell: Software Intern</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252"/>
+    <updated>2026-10-26T07:24:01Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bangalore · Python, MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Software-Engineer-Intern_2604237</id>
+    <title>Marvell: Software Engineer Intern</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Software-Engineer-Intern_2604237"/>
+    <updated>2026-10-26T07:24:01Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad · Rust</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160494</id>
     <title>Honeywell: Intern Bachelors AI</title>
@@ -29,14 +53,6 @@
     <updated>2026-10-23T15:51:47Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:agilonhealth:/job/India_Gurgaon/Senior-Software-Engineer_R003568</id>
-    <title>agilon health: Associate Software Engineer</title>
-    <link href="https://agilonhealth.wd1.myworkdayjobs.com/External/job/India_Gurgaon/Senior-Software-Engineer_R003568"/>
-    <updated>2026-10-23T15:51:47Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · India_Gurgaon · Python, Java, SQL, Airflow, PostgreSQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624</id>
@@ -277,14 +293,6 @@
     <updated>2026-09-28T14:59:03Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bangalore</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879</id>
-    <title>Marvell: Intern, Software Engineer</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879"/>
-    <updated>2026-09-24T11:02:05Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad · Python, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:instahyre:gameberrylabs:443500</id>

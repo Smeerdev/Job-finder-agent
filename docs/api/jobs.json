@@ -1,8 +1,61 @@
 {
- "generated_at": "2026-10-26T01:09:47Z",
+ "generated_at": "2026-10-26T07:24:01Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 48,
+ "count": 49,
  "jobs": [
+  {
+   "id": "workday:marvell:/job/Bangalore/Software-Intern_2604252",
+   "company": "Marvell",
+   "title": "Software Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252",
+   "posted_at": "2026-10-26T00:00:00Z",
+   "first_seen_at": "2026-10-26T07:24:01Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "MATLAB"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885",
+   "posted_at": "2026-10-25T00:00:00Z",
+   "first_seen_at": "2026-10-26T07:24:01Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Linux"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Software-Engineer-Intern_2604237",
+   "company": "Marvell",
+   "title": "Software Engineer Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Software-Engineer-Intern_2604237",
+   "posted_at": "2026-10-25T00:00:00Z",
+   "first_seen_at": "2026-10-26T07:24:01Z",
+   "salary": null,
+   "skills": [
+    "Rust"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160494",
    "company": "Honeywell",
@@ -51,28 +104,6 @@
    "salary": null,
    "skills": [],
    "source": "oracle"
-  },
-  {
-   "id": "workday:agilonhealth:/job/India_Gurgaon/Senior-Software-Engineer_R003568",
-   "company": "agilon health",
-   "title": "Associate Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India_Gurgaon",
-   "url": "https://agilonhealth.wd1.myworkdayjobs.com/External/job/India_Gurgaon/Senior-Software-Engineer_R003568",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "first_seen_at": "2026-10-23T15:51:47Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "Airflow",
-    "PostgreSQL",
-    "Tableau"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
@@ -567,24 +598,6 @@
    "first_seen_at": "2026-09-29T14:39:26Z",
    "salary": null,
    "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "first_seen_at": "2026-09-24T11:02:05Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
-   ],
    "source": "workday"
   },
   {
