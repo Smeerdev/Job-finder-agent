@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T14:54:29Z",
+ "generated_at": "2026-10-26T20:25:09Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 51,
  "jobs": [
@@ -40,25 +40,6 @@
    "source": "oracle"
   },
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160942",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Data Science",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160942",
-   "posted_at": "2026-10-26",
-   "first_seen_at": "2026-10-26T14:54:29Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Tableau"
-   ],
-   "source": "oracle"
-  },
-  {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160480",
    "company": "Honeywell",
    "title": "Intern Bachelors Software Eng",
@@ -74,6 +55,25 @@
     "Python",
     "Java",
     "C++"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160942",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Data Science",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160942",
+   "posted_at": "2026-10-26",
+   "first_seen_at": "2026-10-26T14:54:29Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
    ],
    "source": "oracle"
   },
