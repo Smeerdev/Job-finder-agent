@@ -1,8 +1,82 @@
 {
- "generated_at": "2026-10-26T07:24:01Z",
+ "generated_at": "2026-10-26T14:54:29Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 49,
+ "count": 51,
  "jobs": [
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214039",
+   "company": "DTCC",
+   "title": "Software Engineering Associate - Snowflake",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214039",
+   "posted_at": "2026-10-26",
+   "first_seen_at": "2026-10-26T14:54:29Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Azure",
+    "Kafka"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160430",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160430",
+   "posted_at": "2026-10-26",
+   "first_seen_at": "2026-10-26T14:54:29Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160942",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Data Science",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160942",
+   "posted_at": "2026-10-26",
+   "first_seen_at": "2026-10-26T14:54:29Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160480",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160480",
+   "posted_at": "2026-10-26",
+   "first_seen_at": "2026-10-26T14:54:29Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:marvell:/job/Bangalore/Software-Intern_2604252",
    "company": "Marvell",
@@ -55,40 +129,6 @@
     "Rust"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160494",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494",
-   "posted_at": "2026-10-24",
-   "first_seen_at": "2026-10-24T15:19:04Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160495",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160495",
-   "posted_at": "2026-10-24",
-   "first_seen_at": "2026-10-24T15:19:04Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:215060",
