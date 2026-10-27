@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**46 open roles · 19 new this week · 5,513 companies tracked · updated Oct 27, 2026 at 17:30 UTC**
+**47 open roles · 20 new this week · 5,513 companies tracked · updated Oct 27, 2026 at 21:48 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,12 +13,13 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (46 open)
+## 2026 Graduates (International)  (47 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| DTCC | Software Engineering Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 27, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214945) |
+| Eurofins | Associate Research Scientist - Large Molecule Bioanalysis ~ 🆕 | Data & ML/AI | — | Bengaluru, KA, India | Oct 27, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157955969) |
 | EQT Corporation | AI Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
+| DTCC | Software Engineering Associate ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 27, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214945) |
 | Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Pune City, Maharashtra, India | Oct 27, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868) |
 | Honeywell | Intern Bachelors Data Science ~ 🆕 | Data & ML/AI | B.Tech/BS | Pune, Maharashtra, India | Oct 27, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160948) |
 | DTCC | Software Engineering Associate - Snowflake ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Oct 26, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214039) |
@@ -64,7 +65,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (45 of 46)._
+_~ = the title doesn't state a year; bucketed here from its posting date (46 of 47)._
 
 ## What this is
 
@@ -204,7 +205,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,513 companies across 24 ATS platforms · 98% fetch success · completed in 495.7s · median detection latency 696 min · real posted dates on 83% of open roles._
+_Engine (last run): 5,513 companies across 24 ATS platforms · 99% fetch success · completed in 344.1s · median detection latency 699 min · real posted dates on 84% of open roles._
 
 ## Platforms Scraped
 
