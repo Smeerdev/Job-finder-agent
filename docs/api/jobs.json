@@ -1,8 +1,84 @@
 {
- "generated_at": "2026-10-27T06:09:15Z",
+ "generated_at": "2026-10-27T11:33:19Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 50,
+ "count": 52,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160949",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160949",
+   "posted_at": "2026-10-27",
+   "first_seen_at": "2026-10-27T11:33:19Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160948",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Data Science",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160948",
+   "posted_at": "2026-10-27",
+   "first_seen_at": "2026-10-27T11:33:19Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160868",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune City, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868",
+   "posted_at": "2026-10-27",
+   "first_seen_at": "2026-10-27T11:33:19Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:illumina:/job/India---Bengaluru---Manyata/Associate-SAP-Developer_43485-JOB",
+   "company": "Illumina",
+   "title": "Associate SAP Developer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India - Bengaluru - Manyata",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/India---Bengaluru---Manyata/Associate-SAP-Developer_43485-JOB",
+   "posted_at": "2026-10-27T00:00:00Z",
+   "first_seen_at": "2026-10-27T11:33:19Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "TypeScript",
+    "JavaScript",
+    "SQL",
+    "LLMs",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214039",
    "company": "DTCC",
@@ -21,40 +97,6 @@
     "AWS",
     "Azure",
     "Kafka"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160430",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160430",
-   "posted_at": "2026-10-26",
-   "first_seen_at": "2026-10-26T14:54:29Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160480",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160480",
-   "posted_at": "2026-10-26",
-   "first_seen_at": "2026-10-26T14:54:29Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
    ],
    "source": "oracle"
   },
