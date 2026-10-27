@@ -1,41 +1,39 @@
 {
- "generated_at": "2026-10-27T11:33:19Z",
+ "generated_at": "2026-10-27T17:30:06Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 52,
+ "count": 49,
  "jobs": [
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160949",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214945",
+   "company": "DTCC",
+   "title": "Software Engineering Associate",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160949",
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214945",
    "posted_at": "2026-10-27",
-   "first_seen_at": "2026-10-27T11:33:19Z",
+   "first_seen_at": "2026-10-27T17:30:06Z",
    "salary": null,
    "skills": [],
    "source": "oracle"
   },
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160948",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Data Science",
+   "id": "greenhouse:eqtcorporation:5462562008",
+   "company": "EQT Corporation",
+   "title": "AI Intern",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Data & ML/AI",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160948",
-   "posted_at": "2026-10-27",
-   "first_seen_at": "2026-10-27T11:33:19Z",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008",
+   "posted_at": "2026-10-27T10:11:16-04:00",
+   "first_seen_at": "2026-10-27T17:30:06Z",
    "salary": null,
    "skills": [
-    "Python",
-    "SQL",
-    "Tableau"
+    "LLMs"
    ],
-   "source": "oracle"
+   "source": "greenhouse"
   },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160868",
@@ -57,27 +55,23 @@
    "source": "oracle"
   },
   {
-   "id": "workday:illumina:/job/India---Bengaluru---Manyata/Associate-SAP-Developer_43485-JOB",
-   "company": "Illumina",
-   "title": "Associate SAP Developer",
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160948",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Data Science",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Software",
-   "location": "India - Bengaluru - Manyata",
-   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/India---Bengaluru---Manyata/Associate-SAP-Developer_43485-JOB",
-   "posted_at": "2026-10-27T00:00:00Z",
+   "category": "Data & ML/AI",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160948",
+   "posted_at": "2026-10-27",
    "first_seen_at": "2026-10-27T11:33:19Z",
    "salary": null,
    "skills": [
     "Python",
-    "Java",
-    "TypeScript",
-    "JavaScript",
     "SQL",
-    "LLMs",
-    "Git"
+    "Tableau"
    ],
-   "source": "workday"
+   "source": "oracle"
   },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214039",
@@ -154,21 +148,6 @@
    "source": "workday"
   },
   {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:215060",
-   "company": "DTCC",
-   "title": "Software Engineering Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215060",
-   "posted_at": "2026-10-23",
-   "first_seen_at": "2026-10-23T15:51:47Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
    "company": "Marvell",
    "title": "Intern, Software Engineer - Bachelor's Degree",
@@ -226,21 +205,6 @@
     "Azure",
     "Linux"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:valeo:/job/Chennai/AI---Intern_REQ2026080851",
-   "company": "Valeo",
-   "title": "AI - Intern",
-   "season": "2026 Graduates",
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Chennai",
-   "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "first_seen_at": "2026-10-23T11:00:00Z",
-   "salary": null,
-   "skills": [],
    "source": "workday"
   },
   {
@@ -662,25 +626,6 @@
    "salary": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214668",
-   "company": "DTCC",
-   "title": "Software Engineering Associate (Java with AWS)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214668",
-   "posted_at": "2026-09-17",
-   "first_seen_at": "2026-09-17T17:35:12Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "AWS",
-    "Linux"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",

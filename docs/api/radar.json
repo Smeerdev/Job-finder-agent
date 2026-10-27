@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T11:33:19Z",
+ "generated_at": "2026-10-27T17:30:06Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -15,20 +15,6 @@
    "days_until": -88,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52",
-   "note": ""
-  },
-  {
-   "company": "Valeo",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-05",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-05",
-   "days_until": -22,
-   "status": "open",
-   "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851",
    "note": ""
   },
   {
@@ -657,6 +643,20 @@
    "source": "engine",
    "expected": "2026-09-23",
    "days_until": -34,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Valeo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": -22,
    "status": "dropped",
    "url": "",
    "note": ""

@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-27T11:33:19Z",
- "duration_seconds": 469.6,
- "companies_total": 5504,
+ "generated_at": "2026-10-27T17:30:06Z",
+ "duration_seconds": 495.7,
+ "companies_total": 5513,
  "companies_by_source": {
   "greenhouse": 1170,
-  "lever": 463,
+  "lever": 465,
   "smartrecruiters": 845,
-  "workable": 204,
-  "ashby": 806,
+  "workable": 205,
+  "ashby": 810,
   "recruitee": 9,
-  "workday": 1608,
+  "workday": 1610,
   "rippling": 174,
   "oracle": 154,
   "amazon": 1,
@@ -28,55 +28,48 @@
   "unstop": 5,
   "wellfound": 1
  },
- "quarantined": 132,
- "fetched_ok": 5050,
- "fetch_errors": 322,
+ "quarantined": 373,
+ "fetched_ok": 5046,
+ "fetch_errors": 94,
  "errors_by_source": {
-  "greenhouse": 70,
-  "lever": 60,
-  "ashby": 50,
-  "workday": 62,
-  "bloomberg": 1,
-  "bytedance": 1,
-  "google": 1,
-  "indeed": 9,
-  "linkedin": 12,
-  "naukri": 10,
-  "workable": 44,
-  "uber": 1,
-  "wellfound": 1
+  "recruitee": 1,
+  "lever": 9,
+  "greenhouse": 3,
+  "workday": 14,
+  "workable": 66,
+  "ashby": 1
  },
- "fetch_success_rate": 0.94,
- "roles_matched": 44,
- "roles_cycle_inferred": 42,
- "dropped_no_year_in_title": 639,
- "dropped_offcycle_by_text": 810,
+ "fetch_success_rate": 0.982,
+ "roles_matched": 41,
+ "roles_cycle_inferred": 40,
+ "dropped_no_year_in_title": 638,
+ "dropped_offcycle_by_text": 793,
  "roles_by_source": {
-  "workday": 27,
+  "workday": 25,
   "ashby": 3,
-  "greenhouse": 6,
-  "oracle": 8
+  "greenhouse": 7,
+  "oracle": 6
  },
  "roles_by_cycle": {
-  "2026 Graduates": 44
+  "2026 Graduates": 41
  },
  "roles_by_region": {
-  "Remote": 13,
-  "India": 31
+  "Remote": 14,
+  "India": 27
  },
- "posted_date_coverage": 0.846,
- "enriched_this_run": 4,
- "enrichment_detail_fetches": 4,
- "purged_this_run": 1,
- "new_this_run": 4,
- "open_total": 52,
+ "posted_date_coverage": 0.837,
+ "enriched_this_run": 2,
+ "enrichment_detail_fetches": 2,
+ "purged_this_run": 0,
+ "new_this_run": 2,
+ "open_total": 49,
  "detection_latency": {
   "median_minutes": 696.3,
-  "sample_size": 186,
+  "sample_size": 188,
   "window_days": 7
  },
  "posting_lifetime": {
-  "median_days": 4,
-  "sample_size": 155
+  "median_days": 4.0,
+  "sample_size": 160
  }
 }
