@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-28T06:39:51Z</updated>
+  <updated>2026-10-28T13:50:50Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stripe:8130876</id>
+    <title>Stripe: Software Engineer, New Grad</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8130876"/>
+    <updated>2026-10-28T13:50:49Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bangalore · Java, JavaScript, Scala</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000157955969</id>
     <title>Eurofins: Associate Research Scientist - Large Molecule Bioanalysis</title>

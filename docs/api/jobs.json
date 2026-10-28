@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-10-28T06:39:51Z",
+ "generated_at": "2026-10-28T13:50:50Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 49,
+ "count": 50,
  "jobs": [
+  {
+   "id": "greenhouse:stripe:8130876",
+   "company": "Stripe",
+   "title": "Software Engineer, New Grad",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+   "posted_at": "2026-10-28T05:19:59-04:00",
+   "first_seen_at": "2026-10-28T13:50:49Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "JavaScript",
+    "Scala"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "smartrecruiters:Eurofins:744000157955969",
    "company": "Eurofins",
