@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T01:00:22Z",
+ "generated_at": "2026-10-28T06:39:51Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 50,
+ "count": 49,
  "jobs": [
   {
    "id": "smartrecruiters:Eurofins:744000157955969",
@@ -85,27 +85,6 @@
     "Python",
     "SQL",
     "Tableau"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214039",
-   "company": "DTCC",
-   "title": "Software Engineering Associate - Snowflake",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214039",
-   "posted_at": "2026-10-26",
-   "first_seen_at": "2026-10-26T14:54:29Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "AWS",
-    "Azure",
-    "Kafka"
    ],
    "source": "oracle"
   },

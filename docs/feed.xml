@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-28T01:00:22Z</updated>
+  <updated>2026-10-28T06:39:51Z</updated>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000157955969</id>
     <title>Eurofins: Associate Research Scientist - Large Molecule Bioanalysis</title>
@@ -45,14 +45,6 @@
     <updated>2026-10-27T11:33:19Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Pune, Maharashtra, India · Python, SQL, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214039</id>
-    <title>DTCC: Software Engineering Associate - Snowflake</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214039"/>
-    <updated>2026-10-26T14:54:29Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India · Python, SQL, AWS, Azure, Kafka</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Intern_2604252</id>
