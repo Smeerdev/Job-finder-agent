@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T19:21:46Z",
+ "generated_at": "2026-10-28T23:56:48Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 52,
+ "count": 51,
  "jobs": [
   {
    "id": "ashby:certa:9f7caf0b-46ff-49ab-ae78-62deadec106e",
@@ -615,30 +615,6 @@
    "salary": null,
    "skills": [],
    "source": "ashby"
-  },
-  {
-   "id": "workday:mitel:/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
-   "company": "Mitel Networks",
-   "title": "R&D Intern (student) - iOS development",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Curitiba (Remote)",
-   "url": "https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
-   "posted_at": "2026-10-05T00:00:00Z",
-   "first_seen_at": "2026-10-05T23:43:33Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "TypeScript",
-    "JavaScript",
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Git"
-   ],
-   "source": "workday"
   },
   {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004076",
