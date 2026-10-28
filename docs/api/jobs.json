@@ -1,8 +1,75 @@
 {
- "generated_at": "2026-10-28T13:50:50Z",
+ "generated_at": "2026-10-28T19:21:46Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 50,
+ "count": 52,
  "jobs": [
+  {
+   "id": "ashby:certa:9f7caf0b-46ff-49ab-ae78-62deadec106e",
+   "company": "Certa",
+   "title": "Frontend Engineer - Internship",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India",
+   "url": "https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e",
+   "posted_at": "2026-10-28T06:03:09.175+00:00",
+   "first_seen_at": "2026-10-28T19:21:45Z",
+   "salary": null,
+   "skills": [
+    "TypeScript",
+    "JavaScript",
+    "React"
+   ],
+   "source": "ashby"
+  },
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:215113",
+   "company": "DTCC",
+   "title": "Platform Engineering Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215113",
+   "posted_at": "2026-10-28",
+   "first_seen_at": "2026-10-28T19:21:45Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "Terraform",
+    "Linux"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:gsk:/job/Bengaluru-Luxor-North-Tower/Associate--Platform-Engineer_450564",
+   "company": "GSK",
+   "title": "Associate, Platform Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru Luxor North Tower",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate--Platform-Engineer_450564",
+   "posted_at": "2026-10-28T00:00:00Z",
+   "first_seen_at": "2026-10-28T19:21:45Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "LLMs",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Docker",
+    "Terraform"
+   ],
+   "source": "workday"
+  },
   {
    "id": "greenhouse:stripe:8130876",
    "company": "Stripe",
@@ -53,40 +120,6 @@
     "LLMs"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214945",
-   "company": "DTCC",
-   "title": "Software Engineering Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214945",
-   "posted_at": "2026-10-27",
-   "first_seen_at": "2026-10-27T17:30:06Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160868",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune City, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160868",
-   "posted_at": "2026-10-27",
-   "first_seen_at": "2026-10-27T11:33:19Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160948",
@@ -159,6 +192,21 @@
     "Rust"
    ],
    "source": "workday"
+  },
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:215060",
+   "company": "DTCC",
+   "title": "Software Engineering Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215060",
+   "posted_at": "2026-10-23",
+   "first_seen_at": "2026-10-23T15:51:47Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
   },
   {
    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
