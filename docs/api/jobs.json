@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-10-29T10:48:17Z",
+ "generated_at": "2026-10-29T17:25:21Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 52,
  "jobs": [
+  {
+   "id": "workday:ag:/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
+   "company": "Airbus",
+   "title": "Technical Data Analyst Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore Area",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
+   "posted_at": "2026-10-29T00:00:00Z",
+   "first_seen_at": "2026-10-29T17:25:21Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "lever:brillio-2:f7f9f468-7bda-42c4-9904-2a191eabc5fb",
    "company": "Brillio",
@@ -31,21 +46,6 @@
    "category": "Data & ML/AI",
    "location": "Bengaluru, Karnataka, India",
    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161165",
-   "posted_at": "2026-10-29",
-   "first_seen_at": "2026-10-29T10:48:16Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:jpmc.fa.oraclecloud.com:210803733",
-   "company": "JPMorganChase",
-   "title": "Associate - Digital Learning Developer II - Excellerate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210803733",
    "posted_at": "2026-10-29",
    "first_seen_at": "2026-10-29T10:48:16Z",
    "salary": null,

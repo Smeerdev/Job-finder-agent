@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-29T10:48:16Z",
-  "duration_seconds": 488.5,
-  "companies_total": 5581,
+  "generated_at": "2026-10-29T17:25:21Z",
+  "duration_seconds": 577.7,
+  "companies_total": 5617,
   "companies_by_source": {
-    "greenhouse": 1171,
+    "greenhouse": 1201,
     "lever": 474,
     "smartrecruiters": 846,
     "workable": 206,
-    "ashby": 861,
+    "ashby": 864,
     "recruitee": 9,
-    "workday": 1611,
+    "workday": 1614,
     "rippling": 176,
     "oracle": 154,
     "amazon": 1,
@@ -28,48 +28,49 @@
     "unstop": 5,
     "wellfound": 1
   },
-  "quarantined": 382,
-  "fetched_ok": 5116,
-  "fetch_errors": 83,
+  "quarantined": 410,
+  "fetched_ok": 5082,
+  "fetch_errors": 125,
   "errors_by_source": {
+    "rippling": 1,
     "ashby": 5,
-    "greenhouse": 1,
-    "workable": 76,
-    "workday": 1
+    "greenhouse": 3,
+    "workday": 34,
+    "workable": 82
   },
-  "fetch_success_rate": 0.984,
+  "fetch_success_rate": 0.976,
   "roles_matched": 44,
   "roles_cycle_inferred": 43,
-  "dropped_no_year_in_title": 647,
-  "dropped_offcycle_by_text": 855,
+  "dropped_no_year_in_title": 642,
+  "dropped_offcycle_by_text": 829,
   "roles_by_source": {
-    "workday": 23,
+    "workday": 24,
     "ashby": 4,
     "lever": 1,
     "greenhouse": 8,
-    "oracle": 7,
+    "oracle": 6,
     "smartrecruiters": 1
   },
   "roles_by_cycle": {
     "2026 Graduates": 44
   },
   "roles_by_region": {
-    "Remote": 13,
-    "India": 31
+    "India": 31,
+    "Remote": 13
   },
   "posted_date_coverage": 0.846,
-  "enriched_this_run": 3,
-  "enrichment_detail_fetches": 2,
+  "enriched_this_run": 1,
+  "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
-  "new_this_run": 3,
+  "new_this_run": 1,
   "open_total": 52,
   "detection_latency": {
-    "median_minutes": 696.3,
-    "sample_size": 196,
+    "median_minutes": 699.2,
+    "sample_size": 197,
     "window_days": 7
   },
   "posting_lifetime": {
-    "median_days": 4.0,
-    "sample_size": 164
+    "median_days": 4,
+    "sample_size": 165
   }
 }
