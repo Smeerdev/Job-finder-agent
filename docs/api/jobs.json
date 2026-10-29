@@ -1,8 +1,57 @@
 {
- "generated_at": "2026-10-29T04:03:53Z",
+ "generated_at": "2026-10-29T10:48:17Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 51,
+ "count": 52,
  "jobs": [
+  {
+   "id": "lever:brillio-2:f7f9f468-7bda-42c4-9904-2a191eabc5fb",
+   "company": "Brillio",
+   "title": "Associate Data Engineer - R01571250",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore, Karnataka, India",
+   "url": "https://jobs.lever.co/brillio-2/f7f9f468-7bda-42c4-9904-2a191eabc5fb",
+   "posted_at": "2026-10-29T07:03:46Z",
+   "first_seen_at": "2026-10-29T10:48:16Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "AWS"
+   ],
+   "source": "lever"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161165",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161165",
+   "posted_at": "2026-10-29",
+   "first_seen_at": "2026-10-29T10:48:16Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:jpmc.fa.oraclecloud.com:210803733",
+   "company": "JPMorganChase",
+   "title": "Associate - Digital Learning Developer II - Excellerate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210803733",
+   "posted_at": "2026-10-29",
+   "first_seen_at": "2026-10-29T10:48:16Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "ashby:certa:9f7caf0b-46ff-49ab-ae78-62deadec106e",
    "company": "Certa",
@@ -120,25 +169,6 @@
     "LLMs"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160948",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Data Science",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160948",
-   "posted_at": "2026-10-27",
-   "first_seen_at": "2026-10-27T11:33:19Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Tableau"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:marvell:/job/Bangalore/Software-Intern_2604252",
@@ -336,6 +366,21 @@
    "source": "oracle"
   },
   {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:215082",
+   "company": "DTCC",
+   "title": "Software Development Engineering in Test Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215082",
+   "posted_at": "2026-10-22",
+   "first_seen_at": "2026-10-22T07:05:33Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
    "id": "greenhouse:coinbase:8175873",
    "company": "Coinbase",
    "title": "Software Engineer Intern",
@@ -356,48 +401,6 @@
     "MongoDB"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:revvity:/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766",
-   "company": "Revvity",
-   "title": "AI Applications DevOps Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Mumbai",
-   "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766",
-   "posted_at": "2026-10-21T00:00:00Z",
-   "first_seen_at": "2026-10-21T11:08:13Z",
-   "salary": null,
-   "skills": [
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Docker",
-    "Terraform",
-    "Git"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:revvity:/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768",
-   "company": "Revvity",
-   "title": "Full-Stack AI Engineering Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Mumbai",
-   "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768",
-   "posted_at": "2026-10-21T00:00:00Z",
-   "first_seen_at": "2026-10-21T11:08:13Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs",
-    "Docker"
-   ],
-   "source": "workday"
   },
   {
    "id": "ashby:quora:5494e6a1-a973-46af-b9f3-57208eb91b52",
