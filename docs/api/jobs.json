@@ -1,8 +1,59 @@
 {
- "generated_at": "2026-10-30T09:34:17Z",
+ "generated_at": "2026-10-30T16:35:37Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 49,
+ "count": 51,
  "jobs": [
+  {
+   "id": "oracle:ecyq.fa.em2.oraclecloud.com:7950",
+   "company": "DNV",
+   "title": "Data Science Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Pune, India",
+   "url": "https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7950",
+   "posted_at": "2026-10-30",
+   "first_seen_at": "2026-10-30T16:35:37Z",
+   "salary": null,
+   "skills": [
+    "Python"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161061",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061",
+   "posted_at": "2026-10-30",
+   "first_seen_at": "2026-10-30T16:35:37Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:wexinc:/job/India---Bangalore/Software-Engineer-Intern_R22720",
+   "company": "Wex",
+   "title": "Software Engineer Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India - Bangalore",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer-Intern_R22720",
+   "posted_at": "2026-10-30T00:00:00Z",
+   "first_seen_at": "2026-10-30T16:35:37Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723",
    "company": "Philips",
@@ -14,21 +65,6 @@
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723",
    "posted_at": "2026-10-30T00:00:00Z",
    "first_seen_at": "2026-10-30T09:34:16Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:ag:/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
-   "company": "Airbus",
-   "title": "Technical Data Analyst Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore Area",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
-   "posted_at": "2026-10-29T00:00:00Z",
-   "first_seen_at": "2026-10-29T17:25:21Z",
    "salary": null,
    "skills": [],
    "source": "workday"
@@ -51,21 +87,6 @@
     "AWS"
    ],
    "source": "lever"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161165",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161165",
-   "posted_at": "2026-10-29",
-   "first_seen_at": "2026-10-29T10:48:16Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
   },
   {
    "id": "ashby:certa:9f7caf0b-46ff-49ab-ae78-62deadec106e",
@@ -707,6 +728,21 @@
     "LLMs",
     "Node.js"
    ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
+   "company": "Oaktree Capital Management",
+   "title": "Associate, Workday Financial Developer (L3)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
+   "posted_at": "2026-08-04T00:00:00Z",
+   "first_seen_at": "2026-08-16T09:28:21Z",
+   "salary": null,
+   "skills": [],
    "source": "workday"
   },
   {
