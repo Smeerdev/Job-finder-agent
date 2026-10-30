@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**49 open roles · 16 new this week · 5,617 companies tracked · updated Oct 29, 2026 at 22:25 UTC**
+**48 open roles · 15 new this week · 5,617 companies tracked · updated Oct 30, 2026 at 02:26 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (49 open)
+## 2026 Graduates (International)  (48 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -29,7 +29,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Marvell | Software Intern ~ | Software | B.Tech/BS | Bangalore | Oct 26, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252) |
 | Marvell | Intern, Software Engineer ~ | Software | B.Tech/BS | Hyderabad | Oct 25, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885) |
 | Marvell | Software Engineer Intern ~ | Software | B.Tech/BS | Hyderabad | Oct 25, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Software-Engineer-Intern_2604237) |
-| DTCC | Software Engineering Associate ~ | Software | B.Tech/BS | Hyderabad, India | Oct 23, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215060) |
 | Marvell | Intern, Software Engineer - Bachelor's Degree ~ | Software | B.Tech/BS | Hyderabad | Oct 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624) |
 | Marvell | Intern, Software QA Engineer - Bachelor's Degree ~ | Software | B.Tech/BS | Hyderabad | Oct 23, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250) |
 | The Hartford | IND Associate Software Engineer -  Red Team Engineer ~ | Software | B.Tech/BS | India GCC-Puppalaguda Village | Oct 23, 2026 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341) |
@@ -67,7 +66,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (48 of 49)._
+_~ = the title doesn't state a year; bucketed here from its posting date (47 of 48)._
 
 ## What this is
 
@@ -149,6 +148,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| DTCC | Software Engineering Associate | 2026 Graduates | 2026-10-30 |
 | JPMorganChase | Associate - Digital Learning Developer II - Excellerate | 2026 Graduates | 2026-10-29 |
 | Honeywell | Intern Bachelors Data Science | 2026 Graduates | 2026-10-29 |
 | Revvity | AI Applications DevOps Intern | 2026 Graduates | 2026-10-29 |
@@ -188,7 +188,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Global Payments | Associate Client Server Software Analyst | 2026 Graduates | 2026-10-20 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-20 |
 | DTCC | Software Engineering Associate | 2026 Graduates | 2026-10-20 |
-| Airbus | Data Science Intern | 2026 Graduates | 2026-10-19 |
 
 </details>
 
@@ -207,7 +206,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,617 companies across 24 ATS platforms · 99% fetch success · completed in 339.5s · median detection latency 699 min · real posted dates on 84% of open roles._
+_Engine (last run): 5,617 companies across 24 ATS platforms · 99% fetch success · completed in 380.5s · median detection latency 699 min · real posted dates on 84% of open roles._
 
 ## Platforms Scraped
 

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-29T22:25:03Z</updated>
+  <updated>2026-10-30T02:26:38Z</updated>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384</id>
     <title>Airbus: Technical Data Analyst Intern</title>
@@ -101,14 +101,6 @@
     <updated>2026-10-26T07:24:01Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad · Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:215060</id>
-    <title>DTCC: Software Engineering Associate</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215060"/>
-    <updated>2026-10-23T15:51:47Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624</id>
@@ -405,5 +397,13 @@
     <updated>2026-08-16T09:28:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:reliaquest:/job/Pune-India-Office/Associate-Software-Engineer_R15032</id>
+    <title>ReliaQuest: Associate Software Engineer</title>
+    <link href="https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032"/>
+    <updated>2026-08-16T09:28:21Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Pune India Office · Java, TensorFlow, React, Angular, Spring</summary>
   </entry>
 </feed>

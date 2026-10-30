@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-29T22:25:03Z",
+ "generated_at": "2026-10-30T02:26:38Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 52,
+ "count": 51,
  "jobs": [
   {
    "id": "workday:ag:/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
@@ -222,21 +222,6 @@
     "Rust"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:215060",
-   "company": "DTCC",
-   "title": "Software Engineering Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215060",
-   "posted_at": "2026-10-23",
-   "first_seen_at": "2026-10-23T15:51:47Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
   },
   {
    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
