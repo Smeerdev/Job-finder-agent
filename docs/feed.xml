@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-30T16:35:37Z</updated>
+  <updated>2026-10-30T21:24:21Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ecyq.fa.em2.oraclecloud.com:7950</id>
     <title>DNV: Data Science Intern</title>
@@ -37,14 +37,6 @@
     <updated>2026-10-30T09:34:16Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bangalore, India · Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723</id>
-    <title>Philips: Intern – Data Science and AI Engineering</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723"/>
-    <updated>2026-10-30T09:34:16Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:brillio-2:f7f9f468-7bda-42c4-9904-2a191eabc5fb</id>
@@ -405,5 +397,13 @@
     <updated>2026-08-16T09:28:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Pune India Office · Java, TensorFlow, React, Angular, Spring</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:valeo:/job/Chennai/Intern---AI_REQ2025061319</id>
+    <title>Valeo: Intern - AI</title>
+    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319"/>
+    <updated>2026-08-16T09:28:21Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Chennai</summary>
   </entry>
 </feed>

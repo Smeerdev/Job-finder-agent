@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T16:35:37Z",
+ "generated_at": "2026-10-30T21:24:21Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 51,
+ "count": 50,
  "jobs": [
   {
    "id": "oracle:ecyq.fa.em2.oraclecloud.com:7950",
@@ -50,21 +50,6 @@
    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer-Intern_R22720",
    "posted_at": "2026-10-30T00:00:00Z",
    "first_seen_at": "2026-10-30T16:35:37Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723",
-   "company": "Philips",
-   "title": "Intern – Data Science and AI Engineering",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723",
-   "posted_at": "2026-10-30T00:00:00Z",
-   "first_seen_at": "2026-10-30T09:34:16Z",
    "salary": null,
    "skills": [],
    "source": "workday"

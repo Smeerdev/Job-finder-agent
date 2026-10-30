@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T16:35:37Z",
-  "duration_seconds": 507.3,
+  "generated_at": "2026-10-30T21:24:21Z",
+  "duration_seconds": 341.8,
   "companies_total": 5647,
   "companies_by_source": {
     "greenhouse": 1209,
@@ -28,31 +28,24 @@
     "unstop": 5,
     "wellfound": 1
   },
-  "quarantined": 166,
-  "fetched_ok": 5119,
-  "fetch_errors": 362,
+  "quarantined": 443,
+  "fetched_ok": 5185,
+  "fetch_errors": 19,
   "errors_by_source": {
-    "greenhouse": 70,
-    "lever": 60,
-    "ashby": 50,
-    "workday": 106,
-    "bloomberg": 1,
-    "bytedance": 1,
-    "google": 1,
-    "indeed": 9,
-    "linkedin": 12,
-    "workable": 40,
-    "naukri": 10,
-    "uber": 1,
-    "wellfound": 1
+    "recruitee": 1,
+    "lever": 8,
+    "workday": 3,
+    "greenhouse": 2,
+    "ashby": 4,
+    "oracle": 1
   },
-  "fetch_success_rate": 0.934,
-  "roles_matched": 43,
-  "roles_cycle_inferred": 42,
+  "fetch_success_rate": 0.996,
+  "roles_matched": 42,
+  "roles_cycle_inferred": 41,
   "dropped_no_year_in_title": 640,
-  "dropped_offcycle_by_text": 846,
+  "dropped_offcycle_by_text": 843,
   "roles_by_source": {
-    "workday": 23,
+    "workday": 22,
     "ashby": 4,
     "lever": 1,
     "greenhouse": 8,
@@ -60,21 +53,21 @@
     "smartrecruiters": 1
   },
   "roles_by_cycle": {
-    "2026 Graduates": 43
+    "2026 Graduates": 42
   },
   "roles_by_region": {
-    "India": 30,
+    "India": 29,
     "Remote": 13
   },
-  "posted_date_coverage": 0.843,
-  "enriched_this_run": 3,
-  "enrichment_detail_fetches": 3,
-  "purged_this_run": 0,
-  "new_this_run": 3,
-  "open_total": 51,
+  "posted_date_coverage": 0.84,
+  "enriched_this_run": 0,
+  "enrichment_detail_fetches": 0,
+  "purged_this_run": 1,
+  "new_this_run": 0,
+  "open_total": 50,
   "detection_latency": {
     "median_minutes": 699.2,
-    "sample_size": 201,
+    "sample_size": 200,
     "window_days": 7
   },
   "posting_lifetime": {
