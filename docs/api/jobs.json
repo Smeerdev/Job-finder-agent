@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-10-30T02:26:38Z",
+ "generated_at": "2026-10-30T09:34:17Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 51,
+ "count": 49,
  "jobs": [
+  {
+   "id": "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723",
+   "company": "Philips",
+   "title": "Intern – Data Science and AI Engineering",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bangalore",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590723",
+   "posted_at": "2026-10-30T00:00:00Z",
+   "first_seen_at": "2026-10-30T09:34:16Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
   {
    "id": "workday:ag:/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
    "company": "Airbus",
@@ -284,6 +299,23 @@
    "source": "workday"
   },
   {
+   "id": "workday:alcon:/job/Bangalore-India/Associate-II--Software-Engineering_R-2026-50130-1",
+   "company": "Alcon",
+   "title": "Associate II, Software Engineering",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore, India",
+   "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Associate-II--Software-Engineering_R-2026-50130-1",
+   "posted_at": "2026-10-22T00:00:00Z",
+   "first_seen_at": "2026-10-30T09:34:16Z",
+   "salary": null,
+   "skills": [
+    "Azure"
+   ],
+   "source": "workday"
+  },
+  {
    "id": "greenhouse:opensesame:8313424",
    "company": "OpenSesame",
    "title": "AI Product Builder Intern",
@@ -500,30 +532,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:oaktree:/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533",
-   "company": "Oaktree Capital Management",
-   "title": "Associate - Software Engineer Investment Systems and Integration (.Net Engineer)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Software-Engineer-Investment-Systems-and-Integration--Net-Engineer-_2026-533",
-   "posted_at": "2026-10-12T00:00:00Z",
-   "first_seen_at": "2026-10-12T11:39:15Z",
-   "salary": null,
-   "skills": [
-    "C#",
-    "TypeScript",
-    "SQL",
-    "Swift",
-    "React",
-    "Azure",
-    "Kubernetes",
-    "Git"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "greenhouse:guidepointsecurity:6218650004",
    "company": "GuidePoint Security",
    "title": "AI & Data Science Intern - GPSU/NE",
@@ -638,21 +646,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:ptc:/job/Pune-India/Associate-Software-Analyst_JR112163",
-   "company": "PTC",
-   "title": "Associate Software Analyst",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune, India",
-   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Pune-India/Associate-Software-Analyst_JR112163",
-   "posted_at": "2026-09-29T00:00:00Z",
-   "first_seen_at": "2026-09-29T14:39:26Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
-  },
-  {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
    "company": "Ancestry",
    "title": "Data Science - AI Document Understanding, Co-op",
@@ -694,25 +687,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:oaktree:/job/Hyderabad/Associate--ServiceNow-Developer_2026-85",
-   "company": "Oaktree Capital Management",
-   "title": "Associate, ServiceNow Developer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--ServiceNow-Developer_2026-85",
-   "posted_at": "2026-08-17T00:00:00Z",
-   "first_seen_at": "2026-08-17T08:40:34Z",
-   "salary": null,
-   "skills": [
-    "JavaScript",
-    "React",
-    "Angular"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
    "company": "Ancestry",
    "title": "Machine Learning Engineer, Co-op",
@@ -733,21 +707,6 @@
     "LLMs",
     "Node.js"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:oaktree:/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
-   "company": "Oaktree Capital Management",
-   "title": "Associate, Workday Financial Developer (L3)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236",
-   "posted_at": "2026-08-04T00:00:00Z",
-   "first_seen_at": "2026-08-16T09:28:21Z",
-   "salary": null,
-   "skills": [],
    "source": "workday"
   },
   {
