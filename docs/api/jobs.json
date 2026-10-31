@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T01:28:28Z",
+ "generated_at": "2026-10-31T07:59:42Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 50,
+ "count": 49,
  "jobs": [
   {
    "id": "oracle:ecyq.fa.em2.oraclecloud.com:7950",
@@ -521,21 +521,6 @@
     "GCP"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:rollsroyce:/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
-   "company": "Rolls-Royce",
-   "title": "Integrated Control Systems Engineer Intern (Software)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Indianapolis",
-   "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
-   "posted_at": "2026-10-13T00:00:00Z",
-   "first_seen_at": "2026-10-13T22:17:47Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "greenhouse:guidepointsecurity:6218650004",
