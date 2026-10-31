@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T07:59:42Z",
+ "generated_at": "2026-10-31T14:20:50Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 49,
+ "count": 48,
  "jobs": [
   {
    "id": "oracle:ecyq.fa.em2.oraclecloud.com:7950",
@@ -17,25 +17,6 @@
    "salary": null,
    "skills": [
     "Python"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161061",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061",
-   "posted_at": "2026-10-30",
-   "first_seen_at": "2026-10-30T16:35:37Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
    ],
    "source": "oracle"
   },
