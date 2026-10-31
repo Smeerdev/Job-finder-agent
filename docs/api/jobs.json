@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T14:20:50Z",
+ "generated_at": "2026-10-31T19:06:16Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 48,
+ "count": 47,
  "jobs": [
   {
    "id": "oracle:ecyq.fa.em2.oraclecloud.com:7950",
@@ -19,21 +19,6 @@
     "Python"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:wexinc:/job/India---Bangalore/Software-Engineer-Intern_R22720",
-   "company": "Wex",
-   "title": "Software Engineer Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India - Bangalore",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer-Intern_R22720",
-   "posted_at": "2026-10-30T00:00:00Z",
-   "first_seen_at": "2026-10-30T16:35:37Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "lever:brillio-2:f7f9f468-7bda-42c4-9904-2a191eabc5fb",

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-10-31T14:20:50Z</updated>
+  <updated>2026-10-31T19:06:16Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ecyq.fa.em2.oraclecloud.com:7950</id>
     <title>DNV: Data Science Intern</title>
@@ -13,14 +13,6 @@
     <updated>2026-10-30T16:35:37Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Pune, India · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/India---Bangalore/Software-Engineer-Intern_R22720</id>
-    <title>Wex: Software Engineer Intern</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer-Intern_R22720"/>
-    <updated>2026-10-30T16:35:37Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · India - Bangalore</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:alcon:/job/Bangalore-India/Associate-II--Software-Engineering_R-2026-50130-1</id>

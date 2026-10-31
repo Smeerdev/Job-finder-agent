@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**45 open roles · 13 new this week · 5,647 companies tracked · updated Oct 31, 2026 at 14:20 UTC**
+**44 open roles · 12 new this week · 5,671 companies tracked · updated Oct 31, 2026 at 19:06 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,12 +13,11 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (45 open)
+## 2026 Graduates (International)  (44 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | DNV | Data Science Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Pune, India | Oct 30, 2026 | [Apply](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7950) |
-| Wex | Software Engineer Intern ~ 🆕 | Software | B.Tech/BS | India - Bangalore | Oct 30, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore/Software-Engineer-Intern_R22720) |
 | Brillio | Associate Data Engineer - R01571250 ~ | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bangalore, Karnataka, India | Oct 29, 2026 | [Apply](https://jobs.lever.co/brillio-2/f7f9f468-7bda-42c4-9904-2a191eabc5fb) |
 | Certa | Frontend Engineer - Internship ~ | Software | 0-1 Yr | India | Oct 28, 2026 | [Apply](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e) |
 | DTCC | Platform Engineering Associate ~ | Software | B.Tech/BS | Hyderabad, India | Oct 28, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215113) |
@@ -63,7 +62,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (44 of 45)._
+_~ = the title doesn't state a year; bucketed here from its posting date (43 of 44)._
 
 ## What this is
 
@@ -145,6 +144,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Wex | Software Engineer Intern | 2026 Graduates | 2026-10-31 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-31 |
 | Rolls-Royce | Integrated Control Systems Engineer Intern (Software) | 2026 Graduates | 2026-10-31 |
 | Philips | Intern – Data Science and AI Engineering | 2026 Graduates | 2026-10-30 |
@@ -184,7 +184,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Marvell | Intern, Software QA Engineer Bachelor's Degree | 2026 Graduates | 2026-10-22 |
 | DTCC | Software Developers in Test Associate | 2026 Graduates | 2026-10-22 |
 | Thoughtworks | Software Procurement Intern | 2026 Graduates | 2026-10-22 |
-| Honeywell | Intern Bachelors Embedded Eng | 2026 Graduates | 2026-10-22 |
 
 </details>
 
@@ -203,7 +202,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,647 companies across 24 ATS platforms · 96% fetch success · completed in 524.3s · median detection latency 699 min · real posted dates on 83% of open roles._
+_Engine (last run): 5,671 companies across 24 ATS platforms · 99% fetch success · completed in 382.8s · median detection latency 699 min · real posted dates on 83% of open roles._
 
 ## Platforms Scraped
 
