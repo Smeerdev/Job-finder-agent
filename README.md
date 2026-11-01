@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**44 open roles · 12 new this week · 5,671 companies tracked · updated Nov 01, 2026 at 01:52 UTC**
+**43 open roles · 12 new this week · 5,671 companies tracked · updated Nov 01, 2026 at 08:39 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (44 open)
+## 2026 Graduates (International)  (43 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -34,7 +34,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Alcon | Associate II, Software Engineering ~ 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Bangalore, India | Oct 22, 2026 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Associate-II--Software-Engineering_R-2026-50130-1) |
 | OpenSesame | AI Product Builder Intern ~ | Data & ML/AI | $25/hr<br>B.Tech/BS | Remote | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
 | TriNet | Associate Data Analyst ~ | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Oct 22, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004251) |
-| DTCC | Software Development Engineering in Test Associate ~ | Software | B.Tech/BS | Hyderabad, India | Oct 22, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215082) |
 | Coinbase | Software Engineer Intern ~ | Software | B.Tech/BS | Hybrid - Singapore | Oct 21, 2026 | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) |
 | Quora | Full Stack Software Engineer, New Grad - Quora (Remote) | Software | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52) |
 | Priceline | Associate Software Engineer ~ | Software | 2+ Yrs<br>B.Tech/BS | Mumbai | Oct 19, 2026 | [Apply](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5880) |
@@ -62,7 +61,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (43 of 44)._
+_~ = the title doesn't state a year; bucketed here from its posting date (42 of 43)._
 
 ## What this is
 
@@ -144,6 +143,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| DTCC | Software Development Engineering in Test Associate | 2026 Graduates | 2026-11-01 |
 | Wex | Software Engineer Intern | 2026 Graduates | 2026-10-31 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-31 |
 | Rolls-Royce | Integrated Control Systems Engineer Intern (Software) | 2026 Graduates | 2026-10-31 |
@@ -183,7 +183,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Lean TECHniques | Software Engineer Intern - Hybrid | 2026 Graduates | 2026-10-23 |
 | Marvell | Intern, Software QA Engineer Bachelor's Degree | 2026 Graduates | 2026-10-22 |
 | DTCC | Software Developers in Test Associate | 2026 Graduates | 2026-10-22 |
-| Thoughtworks | Software Procurement Intern | 2026 Graduates | 2026-10-22 |
 
 </details>
 
@@ -202,7 +201,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,671 companies across 24 ATS platforms · 99% fetch success · completed in 403.9s · median detection latency 699 min · real posted dates on 83% of open roles._
+_Engine (last run): 5,671 companies across 24 ATS platforms · 99% fetch success · completed in 337.1s · median detection latency 699 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 

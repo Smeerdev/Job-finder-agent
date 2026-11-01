@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-01T01:52:53Z</updated>
+  <updated>2026-11-01T08:39:45Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ecyq.fa.em2.oraclecloud.com:7950</id>
     <title>DNV: Data Science Intern</title>
@@ -165,14 +165,6 @@
     <updated>2026-10-22T07:05:33Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hybrid - Singapore · Go, React, AWS, Docker, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:215082</id>
-    <title>DTCC: Software Development Engineering in Test Associate</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215082"/>
-    <updated>2026-10-22T07:05:33Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:quora:5494e6a1-a973-46af-b9f3-57208eb91b52</id>
