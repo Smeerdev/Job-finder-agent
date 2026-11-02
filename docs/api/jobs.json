@@ -1,22 +1,61 @@
 {
- "generated_at": "2026-11-02T00:15:38Z",
+ "generated_at": "2026-11-02T07:10:47Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 46,
+ "count": 47,
  "jobs": [
   {
-   "id": "oracle:ecyq.fa.em2.oraclecloud.com:7950",
-   "company": "DNV",
-   "title": "Data Science Intern",
+   "id": "workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042294-1",
+   "company": "GE Aerospace",
+   "title": "Artificial Intelligence Intern",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Data & ML/AI",
-   "location": "Pune, India",
-   "url": "https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7950",
-   "posted_at": "2026-10-30",
-   "first_seen_at": "2026-10-30T16:35:37Z",
+   "location": "Remote",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042294-1",
+   "posted_at": "2026-11-02T00:00:00Z",
+   "first_seen_at": "2026-11-02T07:10:47Z",
    "salary": null,
    "skills": [
-    "Python"
+    "Python",
+    "C#",
+    "SQL",
+    "LLMs",
+    "Computer Vision",
+    "AWS",
+    "Azure"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:mmc:/job/Gurugram---Good-Earth/INTERN---AI_R_366789",
+   "company": "Marsh",
+   "title": "INTERN - AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Gurugram - Good Earth",
+   "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/INTERN---AI_R_366789",
+   "posted_at": "2026-11-02T00:00:00Z",
+   "first_seen_at": "2026-11-02T07:10:47Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048",
+   "company": "TriNet",
+   "title": "Associate Data Scientist",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048",
+   "posted_at": "2026-11-02",
+   "first_seen_at": "2026-11-02T07:10:47Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
    ],
    "source": "oracle"
   },
@@ -553,24 +592,6 @@
    "salary": null,
    "skills": [],
    "source": "ashby"
-  },
-  {
-   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004076",
-   "company": "TriNet",
-   "title": "Associate Data Scientist",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004076",
-   "posted_at": "2026-10-05",
-   "first_seen_at": "2026-10-05T17:48:40Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:marvell:/job/Bangalore/AI-Intern_2604445",
