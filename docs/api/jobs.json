@@ -1,8 +1,69 @@
 {
- "generated_at": "2026-11-02T07:10:47Z",
+ "generated_at": "2026-11-02T17:50:37Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 47,
+ "count": 45,
  "jobs": [
+  {
+   "id": "greenhouse:galaxydigitalservices:6240414004",
+   "company": "Galaxy",
+   "title": "Associate, SDET (Software Development Engineer In Test)",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "India",
+   "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6240414004",
+   "posted_at": "2026-11-02T04:55:40-05:00",
+   "first_seen_at": "2026-11-02T17:50:37Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "LLMs",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Kubernetes"
+   ],
+   "source": "greenhouse"
+  },
+  {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer - Master's Degree",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449",
+   "posted_at": "2026-11-02T00:00:00Z",
+   "first_seen_at": "2026-11-02T17:50:37Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Kubernetes",
+    "Linux"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048",
+   "company": "TriNet",
+   "title": "Associate Data Scientist",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048",
+   "posted_at": "2026-11-02",
+   "first_seen_at": "2026-11-02T07:10:47Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042294-1",
    "company": "GE Aerospace",
@@ -42,24 +103,6 @@
    "source": "workday"
   },
   {
-   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048",
-   "company": "TriNet",
-   "title": "Associate Data Scientist",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048",
-   "posted_at": "2026-11-02",
-   "first_seen_at": "2026-11-02T07:10:47Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "oracle"
-  },
-  {
    "id": "lever:brillio-2:f7f9f468-7bda-42c4-9904-2a191eabc5fb",
    "company": "Brillio",
    "title": "Associate Data Engineer - R01571250",
@@ -96,54 +139,6 @@
     "React"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:215113",
-   "company": "DTCC",
-   "title": "Platform Engineering Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215113",
-   "posted_at": "2026-10-28",
-   "first_seen_at": "2026-10-28T19:21:45Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Kubernetes",
-    "Docker",
-    "Terraform",
-    "Linux"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "workday:gsk:/job/Bengaluru-Luxor-North-Tower/Associate--Platform-Engineer_450564",
-   "company": "GSK",
-   "title": "Associate, Platform Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru Luxor North Tower",
-   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate--Platform-Engineer_450564",
-   "posted_at": "2026-10-28T00:00:00Z",
-   "first_seen_at": "2026-10-28T19:21:45Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Docker",
-    "Terraform"
-   ],
-   "source": "workday"
   },
   {
    "id": "greenhouse:stripe:8130876",
@@ -246,42 +241,6 @@
    "salary": null,
    "skills": [
     "Rust"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer - Bachelor's Degree",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "first_seen_at": "2026-10-23T11:00:00Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Rust",
-    "Linux"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
-   "company": "Marvell",
-   "title": "Intern, Software QA Engineer - Bachelor's Degree",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "first_seen_at": "2026-10-23T11:00:00Z",
-   "salary": null,
-   "skills": [
-    "Python"
    ],
    "source": "workday"
   },
