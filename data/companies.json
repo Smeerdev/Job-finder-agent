@@ -2336,6 +2336,11 @@
     "site": "external"
   },
   {
+    "name": "Aries Global",
+    "slug": "ariesglobal",
+    "ats": "ashby"
+  },
+  {
     "name": "Arine",
     "slug": "arine",
     "ats": "greenhouse"
@@ -4431,6 +4436,11 @@
     "name": "Bot Auto",
     "slug": "botauto",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Botpress Technologies",
+    "slug": "botpress",
+    "ats": "workable"
   },
   {
     "name": "Bottom Line",
@@ -20775,6 +20785,11 @@
     "site": "OneOncology"
   },
   {
+    "name": "onepot",
+    "slug": "onepot",
+    "ats": "ashby"
+  },
+  {
     "name": "OneSource Virtual",
     "slug": "vhr-osvhr",
     "ats": "workday",
@@ -22369,6 +22384,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "PolarisJobs"
+  },
+  {
+    "name": "Polished Snow",
+    "slug": "plsn",
+    "ats": "ashby"
   },
   {
     "name": "Polk County",
@@ -24358,6 +24378,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "ExternalCareers"
+  },
+  {
+    "name": "Rothera",
+    "slug": "rotheramarketsllc",
+    "ats": "greenhouse"
   },
   {
     "name": "Rothesay",
@@ -31671,6 +31696,11 @@
     "name": "Zededa",
     "slug": "zededa",
     "ats": "rippling"
+  },
+  {
+    "name": "Zefr",
+    "slug": "zefr",
+    "ats": "ashby"
   },
   {
     "name": "Zego",
