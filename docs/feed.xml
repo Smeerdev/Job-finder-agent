@@ -5,15 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-03T15:50:27Z</updated>
-  <entry>
-    <id>urn:intern-engine:workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042291-1</id>
-    <title>GE Aerospace: Artificial Intelligence Intern</title>
-    <link href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1"/>
-    <updated>2026-11-03T15:50:27Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, C#, SQL, LLMs, Computer Vision</summary>
-  </entry>
+  <updated>2026-11-03T21:33:20Z</updated>
   <entry>
     <id>urn:intern-engine:workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1</id>
     <title>The Boeing Company: Associate Software Engineer - Analytics</title>
@@ -21,6 +13,14 @@
     <updated>2026-11-03T15:50:27Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · IND - Bangalore, India · Python, MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042291-1</id>
+    <title>GE Aerospace: Artificial Intelligence Intern</title>
+    <link href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1"/>
+    <updated>2026-11-03T15:50:27Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, C#, SQL, LLMs, Computer Vision</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:synechron:/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1</id>

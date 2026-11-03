@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**45 open roles · 11 new this week · 5,679 companies tracked · updated Nov 03, 2026 at 15:50 UTC**
+**45 open roles · 10 new this week · 5,685 companies tracked · updated Nov 03, 2026 at 21:33 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,8 +17,8 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| GE Aerospace | Artificial Intelligence Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Nov 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | The Boeing Company | Associate Software Engineer - Analytics ~ 🆕 | Data & ML/AI | B.Tech/BS | IND - Bangalore, India | Nov 03, 2026 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1) |
+| GE Aerospace | Artificial Intelligence Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Nov 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | Synechron | Associate Specialist - AI Architect ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru - Bellandur (GTP) | Nov 03, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1) |
 | TriNet | Associate Data Scientist ~ 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Nov 02, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048) |
 | Acron Aviation | Software Engineer Intern - India Site ~ 🆕 | Software | — | Bengaluru | Oct 29, 2026 | [Apply](https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254) |
@@ -203,7 +203,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,679 companies across 24 ATS platforms · 99% fetch success · completed in 424.5s · median detection latency 696 min · real posted dates on 82% of open roles._
+_Engine (last run): 5,685 companies across 24 ATS platforms · 97% fetch success · completed in 439.7s · median detection latency 696 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 
