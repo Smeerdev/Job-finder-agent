@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**45 open roles · 12 new this week · 5,679 companies tracked · updated Nov 03, 2026 at 07:34 UTC**
+**45 open roles · 11 new this week · 5,679 companies tracked · updated Nov 03, 2026 at 15:50 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,11 +17,10 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| GE Aerospace | Artificial Intelligence Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Nov 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
+| The Boeing Company | Associate Software Engineer - Analytics ~ 🆕 | Data & ML/AI | B.Tech/BS | IND - Bangalore, India | Nov 03, 2026 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1) |
 | Synechron | Associate Specialist - AI Architect ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru - Bellandur (GTP) | Nov 03, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1) |
-| Galaxy | Associate, SDET (Software Development Engineer In Test) ~ 🆕 | Software | B.Tech/BS | India | Nov 02, 2026 | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6240414004) |
-| Marvell | Intern, Software Engineer - Master's Degree ~ 🆕 | Software | B.Tech/BS | Hyderabad | Nov 02, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449) |
 | TriNet | Associate Data Scientist ~ 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Nov 02, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048) |
-| GE Aerospace | Artificial Intelligence Intern ~ 🆕 | Data & ML/AI | — | Remote | Nov 02, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) |
 | Acron Aviation | Software Engineer Intern - India Site ~ 🆕 | Software | — | Bengaluru | Oct 29, 2026 | [Apply](https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254) |
 | Brillio | Associate Data Engineer - R01571250 ~ | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bangalore, Karnataka, India | Oct 29, 2026 | [Apply](https://jobs.lever.co/brillio-2/f7f9f468-7bda-42c4-9904-2a191eabc5fb) |
 | Certa | Frontend Engineer - Internship ~ | Software | 0-1 Yr | India | Oct 28, 2026 | [Apply](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e) |
@@ -36,6 +35,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Alcon | Associate II, Software Engineering ~ | Software | 2+ Yrs<br>B.Tech/BS | Bangalore, India | Oct 22, 2026 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Associate-II--Software-Engineering_R-2026-50130-1) |
 | OpenSesame | AI Product Builder Intern ~ | Data & ML/AI | $25/hr<br>B.Tech/BS | Remote | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
 | Marvell | Software Engineer Intern - Master's Degree ~ | Software | M.Tech/MS | Bangalore | Oct 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868) |
+| Marvell | Software Validation Intern - Master's Degree ~ | Software | B.Tech/BS | Bangalore | Oct 22, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870) |
 | TriNet | Associate Data Analyst ~ | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Oct 22, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004251) |
 | Coinbase | Software Engineer Intern ~ | Software | B.Tech/BS | Hybrid - Singapore | Oct 21, 2026 | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) |
 | Quora | Full Stack Software Engineer, New Grad - Quora (Remote) | Software | 0-1 Yr<br>B.Tech/BS | Remote - Multiple Locations | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52) |
@@ -145,6 +145,10 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Galaxy | Associate, SDET (Software Development Engineer In Test) | 2026 Graduates | 2026-11-03 |
+| GE Aerospace | Artificial Intelligence Intern | 2026 Graduates | 2026-11-03 |
+| Marvell | AI Intern | 2026 Graduates | 2026-11-03 |
+| Marvell | Intern, Software Engineer - Master's Degree | 2026 Graduates | 2026-11-03 |
 | Priceline | Associate Software Engineer | 2026 Graduates | 2026-11-03 |
 | Marsh | INTERN - AI | 2026 Graduates | 2026-11-03 |
 | DTCC | Platform Engineering Associate | 2026 Graduates | 2026-11-02 |
@@ -181,10 +185,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-10-26 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-26 |
 | agilon health | Associate Software Engineer | 2026 Graduates | 2026-10-26 |
-| Marvell | Intern, Software Engineer | 2026 Graduates | 2026-10-26 |
-| Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | 2026 Graduates | 2026-10-26 |
-| Marvell | Generative AI Forward Deployed Engineer Intern- Master's Degree | 2026 Graduates | 2026-10-25 |
-| Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-10-23 |
 
 </details>
 
@@ -203,7 +203,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,679 companies across 24 ATS platforms · 99% fetch success · completed in 364.8s · median detection latency 693 min · real posted dates on 83% of open roles._
+_Engine (last run): 5,679 companies across 24 ATS platforms · 99% fetch success · completed in 424.5s · median detection latency 696 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 

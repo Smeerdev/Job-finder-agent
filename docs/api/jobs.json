@@ -1,8 +1,49 @@
 {
- "generated_at": "2026-11-03T07:34:27Z",
+ "generated_at": "2026-11-03T15:50:27Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 47,
+ "count": 45,
  "jobs": [
+  {
+   "id": "workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042291-1",
+   "company": "GE Aerospace",
+   "title": "Artificial Intelligence Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Remote",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1",
+   "posted_at": "2026-11-03T00:00:00Z",
+   "first_seen_at": "2026-11-03T15:50:27Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C#",
+    "SQL",
+    "LLMs",
+    "Computer Vision",
+    "AWS",
+    "Azure"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1",
+   "company": "The Boeing Company",
+   "title": "Associate Software Engineer - Analytics",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "IND - Bangalore, India",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1",
+   "posted_at": "2026-11-03T00:00:00Z",
+   "first_seen_at": "2026-11-03T15:50:27Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "MATLAB"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:synechron:/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1",
    "company": "Synechron",
@@ -28,49 +69,6 @@
    "source": "workday"
   },
   {
-   "id": "greenhouse:galaxydigitalservices:6240414004",
-   "company": "Galaxy",
-   "title": "Associate, SDET (Software Development Engineer In Test)",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India",
-   "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6240414004",
-   "posted_at": "2026-11-02T04:55:40-05:00",
-   "first_seen_at": "2026-11-02T17:50:37Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Kubernetes"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer - Master's Degree",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449",
-   "posted_at": "2026-11-02T00:00:00Z",
-   "first_seen_at": "2026-11-02T17:50:37Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Kubernetes",
-    "Linux"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048",
    "company": "TriNet",
    "title": "Associate Data Scientist",
@@ -87,29 +85,6 @@
     "LLMs"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042294-1",
-   "company": "GE Aerospace",
-   "title": "Artificial Intelligence Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042294-1",
-   "posted_at": "2026-11-02T00:00:00Z",
-   "first_seen_at": "2026-11-02T07:10:47Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C#",
-    "SQL",
-    "LLMs",
-    "Computer Vision",
-    "AWS",
-    "Azure"
-   ],
-   "source": "workday"
   },
   {
    "id": "lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254",
@@ -602,21 +577,6 @@
    "salary": null,
    "skills": [],
    "source": "ashby"
-  },
-  {
-   "id": "workday:marvell:/job/Bangalore/AI-Intern_2604445",
-   "company": "Marvell",
-   "title": "AI Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445",
-   "posted_at": "2026-09-30T00:00:00Z",
-   "first_seen_at": "2026-09-30T16:52:47Z",
-   "salary": null,
-   "skills": [],
-   "source": "workday"
   },
   {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
