@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**43 open roles · 11 new this week · 5,674 companies tracked · updated Nov 02, 2026 at 17:50 UTC**
+**43 open roles · 11 new this week · 5,679 companies tracked · updated Nov 03, 2026 at 00:25 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -21,7 +21,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Marvell | Intern, Software Engineer - Master's Degree ~ 🆕 | Software | B.Tech/BS | Hyderabad | Nov 02, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Master-s-Degree_2604449) |
 | TriNet | Associate Data Scientist ~ 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad, Telangana, India | Nov 02, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048) |
 | GE Aerospace | Artificial Intelligence Intern ~ 🆕 | Data & ML/AI | — | Remote | Nov 02, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) |
-| Marsh | INTERN - AI ~ 🆕 | Data & ML/AI | B.Tech/BS | Gurugram - Good Earth | Nov 02, 2026 | [Apply](https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/INTERN---AI_R_366789) |
+| Acron Aviation | Software Engineer Intern - India Site ~ 🆕 | Software | — | Bengaluru | Oct 29, 2026 | [Apply](https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254) |
 | Brillio | Associate Data Engineer - R01571250 ~ | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bangalore, Karnataka, India | Oct 29, 2026 | [Apply](https://jobs.lever.co/brillio-2/f7f9f468-7bda-42c4-9904-2a191eabc5fb) |
 | Certa | Frontend Engineer - Internship ~ | Software | 0-1 Yr | India | Oct 28, 2026 | [Apply](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e) |
 | Stripe | Software Engineer, New Grad ~ | Software | B.Tech/BS | Bangalore | Oct 28, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8130876) |
@@ -143,6 +143,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Marsh | INTERN - AI | 2026 Graduates | 2026-11-03 |
 | DTCC | Platform Engineering Associate | 2026 Graduates | 2026-11-02 |
 | GSK | Associate, Platform Engineer | 2026 Graduates | 2026-11-02 |
 | Marvell | Intern, Software Engineer - Bachelor's Degree | 2026 Graduates | 2026-11-02 |
@@ -182,7 +183,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | 2026 Graduates | 2026-10-26 |
 | Marvell | Generative AI Forward Deployed Engineer Intern- Master's Degree | 2026 Graduates | 2026-10-25 |
 | Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-10-23 |
-| WSP | Associate - Structures Transport & Infrastructure, SG | 2026 Graduates | 2026-10-23 |
 
 </details>
 
@@ -201,7 +201,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,674 companies across 24 ATS platforms · 93% fetch success · completed in 566.5s · median detection latency 693 min · real posted dates on 82% of open roles._
+_Engine (last run): 5,679 companies across 24 ATS platforms · 98% fetch success · completed in 356.5s · median detection latency 693 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 

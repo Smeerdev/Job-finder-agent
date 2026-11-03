@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:50:37Z",
+ "generated_at": "2026-11-03T00:25:55Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 45,
  "jobs": [
@@ -88,19 +88,22 @@
    "source": "workday"
   },
   {
-   "id": "workday:mmc:/job/Gurugram---Good-Earth/INTERN---AI_R_366789",
-   "company": "Marsh",
-   "title": "INTERN - AI",
+   "id": "lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254",
+   "company": "Acron Aviation",
+   "title": "Software Engineer Intern - India Site",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Gurugram - Good Earth",
-   "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/INTERN---AI_R_366789",
-   "posted_at": "2026-11-02T00:00:00Z",
-   "first_seen_at": "2026-11-02T07:10:47Z",
+   "category": "Software",
+   "location": "Bengaluru",
+   "url": "https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254",
+   "posted_at": "2026-10-29T17:56:36Z",
+   "first_seen_at": "2026-11-03T00:25:55Z",
    "salary": null,
-   "skills": [],
-   "source": "workday"
+   "skills": [
+    "Python",
+    "C++"
+   ],
+   "source": "lever"
   },
   {
    "id": "lever:brillio-2:f7f9f468-7bda-42c4-9904-2a191eabc5fb",
