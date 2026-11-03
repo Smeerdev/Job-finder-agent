@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-11-03T00:25:55Z",
+ "generated_at": "2026-11-03T07:34:27Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 45,
+ "count": 47,
  "jobs": [
+  {
+   "id": "workday:synechron:/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1",
+   "company": "Synechron",
+   "title": "Associate Specialist - AI Architect",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru - Bellandur (GTP)",
+   "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1",
+   "posted_at": "2026-11-03T00:00:00Z",
+   "first_seen_at": "2026-11-03T07:34:27Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow",
+    "scikit-learn",
+    "LLMs",
+    "AWS",
+    "GCP",
+    "Azure"
+   ],
+   "source": "workday"
+  },
   {
    "id": "greenhouse:galaxydigitalservices:6240414004",
    "company": "Galaxy",
@@ -193,6 +217,27 @@
     "LLMs"
    ],
    "source": "greenhouse"
+  },
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214039",
+   "company": "DTCC",
+   "title": "Software Engineering Associate - Snowflake",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214039",
+   "posted_at": "2026-10-26",
+   "first_seen_at": "2026-10-26T14:54:29Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Azure",
+    "Kafka"
+   ],
+   "source": "oracle"
   },
   {
    "id": "workday:marvell:/job/Bangalore/Software-Intern_2604252",
@@ -398,25 +443,6 @@
    "source": "ashby"
   },
   {
-   "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5880",
-   "company": "Priceline",
-   "title": "Associate Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Mumbai",
-   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5880",
-   "posted_at": "2026-10-19T00:00:00Z",
-   "first_seen_at": "2026-10-19T18:16:34Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "SQL",
-    "Spring"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "greenhouse:ispottv:4742654005",
    "company": "iSpot.tv",
    "title": "Associate Data Analyst",
@@ -515,6 +541,28 @@
     "Git"
    ],
    "source": "greenhouse"
+  },
+  {
+   "id": "workday:priceline:/job/Mumbai/Associate-Software-Engineer_R5712",
+   "company": "Priceline",
+   "title": "Associate Software Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Mumbai",
+   "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Software-Engineer_R5712",
+   "posted_at": "2026-10-08T00:00:00Z",
+   "first_seen_at": "2026-10-08T08:24:14Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "Kotlin",
+    "LLMs",
+    "React",
+    "Angular"
+   ],
+   "source": "workday"
   },
   {
    "id": "workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
