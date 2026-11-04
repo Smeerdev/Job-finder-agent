@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**47 open roles · 10 new this week · 5,691 companies tracked · updated Nov 04, 2026 at 16:53 UTC**
+**46 open roles · 8 new this week · 5,691 companies tracked · updated Nov 04, 2026 at 22:33 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,12 +13,11 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (47 open)
+## 2026 Graduates (International)  (46 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | BlackRock | Product Specialist / Platform Engineer, Atlassian Confluence Cloud, Tech & Ops, Associate ~ 🆕 | Software | B.Tech/BS | Bengaluru, India | Nov 04, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Bengaluru-India/Product-Specialist---Platform-Engineer--Atlassian-Confluence-Cloud--Tech---Ops--Associate_R267068-1) |
-| GE Aerospace | Data Science Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru | Nov 04, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040691-1) |
 | The Boeing Company | Associate Software Engineer - Analytics ~ 🆕 | Data & ML/AI | B.Tech/BS | IND - Bangalore, India | Nov 03, 2026 | [Apply](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1) |
 | GE Aerospace | Artificial Intelligence Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Remote | Nov 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | Synechron | Associate Specialist - AI Architect ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru - Bellandur (GTP) | Nov 03, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1) |
@@ -65,7 +64,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (46 of 47)._
+_~ = the title doesn't state a year; bucketed here from its posting date (45 of 46)._
 
 ## What this is
 
@@ -147,6 +146,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| GE Aerospace | Data Science Intern | 2026 Graduates | 2026-11-04 |
 | Brillio | Associate Data Engineer - R01571250 | 2026 Graduates | 2026-11-04 |
 | DTCC | Software Engineering Associate - Snowflake | 2026 Graduates | 2026-11-04 |
 | TriNet | Associate Data Analyst | 2026 Graduates | 2026-11-04 |
@@ -186,7 +186,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-10-27 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-27 |
 | Honeywell | Intern Bachelors Data Science | 2026 Graduates | 2026-10-27 |
-| Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-26 |
 
 </details>
 
@@ -205,7 +204,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,691 companies across 24 ATS platforms · 98% fetch success · completed in 500.0s · median detection latency 699 min · real posted dates on 83% of open roles._
+_Engine (last run): 5,691 companies across 24 ATS platforms · 98% fetch success · completed in 491.5s · median detection latency 699 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 
