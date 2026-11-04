@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-03T21:33:20Z</updated>
+  <updated>2026-11-04T01:55:05Z</updated>
   <entry>
     <id>urn:intern-engine:workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1</id>
     <title>The Boeing Company: Associate Software Engineer - Analytics</title>
@@ -157,14 +157,6 @@
     <updated>2026-10-22T17:54:13Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bangalore</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004251</id>
-    <title>TriNet: Associate Data Analyst</title>
-    <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004251"/>
-    <updated>2026-10-22T12:55:36Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, SQL, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:coinbase:8175873</id>
