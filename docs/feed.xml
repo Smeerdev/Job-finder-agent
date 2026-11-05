@@ -5,7 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-05T03:08:18Z</updated>
+  <updated>2026-11-05T11:54:42Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161176</id>
+    <title>Honeywell: Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176"/>
+    <updated>2026-11-05T11:54:42Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:revvity:/job/Mumbai/Intern---Software-Developer_JR-045916</id>
+    <title>Revvity: Intern - Software Developer</title>
+    <link href="https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916"/>
+    <updated>2026-11-05T11:54:42Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Mumbai · Python, SQL, Pandas, Django, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321</id>
+    <title>TriNet: Associate Data Analyst</title>
+    <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321"/>
+    <updated>2026-11-05T11:54:42Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, SQL, Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:blackrock:/job/Bengaluru-India/Product-Specialist---Platform-Engineer--Atlassian-Confluence-Cloud--Tech---Ops--Associate_R267068-1</id>
     <title>BlackRock: Product Specialist / Platform Engineer, Atlassian Confluence Cloud, Tech &amp; Ops, Associate</title>
@@ -125,14 +149,6 @@
     <updated>2026-10-26T07:24:01Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad · Rust</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160494</id>
-    <title>Honeywell: Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494"/>
-    <updated>2026-10-24T15:19:04Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thehartford:/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341</id>

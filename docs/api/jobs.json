@@ -1,8 +1,64 @@
 {
- "generated_at": "2026-11-05T03:08:18Z",
+ "generated_at": "2026-11-05T11:54:42Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 45,
+ "count": 47,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161176",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176",
+   "posted_at": "2026-11-05",
+   "first_seen_at": "2026-11-05T11:54:42Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:revvity:/job/Mumbai/Intern---Software-Developer_JR-045916",
+   "company": "Revvity",
+   "title": "Intern - Software Developer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Mumbai",
+   "url": "https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916",
+   "posted_at": "2026-11-05T00:00:00Z",
+   "first_seen_at": "2026-11-05T11:54:42Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "Django",
+    "Linux",
+    "Git"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321",
+   "company": "TriNet",
+   "title": "Associate Data Analyst",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321",
+   "posted_at": "2026-11-05",
+   "first_seen_at": "2026-11-05T11:54:42Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:blackrock:/job/Bengaluru-India/Product-Specialist---Platform-Engineer--Atlassian-Confluence-Cloud--Tech---Ops--Associate_R267068-1",
    "company": "BlackRock",
@@ -260,21 +316,6 @@
     "Rust"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160494",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494",
-   "posted_at": "2026-10-24",
-   "first_seen_at": "2026-10-24T15:19:04Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
   },
   {
    "id": "workday:thehartford:/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341",
