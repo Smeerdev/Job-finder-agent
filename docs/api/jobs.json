@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T22:33:36Z",
+ "generated_at": "2026-11-05T03:08:18Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 46,
+ "count": 45,
  "jobs": [
   {
    "id": "workday:blackrock:/job/Bengaluru-India/Product-Specialist---Platform-Engineer--Atlassian-Confluence-Cloud--Tech---Ops--Associate_R267068-1",
@@ -552,21 +552,6 @@
     "Kafka"
    ],
    "source": "workday"
-  },
-  {
-   "id": "ashby:barnes:fd87b2c0-dec0-4d54-8543-da70dd28a802",
-   "company": "Barnes & Thornburg",
-   "title": "Data Privacy and AI Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Indianapolis",
-   "url": "https://jobs.ashbyhq.com/barnes/fd87b2c0-dec0-4d54-8543-da70dd28a802",
-   "posted_at": "2026-10-05T23:07:44.855+00:00",
-   "first_seen_at": "2026-10-05T23:43:33Z",
-   "salary": null,
-   "skills": [],
-   "source": "ashby"
   },
   {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
