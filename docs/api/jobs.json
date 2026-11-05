@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-11-05T11:54:42Z",
+ "generated_at": "2026-11-05T19:29:44Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 47,
+ "count": 44,
  "jobs": [
+  {
+   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321",
+   "company": "TriNet",
+   "title": "Associate Data Analyst",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad, Telangana, India",
+   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321",
+   "posted_at": "2026-11-05",
+   "first_seen_at": "2026-11-05T11:54:42Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161176",
    "company": "Honeywell",
@@ -39,25 +58,6 @@
     "Git"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321",
-   "company": "TriNet",
-   "title": "Associate Data Analyst",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321",
-   "posted_at": "2026-11-05",
-   "first_seen_at": "2026-11-05T11:54:42Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Tableau"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:blackrock:/job/Bengaluru-India/Product-Specialist---Platform-Engineer--Atlassian-Confluence-Cloud--Tech---Ops--Associate_R267068-1",
@@ -158,43 +158,6 @@
    "source": "oracle"
   },
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161061",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Pune, Maharashtra, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161061",
-   "posted_at": "2026-10-30",
-   "first_seen_at": "2026-10-30T16:35:37Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "lever:acronaviation:a464b1a4-01f4-4a28-b636-41dc508b3254",
-   "company": "Acron Aviation",
-   "title": "Software Engineer Intern - India Site",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru",
-   "url": "https://jobs.lever.co/acronaviation/a464b1a4-01f4-4a28-b636-41dc508b3254",
-   "posted_at": "2026-10-29T17:56:36Z",
-   "first_seen_at": "2026-11-03T00:25:55Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "lever"
-  },
-  {
    "id": "ashby:certa:9f7caf0b-46ff-49ab-ae78-62deadec106e",
    "company": "Certa",
    "title": "Frontend Engineer - Internship",
@@ -263,24 +226,6 @@
     "LLMs"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:marvell:/job/Bangalore/Software-Intern_2604252",
-   "company": "Marvell",
-   "title": "Software Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252",
-   "posted_at": "2026-10-26T00:00:00Z",
-   "first_seen_at": "2026-10-26T07:24:01Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "MATLAB"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885",
