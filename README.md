@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**44 open roles · 9 new this week · 5,698 companies tracked · updated Nov 06, 2026 at 07:40 UTC**
+**44 open roles · 9 new this week · 5,698 companies tracked · updated Nov 06, 2026 at 15:41 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,6 +17,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| LabCorp | Associate Data Analyst ~ 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Bengaluru India | Nov 06, 2026 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Associate-Data-Analyst_2639837-1) |
 | TriNet | Associate Data Analyst ~ 🆕 | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Nov 05, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321) |
 | Honeywell | Intern Bachelors AI ~ 🆕 | Data & ML/AI | — | Bengaluru, Karnataka, India | Nov 05, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176) |
 | Revvity | Intern - Software Developer ~ 🆕 | Software | — | Mumbai | Nov 05, 2026 | [Apply](https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Intern---Software-Developer_JR-045916) |
@@ -30,7 +31,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Eurofins | Associate Research Scientist - Large Molecule Bioanalysis ~ | Data & ML/AI | — | Bengaluru, KA, India | Oct 27, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157955969) |
 | EQT Corporation | AI Intern ~ | Data & ML/AI | B.Tech/BS | Remote | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
 | Marvell | Intern, Software Engineer ~ | Software | B.Tech/BS | Hyderabad | Oct 25, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885) |
-| Marvell | Software Engineer Intern ~ | Software | B.Tech/BS | Hyderabad | Oct 25, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Software-Engineer-Intern_2604237) |
 | The Hartford | IND Associate Software Engineer -  Red Team Engineer ~ | Software | B.Tech/BS | India GCC-Puppalaguda Village | Oct 23, 2026 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341) |
 | Alcon | Associate II, Software Engineering ~ | Software | 2+ Yrs<br>B.Tech/BS | Bangalore, India | Oct 22, 2026 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Associate-II--Software-Engineering_R-2026-50130-1) |
 | OpenSesame | AI Product Builder Intern ~ | Data & ML/AI | $25/hr<br>B.Tech/BS | Remote | Oct 22, 2026 | [Apply](https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424) |
@@ -144,6 +144,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Marvell | Software Engineer Intern | 2026 Graduates | 2026-11-06 |
 | Acron Aviation | Software Engineer Intern - India Site | 2026 Graduates | 2026-11-05 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-11-05 |
 | Marvell | Software Intern | 2026 Graduates | 2026-11-05 |
@@ -183,7 +184,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | DTCC | Software Engineering Associate | 2026 Graduates | 2026-10-28 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-10-28 |
 | DTCC | Software Engineering Associate (Java with AWS) | 2026 Graduates | 2026-10-27 |
-| Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-10-27 |
 
 </details>
 
@@ -202,7 +202,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,698 companies across 24 ATS platforms · 99% fetch success · completed in 438.2s · median detection latency 699 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,698 companies across 24 ATS platforms · 99% fetch success · completed in 433.4s · median detection latency 699 min · real posted dates on 81% of open roles._
 
 ## Platforms Scraped
 

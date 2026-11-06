@@ -1,8 +1,25 @@
 {
- "generated_at": "2026-11-06T07:40:49Z",
+ "generated_at": "2026-11-06T15:41:03Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 44,
  "jobs": [
+  {
+   "id": "workday:labcorp:/job/Bengaluru-India/Associate-Data-Analyst_2639837-1",
+   "company": "LabCorp",
+   "title": "Associate Data Analyst",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru India",
+   "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Associate-Data-Analyst_2639837-1",
+   "posted_at": "2026-11-06T00:00:00Z",
+   "first_seen_at": "2026-11-06T15:41:03Z",
+   "salary": null,
+   "skills": [
+    "GCP"
+   ],
+   "source": "workday"
+  },
   {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321",
    "company": "TriNet",
@@ -242,23 +259,6 @@
    "skills": [
     "Python",
     "Linux"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Software-Engineer-Intern_2604237",
-   "company": "Marvell",
-   "title": "Software Engineer Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Software-Engineer-Intern_2604237",
-   "posted_at": "2026-10-25T00:00:00Z",
-   "first_seen_at": "2026-10-26T07:24:01Z",
-   "salary": null,
-   "skills": [
-    "Rust"
    ],
    "source": "workday"
   },

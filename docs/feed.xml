@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-06T07:40:49Z</updated>
+  <updated>2026-11-06T15:41:03Z</updated>
+  <entry>
+    <id>urn:intern-engine:workday:labcorp:/job/Bengaluru-India/Associate-Data-Analyst_2639837-1</id>
+    <title>LabCorp: Associate Data Analyst</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Associate-Data-Analyst_2639837-1"/>
+    <updated>2026-11-06T15:41:03Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru India · GCP</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004321</id>
     <title>TriNet: Associate Data Analyst</title>
@@ -117,14 +125,6 @@
     <updated>2026-10-26T07:24:01Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad · Python, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Software-Engineer-Intern_2604237</id>
-    <title>Marvell: Software Engineer Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Software-Engineer-Intern_2604237"/>
-    <updated>2026-10-26T07:24:01Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad · Rust</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thehartford:/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341</id>
