@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T15:41:03Z",
+ "generated_at": "2026-11-06T21:19:43Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 44,
+ "count": 43,
  "jobs": [
   {
    "id": "workday:labcorp:/job/Bengaluru-India/Associate-Data-Analyst_2639837-1",
@@ -37,21 +37,6 @@
     "SQL",
     "Tableau"
    ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161176",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176",
-   "posted_at": "2026-11-05",
-   "first_seen_at": "2026-11-05T11:54:42Z",
-   "salary": null,
-   "skills": [],
    "source": "oracle"
   },
   {
