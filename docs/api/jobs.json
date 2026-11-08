@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-07T23:25:32Z",
+ "generated_at": "2026-11-08T03:59:38Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 43,
+ "count": 41,
  "jobs": [
   {
    "id": "workday:labcorp:/job/Bengaluru-India/Associate-Data-Analyst_2639837-1",
@@ -433,48 +433,6 @@
    "skills": [
     "SQL",
     "GCP"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:guidepointsecurity:6218650004",
-   "company": "GuidePoint Security",
-   "title": "AI & Data Science Intern - GPSU/NE",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004",
-   "posted_at": "2026-10-08T12:54:28-04:00",
-   "first_seen_at": "2026-10-08T21:52:31Z",
-   "salary": "$20/hr",
-   "skills": [
-    "Python",
-    "Pandas",
-    "LLMs"
-   ],
-   "source": "greenhouse"
-  },
-  {
-   "id": "greenhouse:guidepointsecurity:6218667004",
-   "company": "GuidePoint Security",
-   "title": "Cloud Infrastructure Intern - GPSU/NE",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote",
-   "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004",
-   "posted_at": "2026-10-08T12:54:17-04:00",
-   "first_seen_at": "2026-10-08T21:52:31Z",
-   "salary": "$20/hr",
-   "skills": [
-    "Python",
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Terraform",
-    "Git"
    ],
    "source": "greenhouse"
   },
