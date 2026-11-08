@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-08T11:05:51Z",
- "duration_seconds": 412.6,
- "companies_total": 5720,
+ "generated_at": "2026-11-08T17:03:26Z",
+ "duration_seconds": 375.9,
+ "companies_total": 5721,
  "companies_by_source": {
   "greenhouse": 1236,
   "lever": 478,
   "smartrecruiters": 848,
   "workable": 231,
-  "ashby": 887,
+  "ashby": 888,
   "recruitee": 9,
   "workday": 1623,
   "rippling": 180,
@@ -28,18 +28,22 @@
   "unstop": 5,
   "wellfound": 1
  },
- "quarantined": 510,
- "fetched_ok": 5192,
- "fetch_errors": 18,
+ "quarantined": 498,
+ "fetched_ok": 5191,
+ "fetch_errors": 32,
  "errors_by_source": {
-  "workday": 15,
-  "greenhouse": 3
+  "rippling": 5,
+  "greenhouse": 5,
+  "workday": 12,
+  "ashby": 3,
+  "lever": 3,
+  "workable": 4
  },
- "fetch_success_rate": 0.997,
+ "fetch_success_rate": 0.994,
  "roles_matched": 33,
  "roles_cycle_inferred": 32,
  "dropped_no_year_in_title": 655,
- "dropped_offcycle_by_text": 810,
+ "dropped_offcycle_by_text": 814,
  "roles_by_source": {
   "workday": 21,
   "ashby": 3,
