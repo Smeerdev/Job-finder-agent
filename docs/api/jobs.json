@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-11-09T00:40:36Z",
+ "generated_at": "2026-11-09T07:39:34Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 41,
+ "count": 42,
  "jobs": [
+  {
+   "id": "workday:oaktree:/job/Hyderabad/Senior-Associate---Data-Engineer---Data-Warehouse-Solutions_2026-522",
+   "company": "Oaktree Capital Management",
+   "title": "Associate - Data Engineer - Data Warehouse Solutions",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Hyderabad",
+   "url": "https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Senior-Associate---Data-Engineer---Data-Warehouse-Solutions_2026-522",
+   "posted_at": "2026-11-09T00:00:00Z",
+   "first_seen_at": "2026-11-09T07:39:33Z",
+   "salary": null,
+   "skills": [
+    "SQL",
+    "Azure",
+    "Git"
+   ],
+   "source": "workday"
+  },
   {
    "id": "workday:labcorp:/job/Bengaluru-India/Associate-Data-Analyst_2639837-1",
    "company": "LabCorp",
@@ -113,30 +132,6 @@
     "LLMs",
     "Computer Vision",
     "AWS",
-    "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:synechron:/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1",
-   "company": "Synechron",
-   "title": "Associate Specialist - AI Architect",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru - Bellandur (GTP)",
-   "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1",
-   "posted_at": "2026-11-03T00:00:00Z",
-   "first_seen_at": "2026-11-03T07:34:27Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "LLMs",
-    "AWS",
-    "GCP",
     "Azure"
    ],
    "source": "workday"
@@ -479,6 +474,23 @@
     "Kubernetes",
     "Docker",
     "Kafka"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244",
+   "company": "Marvell",
+   "title": "Intern, Software QA Engineer Bachelor's Degree",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer_2604244",
+   "posted_at": "2026-10-01T00:00:00Z",
+   "first_seen_at": "2026-10-01T16:03:38Z",
+   "salary": null,
+   "skills": [
+    "Python"
    ],
    "source": "workday"
   },
