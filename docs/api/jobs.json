@@ -1,8 +1,26 @@
 {
- "generated_at": "2026-11-10T01:56:11Z",
+ "generated_at": "2026-11-10T09:11:02Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 42,
+ "count": 43,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161958",
+   "company": "Honeywell",
+   "title": "Intern Masters Data Science",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161958",
+   "posted_at": "2026-11-10",
+   "first_seen_at": "2026-11-10T09:11:02Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate---Azure-Fabric-Developer_2026-524",
    "company": "Oaktree Capital Management",
