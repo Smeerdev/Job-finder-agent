@@ -5,14 +5,22 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-10T09:11:02Z</updated>
+  <updated>2026-11-10T17:33:04Z</updated>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161958</id>
-    <title>Honeywell: Intern Masters Data Science</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161958"/>
-    <updated>2026-11-10T09:11:02Z</updated>
+    <id>urn:intern-engine:workday:thales:/job/Bangalore/Software-Intern_R0347867</id>
+    <title>Thales: Software Intern</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867"/>
+    <updated>2026-11-10T17:33:04Z</updated>
     <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India · Python, Tableau</summary>
+    <summary>2026 Graduates · Software · Bangalore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902</id>
+    <title>Thales: Embedded Software Intern</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902"/>
+    <updated>2026-11-10T17:33:04Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bangalore</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:oaktree:/job/Hyderabad/Associate---Azure-Fabric-Developer_2026-524</id>
@@ -71,14 +79,6 @@
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, C#, SQL, LLMs, Computer Vision</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:synechron:/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1</id>
-    <title>Synechron: Associate Specialist - AI Architect</title>
-    <link href="https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1"/>
-    <updated>2026-11-03T07:34:27Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru - Bellandur (GTP) · Python, PyTorch, TensorFlow, scikit-learn, LLMs</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048</id>
     <title>TriNet: Associate Data Scientist</title>
     <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048"/>
@@ -101,6 +101,14 @@
     <updated>2026-10-28T19:21:45Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · India · TypeScript, JavaScript, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:215113</id>
+    <title>DTCC: Platform Engineering Associate</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215113"/>
+    <updated>2026-10-28T19:21:45Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, India · Python, AWS, GCP, Azure, Kubernetes</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stripe:8130876</id>
@@ -221,6 +229,14 @@
     <updated>2026-10-08T08:24:14Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Mumbai · Python, Java, Kotlin, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1</id>
+    <title>Echo Global Logistics: Software Engineering Intern- Chicago</title>
+    <link href="https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1"/>
+    <updated>2026-10-07T21:20:18Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Remote · $35.223k/yr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>

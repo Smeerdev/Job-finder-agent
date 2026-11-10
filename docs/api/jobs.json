@@ -1,25 +1,37 @@
 {
- "generated_at": "2026-11-10T09:11:02Z",
+ "generated_at": "2026-11-10T17:33:04Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 43,
+ "count": 45,
  "jobs": [
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161958",
-   "company": "Honeywell",
-   "title": "Intern Masters Data Science",
+   "id": "workday:thales:/job/Bangalore/Software-Intern_R0347867",
+   "company": "Thales",
+   "title": "Software Intern",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161958",
-   "posted_at": "2026-11-10",
-   "first_seen_at": "2026-11-10T09:11:02Z",
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867",
+   "posted_at": "2026-11-10T00:00:00Z",
+   "first_seen_at": "2026-11-10T17:33:04Z",
    "salary": null,
-   "skills": [
-    "Python",
-    "Tableau"
-   ],
-   "source": "oracle"
+   "skills": [],
+   "source": "workday"
+  },
+  {
+   "id": "workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902",
+   "company": "Thales",
+   "title": "Embedded Software Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902",
+   "posted_at": "2026-11-10T00:00:00Z",
+   "first_seen_at": "2026-11-10T17:33:04Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
   },
   {
    "id": "workday:oaktree:/job/Hyderabad/Associate---Azure-Fabric-Developer_2026-524",
@@ -156,30 +168,6 @@
    "source": "workday"
   },
   {
-   "id": "workday:synechron:/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1",
-   "company": "Synechron",
-   "title": "Associate Specialist - AI Architect",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru - Bellandur (GTP)",
-   "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Bengaluru---Bellandur-GTP/Associate-Specialist---AI-Architect_JR1045609-1",
-   "posted_at": "2026-11-03T00:00:00Z",
-   "first_seen_at": "2026-11-03T07:34:27Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "LLMs",
-    "AWS",
-    "GCP",
-    "Azure"
-   ],
-   "source": "workday"
-  },
-  {
    "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048",
    "company": "TriNet",
    "title": "Associate Data Scientist",
@@ -215,6 +203,30 @@
     "React"
    ],
    "source": "ashby"
+  },
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:215113",
+   "company": "DTCC",
+   "title": "Platform Engineering Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215113",
+   "posted_at": "2026-10-28",
+   "first_seen_at": "2026-10-28T19:21:45Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "Terraform",
+    "Linux"
+   ],
+   "source": "oracle"
   },
   {
    "id": "greenhouse:stripe:8130876",
@@ -494,6 +506,21 @@
     "React",
     "Angular"
    ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
+   "company": "Echo Global Logistics",
+   "title": "Software Engineering Intern- Chicago",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Remote",
+   "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
+   "posted_at": "2026-10-07T00:00:00Z",
+   "first_seen_at": "2026-10-07T21:20:18Z",
+   "salary": "$35.223k/yr",
+   "skills": [],
    "source": "workday"
   },
   {
