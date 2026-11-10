@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**45 open roles · 7 new this week · 5,734 companies tracked · updated Nov 10, 2026 at 17:33 UTC**
+**45 open roles · 8 new this week · 5,734 companies tracked · updated Nov 10, 2026 at 22:51 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,8 +17,9 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Thales | Software Intern ~ 🆕 | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867) |
+| Clera | ML Intern ~ 🆕 | Data & ML/AI | — | remote | Nov 10, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7) |
 | Thales | Embedded Software Intern ~ 🆕 | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902) |
+| Thales | Software Intern ~ 🆕 | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867) |
 | Oaktree Capital Management | Associate - Azure Fabric Developer ~ 🆕 | Software | — | Hyderabad | Nov 10, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Azure-Fabric-Developer_2026-524) |
 | Oaktree Capital Management | Associate - Data Engineer - Data Warehouse Solutions ~ 🆕 | Data & ML/AI | B.Tech/BS | Hyderabad | Nov 09, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Senior-Associate---Data-Engineer---Data-Warehouse-Solutions_2026-522) |
 | TriNet | Associate Data Analyst ~ | Data & ML/AI | 2+ Yrs<br>B.Tech/BS | Hyderabad, Telangana, India | Nov 05, 2026 | [Apply](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321) |
@@ -48,7 +49,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | SailPoint | Software Engineer Intern - Platform Engines ~ | Software | B.Tech/BS | Remote (United Kingdom) | Oct 07, 2026 | [Apply](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) |
 | Ancestry | Data Science - AI Document Understanding, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 16, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 03, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
-| BlackRock | Data Engineer, Aladdin Data, Associate ~ | Data & ML/AI | B.Tech/BS | Mumbai, India | Aug 31, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073) |
 | Ancestry | Machine Learning Engineer, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Aug 11, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) |
 | Oaktree Capital Management | Associate, Workday Financial Developer (L3) ~ | Software | — | Hyderabad | Aug 04, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate--Workday-Financials-Developer--L2-_2026-236) |
 | ReliaQuest | Associate Software Engineer ~ | Software | 0-1 Yr | Pune India Office | Jul 15, 2026 | [Apply](https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032) |
@@ -145,6 +145,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| BlackRock | Data Engineer, Aladdin Data, Associate | 2026 Graduates | 2026-11-10 |
 | Honeywell | Intern Masters Data Science | 2026 Graduates | 2026-11-10 |
 | Synechron | Associate Specialist - AI Architect | 2026 Graduates | 2026-11-10 |
 | LabCorp | Associate Data Analyst | 2026 Graduates | 2026-11-10 |
@@ -184,7 +185,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | PTC | Associate Software Analyst | 2026 Graduates | 2026-10-30 |
 | DTCC | Software Engineering Associate | 2026 Graduates | 2026-10-30 |
 | JPMorganChase | Associate - Digital Learning Developer II - Excellerate | 2026 Graduates | 2026-10-29 |
-| Honeywell | Intern Bachelors Data Science | 2026 Graduates | 2026-10-29 |
 
 </details>
 
@@ -203,7 +203,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,734 companies across 24 ATS platforms · 99% fetch success · completed in 437.1s · median detection latency 699 min · real posted dates on 82% of open roles._
+_Engine (last run): 5,734 companies across 24 ATS platforms · 99% fetch success · completed in 412.7s · median detection latency 699 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 

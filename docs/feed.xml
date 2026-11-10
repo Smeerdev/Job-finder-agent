@@ -5,19 +5,27 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-10T17:33:04Z</updated>
+  <updated>2026-11-10T22:51:26Z</updated>
   <entry>
-    <id>urn:intern-engine:workday:thales:/job/Bangalore/Software-Intern_R0347867</id>
-    <title>Thales: Software Intern</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867"/>
-    <updated>2026-11-10T17:33:04Z</updated>
+    <id>urn:intern-engine:ashby:clera:1c3eb725-b3e0-414b-9a88-5fb6d6d785c7</id>
+    <title>Clera: ML Intern</title>
+    <link href="https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7"/>
+    <updated>2026-11-10T22:51:25Z</updated>
     <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bangalore</summary>
+    <summary>2026 Graduates · Data &amp; ML/AI · remote · Python, PyTorch, TensorFlow, scikit-learn, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902</id>
     <title>Thales: Embedded Software Intern</title>
     <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902"/>
+    <updated>2026-11-10T17:33:04Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bangalore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thales:/job/Bangalore/Software-Intern_R0347867</id>
+    <title>Thales: Software Intern</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867"/>
     <updated>2026-11-10T17:33:04Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bangalore</summary>
@@ -301,14 +309,6 @@
     <updated>2026-09-03T19:41:28Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, SQL, PyTorch, TensorFlow, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:blackrock:/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073</id>
-    <title>BlackRock: Data Engineer, Aladdin Data, Associate</title>
-    <link href="https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Mumbai-India/Data-Engineer--Aladdin-Data--Associate_R265073"/>
-    <updated>2026-08-31T17:27:05Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Mumbai, India · Python, SQL, Azure, Kafka, Airflow</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:instahyre:pagarbook:439220</id>
