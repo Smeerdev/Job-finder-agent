@@ -1,8 +1,80 @@
 {
- "generated_at": "2026-11-11T02:35:46Z",
+ "generated_at": "2026-11-11T10:16:55Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 45,
+ "count": 48,
  "jobs": [
+  {
+   "id": "workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1",
+   "company": "GE Healthcare",
+   "title": "Software Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "first_seen_at": "2026-11-11T10:16:55Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C#",
+    "Git"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161204",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161204",
+   "posted_at": "2026-11-11",
+   "first_seen_at": "2026-11-11T10:16:55Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161207",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161207",
+   "posted_at": "2026-11-11",
+   "first_seen_at": "2026-11-11T10:16:55Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "workday:synechron:/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825",
+   "company": "Synechron",
+   "title": "Overnight Infrastructure Operations Associate – Azure, VMware & Grafana Monitoring",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad  Eco Park",
+   "url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "first_seen_at": "2026-11-11T10:16:55Z",
+   "salary": null,
+   "skills": [
+    "Azure",
+    "Linux"
+   ],
+   "source": "workday"
+  },
   {
    "id": "ashby:clera:1c3eb725-b3e0-414b-9a88-5fb6d6d785c7",
    "company": "Clera",
@@ -527,21 +599,6 @@
     "React",
     "Angular"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
-   "company": "Echo Global Logistics",
-   "title": "Software Engineering Intern- Chicago",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote",
-   "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
-   "posted_at": "2026-10-07T00:00:00Z",
-   "first_seen_at": "2026-10-07T21:20:18Z",
-   "salary": "$35.223k/yr",
-   "skills": [],
    "source": "workday"
   },
   {
