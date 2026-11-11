@@ -5,14 +5,14 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-11T10:16:55Z</updated>
+  <updated>2026-11-11T18:24:20Z</updated>
   <entry>
-    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1</id>
-    <title>GE Healthcare: Software Intern</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1"/>
-    <updated>2026-11-11T10:16:55Z</updated>
+    <id>urn:intern-engine:workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198</id>
+    <title>Assurant: AI &amp; Data Science Intern</title>
+    <link href="https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198"/>
+    <updated>2026-11-11T18:24:20Z</updated>
     <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bengaluru · Python, Java, C#, Git</summary>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161204</id>
@@ -29,6 +29,14 @@
     <updated>2026-11-11T10:16:55Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bengaluru, Karnataka, India · Python, Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1</id>
+    <title>GE Healthcare: Software Intern</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1"/>
+    <updated>2026-11-11T10:16:55Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bengaluru · Python, Java, C#, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:synechron:/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825</id>
@@ -117,14 +125,6 @@
     <updated>2026-11-03T15:50:27Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, C#, SQL, LLMs, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048</id>
-    <title>TriNet: Associate Data Scientist</title>
-    <link href="https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048"/>
-    <updated>2026-11-02T07:10:47Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Hyderabad, Telangana, India · Python, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:alcon:/job/Bangalore-India/Associate-II--Software-Engineering_R-2026-50130-1</id>
@@ -309,6 +309,14 @@
     <updated>2026-09-23T18:16:07Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214634</id>
+    <title>DTCC: Platform Engineering Associate - Redis Administration</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214634"/>
+    <updated>2026-09-21T17:47:16Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, India · Python, AWS, Terraform, Linux, Redis</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449</id>

@@ -1,26 +1,21 @@
 {
- "generated_at": "2026-11-11T10:16:55Z",
+ "generated_at": "2026-11-11T18:24:20Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 48,
+ "count": 49,
  "jobs": [
   {
-   "id": "workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1",
-   "company": "GE Healthcare",
-   "title": "Software Intern",
+   "id": "workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198",
+   "company": "Assurant",
+   "title": "AI & Data Science Intern",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Software",
+   "category": "Data & ML/AI",
    "location": "Bengaluru",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1",
+   "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198",
    "posted_at": "2026-11-11T00:00:00Z",
-   "first_seen_at": "2026-11-11T10:16:55Z",
+   "first_seen_at": "2026-11-11T18:24:20Z",
    "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "Git"
-   ],
+   "skills": [],
    "source": "workday"
   },
   {
@@ -56,6 +51,26 @@
     "C++"
    ],
    "source": "oracle"
+  },
+  {
+   "id": "workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1",
+   "company": "GE Healthcare",
+   "title": "Software Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "first_seen_at": "2026-11-11T10:16:55Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C#",
+    "Git"
+   ],
+   "source": "workday"
   },
   {
    "id": "workday:synechron:/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825",
@@ -259,24 +274,6 @@
     "Azure"
    ],
    "source": "workday"
-  },
-  {
-   "id": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:3004048",
-   "company": "TriNet",
-   "title": "Associate Data Scientist",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Hyderabad, Telangana, India",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004048",
-   "posted_at": "2026-11-02",
-   "first_seen_at": "2026-11-02T07:10:47Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
-   ],
-   "source": "oracle"
   },
   {
    "id": "ashby:certa:9f7caf0b-46ff-49ab-ae78-62deadec106e",
@@ -624,6 +621,27 @@
     "Kafka"
    ],
    "source": "workday"
+  },
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214634",
+   "company": "DTCC",
+   "title": "Platform Engineering Associate - Redis Administration",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214634",
+   "posted_at": "2026-09-21",
+   "first_seen_at": "2026-09-21T17:47:16Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "AWS",
+    "Terraform",
+    "Linux",
+    "Redis"
+   ],
+   "source": "oracle"
   },
   {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
