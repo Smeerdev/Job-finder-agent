@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-11T18:24:20Z",
+ "generated_at": "2026-11-12T01:20:26Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 49,
+ "count": 48,
  "jobs": [
   {
    "id": "workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198",
@@ -51,26 +51,6 @@
     "C++"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1",
-   "company": "GE Healthcare",
-   "title": "Software Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1",
-   "posted_at": "2026-11-11T00:00:00Z",
-   "first_seen_at": "2026-11-11T10:16:55Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "Git"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:synechron:/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825",

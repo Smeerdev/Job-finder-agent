@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T18:24:20Z",
-  "duration_seconds": 407.1,
+  "generated_at": "2026-11-12T01:20:26Z",
+  "duration_seconds": 376.5,
   "companies_total": 5744,
   "companies_by_source": {
     "greenhouse": 1238,
@@ -28,50 +28,57 @@
     "unstop": 5,
     "wellfound": 1
   },
-  "quarantined": 494,
-  "fetched_ok": 5198,
-  "fetch_errors": 52,
+  "quarantined": 166,
+  "fetched_ok": 5279,
+  "fetch_errors": 299,
   "errors_by_source": {
-    "workday": 31,
-    "rippling": 5,
-    "greenhouse": 3,
-    "recruitee": 1,
-    "ashby": 3,
-    "lever": 3,
-    "workable": 6
+    "greenhouse": 73,
+    "lever": 61,
+    "ashby": 53,
+    "workday": 72,
+    "bloomberg": 1,
+    "bytedance": 1,
+    "google": 1,
+    "rippling": 1,
+    "indeed": 9,
+    "linkedin": 12,
+    "naukri": 10,
+    "workable": 3,
+    "uber": 1,
+    "wellfound": 1
   },
-  "fetch_success_rate": 0.99,
-  "roles_matched": 38,
-  "roles_cycle_inferred": 37,
-  "dropped_no_year_in_title": 640,
-  "dropped_offcycle_by_text": 800,
+  "fetch_success_rate": 0.946,
+  "roles_matched": 40,
+  "roles_cycle_inferred": 39,
+  "dropped_no_year_in_title": 653,
+  "dropped_offcycle_by_text": 798,
   "roles_by_source": {
-    "workday": 22,
+    "workday": 24,
     "ashby": 4,
     "greenhouse": 6,
     "oracle": 5,
     "smartrecruiters": 1
   },
   "roles_by_cycle": {
-    "2026 Graduates": 38
+    "2026 Graduates": 40
   },
   "roles_by_region": {
-    "India": 25,
+    "India": 27,
     "Remote": 13
   },
-  "posted_date_coverage": 0.837,
-  "enriched_this_run": 1,
-  "enrichment_detail_fetches": 1,
+  "posted_date_coverage": 0.833,
+  "enriched_this_run": 0,
+  "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 1,
-  "open_total": 49,
+  "new_this_run": 0,
+  "open_total": 48,
   "detection_latency": {
     "median_minutes": 699.2,
     "sample_size": 201,
     "window_days": 7
   },
   "posting_lifetime": {
-    "median_days": 6,
-    "sample_size": 169
+    "median_days": 6.0,
+    "sample_size": 170
   }
 }
