@@ -5,7 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-12T01:20:26Z</updated>
+  <updated>2026-11-12T09:16:02Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:215127</id>
+    <title>DTCC: Software Engineering Associate - Full Stack Developer</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215127"/>
+    <updated>2026-11-12T09:16:02Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, India · Java, TypeScript, JavaScript, SQL, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161319</id>
+    <title>Honeywell: Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161319"/>
+    <updated>2026-11-12T09:16:02Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98860</id>
+    <title>WSP: Associate - Structures Transport &amp; Infrastructure, SG</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98860"/>
+    <updated>2026-11-12T09:16:02Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bengaluru, Karnataka, India</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198</id>
     <title>Assurant: AI &amp; Data Science Intern</title>
@@ -13,22 +37,6 @@
     <updated>2026-11-11T18:24:20Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161204</id>
-    <title>Honeywell: Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161204"/>
-    <updated>2026-11-11T10:16:55Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161207</id>
-    <title>Honeywell: Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161207"/>
-    <updated>2026-11-11T10:16:55Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bengaluru, Karnataka, India · Python, Java, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:synechron:/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825</id>
@@ -167,6 +175,14 @@
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · LLMs</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214039</id>
+    <title>DTCC: Software Engineering Associate - Snowflake</title>
+    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214039"/>
+    <updated>2026-10-26T14:54:29Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad, India · Python, SQL, AWS, Azure, Kafka</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885</id>
     <title>Marvell: Intern, Software Engineer</title>
     <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885"/>
@@ -295,6 +311,14 @@
     <summary>2026 Graduates · Software · Bangalore</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879</id>
+    <title>Marvell: Intern, Software Engineer - Bachelor's Degree</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879"/>
+    <updated>2026-09-24T11:02:05Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Hyderabad · Python, Linux</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:instahyre:gameberrylabs:443500</id>
     <title>Gameberry Labs: Gen AI Designer - Intern</title>
     <link href="https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/"/>
@@ -317,6 +341,14 @@
     <updated>2026-09-16T22:38:36Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, LLMs, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1</id>
+    <title>GE Aerospace: Data Science Intern</title>
+    <link href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1"/>
+    <updated>2026-09-16T10:48:13Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru · Python, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:instahyre:aitainment:442949</id>
@@ -373,21 +405,5 @@
     <updated>2026-08-16T09:28:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:reliaquest:/job/Pune-India-Office/Associate-Software-Engineer_R15032</id>
-    <title>ReliaQuest: Associate Software Engineer</title>
-    <link href="https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032"/>
-    <updated>2026-08-16T09:28:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Pune India Office · Java, TensorFlow, React, Angular, Spring</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valeo:/job/Chennai/Intern---AI_REQ2025061319</id>
-    <title>Valeo: Intern - AI</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319"/>
-    <updated>2026-08-16T09:28:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Chennai</summary>
   </entry>
 </feed>

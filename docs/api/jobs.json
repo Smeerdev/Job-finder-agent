@@ -1,8 +1,62 @@
 {
- "generated_at": "2026-11-12T01:20:26Z",
+ "generated_at": "2026-11-12T09:16:02Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 48,
+ "count": 52,
  "jobs": [
+  {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:215127",
+   "company": "DTCC",
+   "title": "Software Engineering Associate - Full Stack Developer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215127",
+   "posted_at": "2026-11-12",
+   "first_seen_at": "2026-11-12T09:16:02Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "TypeScript",
+    "JavaScript",
+    "SQL",
+    "React",
+    "Spring",
+    "Kubernetes",
+    "Docker"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:emit.fa.ca3.oraclecloud.com:98860",
+   "company": "WSP",
+   "title": "Associate - Structures Transport & Infrastructure, SG",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98860",
+   "posted_at": "2026-11-12",
+   "first_seen_at": "2026-11-12T09:16:02Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161319",
+   "company": "Honeywell",
+   "title": "Intern Bachelors AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161319",
+   "posted_at": "2026-11-11",
+   "first_seen_at": "2026-11-12T09:16:02Z",
+   "salary": null,
+   "skills": [],
+   "source": "oracle"
+  },
   {
    "id": "workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198",
    "company": "Assurant",
@@ -17,40 +71,6 @@
    "salary": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161204",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161204",
-   "posted_at": "2026-11-11",
-   "first_seen_at": "2026-11-11T10:16:55Z",
-   "salary": null,
-   "skills": [],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161207",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161207",
-   "posted_at": "2026-11-11",
-   "first_seen_at": "2026-11-11T10:16:55Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:synechron:/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825",
@@ -350,6 +370,27 @@
    "source": "greenhouse"
   },
   {
+   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214039",
+   "company": "DTCC",
+   "title": "Software Engineering Associate - Snowflake",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad, India",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214039",
+   "posted_at": "2026-10-26",
+   "first_seen_at": "2026-10-26T14:54:29Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Azure",
+    "Kafka"
+   ],
+   "source": "oracle"
+  },
+  {
    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885",
    "company": "Marvell",
    "title": "Intern, Software Engineer",
@@ -603,6 +644,24 @@
    "source": "workday"
   },
   {
+   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
+   "company": "Marvell",
+   "title": "Intern, Software Engineer - Bachelor's Degree",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Hyderabad",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
+   "posted_at": "2026-09-24T00:00:00Z",
+   "first_seen_at": "2026-09-24T11:02:05Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Linux"
+   ],
+   "source": "workday"
+  },
+  {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:214634",
    "company": "DTCC",
    "title": "Platform Engineering Associate - Redis Administration",
@@ -639,6 +698,24 @@
     "Python",
     "LLMs",
     "AWS"
+   ],
+   "source": "workday"
+  },
+  {
+   "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1",
+   "company": "GE Aerospace",
+   "title": "Data Science Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1",
+   "posted_at": "2026-09-16T00:00:00Z",
+   "first_seen_at": "2026-09-16T10:48:13Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
    ],
    "source": "workday"
   },
