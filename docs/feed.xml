@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-12T17:59:04Z</updated>
+  <updated>2026-11-12T23:13:11Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161528</id>
     <title>Honeywell: Intern Bachelors AI</title>
@@ -37,14 +37,6 @@
     <updated>2026-11-11T18:24:20Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1</id>
-    <title>GE Healthcare: Software Intern</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1"/>
-    <updated>2026-11-11T10:16:55Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bengaluru · Python, Java, C#, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:synechron:/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825</id>
@@ -319,28 +311,12 @@
     <summary>2026 Graduates · Data &amp; ML/AI · Bangalore</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:214634</id>
-    <title>DTCC: Platform Engineering Associate - Redis Administration</title>
-    <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214634"/>
-    <updated>2026-09-21T17:47:16Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Hyderabad, India · Python, AWS, Terraform, Linux, Redis</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449</id>
     <title>Ancestry: Data Science - AI Document Understanding, Co-op</title>
     <link href="https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449"/>
     <updated>2026-09-16T22:38:36Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Data &amp; ML/AI · Remote · Python, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1</id>
-    <title>GE Aerospace: Data Science Intern</title>
-    <link href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1"/>
-    <updated>2026-09-16T10:48:13Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru · Python, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:instahyre:aitainment:442949</id>
@@ -405,5 +381,13 @@
     <updated>2026-08-16T09:28:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Pune India Office · Java, TensorFlow, React, Angular, Spring</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:valeo:/job/Chennai/Intern---AI_REQ2025061319</id>
+    <title>Valeo: Intern - AI</title>
+    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319"/>
+    <updated>2026-08-16T09:28:21Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Chennai</summary>
   </entry>
 </feed>

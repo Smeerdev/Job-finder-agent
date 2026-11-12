@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T17:59:04Z",
+ "generated_at": "2026-11-12T23:13:11Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 51,
+ "count": 48,
  "jobs": [
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161528",
@@ -70,26 +70,6 @@
    "first_seen_at": "2026-11-11T18:24:20Z",
    "salary": null,
    "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:gehc:/job/Bengaluru/Software-Intern_R4041235-1",
-   "company": "GE Healthcare",
-   "title": "Software Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Software-Intern_R4041235-1",
-   "posted_at": "2026-11-11T00:00:00Z",
-   "first_seen_at": "2026-11-11T10:16:55Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "Git"
-   ],
    "source": "workday"
   },
   {
@@ -627,27 +607,6 @@
    "source": "ashby"
   },
   {
-   "id": "oracle:ebxr.fa.us2.oraclecloud.com:214634",
-   "company": "DTCC",
-   "title": "Platform Engineering Associate - Redis Administration",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad, India",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214634",
-   "posted_at": "2026-09-21",
-   "first_seen_at": "2026-09-21T17:47:16Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "AWS",
-    "Terraform",
-    "Linux",
-    "Redis"
-   ],
-   "source": "oracle"
-  },
-  {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
    "company": "Ancestry",
    "title": "Data Science - AI Document Understanding, Co-op",
@@ -663,24 +622,6 @@
     "Python",
     "LLMs",
     "AWS"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1",
-   "company": "GE Aerospace",
-   "title": "Data Science Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru",
-   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1",
-   "posted_at": "2026-09-16T00:00:00Z",
-   "first_seen_at": "2026-09-16T10:48:13Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs"
    ],
    "source": "workday"
   },
