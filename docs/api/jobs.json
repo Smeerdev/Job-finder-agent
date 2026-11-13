@@ -1,8 +1,27 @@
 {
- "generated_at": "2026-11-13T04:44:49Z",
+ "generated_at": "2026-11-13T12:54:35Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 47,
+ "count": 46,
  "jobs": [
+  {
+   "id": "oracle:jpmc.fa.oraclecloud.com:210806312",
+   "company": "JPMorganChase",
+   "title": "Commercial & Investment Bank - Payments Data Scientist Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Mumbai, Maharashtra, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210806312",
+   "posted_at": "2026-11-13",
+   "first_seen_at": "2026-11-13T12:54:35Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161528",
    "company": "Honeywell",
@@ -56,6 +75,21 @@
    "salary": null,
    "skills": [],
    "source": "oracle"
+  },
+  {
+   "id": "workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198",
+   "company": "Assurant",
+   "title": "AI & Data Science Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru",
+   "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198",
+   "posted_at": "2026-11-11T00:00:00Z",
+   "first_seen_at": "2026-11-11T18:24:20Z",
+   "salary": null,
+   "skills": [],
+   "source": "workday"
   },
   {
    "id": "workday:synechron:/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825",
@@ -280,25 +314,6 @@
    "source": "ashby"
   },
   {
-   "id": "greenhouse:stripe:8130876",
-   "company": "Stripe",
-   "title": "Software Engineer, New Grad",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
-   "posted_at": "2026-10-28T05:19:59-04:00",
-   "first_seen_at": "2026-10-28T13:50:49Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "JavaScript",
-    "Scala"
-   ],
-   "source": "greenhouse"
-  },
-  {
    "id": "smartrecruiters:Eurofins:744000157955969",
    "company": "Eurofins",
    "title": "Associate Research Scientist - Large Molecule Bioanalysis",
@@ -350,24 +365,6 @@
     "Kafka"
    ],
    "source": "oracle"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885",
-   "posted_at": "2026-10-25T00:00:00Z",
-   "first_seen_at": "2026-10-26T07:24:01Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
-   ],
-   "source": "workday"
   },
   {
    "id": "workday:thehartford:/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341",
@@ -557,24 +554,6 @@
     "GCP"
    ],
    "source": "greenhouse"
-  },
-  {
-   "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
-   "company": "Marvell",
-   "title": "Intern, Software Engineer - Bachelor's Degree",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hyderabad",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
-   "posted_at": "2026-09-24T00:00:00Z",
-   "first_seen_at": "2026-09-24T11:02:05Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
-   ],
-   "source": "workday"
   },
   {
    "id": "ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
