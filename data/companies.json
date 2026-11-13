@@ -2814,6 +2814,11 @@
     "site": "ATTCollegeSpecialInvite"
   },
   {
+    "name": "Atalanta",
+    "slug": "atalanta",
+    "ats": "ashby"
+  },
+  {
     "name": "ATC",
     "slug": "atcllc",
     "ats": "workday",
@@ -3817,6 +3822,11 @@
     "name": "Beta Technologies",
     "slug": "beta",
     "ats": "lever"
+  },
+  {
+    "name": "Beta Technologies",
+    "slug": "betatechnologiesinc",
+    "ats": "greenhouse"
   },
   {
     "name": "Beth Israel Lahey Health",
@@ -5452,6 +5462,11 @@
     "host": "wd12.myworkdaysite.com"
   },
   {
+    "name": "Carlisle Companies",
+    "slug": "Carlisle",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "CarMax",
     "slug": "carmax",
     "ats": "workday",
@@ -6344,6 +6359,13 @@
     "name": "City of Mission",
     "slug": "CityOfMission",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "City of New Braunfels",
+    "slug": "newbraunfels",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "CONB"
   },
   {
     "name": "City of Oklahoma City",
@@ -7245,6 +7267,11 @@
     "name": "Construction Resources",
     "slug": "constructionresources",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Constructive Dialogue Institute",
+    "slug": "constructivedialogue",
+    "ats": "recruitee"
   },
   {
     "name": "Consultadd Public Services",
@@ -9662,6 +9689,11 @@
     "site": "empower"
   },
   {
+    "name": "Empowerly",
+    "slug": "empowerly",
+    "ats": "rippling"
+  },
+  {
     "name": "Enbridge",
     "slug": "enbridge",
     "ats": "workday",
@@ -10639,6 +10671,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Federal Home Loan Bank of Dallas",
+    "slug": "fhlb",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "FHLB_Careers"
+  },
+  {
     "name": "Federal Home Loan Bank of Indianapolis",
     "slug": "fhlbi",
     "ats": "workday",
@@ -11290,6 +11329,13 @@
     "name": "Foley Hoag",
     "slug": "foleyhoag",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Fonds de solidarité FTQ",
+    "slug": "fondsftq",
+    "ats": "workday",
+    "wd": "wd10",
+    "site": "sitecarriere_externe"
   },
   {
     "name": "Fooji",
@@ -14000,6 +14046,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Huawei",
+    "slug": "huaweicanada",
+    "ats": "recruitee"
+  },
+  {
     "name": "HUB International",
     "slug": "hubinternational",
     "ats": "workday",
@@ -15428,6 +15479,13 @@
     "site": "jcrewcareers"
   },
   {
+    "name": "J.D. Power",
+    "slug": "jdpa",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "JDPower"
+  },
+  {
     "name": "J.M. Smucker",
     "slug": "smucker",
     "ats": "workday",
@@ -15739,6 +15797,13 @@
     "ats": "oracle",
     "host": "jpmc.fa.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "JSX",
+    "slug": "jsx",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "JSX_Careers"
   },
   {
     "name": "Jtg",
@@ -18897,6 +18962,11 @@
     "ats": "recruitee"
   },
   {
+    "name": "Mitsubishi Heavy Industries",
+    "slug": "MitsubishiPowerEMEA",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Mitsubishi UFG",
     "slug": "mufgub",
     "ats": "workday",
@@ -19658,6 +19728,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "NCHCareers"
+  },
+  {
+    "name": "Natuvion",
+    "slug": "natuvion",
+    "ats": "recruitee"
   },
   {
     "name": "Natwest",
@@ -22946,6 +23021,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Pragmatike",
+    "slug": "pragmatike",
+    "ats": "ashby"
+  },
+  {
     "name": "Pramaana Labs",
     "slug": "pramaana-labs",
     "ats": "ashby"
@@ -23935,6 +24015,11 @@
     "ats": "workday",
     "wd": "wd108",
     "site": "realty_income_careers"
+  },
+  {
+    "name": "Reasonable AI",
+    "slug": "reasonable",
+    "ats": "workable"
   },
   {
     "name": "Rebel Foods",
@@ -25638,6 +25723,11 @@
     "site": "Sensata-Careers"
   },
   {
+    "name": "Senseye",
+    "slug": "senseye",
+    "ats": "workable"
+  },
+  {
     "name": "Sensiple",
     "slug": "EProInc",
     "ats": "smartrecruiters"
@@ -26251,6 +26341,13 @@
     "name": "Sixth Street",
     "slug": "sixthstreet",
     "ats": "greenhouse"
+  },
+  {
+    "name": "SJI",
+    "slug": "sjindustries",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "SJI"
   },
   {
     "name": "SK hynix",
@@ -28741,6 +28838,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Thoughtworks",
+    "slug": "c898d712-c4ab-4157-954a-5df226a781e2",
+    "ats": "ashby"
+  },
+  {
     "name": "Thousandeyes",
     "slug": "thousandeyes-global",
     "ats": "smartrecruiters"
@@ -30594,6 +30696,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Veris Insights",
+    "slug": "verisinsights",
+    "ats": "lever"
+  },
+  {
     "name": "Verisign",
     "slug": "verisign",
     "ats": "greenhouse"
@@ -32322,6 +32429,11 @@
   {
     "name": "Zettabyte",
     "slug": "zettabyte-space",
+    "ats": "ashby"
+  },
+  {
+    "name": "ZettaSquared",
+    "slug": "zetta2",
     "ats": "ashby"
   },
   {
