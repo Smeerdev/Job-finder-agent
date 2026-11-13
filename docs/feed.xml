@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-13T12:54:35Z</updated>
+  <updated>2026-11-13T20:20:54Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210806312</id>
     <title>JPMorganChase: Commercial &amp; Investment Bank - Payments Data Scientist Associate</title>
@@ -15,28 +15,12 @@
     <summary>2026 Graduates · Data &amp; ML/AI · Mumbai, Maharashtra, India · Python, SQL, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161528</id>
-    <title>Honeywell: Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161528"/>
-    <updated>2026-11-12T17:59:04Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:ebxr.fa.us2.oraclecloud.com:215127</id>
     <title>DTCC: Software Engineering Associate - Full Stack Developer</title>
     <link href="https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215127"/>
     <updated>2026-11-12T09:16:02Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hyderabad, India · Java, TypeScript, JavaScript, SQL, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98860</id>
-    <title>WSP: Associate - Structures Transport &amp; Infrastructure, SG</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98860"/>
-    <updated>2026-11-12T09:16:02Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bengaluru, Karnataka, India</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198</id>
@@ -117,14 +101,6 @@
     <updated>2026-11-04T16:53:48Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bengaluru, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1</id>
-    <title>The Boeing Company: Associate Software Engineer - Analytics</title>
-    <link href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1"/>
-    <updated>2026-11-03T15:50:27Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · IND - Bangalore, India · Python, MATLAB</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:geaerospace:/job/Remote/Artificial-Intelligence-Intern_R5042291-1</id>

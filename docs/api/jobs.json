@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-13T12:54:35Z",
+ "generated_at": "2026-11-13T20:20:54Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 46,
+ "count": 43,
  "jobs": [
   {
    "id": "oracle:jpmc.fa.oraclecloud.com:210806312",
@@ -20,21 +20,6 @@
     "SQL",
     "Tableau"
    ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161528",
-   "company": "Honeywell",
-   "title": "Intern Bachelors AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161528",
-   "posted_at": "2026-11-12",
-   "first_seen_at": "2026-11-12T17:59:04Z",
-   "salary": null,
-   "skills": [],
    "source": "oracle"
   },
   {
@@ -59,21 +44,6 @@
     "Kubernetes",
     "Docker"
    ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:emit.fa.ca3.oraclecloud.com:98860",
-   "company": "WSP",
-   "title": "Associate - Structures Transport & Infrastructure, SG",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98860",
-   "posted_at": "2026-11-12",
-   "first_seen_at": "2026-11-12T09:16:02Z",
-   "salary": null,
-   "skills": [],
    "source": "oracle"
   },
   {
@@ -251,24 +221,6 @@
    "first_seen_at": "2026-11-04T16:53:48Z",
    "salary": null,
    "skills": [],
-   "source": "workday"
-  },
-  {
-   "id": "workday:boeing:/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1",
-   "company": "The Boeing Company",
-   "title": "Associate Software Engineer - Analytics",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "IND - Bangalore, India",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer---Analytics_JR2026507843-1",
-   "posted_at": "2026-11-03T00:00:00Z",
-   "first_seen_at": "2026-11-03T15:50:27Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "MATLAB"
-   ],
    "source": "workday"
   },
   {
