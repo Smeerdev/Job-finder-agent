@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**48 open roles · 10 new this week · 5,776 companies tracked · updated Nov 12, 2026 at 23:13 UTC**
+**47 open roles · 9 new this week · 5,776 companies tracked · updated Nov 13, 2026 at 04:44 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,14 +13,13 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (48 open)
+## 2026 Graduates (International)  (47 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Honeywell | Intern Bachelors AI ~ 🆕 | Data & ML/AI | — | Bengaluru, Karnataka, India | Nov 12, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161528) |
 | DTCC | Software Engineering Associate - Full Stack Developer ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Nov 12, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215127) |
 | WSP | Associate - Structures Transport & Infrastructure, SG ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Nov 12, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98860) |
-| Assurant | AI & Data Science Intern ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198) |
 | Synechron | Overnight Infrastructure Operations Associate – Azure, VMware & Grafana Monitoring ~ 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Hyderabad  Eco Park | Nov 11, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825) |
 | Clera | ML Intern ~ | Data & ML/AI | — | remote | Nov 10, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7) |
 | Thales | Embedded Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902) |
@@ -66,7 +65,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (47 of 48)._
+_~ = the title doesn't state a year; bucketed here from its posting date (46 of 47)._
 
 ## What this is
 
@@ -148,6 +147,7 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Assurant | AI & Data Science Intern | 2026 Graduates | 2026-11-13 |
 | DTCC | Platform Engineering Associate - Redis Administration | 2026 Graduates | 2026-11-12 |
 | GE Aerospace | Data Science Intern | 2026 Graduates | 2026-11-12 |
 | GE Healthcare | Software Intern | 2026 Graduates | 2026-11-12 |
@@ -187,7 +187,6 @@ _47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Marvell | Intern, Software QA Engineer - Bachelor's Degree | 2026 Graduates | 2026-11-02 |
 | DNV | Data Science Intern | 2026 Graduates | 2026-11-02 |
 | TriNet | Associate Data Scientist | 2026 Graduates | 2026-11-02 |
-| DTCC | Software Development Engineering in Test Associate | 2026 Graduates | 2026-11-01 |
 
 </details>
 
@@ -206,7 +205,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,776 companies across 24 ATS platforms · 97% fetch success · completed in 485.9s · median detection latency 699 min · real posted dates on 83% of open roles._
+_Engine (last run): 5,776 companies across 24 ATS platforms · 99% fetch success · completed in 414.9s · median detection latency 699 min · real posted dates on 83% of open roles._
 
 ## Platforms Scraped
 

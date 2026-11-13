@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-12T23:13:11Z</updated>
+  <updated>2026-11-13T04:44:49Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161528</id>
     <title>Honeywell: Intern Bachelors AI</title>
@@ -29,14 +29,6 @@
     <updated>2026-11-12T09:16:02Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bengaluru, Karnataka, India</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:assurant:/job/Bengaluru/AI---Data-Science-Intern_R-116198</id>
-    <title>Assurant: AI &amp; Data Science Intern</title>
-    <link href="https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198"/>
-    <updated>2026-11-11T18:24:20Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:synechron:/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825</id>
