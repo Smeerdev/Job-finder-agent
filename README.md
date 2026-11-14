@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**42 open roles · 9 new this week · 5,796 companies tracked · updated Nov 14, 2026 at 08:33 UTC**
+**42 open roles · 9 new this week · 5,805 companies tracked · updated Nov 14, 2026 at 15:36 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -18,7 +18,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | JPMorganChase | Commercial & Investment Bank - Payments Data Scientist Associate ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai, Maharashtra, India | Nov 13, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210806312) |
-| DTCC | Software Engineering Associate - Full Stack Developer ~ 🆕 | Software | B.Tech/BS | Hyderabad, India | Nov 12, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215127) |
+| DTCC | Software Engineering Associate - Full Stack Developer ~ | Software | B.Tech/BS | Hyderabad, India | Nov 12, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215127) |
 | Assurant | AI & Data Science Intern ~ | Data & ML/AI | B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198) |
 | Synechron | Overnight Infrastructure Operations Associate – Azure, VMware & Grafana Monitoring ~ | Software | 2+ Yrs<br>B.Tech/BS | Hyderabad  Eco Park | Nov 11, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825) |
 | Clera | ML Intern ~ | Data & ML/AI | — | remote | Nov 10, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7) |
@@ -200,7 +200,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,796 companies across 24 ATS platforms · 77% fetch success · completed in 389.0s · median detection latency 704 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,805 companies across 24 ATS platforms · 92% fetch success · completed in 493.8s · median detection latency 699 min · real posted dates on 81% of open roles._
 
 ## Platforms Scraped
 
