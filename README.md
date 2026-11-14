@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**42 open roles · 9 new this week · 5,805 companies tracked · updated Nov 14, 2026 at 15:36 UTC**
+**45 open roles · 12 new this week · 5,805 companies tracked · updated Nov 14, 2026 at 20:24 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,12 +13,15 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (42 open)
+## 2026 Graduates (International)  (45 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | JPMorganChase | Commercial & Investment Bank - Payments Data Scientist Associate ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai, Maharashtra, India | Nov 13, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210806312) |
 | DTCC | Software Engineering Associate - Full Stack Developer ~ | Software | B.Tech/BS | Hyderabad, India | Nov 12, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215127) |
+| Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) |
+| Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) |
+| Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🆕 | Software | B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) |
 | Assurant | AI & Data Science Intern ~ | Data & ML/AI | B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198) |
 | Synechron | Overnight Infrastructure Operations Associate – Azure, VMware & Grafana Monitoring ~ | Software | 2+ Yrs<br>B.Tech/BS | Hyderabad  Eco Park | Nov 11, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825) |
 | Clera | ML Intern ~ | Data & ML/AI | — | remote | Nov 10, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7) |
@@ -60,7 +63,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (41 of 42)._
+_~ = the title doesn't state a year; bucketed here from its posting date (41 of 45)._
 
 ## What this is
 
@@ -135,7 +138,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Stripe | — | — | ⏳ waiting |
 | Tower Research Capital | — | — | ⏳ waiting |
 
-_47 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **5** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **6** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles taken down in the last 14 days</summary>
@@ -200,7 +203,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,805 companies across 24 ATS platforms · 92% fetch success · completed in 493.8s · median detection latency 699 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,805 companies across 24 ATS platforms · 98% fetch success · completed in 425.1s · median detection latency 712 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 

@@ -5,7 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-14T15:36:14Z</updated>
+  <updated>2026-11-14T20:24:50Z</updated>
+  <entry>
+    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:2aa92f37-7e2f-4c12-9f2c-1316e1a743a7</id>
+    <title>Shield AI: Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139</title>
+    <link href="https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7"/>
+    <updated>2026-11-14T20:24:50Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Remote · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:24de5a65-86ce-4269-ad26-0a3e85b42eec</id>
+    <title>Shield AI: Engineer II, Software - Autonomy Capabilities - New Grad - 6131</title>
+    <link href="https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec"/>
+    <updated>2026-11-14T20:24:50Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Remote · Python, C++, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:955d48ad-9380-4621-91f4-51f3f093ac10</id>
+    <title>Shield AI: Engineer I, Software - Autonomy Capabilities - New Grad - 6129</title>
+    <link href="https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10"/>
+    <updated>2026-11-14T20:24:50Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Remote · Python, C++, Linux, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210806312</id>
     <title>JPMorganChase: Commercial &amp; Investment Bank - Payments Data Scientist Associate</title>

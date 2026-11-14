@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T15:36:14Z",
+ "generated_at": "2026-11-14T20:24:50Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -15,6 +15,20 @@
    "days_until": -106,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52",
+   "note": ""
+  },
+  {
+   "company": "Shield AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-11",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7",
    "note": ""
   },
   {
@@ -662,5 +676,5 @@
    "note": ""
   }
  ],
- "count": 47
+ "count": 48
 }
