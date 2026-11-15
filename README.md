@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**45 open roles · 13 new this week · 5,805 companies tracked · updated Nov 15, 2026 at 15:20 UTC**
+**44 open roles · 12 new this week · 5,815 companies tracked · updated Nov 15, 2026 at 20:50 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (45 open)
+## 2026 Graduates (International)  (44 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -25,7 +25,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 🆕 | Software | B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) |
 | Assurant | AI & Data Science Intern ~ | Data & ML/AI | B.Tech/BS | Bengaluru | Nov 11, 2026 | [Apply](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Bengaluru/AI---Data-Science-Intern_R-116198) |
 | Synechron | Overnight Infrastructure Operations Associate – Azure, VMware & Grafana Monitoring ~ | Software | 2+ Yrs<br>B.Tech/BS | Hyderabad  Eco Park | Nov 11, 2026 | [Apply](https://synechron.wd1.myworkdayjobs.com/SynechronCareers/job/Hyderabad--Eco-Park/Overnight-Infrastructure-Operations-Associate---Azure--VMware---Grafana-Monitoring_JR1044825) |
-| Clera | ML Intern ~ | Data & ML/AI | — | remote | Nov 10, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7) |
 | Thales | Embedded Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Embedded-Software-Intern_R0347902) |
 | Thales | Software Intern ~ | Software | B.Tech/BS | Bangalore | Nov 10, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Bangalore/Software-Intern_R0347867) |
 | Oaktree Capital Management | Associate - Azure Fabric Developer ~ | Software | — | Hyderabad | Nov 10, 2026 | [Apply](https://oaktree.wd1.myworkdayjobs.com/oaktree/job/Hyderabad/Associate---Azure-Fabric-Developer_2026-524) |
@@ -63,7 +62,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (41 of 45)._
+_~ = the title doesn't state a year; bucketed here from its posting date (40 of 44)._
 
 ## What this is
 
@@ -145,6 +144,7 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Clera | ML Intern | 2026 Graduates | 2026-11-15 |
 | Quora | Machine Learning Engineer, New Grad - Quora (Remote) | 2026 Graduates | 2026-11-15 |
 | Cloudflare | Infrastructure Business Operations Associate | 2026 Graduates | 2026-11-14 |
 | WSP | Associate - Structures Transport & Infrastructure, SG | 2026 Graduates | 2026-11-13 |
@@ -184,7 +184,6 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Galaxy | Associate, SDET (Software Development Engineer In Test) | 2026 Graduates | 2026-11-03 |
 | GE Aerospace | Artificial Intelligence Intern | 2026 Graduates | 2026-11-03 |
 | Marvell | AI Intern | 2026 Graduates | 2026-11-03 |
-| Marvell | Intern, Software Engineer - Master's Degree | 2026 Graduates | 2026-11-03 |
 
 </details>
 
@@ -203,7 +202,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,805 companies across 24 ATS platforms · 97% fetch success · completed in 467.8s · median detection latency 709 min · real posted dates on 82% of open roles._
+_Engine (last run): 5,815 companies across 24 ATS platforms · 98% fetch success · completed in 445.4s · median detection latency 715 min · real posted dates on 81% of open roles._
 
 ## Platforms Scraped
 

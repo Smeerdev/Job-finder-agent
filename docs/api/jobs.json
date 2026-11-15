@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T15:20:01Z",
+ "generated_at": "2026-11-15T20:50:28Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 45,
+ "count": 44,
  "jobs": [
   {
    "id": "ashby:clera:19f1c181-17c0-45ce-981b-cf62240b95d9",
@@ -158,27 +158,6 @@
     "Linux"
    ],
    "source": "workday"
-  },
-  {
-   "id": "ashby:clera:1c3eb725-b3e0-414b-9a88-5fb6d6d785c7",
-   "company": "Clera",
-   "title": "ML Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "remote",
-   "url": "https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7",
-   "posted_at": "2026-11-10T21:01:58.454+00:00",
-   "first_seen_at": "2026-11-10T22:51:25Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "scikit-learn",
-    "LLMs"
-   ],
-   "source": "ashby"
   },
   {
    "id": "workday:thales:/job/Bangalore/Embedded-Software-Intern_R0347902",
