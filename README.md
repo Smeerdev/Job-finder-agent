@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**44 open roles · 12 new this week · 5,805 companies tracked · updated Nov 15, 2026 at 07:35 UTC**
+**45 open roles · 13 new this week · 5,805 companies tracked · updated Nov 15, 2026 at 15:20 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,11 +13,12 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (44 open)
+## 2026 Graduates (International)  (45 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
-| JPMorganChase | Commercial & Investment Bank - Payments Data Scientist Associate ~ 🆕 | Data & ML/AI | B.Tech/BS | Mumbai, Maharashtra, India | Nov 13, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210806312) |
+| Clera | Physical AI Data Collection Associate ~ 🆕 | Data & ML/AI | $41.6K – $83.2K<br>B.Tech/BS | remote | Nov 15, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/19f1c181-17c0-45ce-981b-cf62240b95d9) |
+| JPMorganChase | Commercial & Investment Bank - Payments Data Scientist Associate ~ | Data & ML/AI | B.Tech/BS | Mumbai, Maharashtra, India | Nov 13, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210806312) |
 | DTCC | Software Engineering Associate - Full Stack Developer ~ | Software | B.Tech/BS | Hyderabad, India | Nov 12, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215127) |
 | Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) |
 | Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 🆕 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) |
@@ -62,7 +63,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (40 of 44)._
+_~ = the title doesn't state a year; bucketed here from its posting date (41 of 45)._
 
 ## What this is
 
@@ -202,7 +203,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,805 companies across 24 ATS platforms · 93% fetch success · completed in 559.4s · median detection latency 712 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,805 companies across 24 ATS platforms · 97% fetch success · completed in 467.8s · median detection latency 709 min · real posted dates on 82% of open roles._
 
 ## Platforms Scraped
 

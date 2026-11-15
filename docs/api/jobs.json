@@ -1,8 +1,25 @@
 {
- "generated_at": "2026-11-15T07:35:56Z",
+ "generated_at": "2026-11-15T15:20:01Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 44,
+ "count": 45,
  "jobs": [
+  {
+   "id": "ashby:clera:19f1c181-17c0-45ce-981b-cf62240b95d9",
+   "company": "Clera",
+   "title": "Physical AI Data Collection Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "remote",
+   "url": "https://jobs.ashbyhq.com/Clera/19f1c181-17c0-45ce-981b-cf62240b95d9",
+   "posted_at": "2026-11-15T15:03:34.260+00:00",
+   "first_seen_at": "2026-11-15T15:20:01Z",
+   "salary": "$41.6K – $83.2K",
+   "skills": [
+    "ROS"
+   ],
+   "source": "ashby"
+  },
   {
    "id": "oracle:jpmc.fa.oraclecloud.com:210806312",
    "company": "JPMorganChase",
