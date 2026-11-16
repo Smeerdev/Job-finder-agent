@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-15T20:50:28Z",
+ "generated_at": "2026-11-16T00:43:23Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 44,
+ "count": 43,
  "jobs": [
   {
    "id": "ashby:clera:19f1c181-17c0-45ce-981b-cf62240b95d9",
@@ -507,25 +507,6 @@
     "React"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "greenhouse:ispottv:4742654005",
-   "company": "iSpot.tv",
-   "title": "Associate Data Analyst",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://job-boards.greenhouse.io/ispottv/jobs/4742654005",
-   "posted_at": "2026-10-16T12:41:59-04:00",
-   "first_seen_at": "2026-10-16T19:19:10Z",
-   "salary": "$76.787k–$92.916k/yr",
-   "skills": [
-    "Python",
-    "SQL",
-    "AWS"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
