@@ -1,24 +1,43 @@
 {
- "generated_at": "2026-11-16T17:55:35Z",
+ "generated_at": "2026-11-17T01:34:21Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 42,
+ "count": 43,
  "jobs": [
   {
-   "id": "ashby:clera:19f1c181-17c0-45ce-981b-cf62240b95d9",
+   "id": "ashby:clera:79c096c3-e0ae-4ac9-9852-9580d2230e1d",
    "company": "Clera",
    "title": "Physical AI Data Collection Associate",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Data & ML/AI",
    "location": "remote",
-   "url": "https://jobs.ashbyhq.com/Clera/19f1c181-17c0-45ce-981b-cf62240b95d9",
-   "posted_at": "2026-11-15T15:03:34.260+00:00",
-   "first_seen_at": "2026-11-15T15:20:01Z",
-   "salary": "$41.6K – $83.2K",
+   "url": "https://jobs.ashbyhq.com/Clera/79c096c3-e0ae-4ac9-9852-9580d2230e1d",
+   "posted_at": "2026-11-16T23:22:24.467+00:00",
+   "first_seen_at": "2026-11-17T01:34:21Z",
+   "salary": null,
    "skills": [
     "ROS"
    ],
    "source": "ashby"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162256",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162256",
+   "posted_at": "2026-11-16",
+   "first_seen_at": "2026-11-17T01:34:21Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "oracle"
   },
   {
    "id": "oracle:ebxr.fa.us2.oraclecloud.com:215127",

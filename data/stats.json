@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-16T17:55:35Z",
-  "duration_seconds": 509.7,
-  "companies_total": 5815,
+  "generated_at": "2026-11-17T01:34:21Z",
+  "duration_seconds": 491.1,
+  "companies_total": 5819,
   "companies_by_source": {
     "greenhouse": 1246,
     "lever": 480,
     "smartrecruiters": 851,
     "workable": 239,
-    "ashby": 910,
-    "recruitee": 12,
-    "workday": 1664,
-    "rippling": 185,
+    "ashby": 911,
+    "recruitee": 13,
+    "workday": 1665,
+    "rippling": 186,
     "oracle": 154,
     "amazon": 1,
     "breezy": 19,
@@ -28,46 +28,49 @@
     "unstop": 5,
     "wellfound": 1
   },
-  "quarantined": 520,
-  "fetched_ok": 3919,
-  "fetch_errors": 1376,
+  "quarantined": 455,
+  "fetched_ok": 3994,
+  "fetch_errors": 1370,
   "errors_by_source": {
-    "workday": 1374,
-    "ashby": 1,
-    "greenhouse": 1
+    "workday": 1360,
+    "greenhouse": 2,
+    "rippling": 2,
+    "recruitee": 1,
+    "lever": 2,
+    "ashby": 3
   },
-  "fetch_success_rate": 0.74,
-  "roles_matched": 17,
-  "roles_cycle_inferred": 13,
-  "dropped_no_year_in_title": 679,
-  "dropped_offcycle_by_text": 506,
+  "fetch_success_rate": 0.745,
+  "roles_matched": 18,
+  "roles_cycle_inferred": 14,
+  "dropped_no_year_in_title": 670,
+  "dropped_offcycle_by_text": 498,
   "roles_by_source": {
     "ashby": 7,
     "greenhouse": 3,
-    "oracle": 3,
+    "oracle": 4,
     "smartrecruiters": 1,
     "workday": 3
   },
   "roles_by_cycle": {
-    "2026 Graduates": 17
+    "2026 Graduates": 18
   },
   "roles_by_region": {
-    "India": 5,
+    "India": 6,
     "Remote": 12
   },
-  "posted_date_coverage": 0.81,
-  "enriched_this_run": 0,
-  "enrichment_detail_fetches": 0,
+  "posted_date_coverage": 0.814,
+  "enriched_this_run": 2,
+  "enrichment_detail_fetches": 1,
   "purged_this_run": 2,
-  "new_this_run": 0,
-  "open_total": 42,
+  "new_this_run": 2,
+  "open_total": 43,
   "detection_latency": {
     "median_minutes": 714.7,
     "sample_size": 192,
     "window_days": 7
   },
   "posting_lifetime": {
-    "median_days": 5,
-    "sample_size": 167
+    "median_days": 5.0,
+    "sample_size": 166
   }
 }
