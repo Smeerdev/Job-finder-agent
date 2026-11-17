@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**43 open roles · 11 new this week · 5,819 companies tracked · updated Nov 17, 2026 at 01:34 UTC**
+**44 open roles · 11 new this week · 5,819 companies tracked · updated Nov 17, 2026 at 10:12 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,12 +13,13 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (43 open)
+## 2026 Graduates (International)  (44 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Nov 17, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162362) |
+| JPMorganChase | Securities Services - Data & AI Centre of Excellence - Vice President/Associate ~ 🆕 | Data & ML/AI | B.Tech/BS | Bengaluru, Karnataka, India | Nov 17, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786065) |
 | Clera | Physical AI Data Collection Associate ~ 🆕 | Data & ML/AI | B.Tech/BS | remote | Nov 16, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/79c096c3-e0ae-4ac9-9852-9580d2230e1d) |
-| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Nov 16, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162256) |
 | DTCC | Software Engineering Associate - Full Stack Developer ~ | Software | B.Tech/BS | Hyderabad, India | Nov 12, 2026 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215127) |
 | Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) |
 | Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) |
@@ -61,7 +62,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (39 of 43)._
+_~ = the title doesn't state a year; bucketed here from its posting date (40 of 44)._
 
 ## What this is
 
@@ -143,6 +144,7 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-11-17 |
 | Clera | Physical AI Data Collection Associate | 2026 Graduates | 2026-11-17 |
 | JPMorganChase | Commercial & Investment Bank - Payments Data Scientist Associate | 2026 Graduates | 2026-11-16 |
 | iSpot.tv | Associate Data Analyst | 2026 Graduates | 2026-11-16 |
@@ -182,7 +184,6 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | Barnes & Thornburg | Data Privacy and AI Associate | 2026 Graduates | 2026-11-05 |
 | GE Aerospace | Data Science Intern | 2026 Graduates | 2026-11-04 |
 | Brillio | Associate Data Engineer - R01571250 | 2026 Graduates | 2026-11-04 |
-| TriNet | Associate Data Analyst | 2026 Graduates | 2026-11-04 |
 
 </details>
 
@@ -201,7 +202,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,819 companies across 24 ATS platforms · 74% fetch success · completed in 491.1s · median detection latency 715 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,819 companies across 24 ATS platforms · 71% fetch success · completed in 759.2s · median detection latency 712 min · real posted dates on 81% of open roles._
 
 ## Platforms Scraped
 
