@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T10:12:38Z",
+ "generated_at": "2026-11-17T19:09:30Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 44,
+ "count": 43,
  "jobs": [
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162362",
@@ -19,28 +19,6 @@
     "Python",
     "Java",
     "C++"
-   ],
-   "source": "oracle"
-  },
-  {
-   "id": "oracle:jpmc.fa.oraclecloud.com:210786065",
-   "company": "JPMorganChase",
-   "title": "Securities Services - Data & AI Centre of Excellence - Vice President/Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786065",
-   "posted_at": "2026-11-17",
-   "first_seen_at": "2026-11-17T10:12:38Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "LLMs",
-    "AWS",
-    "Azure",
-    "Git",
-    "Hadoop"
    ],
    "source": "oracle"
   },
