@@ -1,8 +1,47 @@
 {
- "generated_at": "2026-11-18T02:10:44Z",
+ "generated_at": "2026-11-18T10:02:31Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 40,
+ "count": 42,
  "jobs": [
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162526",
+   "company": "Honeywell",
+   "title": "Intern Masters AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162526",
+   "posted_at": "2026-11-18",
+   "first_seen_at": "2026-11-18T10:02:31Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "lever:weloglobal:0316fd7c-6dcd-455a-8f6c-cc2fb986be95",
+   "company": "Welo Global",
+   "title": "Associate Software Localization Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Gurgaon, India",
+   "url": "https://jobs.lever.co/weloglobal/0316fd7c-6dcd-455a-8f6c-cc2fb986be95",
+   "posted_at": "2026-11-18T07:49:44Z",
+   "first_seen_at": "2026-11-18T10:02:31Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "SQL",
+    "Spring",
+    "Git"
+   ],
+   "source": "lever"
+  },
   {
    "id": "ashby:leantechniques:c89ba377-fab3-4246-a0cf-9d954cf4c862",
    "company": "Lean TECHniques",
