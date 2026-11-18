@@ -1,24 +1,24 @@
 {
- "generated_at": "2026-11-18T10:02:31Z",
+ "generated_at": "2026-11-18T18:41:55Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 42,
  "jobs": [
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162526",
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161636",
    "company": "Honeywell",
-   "title": "Intern Masters AI",
+   "title": "Intern Bachelors Software Eng",
    "season": "2026 Graduates",
    "season_inferred": true,
-   "category": "Data & ML/AI",
+   "category": "Software",
    "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162526",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161636",
    "posted_at": "2026-11-18",
-   "first_seen_at": "2026-11-18T10:02:31Z",
+   "first_seen_at": "2026-11-18T18:41:55Z",
    "salary": null,
    "skills": [
     "Python",
-    "PyTorch",
-    "TensorFlow"
+    "Java",
+    "C++"
    ],
    "source": "oracle"
   },
@@ -43,6 +43,25 @@
    "source": "lever"
   },
   {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162526",
+   "company": "Honeywell",
+   "title": "Intern Masters AI",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162526",
+   "posted_at": "2026-11-18",
+   "first_seen_at": "2026-11-18T10:02:31Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow"
+   ],
+   "source": "oracle"
+  },
+  {
    "id": "ashby:leantechniques:c89ba377-fab3-4246-a0cf-9d954cf4c862",
    "company": "Lean TECHniques",
    "title": "Software Intern - Hybrid",
@@ -56,25 +75,6 @@
    "salary": null,
    "skills": [],
    "source": "ashby"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162362",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162362",
-   "posted_at": "2026-11-17",
-   "first_seen_at": "2026-11-17T10:12:38Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "ashby:clera:79c096c3-e0ae-4ac9-9852-9580d2230e1d",
