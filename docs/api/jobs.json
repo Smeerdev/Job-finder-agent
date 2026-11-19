@@ -1,8 +1,32 @@
 {
- "generated_at": "2026-11-19T01:01:45Z",
+ "generated_at": "2026-11-19T08:28:57Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 41,
+ "count": 43,
  "jobs": [
+  {
+   "id": "oracle:hdid.fa.us2.oraclecloud.com:5115",
+   "company": "Jefferies",
+   "title": "Associate - Cloud Engineer - Infra Platform Engineering",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune, India",
+   "url": "https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5115",
+   "posted_at": "2026-11-19",
+   "first_seen_at": "2026-11-19T08:28:57Z",
+   "salary": null,
+   "skills": [
+    "LLMs",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Kubernetes",
+    "Terraform",
+    "Linux",
+    "Git"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161636",
    "company": "Honeywell",
@@ -315,6 +339,25 @@
     "React"
    ],
    "source": "ashby"
+  },
+  {
+   "id": "greenhouse:stripe:8130876",
+   "company": "Stripe",
+   "title": "Software Engineer, New Grad",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
+   "posted_at": "2026-10-28T05:19:59-04:00",
+   "first_seen_at": "2026-10-28T13:50:49Z",
+   "salary": null,
+   "skills": [
+    "Java",
+    "JavaScript",
+    "Scala"
+   ],
+   "source": "greenhouse"
   },
   {
    "id": "smartrecruiters:Eurofins:744000157955969",

@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**41 open roles · 7 new this week · 5,845 companies tracked · updated Nov 19, 2026 at 01:01 UTC**
+**43 open roles · 8 new this week · 5,845 companies tracked · updated Nov 19, 2026 at 08:28 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,14 +13,15 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (41 open)
+## 2026 Graduates (International)  (43 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Jefferies | Associate - Cloud Engineer - Infra Platform Engineering ~ 🆕 | Software | — | Pune, India | Nov 19, 2026 | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5115) |
 | Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Nov 18, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161636) |
 | Welo Global | Associate Software Localization Engineer ~ 🆕 | Software | — | Gurgaon, India | Nov 18, 2026 | [Apply](https://jobs.lever.co/weloglobal/0316fd7c-6dcd-455a-8f6c-cc2fb986be95) |
 | Lean TECHniques | Software Intern - Hybrid ~ 🆕 | Software | B.Tech/BS | Hybrid | Nov 17, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862) |
-| Clera | Physical AI Data Collection Associate ~ 🆕 | Data & ML/AI | B.Tech/BS | remote | Nov 16, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/79c096c3-e0ae-4ac9-9852-9580d2230e1d) |
+| Clera | Physical AI Data Collection Associate ~ | Data & ML/AI | B.Tech/BS | remote | Nov 16, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/79c096c3-e0ae-4ac9-9852-9580d2230e1d) |
 | Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) |
 | Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) |
 | Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | Software | B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) |
@@ -34,6 +35,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | BlackRock | Product Specialist / Platform Engineer, Atlassian Confluence Cloud, Tech & Ops, Associate ~ | Software | B.Tech/BS | Bengaluru, India | Nov 04, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Bengaluru-India/Product-Specialist---Platform-Engineer--Atlassian-Confluence-Cloud--Tech---Ops--Associate_R267068-1) |
 | GE Aerospace | Artificial Intelligence Intern ~ | Data & ML/AI | B.Tech/BS | Remote | Nov 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | Certa | Frontend Engineer - Internship ~ | Software | 0-1 Yr | India | Oct 28, 2026 | [Apply](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e) |
+| Stripe | Software Engineer, New Grad ~ | Software | B.Tech/BS | Bangalore | Oct 28, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8130876) |
 | Eurofins | Associate Research Scientist - Large Molecule Bioanalysis ~ | Data & ML/AI | — | Bengaluru, KA, India | Oct 27, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157955969) |
 | EQT Corporation | AI Intern ~ | Data & ML/AI | B.Tech/BS | Remote | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
 | The Hartford | IND Associate Software Engineer -  Red Team Engineer ~ | Software | B.Tech/BS | India GCC-Puppalaguda Village | Oct 23, 2026 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341) |
@@ -59,7 +61,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (37 of 41)._
+_~ = the title doesn't state a year; bucketed here from its posting date (39 of 43)._
 
 ## What this is
 
@@ -158,7 +160,6 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | WSP | Associate - Structures Transport & Infrastructure, SG | 2026 Graduates | 2026-11-13 |
 | Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-11-13 |
 | The Boeing Company | Associate Software Engineer - Analytics | 2026 Graduates | 2026-11-13 |
-| Stripe | Software Engineer, New Grad | 2026 Graduates | 2026-11-13 |
 | Marvell | Intern, Software Engineer - Bachelor's Degree | 2026 Graduates | 2026-11-13 |
 | Marvell | Intern, Software Engineer | 2026 Graduates | 2026-11-13 |
 | DTCC | Platform Engineering Associate - Redis Administration | 2026 Graduates | 2026-11-12 |
@@ -181,6 +182,7 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | GuidePoint Security | Cloud Infrastructure Intern - GPSU/NE | 2026 Graduates | 2026-11-08 |
 | Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-11-06 |
 | Marvell | Software Engineer Intern | 2026 Graduates | 2026-11-06 |
+| Acron Aviation | Software Engineer Intern - India Site | 2026 Graduates | 2026-11-05 |
 
 </details>
 
@@ -199,7 +201,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,845 companies across 24 ATS platforms · 90% fetch success · completed in 383.7s · median detection latency 699 min · real posted dates on 80% of open roles._
+_Engine (last run): 5,845 companies across 24 ATS platforms · 76% fetch success · completed in 469.7s · median detection latency 699 min · real posted dates on 81% of open roles._
 
 ## Platforms Scraped
 
