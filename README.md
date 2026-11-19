@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**42 open roles · 8 new this week · 5,845 companies tracked · updated Nov 18, 2026 at 18:41 UTC**
+**41 open roles · 7 new this week · 5,845 companies tracked · updated Nov 19, 2026 at 01:01 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,13 +13,12 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (42 open)
+## 2026 Graduates (International)  (41 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Nov 18, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161636) |
 | Welo Global | Associate Software Localization Engineer ~ 🆕 | Software | — | Gurgaon, India | Nov 18, 2026 | [Apply](https://jobs.lever.co/weloglobal/0316fd7c-6dcd-455a-8f6c-cc2fb986be95) |
-| Honeywell | Intern Masters AI ~ 🆕 | Data & ML/AI | M.Tech/MS | Bengaluru, Karnataka, India | Nov 18, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162526) |
 | Lean TECHniques | Software Intern - Hybrid ~ 🆕 | Software | B.Tech/BS | Hybrid | Nov 17, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862) |
 | Clera | Physical AI Data Collection Associate ~ 🆕 | Data & ML/AI | B.Tech/BS | remote | Nov 16, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/79c096c3-e0ae-4ac9-9852-9580d2230e1d) |
 | Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) |
@@ -60,7 +59,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (38 of 42)._
+_~ = the title doesn't state a year; bucketed here from its posting date (37 of 41)._
 
 ## What this is
 
@@ -142,6 +141,7 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Masters AI | 2026 Graduates | 2026-11-19 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-11-18 |
 | Lean TECHniques | Software Engineer Intern - Hybrid | 2026 Graduates | 2026-11-18 |
 | DTCC | Software Engineering Associate - Snowflake | 2026 Graduates | 2026-11-18 |
@@ -181,7 +181,6 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | GuidePoint Security | Cloud Infrastructure Intern - GPSU/NE | 2026 Graduates | 2026-11-08 |
 | Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-11-06 |
 | Marvell | Software Engineer Intern | 2026 Graduates | 2026-11-06 |
-| Acron Aviation | Software Engineer Intern - India Site | 2026 Graduates | 2026-11-05 |
 
 </details>
 
@@ -200,7 +199,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,845 companies across 24 ATS platforms · 92% fetch success · completed in 342.2s · median detection latency 699 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,845 companies across 24 ATS platforms · 90% fetch success · completed in 383.7s · median detection latency 699 min · real posted dates on 80% of open roles._
 
 ## Platforms Scraped
 

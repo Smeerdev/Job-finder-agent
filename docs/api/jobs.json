@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-18T18:41:55Z",
+ "generated_at": "2026-11-19T01:01:45Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 42,
+ "count": 41,
  "jobs": [
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161636",
@@ -41,25 +41,6 @@
     "Git"
    ],
    "source": "lever"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162526",
-   "company": "Honeywell",
-   "title": "Intern Masters AI",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162526",
-   "posted_at": "2026-11-18",
-   "first_seen_at": "2026-11-18T10:02:31Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow"
-   ],
-   "source": "oracle"
   },
   {
    "id": "ashby:leantechniques:c89ba377-fab3-4246-a0cf-9d954cf4c862",
