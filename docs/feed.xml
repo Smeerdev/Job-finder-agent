@@ -5,7 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-19T08:28:57Z</updated>
+  <updated>2026-11-19T17:58:28Z</updated>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161637</id>
+    <title>Honeywell: Intern Bachelors Software Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161637"/>
+    <updated>2026-11-19T17:58:28Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bengaluru, Karnataka, India · Python, Java, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdid.fa.us2.oraclecloud.com:5115</id>
     <title>Jefferies: Associate - Cloud Engineer - Infra Platform Engineering</title>
@@ -13,14 +21,6 @@
     <updated>2026-11-19T08:28:57Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Pune, India · LLMs, AWS, GCP, Azure, Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161636</id>
-    <title>Honeywell: Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161636"/>
-    <updated>2026-11-18T18:41:55Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bengaluru, Karnataka, India · Python, Java, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:weloglobal:0316fd7c-6dcd-455a-8f6c-cc2fb986be95</id>

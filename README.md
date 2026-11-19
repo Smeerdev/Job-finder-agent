@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**43 open roles · 8 new this week · 5,845 companies tracked · updated Nov 19, 2026 at 08:28 UTC**
+**43 open roles · 8 new this week · 5,849 companies tracked · updated Nov 19, 2026 at 17:58 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -17,8 +17,8 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Nov 19, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161637) |
 | Jefferies | Associate - Cloud Engineer - Infra Platform Engineering ~ 🆕 | Software | — | Pune, India | Nov 19, 2026 | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5115) |
-| Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Nov 18, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161636) |
 | Welo Global | Associate Software Localization Engineer ~ 🆕 | Software | — | Gurgaon, India | Nov 18, 2026 | [Apply](https://jobs.lever.co/weloglobal/0316fd7c-6dcd-455a-8f6c-cc2fb986be95) |
 | Lean TECHniques | Software Intern - Hybrid ~ 🆕 | Software | B.Tech/BS | Hybrid | Nov 17, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862) |
 | Clera | Physical AI Data Collection Associate ~ | Data & ML/AI | B.Tech/BS | remote | Nov 16, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/79c096c3-e0ae-4ac9-9852-9580d2230e1d) |
@@ -143,6 +143,7 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-11-19 |
 | Honeywell | Intern Masters AI | 2026 Graduates | 2026-11-19 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-11-18 |
 | Lean TECHniques | Software Engineer Intern - Hybrid | 2026 Graduates | 2026-11-18 |
@@ -182,7 +183,6 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | GuidePoint Security | Cloud Infrastructure Intern - GPSU/NE | 2026 Graduates | 2026-11-08 |
 | Honeywell | Intern Bachelors AI | 2026 Graduates | 2026-11-06 |
 | Marvell | Software Engineer Intern | 2026 Graduates | 2026-11-06 |
-| Acron Aviation | Software Engineer Intern - India Site | 2026 Graduates | 2026-11-05 |
 
 </details>
 
@@ -201,7 +201,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,845 companies across 24 ATS platforms · 76% fetch success · completed in 469.7s · median detection latency 699 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,849 companies across 24 ATS platforms · 93% fetch success · completed in 236.2s · median detection latency 699 min · real posted dates on 81% of open roles._
 
 ## Platforms Scraped
 
