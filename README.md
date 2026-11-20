@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**42 open roles · 8 new this week · 5,849 companies tracked · updated Nov 20, 2026 at 00:11 UTC**
+**42 open roles · 8 new this week · 5,849 companies tracked · updated Nov 20, 2026 at 08:04 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -20,7 +20,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | Honeywell | Intern Bachelors Software Eng ~ 🆕 | Software | B.Tech/BS | Bengaluru, Karnataka, India | Nov 19, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161637) |
 | Jefferies | Associate - Cloud Engineer - Infra Platform Engineering ~ 🆕 | Software | — | Pune, India | Nov 19, 2026 | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5115) |
 | Welo Global | Associate Software Localization Engineer ~ 🆕 | Software | — | Gurgaon, India | Nov 18, 2026 | [Apply](https://jobs.lever.co/weloglobal/0316fd7c-6dcd-455a-8f6c-cc2fb986be95) |
-| Lean TECHniques | Software Intern - Hybrid ~ 🆕 | Software | B.Tech/BS | Hybrid | Nov 17, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862) |
+| Lean TECHniques | Software Intern - Hybrid ~ | Software | B.Tech/BS | Hybrid | Nov 17, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862) |
 | Clera | Physical AI Data Collection Associate ~ | Data & ML/AI | B.Tech/BS | remote | Nov 16, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/79c096c3-e0ae-4ac9-9852-9580d2230e1d) |
 | Shield AI | Engineer II, Software - Autonomy Capabilities - New Grad - 6131 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec) |
 | Shield AI | Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139 | Software | 2+ Yrs<br>B.Tech/BS | Remote | Nov 11, 2026 | [Apply](https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7) |
@@ -200,7 +200,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,849 companies across 24 ATS platforms · 94% fetch success · completed in 127.2s · median detection latency 704 min · real posted dates on 81% of open roles._
+_Engine (last run): 5,849 companies across 24 ATS platforms · 91% fetch success · completed in 365.7s · median detection latency 704 min · real posted dates on 81% of open roles._
 
 ## Platforms Scraped
 
