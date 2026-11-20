@@ -1,23 +1,21 @@
 {
- "generated_at": "2026-11-20T08:04:28Z",
+ "generated_at": "2026-11-20T16:50:00Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 42,
  "jobs": [
   {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161637",
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162870",
    "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
+   "title": "Intern Masters Embedded Eng",
    "season": "2026 Graduates",
    "season_inferred": true,
    "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161637",
-   "posted_at": "2026-11-19",
-   "first_seen_at": "2026-11-19T17:58:28Z",
+   "location": "Pune, Maharashtra, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162870",
+   "posted_at": "2026-11-20",
+   "first_seen_at": "2026-11-20T16:50:00Z",
    "salary": null,
    "skills": [
-    "Python",
-    "Java",
     "C++"
    ],
    "source": "oracle"
