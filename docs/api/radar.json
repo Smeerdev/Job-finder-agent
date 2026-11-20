@@ -1,22 +1,8 @@
 {
- "generated_at": "2026-11-19T17:58:28Z",
+ "generated_at": "2026-11-20T00:11:47Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
-  {
-   "company": "Quora",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-31",
-   "days_until": -111,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52",
-   "note": ""
-  },
   {
    "company": "Shield AI",
    "last_cycle_posted": "",
@@ -26,7 +12,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-11-11",
-   "days_until": -8,
+   "days_until": -9,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec",
    "note": ""
@@ -620,6 +606,20 @@
    "note": "posts roles year-round"
   },
   {
+   "company": "Quora",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-31",
+   "days_until": -112,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Concentric",
    "last_cycle_posted": "",
    "posted_on": "2026-08-10",
@@ -628,7 +628,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-10",
-   "days_until": -101,
+   "days_until": -102,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -642,7 +642,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-27",
-   "days_until": -84,
+   "days_until": -85,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -656,7 +656,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-09-23",
-   "days_until": -57,
+   "days_until": -58,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -670,7 +670,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-10-05",
-   "days_until": -45,
+   "days_until": -46,
    "status": "dropped",
    "url": "",
    "note": ""
