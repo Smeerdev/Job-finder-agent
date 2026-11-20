@@ -715,6 +715,11 @@
     "ats": "workable"
   },
   {
+    "name": "Aeva",
+    "slug": "aeva",
+    "ats": "lever"
+  },
+  {
     "name": "Aevex Aerospace",
     "slug": "aevexaerospace",
     "ats": "greenhouse"
@@ -2007,6 +2012,11 @@
     "name": "Aon",
     "slug": "life-at-aon",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "AON3D",
+    "slug": "aon3d",
+    "ats": "greenhouse"
   },
   {
     "name": "Apache Industrial",
@@ -3560,6 +3570,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "barrcareers"
+  },
+  {
+    "name": "Barry's",
+    "slug": "barrys-careers",
+    "ats": "rippling"
   },
   {
     "name": "Barry-Wehmiller",
@@ -5585,6 +5600,11 @@
     "name": "Cascade Asset Management Company",
     "slug": "cascademgt",
     "ats": "lever"
+  },
+  {
+    "name": "Cascade Engineering Services",
+    "slug": "cascade-engineering-services-1",
+    "ats": "workable"
   },
   {
     "name": "CaseGuard",
@@ -16841,6 +16861,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Legatics",
+    "slug": "legatics",
+    "ats": "workable"
+  },
+  {
     "name": "Legend Biotech",
     "slug": "legendcareers",
     "ats": "greenhouse"
@@ -17306,6 +17331,11 @@
     "name": "Lithic",
     "slug": "lithic",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Litmus",
+    "slug": "litmushiring",
+    "ats": "ashby"
   },
   {
     "name": "Littelfuse",
@@ -18199,6 +18229,13 @@
     "ats": "lever"
   },
   {
+    "name": "Massey Services",
+    "slug": "masseyservices",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "masseyservices"
+  },
+  {
     "name": "MassMutual Ascend",
     "slug": "massmutual",
     "ats": "workday",
@@ -19030,6 +19067,11 @@
     "name": "Mindlance",
     "slug": "Mindlance2",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Mindspan Institute",
+    "slug": "mindspan-institute",
+    "ats": "rippling"
   },
   {
     "name": "mindtel",
@@ -29642,6 +29684,11 @@
     "site": "External"
   },
   {
+    "name": "Trener Robotics",
+    "slug": "trener-robotics",
+    "ats": "ashby"
+  },
+  {
     "name": "TreviPay",
     "slug": "trevipay",
     "ats": "lever"
@@ -30562,6 +30609,11 @@
     "name": "Uplifter",
     "slug": "uplifter",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Uplinq",
+    "slug": "uplinq",
+    "ats": "rippling"
   },
   {
     "name": "Upscale AI",
