@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T22:58:26Z",
+ "generated_at": "2026-11-21T03:44:58Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 42,
+ "count": 41,
  "jobs": [
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162870",
@@ -477,28 +477,6 @@
    "salary": null,
    "skills": [],
    "source": "workday"
-  },
-  {
-   "id": "greenhouse:coinbase:8175873",
-   "company": "Coinbase",
-   "title": "Software Engineer Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Hybrid - Singapore",
-   "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
-   "posted_at": "2026-10-21T23:19:03-04:00",
-   "first_seen_at": "2026-10-22T07:05:33Z",
-   "salary": null,
-   "skills": [
-    "Go",
-    "React",
-    "AWS",
-    "Docker",
-    "PostgreSQL",
-    "MongoDB"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
