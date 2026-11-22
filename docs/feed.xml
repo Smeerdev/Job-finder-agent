@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-22T13:06:02Z</updated>
+  <updated>2026-11-22T20:15:51Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:162870</id>
     <title>Honeywell: Intern Masters Embedded Eng</title>
@@ -37,14 +37,6 @@
     <updated>2026-11-18T02:10:44Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Hybrid</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:clera:79c096c3-e0ae-4ac9-9852-9580d2230e1d</id>
-    <title>Clera: Physical AI Data Collection Associate</title>
-    <link href="https://jobs.ashbyhq.com/Clera/79c096c3-e0ae-4ac9-9852-9580d2230e1d"/>
-    <updated>2026-11-17T01:34:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · remote · ROS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:24de5a65-86ce-4269-ad26-0a3e85b42eec</id>
