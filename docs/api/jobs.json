@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-21T23:43:18Z",
+ "generated_at": "2026-11-22T04:46:03Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 41,
+ "count": 40,
  "jobs": [
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:162870",
@@ -429,21 +429,6 @@
     "Azure"
    ],
    "source": "workday"
-  },
-  {
-   "id": "greenhouse:opensesame:8313424",
-   "company": "OpenSesame",
-   "title": "AI Product Builder Intern",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote",
-   "url": "https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424",
-   "posted_at": "2026-10-22T15:32:21-04:00",
-   "first_seen_at": "2026-10-22T21:25:00Z",
-   "salary": "$25/hr",
-   "skills": [],
-   "source": "greenhouse"
   },
   {
    "id": "workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868",

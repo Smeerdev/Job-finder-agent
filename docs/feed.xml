@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-21T23:43:18Z</updated>
+  <updated>2026-11-22T04:46:03Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:162870</id>
     <title>Honeywell: Intern Masters Embedded Eng</title>
@@ -189,14 +189,6 @@
     <updated>2026-10-23T11:00:00Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · India GCC-Puppalaguda Village · Python, C#, Rust, LLMs, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:opensesame:8313424</id>
-    <title>OpenSesame: AI Product Builder Intern</title>
-    <link href="https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424"/>
-    <updated>2026-10-22T21:25:00Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Remote · $25/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868</id>
