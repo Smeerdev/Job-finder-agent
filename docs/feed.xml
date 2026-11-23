@@ -5,15 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-23T01:22:06Z</updated>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:162870</id>
-    <title>Honeywell: Intern Masters Embedded Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162870"/>
-    <updated>2026-11-20T16:50:00Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Pune, Maharashtra, India · C++</summary>
-  </entry>
+  <updated>2026-11-23T10:11:56Z</updated>
   <entry>
     <id>urn:intern-engine:oracle:hdid.fa.us2.oraclecloud.com:5115</id>
     <title>Jefferies: Associate - Cloud Engineer - Infra Platform Engineering</title>
