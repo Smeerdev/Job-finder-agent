@@ -659,6 +659,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Aegiq",
+    "slug": "aegiq",
+    "ats": "workable"
+  },
+  {
     "name": "Aegis Therapies",
     "slug": "aegistherapies",
     "ats": "workday",
@@ -2546,6 +2551,11 @@
   {
     "name": "Artefact",
     "slug": "artefactlinkedin",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Artefact",
+    "slug": "artefactnoram",
     "ats": "greenhouse"
   },
   {
@@ -11177,6 +11187,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "First_Quantum_Careers"
+  },
+  {
+    "name": "First Resonance",
+    "slug": "first-resonance",
+    "ats": "ashby"
   },
   {
     "name": "First West Credit Union",
@@ -23920,6 +23935,11 @@
     "ats": "workable"
   },
   {
+    "name": "QSL",
+    "slug": "QSL",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "QTS",
     "slug": "qtsdatacenters",
     "ats": "workday",
@@ -30815,6 +30835,11 @@
   {
     "name": "Vacasa",
     "slug": "vacasa",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Vailexa",
+    "slug": "vailexa",
     "ats": "greenhouse"
   },
   {
