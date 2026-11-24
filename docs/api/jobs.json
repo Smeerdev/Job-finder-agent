@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-24T06:43:52Z",
+ "generated_at": "2026-11-24T18:41:41Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 39,
+ "count": 36,
  "jobs": [
   {
    "id": "workday:fhlbi:/job/Indianapolis/Data-Platform-Engineer-Intern_R646",
@@ -15,7 +15,12 @@
    "posted_at": "2026-11-24T00:00:00Z",
    "first_seen_at": "2026-11-24T06:43:52Z",
    "salary": null,
-   "skills": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Azure",
+    "Terraform"
+   ],
    "source": "workday"
   },
   {
@@ -392,56 +397,6 @@
     "Azure",
     "Linux"
    ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:alcon:/job/Bangalore-India/Associate-II--Software-Engineering_R-2026-50130-1",
-   "company": "Alcon",
-   "title": "Associate II, Software Engineering",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore, India",
-   "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Associate-II--Software-Engineering_R-2026-50130-1",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "first_seen_at": "2026-10-30T09:34:16Z",
-   "salary": null,
-   "skills": [
-    "Azure"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868",
-   "company": "Marvell",
-   "title": "Software Engineer Intern - Master's Degree",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "first_seen_at": "2026-10-22T17:54:13Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
-   ],
-   "source": "workday"
-  },
-  {
-   "id": "workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
-   "company": "Marvell",
-   "title": "Software Validation Intern - Master's Degree",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
-   "posted_at": "2026-10-22T00:00:00Z",
-   "first_seen_at": "2026-10-22T17:54:13Z",
-   "salary": null,
-   "skills": [],
    "source": "workday"
   },
   {
