@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**38 open roles · 3 new this week · 5,879 companies tracked · updated Nov 23, 2026 at 22:27 UTC**
+**39 open roles · 4 new this week · 5,879 companies tracked · updated Nov 24, 2026 at 06:43 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,10 +13,11 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (38 open)
+## 2026 Graduates (International)  (39 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Federal Home Loan Bank of Indianapolis | Data Platform Engineer Intern ~ 🆕 | Data & ML/AI | — | Indianapolis | Nov 24, 2026 | [Apply](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Data-Platform-Engineer-Intern_R646) |
 | Jefferies | Associate - Cloud Engineer - Infra Platform Engineering ~ | Software | — | Pune, India | Nov 19, 2026 | [Apply](https://hdid.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5115) |
 | Welo Global | Associate Software Localization Engineer ~ | Software | — | Gurgaon, India | Nov 18, 2026 | [Apply](https://jobs.lever.co/weloglobal/0316fd7c-6dcd-455a-8f6c-cc2fb986be95) |
 | Lean TECHniques | Software Intern - Hybrid ~ | Software | B.Tech/BS | Hybrid | Nov 17, 2026 | [Apply](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862) |
@@ -56,7 +57,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (35 of 38)._
+_~ = the title doesn't state a year; bucketed here from its posting date (36 of 39)._
 
 ## What this is
 
@@ -196,7 +197,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,879 companies across 24 ATS platforms · 95% fetch success · completed in 210.8s · median detection latency 715 min · real posted dates on 78% of open roles._
+_Engine (last run): 5,879 companies across 24 ATS platforms · 94% fetch success · completed in 192.7s · median detection latency 715 min · real posted dates on 79% of open roles._
 
 ## Platforms Scraped
 

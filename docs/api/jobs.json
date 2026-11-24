@@ -1,8 +1,23 @@
 {
- "generated_at": "2026-11-23T22:27:15Z",
+ "generated_at": "2026-11-24T06:43:52Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 38,
+ "count": 39,
  "jobs": [
+  {
+   "id": "workday:fhlbi:/job/Indianapolis/Data-Platform-Engineer-Intern_R646",
+   "company": "Federal Home Loan Bank of Indianapolis",
+   "title": "Data Platform Engineer Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Indianapolis",
+   "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Data-Platform-Engineer-Intern_R646",
+   "posted_at": "2026-11-24T00:00:00Z",
+   "first_seen_at": "2026-11-24T06:43:52Z",
+   "salary": null,
+   "skills": null,
+   "source": "workday"
+  },
   {
    "id": "oracle:hdid.fa.us2.oraclecloud.com:5115",
    "company": "Jefferies",

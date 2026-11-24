@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:27:15Z",
+ "generated_at": "2026-11-24T06:43:52Z",
  "cycle": "2026 Graduates",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "companies": [
@@ -12,7 +12,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-11-11",
-   "days_until": -12,
+   "days_until": -13,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec",
    "note": ""
@@ -614,7 +614,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-07-31",
-   "days_until": -115,
+   "days_until": -116,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -628,7 +628,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-10",
-   "days_until": -105,
+   "days_until": -106,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -642,7 +642,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-08-27",
-   "days_until": -88,
+   "days_until": -89,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -656,7 +656,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-09-23",
-   "days_until": -61,
+   "days_until": -62,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -670,7 +670,7 @@
    "confidence": "verified",
    "source": "engine",
    "expected": "2026-10-05",
-   "days_until": -49,
+   "days_until": -50,
    "status": "dropped",
    "url": "",
    "note": ""
