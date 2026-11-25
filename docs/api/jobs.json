@@ -1,8 +1,44 @@
 {
- "generated_at": "2026-11-25T03:04:46Z",
+ "generated_at": "2026-11-25T12:03:21Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 36,
+ "count": 38,
  "jobs": [
+  {
+   "id": "lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2",
+   "company": "Aera Technology",
+   "title": "Associate Developer Support Engineer",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Pune, India",
+   "url": "https://jobs.lever.co/aeratechnology/df1fa5a4-db11-4bd1-95a7-79c08b3109d2",
+   "posted_at": "2026-11-25T04:55:18Z",
+   "first_seen_at": "2026-11-25T12:03:21Z",
+   "salary": null,
+   "skills": [
+    "SQL"
+   ],
+   "source": "lever"
+  },
+  {
+   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161639",
+   "company": "Honeywell",
+   "title": "Intern Bachelors Software Eng",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161639",
+   "posted_at": "2026-11-25",
+   "first_seen_at": "2026-11-25T12:03:21Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++"
+   ],
+   "source": "oracle"
+  },
   {
    "id": "workday:fhlbi:/job/Indianapolis/Data-Platform-Engineer-Intern_R646",
    "company": "Federal Home Loan Bank of Indianapolis",

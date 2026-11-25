@@ -5,7 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-25T03:04:46Z</updated>
+  <updated>2026-11-25T12:03:21Z</updated>
+  <entry>
+    <id>urn:intern-engine:lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2</id>
+    <title>Aera Technology: Associate Developer Support Engineer</title>
+    <link href="https://jobs.lever.co/aeratechnology/df1fa5a4-db11-4bd1-95a7-79c08b3109d2"/>
+    <updated>2026-11-25T12:03:21Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Pune, India · SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161639</id>
+    <title>Honeywell: Intern Bachelors Software Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161639"/>
+    <updated>2026-11-25T12:03:21Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bengaluru, Karnataka, India · Python, Java, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:fhlbi:/job/Indianapolis/Data-Platform-Engineer-Intern_R646</id>
     <title>Federal Home Loan Bank of Indianapolis: Data Platform Engineer Intern</title>
