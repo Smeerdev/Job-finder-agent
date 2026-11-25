@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T12:03:21Z",
+ "generated_at": "2026-11-25T21:31:36Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 38,
+ "count": 37,
  "jobs": [
   {
    "id": "lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2",
@@ -359,25 +359,6 @@
     "React"
    ],
    "source": "ashby"
-  },
-  {
-   "id": "greenhouse:stripe:8130876",
-   "company": "Stripe",
-   "title": "Software Engineer, New Grad",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bangalore",
-   "url": "https://stripe.com/jobs/search?gh_jid=8130876",
-   "posted_at": "2026-10-28T05:19:59-04:00",
-   "first_seen_at": "2026-10-28T13:50:49Z",
-   "salary": null,
-   "skills": [
-    "Java",
-    "JavaScript",
-    "Scala"
-   ],
-   "source": "greenhouse"
   },
   {
    "id": "smartrecruiters:Eurofins:744000157955969",
