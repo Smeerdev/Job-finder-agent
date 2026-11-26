@@ -1,8 +1,68 @@
 {
- "generated_at": "2026-11-26T03:56:20Z",
+ "generated_at": "2026-11-26T13:30:23Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 37,
+ "count": 39,
  "jobs": [
+  {
+   "id": "greenhouse:commerceiq:8215092003",
+   "company": "CommerceIQ",
+   "title": "Data Scientist - Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://job-boards.greenhouse.io/commerceiq/jobs/8215092003",
+   "posted_at": "2026-11-26T00:46:48-05:00",
+   "first_seen_at": "2026-11-26T13:30:23Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Hadoop"
+   ],
+   "source": "greenhouse"
+  },
+  {
+   "id": "oracle:jpmc.fa.oraclecloud.com:210811097",
+   "company": "JPMorganChase",
+   "title": "Applied AI AM Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210811097",
+   "posted_at": "2026-11-26",
+   "first_seen_at": "2026-11-26T13:30:23Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "scikit-learn",
+    "Pandas",
+    "LLMs"
+   ],
+   "source": "oracle"
+  },
+  {
+   "id": "greenhouse:rubrik:8413157",
+   "company": "Rubrik",
+   "title": "Software Engineer (UI) - Winter Intern",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bangalore",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157",
+   "posted_at": "2026-11-26T03:53:02-05:00",
+   "first_seen_at": "2026-11-26T13:30:23Z",
+   "salary": null,
+   "skills": [
+    "TypeScript",
+    "JavaScript",
+    "LLMs",
+    "React",
+    "GraphQL"
+   ],
+   "source": "greenhouse"
+  },
   {
    "id": "lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2",
    "company": "Aera Technology",
@@ -19,25 +79,6 @@
     "SQL"
    ],
    "source": "lever"
-  },
-  {
-   "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161639",
-   "company": "Honeywell",
-   "title": "Intern Bachelors Software Eng",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161639",
-   "posted_at": "2026-11-25",
-   "first_seen_at": "2026-11-25T12:03:21Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle"
   },
   {
    "id": "workday:fhlbi:/job/Indianapolis/Data-Platform-Engineer-Intern_R646",

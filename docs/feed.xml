@@ -5,7 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-26T03:56:20Z</updated>
+  <updated>2026-11-26T13:30:23Z</updated>
+  <entry>
+    <id>urn:intern-engine:greenhouse:commerceiq:8215092003</id>
+    <title>CommerceIQ: Data Scientist - Intern</title>
+    <link href="https://job-boards.greenhouse.io/commerceiq/jobs/8215092003"/>
+    <updated>2026-11-26T13:30:23Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India · Python, SQL, Hadoop</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210811097</id>
+    <title>JPMorganChase: Applied AI AM Associate</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210811097"/>
+    <updated>2026-11-26T13:30:23Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India · Python, scikit-learn, Pandas, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rubrik:8413157</id>
+    <title>Rubrik: Software Engineer (UI) - Winter Intern</title>
+    <link href="https://www.rubrik.com/company/careers/departments/job.8413157?gh_jid=8413157"/>
+    <updated>2026-11-26T13:30:23Z</updated>
+    <category term="2026 Graduates"/>
+    <summary>2026 Graduates · Software · Bangalore · TypeScript, JavaScript, LLMs, React, GraphQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2</id>
     <title>Aera Technology: Associate Developer Support Engineer</title>
@@ -13,14 +37,6 @@
     <updated>2026-11-25T12:03:21Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Pune, India · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161639</id>
-    <title>Honeywell: Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161639"/>
-    <updated>2026-11-25T12:03:21Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Software · Bengaluru, Karnataka, India · Python, Java, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:fhlbi:/job/Indianapolis/Data-Platform-Engineer-Intern_R646</id>
