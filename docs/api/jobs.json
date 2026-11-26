@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T13:30:23Z",
+ "generated_at": "2026-11-26T22:54:06Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
  "count": 39,
  "jobs": [
@@ -23,26 +23,6 @@
    "source": "greenhouse"
   },
   {
-   "id": "oracle:jpmc.fa.oraclecloud.com:210811097",
-   "company": "JPMorganChase",
-   "title": "Applied AI AM Associate",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Bengaluru, Karnataka, India",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210811097",
-   "posted_at": "2026-11-26",
-   "first_seen_at": "2026-11-26T13:30:23Z",
-   "salary": null,
-   "skills": [
-    "Python",
-    "scikit-learn",
-    "Pandas",
-    "LLMs"
-   ],
-   "source": "oracle"
-  },
-  {
    "id": "greenhouse:rubrik:8413157",
    "company": "Rubrik",
    "title": "Software Engineer (UI) - Winter Intern",
@@ -62,6 +42,26 @@
     "GraphQL"
    ],
    "source": "greenhouse"
+  },
+  {
+   "id": "oracle:jpmc.fa.oraclecloud.com:210811097",
+   "company": "JPMorganChase",
+   "title": "Applied AI AM Associate",
+   "season": "2026 Graduates",
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bengaluru, Karnataka, India",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210811097",
+   "posted_at": "2026-11-26",
+   "first_seen_at": "2026-11-26T13:30:23Z",
+   "salary": null,
+   "skills": [
+    "Python",
+    "scikit-learn",
+    "Pandas",
+    "LLMs"
+   ],
+   "source": "oracle"
   },
   {
    "id": "lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2",
