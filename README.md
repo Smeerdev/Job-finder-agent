@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech roles and internships for 2026 graduates so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**39 open roles · 5 new this week · 5,914 companies tracked · updated Nov 26, 2026 at 22:54 UTC**
+**37 open roles · 5 new this week · 5,914 companies tracked · updated Nov 27, 2026 at 04:44 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -13,7 +13,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 **🔔 New roles in your inbox:** [subscribe by email](https://smeerdev.github.io/Job-finder-agent/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2FSmeerdev%2FJob-finder-agent%2Fmain%2Fdocs%2Ffeed.xml).)
 ---
 
-## 2026 Graduates (International)  (39 open)
+## 2026 Graduates (International)  (37 open)
 
 | Company | Role | Category | Pay & Specs | Location | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -38,8 +38,6 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | BlackRock | Product Specialist / Platform Engineer, Atlassian Confluence Cloud, Tech & Ops, Associate ~ | Software | B.Tech/BS | Bengaluru, India | Nov 04, 2026 | [Apply](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Bengaluru-India/Product-Specialist---Platform-Engineer--Atlassian-Confluence-Cloud--Tech---Ops--Associate_R267068-1) |
 | GE Aerospace | Artificial Intelligence Intern ~ | Data & ML/AI | B.Tech/BS | Remote | Nov 03, 2026 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | Certa | Frontend Engineer - Internship ~ | Software | 0-1 Yr | India | Oct 28, 2026 | [Apply](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e) |
-| Eurofins | Associate Research Scientist - Large Molecule Bioanalysis ~ | Data & ML/AI | — | Bengaluru, KA, India | Oct 27, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000157955969) |
-| EQT Corporation | AI Intern ~ | Data & ML/AI | B.Tech/BS | Remote | Oct 27, 2026 | [Apply](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) |
 | The Hartford | IND Associate Software Engineer -  Red Team Engineer ~ | Software | B.Tech/BS | India GCC-Puppalaguda Village | Oct 23, 2026 | [Apply](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341) |
 | Ancestry | Data Science - AI Document Understanding, Co-op ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 16, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) |
 | Ancestry | AI Discovery Co-Op - Agentic Personalization ~ | Data & ML/AI | B.Tech/BS | Remote | Sep 03, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) |
@@ -57,7 +55,7 @@ A self-updating engine that tracks tech roles and internships for 2026 graduates
 | PagarBook | Full Stack Development Intern ~ | Software | — | Bangalore | — | [Apply](https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/) |
 | Oneture Technologies | AI / ML Intern ~ | Data & ML/AI | — | Mumbai | — | [Apply](https://www.instahyre.com/job-390123-ai-ml-intern-at-oneture-technologies-mumbai/) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (36 of 39)._
+_~ = the title doesn't state a year; bucketed here from its posting date (34 of 37)._
 
 ## What this is
 
@@ -135,10 +133,12 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#radar). **6** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 34 roles taken down in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 33 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| EQT Corporation | AI Intern | 2026 Graduates | 2026-11-27 |
+| Eurofins | Associate Research Scientist - Large Molecule Bioanalysis | 2026 Graduates | 2026-11-27 |
 | Honeywell | Intern Bachelors Software Eng | 2026 Graduates | 2026-11-26 |
 | Stripe | Software Engineer, New Grad | 2026 Graduates | 2026-11-25 |
 | Alcon | Associate II, Software Engineering | 2026 Graduates | 2026-11-24 |
@@ -170,9 +170,6 @@ _48 companies on the [full radar](https://smeerdev.github.io/Job-finder-agent/#r
 | The Boeing Company | Associate Software Engineer - Analytics | 2026 Graduates | 2026-11-13 |
 | Marvell | Intern, Software Engineer - Bachelor's Degree | 2026 Graduates | 2026-11-13 |
 | Marvell | Intern, Software Engineer | 2026 Graduates | 2026-11-13 |
-| DTCC | Platform Engineering Associate - Redis Administration | 2026 Graduates | 2026-11-12 |
-| GE Aerospace | Data Science Intern | 2026 Graduates | 2026-11-12 |
-| GE Healthcare | Software Intern | 2026 Graduates | 2026-11-12 |
 
 </details>
 
@@ -191,7 +188,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,914 companies across 24 ATS platforms · 91% fetch success · completed in 514.2s · median detection latency 712 min · real posted dates on 79% of open roles._
+_Engine (last run): 5,914 companies across 24 ATS platforms · 96% fetch success · completed in 86.4s · median detection latency 709 min · real posted dates on 78% of open roles._
 
 ## Platforms Scraped
 
