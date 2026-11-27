@@ -5,14 +5,14 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://smeerdev.github.io/Job-finder-agent/feed.xml" rel="self"/>
   <link href="https://github.com/Smeerdev/Job-finder-agent"/>
-  <updated>2026-11-27T04:44:27Z</updated>
+  <updated>2026-11-27T14:39:06Z</updated>
   <entry>
-    <id>urn:intern-engine:greenhouse:commerceiq:8215092003</id>
-    <title>CommerceIQ: Data Scientist - Intern</title>
-    <link href="https://job-boards.greenhouse.io/commerceiq/jobs/8215092003"/>
-    <updated>2026-11-26T13:30:23Z</updated>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:161642</id>
+    <title>Honeywell: Intern Bachelors Embedded Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161642"/>
+    <updated>2026-11-27T14:39:06Z</updated>
     <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India · Python, SQL, Hadoop</summary>
+    <summary>2026 Graduates · Software · Bengaluru, Karnataka, India · C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rubrik:8413157</id>
@@ -21,14 +21,6 @@
     <updated>2026-11-26T13:30:23Z</updated>
     <category term="2026 Graduates"/>
     <summary>2026 Graduates · Software · Bangalore · TypeScript, JavaScript, LLMs, React, GraphQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210811097</id>
-    <title>JPMorganChase: Applied AI AM Associate</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210811097"/>
-    <updated>2026-11-26T13:30:23Z</updated>
-    <category term="2026 Graduates"/>
-    <summary>2026 Graduates · Data &amp; ML/AI · Bengaluru, Karnataka, India · Python, scikit-learn, Pandas, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:aeratechnology:df1fa5a4-db11-4bd1-95a7-79c08b3109d2</id>
