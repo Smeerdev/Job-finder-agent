@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T23:16:10Z",
+ "generated_at": "2026-11-28T05:58:20Z",
  "source": "https://github.com/Smeerdev/Job-finder-agent",
- "count": 36,
+ "count": 35,
  "jobs": [
   {
    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:161642",
@@ -359,25 +359,6 @@
     "Azure"
    ],
    "source": "workday"
-  },
-  {
-   "id": "ashby:certa:9f7caf0b-46ff-49ab-ae78-62deadec106e",
-   "company": "Certa",
-   "title": "Frontend Engineer - Internship",
-   "season": "2026 Graduates",
-   "season_inferred": true,
-   "category": "Software",
-   "location": "India",
-   "url": "https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e",
-   "posted_at": "2026-10-28T06:03:09.175+00:00",
-   "first_seen_at": "2026-10-28T19:21:45Z",
-   "salary": null,
-   "skills": [
-    "TypeScript",
-    "JavaScript",
-    "React"
-   ],
-   "source": "ashby"
   },
   {
    "id": "workday:thehartford:/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341",
